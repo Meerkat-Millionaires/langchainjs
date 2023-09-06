@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1488290847406,
+      "content": "Oh, so many thanks for your good wishes. It was a truly LOVERLY day.  Take care of yourself."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1488249458031,
+      "content": "happy birthday Leslie hope it was a great day for you"
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "inbox/facebookuser_10155693959319918",
+  "magic_words": [
+    
+  ]
+}

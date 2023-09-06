@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Ruth Lagundzija"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1626364473472,
+      "content": "Ruth, I am so sorry about Ben's passing.....I know that you loved him completely, entirely and that this must be an awful shock.....may you pass through this time with as much peace as possible. Thinking of you.  Lesley"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489258311142,
+      "content": "Hello there, Ruth. I did get your phone message, but it was pretty broken up. Took a couple of days to decipher it. LOL. In brief: rotten year with health issues, activities curtailed, sense of humor intact, living in NG.....tell me if you receive this."
+    },
+    {
+      "sender_name": "Ruth Lagundzija",
+      "timestamp_ms": 1358439142281,
+      "content": "Hi Leslie,  thanks.  Jillian has been looking so forward to the lessons. Hopefully it will be advantageous for her allover speech, and perhaps help\nher to enjoy singing.  I will pay for more than the 4 lessons, as I am\nsure more will be needed and I know she will enjoy them very much.  Hope\nyour cold is under control.  Was speaking to Jillian this am and I can\nstill hear her sniffle, but she is feeling much better.  Bye for now, Ruth"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1358436905714,
+      "content": "so sorry Jillian was sick this week...we are going to have a fun/constructive time in her four lessons....should be of benefit all round. I will give her a credit for the lesson missed due to the cold (which I fought this week as well). Keep healthy yourself."
+    }
+  ],
+  "title": "Ruth Lagundzija",
+  "is_still_participant": true,
+  "thread_path": "inbox/ruthlagundzija_10205845093501228",
+  "magic_words": [
+    
+  ]
+}

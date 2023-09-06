@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Chris Johnson"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chris Johnson",
+      "timestamp_ms": 1504116832505,
+      "content": "this should tell you a story!"
+    },
+    {
+      "sender_name": "Chris Johnson",
+      "timestamp_ms": 1504116812665,
+      "content": "https://youtu.be/gUAdQA-3b0M"
+    }
+  ],
+  "title": "Chris Johnson",
+  "is_still_participant": true,
+  "thread_path": "message_requests/chrisjohnson_10159344654880249",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Marilyn Anderson"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614107324176,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0qXdtbtHQieVcpu2bCAeMCZ69oCJbBEmpXxB5N9eGBdr4VdB1Wa5PPzCx5CftU9Xhl&id=393663227901061"
+      }
+    }
+  ],
+  "title": "Marilyn Anderson",
+  "is_still_participant": true,
+  "thread_path": "inbox/marilynanderson_10162495585170317",
+  "magic_words": [
+    
+  ]
+}

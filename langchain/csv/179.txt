@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Natalie Mitchell"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624808217751,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1488235664054,
+      "content": "Oh, I wish I could be there....you live in my heart always......am having a superb day. Keep well, keep safe and keep doing what you love best."
+    },
+    {
+      "sender_name": "Natalie Mitchell",
+      "timestamp_ms": 1488235163660,
+      "content": "Hope you are having a wonderful day, miss you! Thank you for helping me find my love for music, I am preparing my first solo recital. I will let you know how it goes!"
+    },
+    {
+      "sender_name": "Natalie Mitchell",
+      "timestamp_ms": 1488234368894,
+      "content": "Happy Birthday!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1461172373160,
+      "content": "Good !!!"
+    },
+    {
+      "sender_name": "Natalie Mitchell",
+      "timestamp_ms": 1461164666528,
+      "content": "Thank you Lesley! I hope all is well with you and I'll keep you updated with how this summer goes \u00f0\u009f\u0098\u008a !"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1461155733517,
+      "sticker": {
+        "uri": "messages/stickers_used/851553_575285995890778_225688196_n_575284785890899.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1461154890675,
+      "content": "Your mom has filled me in on a lot of your past, present and upcoming activities...WHAT A WOMAN YOU ARE !!!  All my best re exams, travels, being a nanny, singing opera in Italy (drool...Tuscany ?)....You rock."
+    },
+    {
+      "sender_name": "Natalie Mitchell",
+      "timestamp_ms": 1450630327303,
+      "content": "Hello Lesley! Thank you very much,Merry Christmas and happy new year \u00f0\u009f\u0098\u008a !!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1450617944571,
+      "sticker": {
+        "uri": "messages/stickers_used/64423177_1420705174739215_2731305695075893248_n_324210694388674.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1450617906297,
+      "content": "Natalie, thinking of you today....Have a great concert and the best of Christmases !!!!!!"
+    }
+  ],
+  "title": "Natalie Mitchell",
+  "is_still_participant": true,
+  "thread_path": "inbox/nataliemitchell_10153306696917157",
+  "magic_words": [
+    
+  ]
+}

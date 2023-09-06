@@ -1,0 +1,245 @@
+{
+  "participants": [
+    {
+      "name": "Dolores Mac Gillivary"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624808095946,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1607013489258,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1607013487874,
+      "content": "The same to you dear friend. Merry Christmas to you and the family"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607007349752,
+      "content": "Hope that I'm the First Person to put a CHRISTmas Tree on Your phone. \n\nIf luck is a raindrop, i'd send You a shower.\n\nIf hope is a minute, i'd send You an hour.\n\nIf happiness is a leaf, i'd give You a tree.\n\nAnd if YOU need a FRIEND, You will ALWAYS have ME.\n\nSend this to all the people You care about.\n\nEven me.\n\nIf You get 3 back, You're a True Friend!",
+      "videos": [
+        {
+          "uri": "messages/inbox/doloresmacgillivary_10153859828601754/videos/12349769_1530333383958687_595733009_n_1162351080886539",
+          "creation_timestamp": 1607007349
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1544974986029,
+      "videos": [
+        {
+          "uri": "messages/inbox/doloresmacgillivary_10153859828601754/videos/12412543_577708572383870_1018189197_n_338935766957766",
+          "creation_timestamp": 1544974985
+        }
+      ]
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1409163963149,
+      "content": "love   ha!"
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1409163948129,
+      "content": "our kids ... but!!Ha!"
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1409163934528,
+      "content": "PUT THE RADIO AT END OF DRIVEWAY ...15 MIN.( wAYNE WATCHED) COUPLE STOPPED AND ....RADIO IS GONE!!!aSON;S WANT WHEN YOUNGER!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408734705944,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362164215247_428974420_n_126362160881914.png"
+      },
+      "ip": "24.222.102.84"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408734697969,
+      "content": "You too!!!!!"
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1408730786596,
+      "content": "not a problem.Hi to Jare .. Keep well!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408707911582,
+      "content": "Dolores, after all this,  I am going to have to say \"no\" to the radio....rotten weather today for transporting stuff, I have to get Jare to a Mental Health appt and, to be honest, I really don't have the room for it no matter how I try mentally to rearrange my furniture (again). Thanks anyway and sorry for the efforts involved already."
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1408631149783,
+      "content": "you are always young at heart.. me too!"
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1408631107016,
+      "content": "my dad was like that too... he loved old furniture ,cameras...and the like"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408631049571,
+      "content": "I'll look after Ms Reggie tomorrow while Tiana goes to get radio.....bigger than I thought, but still want it. LOL.....love old stuff (probably why I'm particularly fond of myself!! Hee, Hee)."
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1408629938676,
+      "content": "Tiana here... baby is soo beautiful and full of smiles!!  no room for radio with baby seat.. coming tomorrow.. took mirror  ..all is good!"
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1408628364706,
+      "content": "haaaaa!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408628305874,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362190881911_254357215_n_126362187548578.png"
+      },
+      "ip": "24.222.102.84"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408628299964,
+      "content": "Yes, I can use the mirror if we can fit it in the car!!!  Thanks."
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1408627963152,
+      "content": "having some perma seal done on cracks in outside garage ..wayne and a worker moved it outside and will load it for Tina.. can you use a stand up full length mirror? free .."
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1408626993796,
+      "content": "good .. will do!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408626978531,
+      "content": "She has already left!!  Play it by ear."
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1408626941051,
+      "content": "it is heavy!!!and big!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408570092350,
+      "content": "Tiana will be going through Pictou tomorrow around 11:00..she will stop at your place. Thanks so much!!"
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1408558825801,
+      "content": "Good.Thur. or Fri. is good!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408557164816,
+      "content": "Dolores,, good and thanks. I will check and see when Tiana or I can go to Pictou to pick it up...will message ASAP....Hope you get better SOON!!"
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1408473258397,
+      "content": "In bed most of the day..."
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1408473214177,
+      "content": "Leslie if you still want the radio ... it is yours.Spoke to my cousin and it is nor working for him.That's ok .Thurs. is a good time to pick it up.Wayne and I have beeb 'under the weather ' for several days.He is better today .I CAUGHT A VIRUS FROM HIM ... FEELING SOMEWHAT BETTER ...Need to be at Shiretown Senior home tomorrow.Hope all goes well."
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1408023792195,
+      "content": "Ha, do what I can."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1407935813473,
+      "content": "OK....being selfish about this, will wait for an update....thanks!!!!!!"
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1407858902531,
+      "content": "The person who wantsthe radio is having difficulty getting someone to come and get it...may be yours soon if he cannot get someone..he livesinOnt. His dad is in Cape Breton..soo funny! Keep you informed!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1407853331749,
+      "content": "It's beautiful...wish I had the moolah..hope it finds a good home!!!!!"
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1407621644911,
+      "content": "800.00  sorry Ha!"
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1407621606853,
+      "content": "800.00   sorry  however, we can negotiate ..."
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1407597301261,
+      "content": "Lesley we are asking 8000 , as it was over $2000..00 new. Beautiful dresser.Last forever.. too heavy to take  feel I should leave it here...sad!!!"
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1407592689868,
+      "content": "WIL DO!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1407592668976,
+      "content": "If it becomes available, I'd love to have it...let me know either way, and thanks!!!!"
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1407592514025,
+      "content": "sOMEONE HAS SPOKEN FOR IT BUT DID NOT RETURN A MESSAGE YET... IT IS FREE...i BELIEVE IT WORKS .i WILL TRY TO CONTACT HIM.."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1370267614896,
+      "content": "Thanks for the reply....don't know quite what's up this week with lots of my students rescheduling and jockeying for position!!!!\nAlso not sure about transport this week......will get back to you.\nMuch appreciate the invite for lunch, but can't count on it.\nHave a terrific week!!"
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1370211201236,
+      "content": "Need to be in Halifax   tomorrow but home Tues. and Wed. am, home  all day Thurs. and Friday..Why not come to lunch Friday at , 12:30? take your friend."
+    },
+    {
+      "sender_name": "Dolores Mac Gillivary",
+      "timestamp_ms": 1370015162934,
+      "content": "I have some perennials she may have... bring a spade and a container..home Now till 2:15... and tomorrow 1;: I do believe ..hA! or she can arrange a time..keep well!"
+    }
+  ],
+  "title": "Dolores Mac Gillivary",
+  "is_still_participant": true,
+  "thread_path": "inbox/doloresmacgillivary_10153859828601754",
+  "magic_words": [
+    
+  ]
+}

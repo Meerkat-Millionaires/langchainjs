@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Ashley George"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1361627044318,
+      "content": "Thanks, Ashley!!"
+    },
+    {
+      "sender_name": "Ashley George",
+      "timestamp_ms": 1361554692658,
+      "content": "695 5062 she'll be home after 530"
+    },
+    {
+      "sender_name": "Ashley George",
+      "timestamp_ms": 1361554114107,
+      "content": "Il try and find her"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1361551736294,
+      "content": "Ashley...hope you can help. Tried to respond to an inquiry re lessons from Melanie Long (from yesterday), but wouldn't go through (invalid address)...would you have her email? Hope all is well with you.  "
+    }
+  ],
+  "title": "Ashley George",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashleygeorge_10154471170181260",
+  "magic_words": [
+    
+  ]
+}

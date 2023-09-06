@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1561413558381,
+      "content": "Hello how have you been?"
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "message_requests/facebookuser_1231634480343509",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

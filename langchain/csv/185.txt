@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Mikayla Dawn MacLean"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586804153037,
+      "content": "you got it!!!  hang ,in there!!!!"
+    },
+    {
+      "sender_name": "Mikayla Dawn MacLean",
+      "timestamp_ms": 1586804037146,
+      "content": "You can now message and call each other and see info like Active Status and when you've read messages."
+    },
+    {
+      "sender_name": "Mikayla Dawn MacLean",
+      "timestamp_ms": 1586804036844,
+      "content": "Thank you Mama! We are doing as well as possible! We hope you and the kiddos are all taking care as well! Big love\u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586803975737,
+      "content": "Hope are well during this strange medical problem in the world....love ya"
+    }
+  ],
+  "title": "Mikayla Dawn MacLean",
+  "is_still_participant": true,
+  "thread_path": "inbox/mikayladawnmaclean_3408230542538906",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Donna Weaver"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624808318408,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614107828982,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0qXdtbtHQieVcpu2bCAeMCZ69oCJbBEmpXxB5N9eGBdr4VdB1Wa5PPzCx5CftU9Xhl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1589143407777,
+      "videos": [
+        {
+          "uri": "messages/inbox/donnaweaver_460570474116584/videos/18502470_1671629569813148_6831430661526519808_n_530885574247804.mp4",
+          "creation_timestamp": 1589143407
+        }
+      ]
+    },
+    {
+      "sender_name": "Donna Weaver",
+      "timestamp_ms": 1588609266765,
+      "content": "Back at you XOXOXO"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1588608893376,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/tiana.fusco/posts/pfbid0AsZ54MDR8UcaaGhKren67oDVyEUQ8qhBPLud6LxZRjUh5bWPwMTr4iKfTcKqo1Vel"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1587770958952,
+      "gifs": [
+        {
+          "uri": "messages/inbox/donnaweaver_460570474116584/gifs/60896590_458130775013478_8758870589352968192_n_158018922303290.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Donna Weaver",
+      "timestamp_ms": 1587501107840,
+      "content": "Sooo good to hear from you, I said I would call back but got busy with othr 'stuff' trying to be outside as much as possible so |I don't sit in my chair and sleep.  I think everyone's gardens will look great this year that is if we can keep the deer away. They stood right in front of me yesterday and chomped of the corcuses. No fear at all. we might be eating vension before long!LOL. I guess the only plus to the virus, is that we are taking time to connect with friends. I.ve heard from people I haven't heard from in ages. If there is anything Robert or I can do for you. Let us know. Take Care!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1587491662714,
+      "content": "Donna, I did get your telephone message and offer my apologies for not returning it.  I have diamond days and days of stone,,,,breathing is always an issue and I spend 3 hours every morning with the three B's:  Breathing. Body, Brain: I am fine, given the awful developments around us. I have been fighting COPD for years and the last three years have been  incredibly challenging, scary and debilitating.....so, what is happening now, the Isolation needed from the Corona virus, , is not new to me since I have been 85% isolated for the past three years.,,,I am heart-sick for all those who have been struck by this insidious virus, also for those who fight to contain it..  Tiana, Reggie, Jarett and I are fine.....but Tiana and Reg  do not have bodily contact, with me (no hugs),  let alone time spent together....Jare and I are dealing with it as we have always done with any mental or physical challenge, ....we are finding find a way., a way in this instance, to support each other while living together and to support my daughter, her daughter , my oldest son and his family..///////.The latest development re the unbelievable rampage of a very ill man and the deaths left behind have only strengthened my desire to remain \"en enclave\"...I am doing without VON nurses, without CC personnel, no one in, no one out...I have little ability (extremey low immunity) to fight any intrusion on my health...I am like anyone else (including those on oxygen as I am), holding on, loving those who have been near and dear over the past few years, those who have kept an interest in my life and in what I have been doing. ..So, although things have been difficult (understatement) here once in a while, I want to offer my very best hopes to you and yours that the upcoming months will bring you a future  with children and grandchildren all well,and I hope that you are well, not having any recurrent heart worries.  I won't say \"Wash your hands\" because we all do. Say a big , fat Hello to Bob...and, Donna, if I could, I would give you the biggest, cosiest hug ever."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1544974948444,
+      "videos": [
+        {
+          "uri": "messages/inbox/donnaweaver_460570474116584/videos/12412543_577708572383870_1018189197_n_493345441155997",
+          "creation_timestamp": 1544974947
+        }
+      ]
+    },
+    {
+      "sender_name": "Donna Weaver",
+      "timestamp_ms": 1425053271904,
+      "content": "A VERY HAPPY HAPPY BIRTHDAY!!!!!"
+    },
+    {
+      "sender_name": "Donna Weaver",
+      "timestamp_ms": 1383862485859,
+      "content": "Hey Lesley:  Would you be able to to put me in touch with anyone who teaches fiddle and might take on a 4 year old? Thanks, Donna"
+    }
+  ],
+  "title": "Donna Weaver",
+  "is_still_participant": true,
+  "thread_path": "inbox/donnaweaver_460570474116584",
+  "magic_words": [
+    
+  ]
+}

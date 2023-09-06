@@ -1,0 +1,324 @@
+{
+  "participants": [
+    {
+      "name": "Shelley Pos"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1635519499823,
+      "photos": [
+        {
+          "uri": "messages/inbox/shelleypos_884566858290792/photos/248937785_1038188356930465_1200826714319781377_n_559382265357898.jpg",
+          "creation_timestamp": 1635519499
+        }
+      ]
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1634509827366,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1634406103746,
+      "photos": [
+        {
+          "uri": "messages/inbox/shelleypos_884566858290792/photos/245136664_451280332977309_1848132333377551003_n_196130442644872.jpg",
+          "creation_timestamp": 1634406103
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624807733794,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1620140746775,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1620132380306,
+      "content": "Shelley sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/groups/2551910281742126/permalink/2953367938263023/"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1620061297833,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/BeethovenAndBeyond/photos/a.470186579775893/3776589089135609/?type=3"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1615902622674,
+      "content": "Holy Smokes!!!!!  I am speechless (seldom has ever happened!!!!!)..Shelley, thank you so much."
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1615811501001,
+      "content": "Shelley sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/MusicBustedShow/posts/pfbid02nuWLKagHucwCxfrhEXownQHAgdPeHjiZT6jkfFSBj84CJVAzr78HGvrSJnBcW2bsl"
+      }
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1614202740955,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614107253405,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0qXdtbtHQieVcpu2bCAeMCZ69oCJbBEmpXxB5N9eGBdr4VdB1Wa5PPzCx5CftU9Xhl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1611413820097,
+      "content": "https://www.youtube.com/watch?v=DZqu8ojifhU&loop=0",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=DZqu8ojifhU",
+        "share_text": "Joe Biden was finally sworn in as President and there\u00e2\u0080\u0099s a feeling in the air of celebration and joy. So we say goodbye to Donald Trump, not with venom, not w..."
+      }
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1608906169479,
+      "content": "Shelley sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/100064721438904/videos/868372983917442/"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1589056309274,
+      "content": "thanks for the Sharing !!!!!!!"
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1589029403932,
+      "content": "Shelley sent an attachment."
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1589029338208,
+      "content": "Shelley sent an attachment."
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1588792548931,
+      "photos": [
+        {
+          "uri": "messages/inbox/shelleypos_884566858290792/photos/76896578_2662097417163293_1566406909659971584_n_233664754620696.jpg",
+          "creation_timestamp": 1588792548
+        }
+      ]
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1588613545439,
+      "content": "Hi Leslie. How are you doing? Unfortunately, the attachment is unavailable"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1588608865134,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/tiana.fusco/posts/pfbid0AsZ54MDR8UcaaGhKren67oDVyEUQ8qhBPLud6LxZRjUh5bWPwMTr4iKfTcKqo1Vel"
+      }
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1585093735496,
+      "videos": [
+        {
+          "uri": "messages/inbox/shelleypos_884566858290792/videos/90802259_2824637404290255_8442356798024694202_n_211990850144797.mp4",
+          "creation_timestamp": 1585093735
+        }
+      ]
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1581470538653,
+      "photos": [
+        {
+          "uri": "messages/inbox/shelleypos_884566858290792/photos/49734928_364322327689851_7791596378941030400_n_3151419348231074.jpg",
+          "creation_timestamp": 1581470538
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1544974817760,
+      "videos": [
+        {
+          "uri": "messages/inbox/shelleypos_884566858290792/videos/12412543_577708572383870_1018189197_n_2270905252932574",
+          "creation_timestamp": 1544974817
+        }
+      ]
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1509209004557,
+      "content": "Hi Leslie, The only ones that come to mind right now are Monica Punke( she is not doing ghe Choirs this year, but has kept her voice student . likely that is enough . Gerry ha given up the provincial festival presidensy, somthey are wanting to slow down, and they have a new grand child out west to visit.). Lynn Decoste  who teaches Amelia Parker . StephanieHiggs(maiden name- parents Stepehn and Debbie), Ann Holten, Robin Alcorn. Maybe Amanda Mac  Intosh. Jackie Rogue. most would already have thier students for this year.    Issacs mother took  church in Point Claire Quebec. He is taking piano from the church organist, and Charlotte is taking voice form someone. Charlotte has not taken the move well. I really enjoyed Issac. Take care, how is your granddaughter? She must be a pleasure ."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1509024223364,
+      "content": "Hi there: Could you give me a list of vocal teachers in Pictou, New Glasgow, Westville, Stellarton, etc?\nThe VON do light housekeeping for me due to ongoing health issues....one of the women is trying to find a teacher for her daughter, preferably one who is familiar and patient with Attention Deficit.\n\nAny names would be helpful.  Thanks."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1483366052744,
+      "content": "back at ya !!!"
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1483289740402,
+      "photos": [
+        {
+          "uri": "https://interncache-ncg.fbcdn.net/v/t34.18173-12/15841177_10212092334362872_764344232_n.gif?stp=dst-gif&ccb=1-7&_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-ncg&oh=00_AfANxTaI9wNtybQeg5-lbQ_PuhJayxLlvtH-bhmIKFaUcg&oe=64AE33FC",
+          "creation_timestamp": 1483289739
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1435592582260,
+      "content": "Cute!!!",
+      "share": {
+        "link": "https://www.facebook.com/GetGobbler/photos/a.203792999646514/1189537027738768/?type=3"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1430146702047,
+      "content": "hi ya: nope, she's not one of mine. Sorry, I can't help there. And yes, that little marvel turned one last week and is developing, changing so fast...Needless to say, she's amazing!!! Lol. Sincerely hope all is well with you and yours. And must say, finding the retirement very rewarding and stressless. All my best to David."
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1430146530807,
+      "content": "Hi Lesley, \nI am enjoying Issac. I also saw him play in a percussion solo class at the NGMF last week. He did a nice job with his dynamics and placed 2nd. He was nervous. \n\nWe received a voice message from Monica Kemp regarding piano lessons. Would this for a student of yours? If so, before we return her call, can you give us some information ?\n\nThanks. \n\nEnjoy your retirement. \n\nYour granddaughter must be a going concern now!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426526008715,
+      "content": "He will have to purchase new piano books."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426525957483,
+      "content": "thanks"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426525952359,
+      "content": "Lovely kid....should blossom with no siblings in competition. Very talented in drama areas."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426525900089,
+      "content": "Solid/Broken Triads for C, D, F, G,A, E majors (plus more) and A, E, D minors (plus more). One octave HS. working on C Major Formula Pattern, chromatic scales, etc."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426525749636,
+      "content": "Has finished Level 2 of Bastien's Piano and Technic Books and has been introduced to RCM with Level 1 (Robots, Mist, Starry Night) and has used pedal."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426525668172,
+      "content": "OK: Isaac has completed Book 3 of Fletcher Theory Papers and is now on B Wharram's Theory (pg 24) Elementary Rudiments."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426351591801,
+      "content": "Just run your cursor over these little guys who are seeing another snowflake comin'."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426351523332,
+      "sticker": {
+        "uri": "messages/stickers_used/851580_147663458749251_698070344_n_147663455415918.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426351519888,
+      "sticker": {
+        "uri": "messages/stickers_used/851580_147663458749251_698070344_n_147663455415918.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426351406606,
+      "content": "HI ya!!!  Will get back to you ASAP with list of books, levels, technical  skills, theory accomplished...have been having the wicked cold....ready to spit!!! (More, I mean.....that's disgusting). Al bestest to you and yours....please no more snow."
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1426342180143,
+      "content": "So, I have agreed to take Issac  on Mondays. He will come here on the bus from school . His first lesson will be  April 13th, because the 6th  is Easter Monday.    What  sources, books,  theory papers do you recommend for him  at this point?  Thanks Lesley. Miss you. Spring is coming but not sprung!"
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1420835054893,
+      "content": "Thanks.   She has left messages twice. so I must respond soon!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1420819932737,
+      "content": "Isaac Adams (mom is Scholley)..one of triplets that I have had....glad that it's Isaac, not the other two. He's the best of the three in piano....has potential and is a sweetie."
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1420769368469,
+      "content": "Sorry. Lara (?) Scholleys(? ) son issac."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1420759793618,
+      "content": "Who is it?  I have had a mish-mash of students (having geared down from RCM exams and only a few left who do Festival.....) On the other hand, most of my students are pretty up to date re skill levels a la RCM.  Have some good ones . Have tried to keep them up with Theory RCM as well."
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1420746361772,
+      "content": "I received a phone message   looking for a teacher the end of March. Could you give me some information on him. Thanks.  Paula  has given our names to some of her students  alos. One she gave a good review and one has  difficulty staying on task. ,.. same family.  Take care."
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1420746133675,
+      "content": "Happy New Year Lesley."
+    }
+  ],
+  "title": "Shelley Pos",
+  "is_still_participant": true,
+  "thread_path": "inbox/shelleypos_884566858290792",
+  "magic_words": [
+    
+  ]
+}

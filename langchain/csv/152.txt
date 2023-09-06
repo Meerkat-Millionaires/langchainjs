@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Bob Eisner"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1393543301894,
+      "content": "talk soon"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1393543291897,
+      "content": "lesleydunn@live.com"
+    }
+  ],
+  "title": "Bob Eisner",
+  "is_still_participant": true,
+  "thread_path": "inbox/bobeisner_1098031880256067",
+  "magic_words": [
+    
+  ]
+}

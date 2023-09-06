@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Katie MacKay-Wong"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624808991597,
+      "content": "yes"
+    },
+    {
+      "sender_name": "Katie MacKay-Wong",
+      "timestamp_ms": 1624808950380,
+      "content": "It is horrific news and has shaken our nation to the core, or rather should."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624808244390,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    }
+  ],
+  "title": "Katie MacKay-Wong",
+  "is_still_participant": true,
+  "thread_path": "inbox/katiemackaywong_10155324027437211",
+  "magic_words": [
+    
+  ]
+}

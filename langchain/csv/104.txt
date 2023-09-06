@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Andrea Pentz"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624808011215,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1438275380487,
+      "sticker": {
+        "uri": "messages/stickers_used/48665549_1878323115622856_3913272135065272320_n_460938474028001.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1438275375566,
+      "content": "Actually, Andrea could be any or all of them....thanks so much for your interest!!!!"
+    },
+    {
+      "sender_name": "Andrea Pentz",
+      "timestamp_ms": 1438266683597,
+      "content": "Is it the Nova Scotia Liberal Party you want people to message? I couldn't find just Stephen McNeil, but I'll definitely send a message!"
+    }
+  ],
+  "title": "Andrea Pentz",
+  "is_still_participant": true,
+  "thread_path": "inbox/andreapentz_465763430263955",
+  "magic_words": [
+    
+  ]
+}

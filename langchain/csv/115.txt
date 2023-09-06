@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Joan Sheila Fraser"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1393543652695,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362140881916_1086262136_n_126362137548583.png"
+      },
+      "ip": "24.222.136.97"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1393543646334,
+      "content": "Oh My...thank you sooo much!!!"
+    },
+    {
+      "sender_name": "Joan Sheila Fraser",
+      "timestamp_ms": 1393543575802,
+      "content": "Happy happy birthday.  Hope your day is terrific just like you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1368115208494,
+      "content": "Thank you very much for your kind words!! All my best."
+    },
+    {
+      "sender_name": "Joan Sheila Fraser",
+      "timestamp_ms": 1368108504246,
+      "content": "Hi Lesley thanks for your note.  I was away so just got back and retrieved my messages.  Please don't worry about not getting back to me I know how things go and I am sorry if I added any pressure to you.  I would have loved to have had your picture in the directory since you are such a big part of Pictou united church but there will always be another one.  Drew and I often comment that we miss you in the neighbourhood, seeing you outside tending to your gardens, walking around with coffee enjoying your gardens which by the way do not look like they have had Lesley's care.(hope you don't mind me saying that) take care of yourself and hope to see you soon.  Joan"
+    }
+  ],
+  "title": "Joan Sheila Fraser",
+  "is_still_participant": true,
+  "thread_path": "inbox/joansheilafraser_10210965260595043",
+  "magic_words": [
+    
+  ]
+}

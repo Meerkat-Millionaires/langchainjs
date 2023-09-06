@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Jeanette Gormley"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jeanette Gormley",
+      "timestamp_ms": 1369675285379,
+      "content": "If you have any information (pamphlets, business cards, etc.), we will have a table set up for those people that can't be there...let me know and we can make arrangements to get that from you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1369661012742,
+      "content": "Sorry Jeanette: Have a previous commitment that day....Thanks for thinking of me and much Good Luck in this expo!!"
+    },
+    {
+      "sender_name": "Jeanette Gormley",
+      "timestamp_ms": 1369607642319,
+      "content": "Hi Lesley!  You might remember me though Meaghan who took voice lessons from you a couple years ago.  I'm contacting you with regards to a Community Expo that the Pictou Elementary home & school are putting on June 5th from 5-8pm at the school.  The purpose of the expo is to highlight the activities that are available for children in the community to participate in such as sports, dance, music, guides, 4-H, art, etc.  It is free for both exhibitors and visitors.  If you would be interested in having a table at the expo to speak to kids and their parents about your voice and piano lessons, please let me know and I will send you some more info and a short form to fill out.  Thanks Lesley...hope you are well!"
+    }
+  ],
+  "title": "Jeanette Gormley",
+  "is_still_participant": true,
+  "thread_path": "inbox/jeanettegormley_10153461841560280",
+  "magic_words": [
+    
+  ]
+}

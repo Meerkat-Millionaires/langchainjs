@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Donna MacIntyre"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Donna MacIntyre",
+      "timestamp_ms": 1649939393097,
+      "content": "How are you doing today"
+    },
+    {
+      "sender_name": "Donna MacIntyre",
+      "timestamp_ms": 1649939391572,
+      "content": "Hello"
+    }
+  ],
+  "title": "Donna MacIntyre",
+  "is_still_participant": true,
+  "thread_path": "message_requests/donnamacintyre_2071688426338106",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

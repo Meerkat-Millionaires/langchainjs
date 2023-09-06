@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Lee Bezanson"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lee Bezanson",
+      "timestamp_ms": 1640045804345,
+      "content": "If you are not longer interested in the pieces, that's fine.  Let me know if you can.  Merry Chistmas <3"
+    },
+    {
+      "sender_name": "Lee Bezanson",
+      "timestamp_ms": 1640045757905,
+      "content": "HI there :)  Is everything OK?  I was wondering if you got my messages"
+    },
+    {
+      "sender_name": "Lee Bezanson",
+      "timestamp_ms": 1606412228109,
+      "content": "https://www.facebook.com/lbjewellery/photos/a.3593613744006350/3864377736929948/?type=3"
+    },
+    {
+      "sender_name": "Lee Bezanson",
+      "timestamp_ms": 1606412215938,
+      "content": "HI there Leslie :)"
+    }
+  ],
+  "title": "Lee Bezanson",
+  "is_still_participant": true,
+  "thread_path": "message_requests/leebezanson_10159426827641282",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

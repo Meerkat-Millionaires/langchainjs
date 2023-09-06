@@ -1,0 +1,350 @@
+{
+  "participants": [
+    {
+      "name": "Carlee MacNeill"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1448383052222,
+      "content": "I have those moments every once in a while too !....keep well, keep safe  and  keep true to yourself. Love ya,."
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1448314506912,
+      "content": "Hey Lesley! Thank you so much for the information. I ended up getting a co-op position before I had a chance to talk with Tiana, but thanks again for the help! I hope all is well with you and thought I'd let you know that I am really missing you today and could go for a Carlee-Lesley piano hang out right about now!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1445365863561,
+      "content": "Carlee...good to hear from you..Tiana's email is tianafusco@hotmail.com and her phone is 902-754-4632."
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1445275868121,
+      "content": "Hi Lesley! I have registered through Acadia to complete co-op work terms and I am trying to find a work opportunity in psychology. I was wondering where Tianna works, and whether or not her place of work ever takes on co-op students. Is there a site I could look on or possibly speak with her?"
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1419432037665,
+      "content": "Hi Lesley!! I've been so busy since getting home and I wasn't expecting that. I've spent 1 night at my own house so I've been all over the map. Are you free anytime today for a visit??"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1418255889438,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126361970881933_2050936102_n_126361967548600.png"
+      },
+      "ip": "24.137.111.148"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1418255870715,
+      "content": "You go, girl!!!!!"
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1418223241407,
+      "content": "Sure I'll save the number, and I can most certainly bring timmie's! Thanks I've written two and have three to go! Talk soon"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1418219972940,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362047548592_307032461_n_126362044215259.png"
+      },
+      "ip": "24.137.111.148"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1418219966829,
+      "content": "20th would be good....call 755-6759 to confirm, yes? Don't have tea, but have coffee...maybe bring Timmie's? Things are quite good here and will catch you up on stuff when I see you. Good luck during (present or past) exams!!!!!"
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1418064080180,
+      "content": "Everything is good so far Lesley! Thanks for checking in, and I am also an A student just so you don't think I get nothing Done!! It's exam season right now, I have two tomorrow but I'm feeling pretty confident which is good. I miss seeing you so much! How are things on your end? I'll stop by for a visit when I get home! I'm back on the 19th at night so maybe on the 20th I'll stop by and we could have a cup if tea and catch up?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1418053222508,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362047548592_307032461_n_126362044215259.png"
+      },
+      "ip": "24.137.111.148"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1418053216561,
+      "content": "So:  HO, HO, HO!!!!  All my best to you and yours in the upcoming season. Hope all is well (certainly looks like it from the pics on facebook!!!!!) and keep safe and well."
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1408736268472,
+      "content": "Ok will do!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408734670199,
+      "content": "Got some stuff to do, but usually here. Just message beforehand to make sure or call 755-6759 (new answering machine!!!! the old one was eating messages!!)"
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1408727655811,
+      "content": "Will you be around?"
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1408727644310,
+      "content": "Thank you Lesley!! I'll stop by before I leave. I don't work next week"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408721151734,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362164215247_428974420_n_126362160881914.png"
+      },
+      "ip": "24.222.102.84"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408721151504,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362164215247_428974420_n_126362160881914.png"
+      },
+      "ip": "24.222.102.84"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408721151277,
+      "content": "Good luck and best wishes on your second year at Uni."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408721150749,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362164215247_428974420_n_126362160881914.png"
+      },
+      "ip": "24.222.102.84"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399767228345,
+      "content": "good"
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1399767177996,
+      "content": "PERFECT"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399767137882,
+      "content": "11:00 AM Monday!!!!  Will be here."
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1399760526858,
+      "content": "What about at 11am?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399743037264,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362190881911_254357215_n_126362187548578.png"
+      },
+      "ip": "24.222.136.45"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399743032107,
+      "content": "Just let me know."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399743009867,
+      "content": "That's so Tiana will know that I amf occupied and she doesn't plan anything for that time period."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399742959220,
+      "content": "I can make sure that I'm free anytime you want to come,  seeeeee....I try to help out upstairs as much as possible and baby's have no schedule..so I just need you to tell me when (I have no lessons on Monday this month)."
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1399740989373,
+      "content": "What time would work for you? Or do you mean you aren't actually free?"
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1399740976813,
+      "content": "Yes! Monday it is I promise!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399740035183,
+      "content": "Sorry...got stuff to do today. This is weird , huh.  I am available (except for helping upstairs) all day Monday. Dear me."
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1399739955518,
+      "content": "Oh ok! And what about today are you busy because I could come over now! :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399739903211,
+      "content": "Leave a message if there's no answer....I am upstairs quite often or running to the store or teaching or ....so often the phone doesn't get answered. Hope your dad had a good flight and all is well with you and yours."
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1399736317229,
+      "content": "Lesley I am so sorry. Dad's flight was in the afternoon so I had to leave much earlier and I tried calling a few times but there was no answer! Please don't hate me"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399728878581,
+      "content": "yo, babe, what happened to you yesterday?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399512262549,
+      "content": "Dandy!!!!"
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1399511940495,
+      "content": "Yes sounds perfect!! I'm sorry I got distracted a few days ago but I will call you tomorrow to work out a visit because I can't wait to see you all!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399509911434,
+      "content": "Come see our new baby, Reggie Isabella Fusco and my new puppy, Teddy (had to have Misha put to sleep a month and a half ago)...would love to see you and catch up.....755-6759 and leave message...then I can tell you and you can tell me when our times can coincide for a visit....lots of changes for you and me."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399509892945,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126361970881933_2050936102_n_126361967548600.png"
+      },
+      "ip": "24.222.136.45"
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1399072873209,
+      "content": "Thought you'd like that one."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399072849778,
+      "content": "Cutie Cat!!"
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1399072780501,
+      "sticker": {
+        "uri": "messages/stickers_used/47205393_1134373836736873_1875977659750547456_n_144885099019090.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399072731818,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126361877548609_1351776047_n_126361874215276.png"
+      },
+      "ip": "24.222.136.45"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399072726898,
+      "content": "OK."
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1399072581051,
+      "content": "Oh wow you've had an eventful year and congrats to tiana!! I'd love to see you and the baby.. My year was really good and it feels good to be home! I'll call you tmw to figure out what time works for both of us to stop by! Missed you too xoxo"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399064409235,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126361970881933_2050936102_n_126361967548600.png"
+      },
+      "ip": "24.222.136.45"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399064329883,
+      "content": "Hi ya!!!! We have had a new baby girl (Reggie Isabella Fusco--Reggie in honor of my dad 'Reginald' )  born one week ago to my dear daughter Tiana (using the IVF process of becoming pregnant)....I was there during the whole process of onset of contractions, to the hospital, and the entire birth.....AWESOME...no pain meds, a natural birth....my daughter ROCKS..Little one is doing very well...had her and Tiana to Super Store today and also trying to finish off Jare's move from Pictou... ended Musical Festival this last \"week and also had lots of MEN in my house during all this to install 2 Heat Pumps (one for me and one for Tiana)...very busy plus dealing with my ex-husband and his idiocy. I will not be home tomorrow AM but would love to have you come visit...how did the year turn out and what are you doing this summer? Please call 755-6759 re a visit (and a peek at the baby).....or message on face book what you're up to and when you can come. Missed you a whole swack this year."
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1399053041427,
+      "content": "I just wanted to visit, it's been way too long"
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1399053027499,
+      "content": "Hi Lesley! I stopped by a few times at your house but I don't think you were home... Will you be around tomorrow?"
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1389017292812,
+      "content": "I'm not sure if you sent it but I didn't get your e-mail.."
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1388935482338,
+      "content": "Its no problem!"
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1388935477941,
+      "content": "carlee.macneill@live.com"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388931133851,
+      "content": "what's your email?  Just wrote a longish message ..didn't go through. Sorry to have missed you!!!!!!!!!!!"
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1388880718920,
+      "content": "Thanks same to you Lesley! I stopped by to see you twice and both times you weren't home!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388875101470,
+      "content": "Happy New Year!!!!!!!!  Keep safe and well."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1378473391928,
+      "content": "all is well..missing you (NO CARLEE on my schedule!). Hear you like it so far,..may it remain so.  Keep well, keep in touch..email me (lesleydunn@live.com)"
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1378398179236,
+      "content": "Hi!! How are you??"
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1374611995654,
+      "content": "an inspiring little video about music that makes you appreciate what you have and has the ability to make a bad day better"
+    },
+    {
+      "sender_name": "Carlee MacNeill",
+      "timestamp_ms": 1374611934916,
+      "content": "http://www.youtube.com/watch?v=fXynrsrTKbI"
+    }
+  ],
+  "title": "Carlee MacNeill",
+  "is_still_participant": true,
+  "thread_path": "inbox/carleemacneill_10154056766376490",
+  "magic_words": [
+    
+  ]
+}

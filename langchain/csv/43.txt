@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1431783366406,
+      "content": "Thanks Lesley. :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1431777330319,
+      "content": "This is miraculous!!!",
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1416503617348,
+      "content": "Hi Lesley, How are things with you and yours? We are looking forward to the girls coming home for Christmas early in December. I have to go to Fredericton on December 6th to play a dance and won't be back til Sunday afternoon. Shelley and I wondered if you would lead the choir Sunday morning (Dec. 7) on the anthem. Shelley will be playing all the music for the service. We will pay you directly if you can do it."
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "inbox/facebookuser_10152885255286557",
+  "magic_words": [
+    
+  ]
+}

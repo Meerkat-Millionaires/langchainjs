@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Jarett Dunn"
+    },
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jarett Dunn",
+      "timestamp_ms": 1416663091625,
+      "content": ":) jokes"
+    },
+    {
+      "sender_name": "Jarett Dunn",
+      "timestamp_ms": 1416663090387,
+      "content": "but you'll have to pry the ladder from my cold dead fingers!"
+    },
+    {
+      "sender_name": "Jarett Dunn",
+      "timestamp_ms": 1416663078057,
+      "content": "wow that sucks and ok"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1416660876684,
+      "content": "Need the ladder and a spotter upstairs sometime today. Hallway & living room now have no lights"
+    }
+  ],
+  "title": "Jarett and Tiana",
+  "is_still_participant": true,
+  "thread_path": "inbox/jarettandtiana_643200342469187",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

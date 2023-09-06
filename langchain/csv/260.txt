@@ -1,0 +1,909 @@
+{
+  "participants": [
+    {
+      "name": "Lynn Langille"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1636916284481,
+      "content": "Thanks"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1636912923518,
+      "content": "Lynn, so very, very sorry about Georgia.....my deepest sympathies to all."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624808480113,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1544977832596,
+      "content": "Take care Lesley all the best of the season."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1544974814414,
+      "videos": [
+        {
+          "uri": "messages/inbox/lynnlangille_10156016964560160/videos/12412543_577708572383870_1018189197_n_302053987092334",
+          "creation_timestamp": 1544974814
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1543327452170,
+      "content": "You too, my dear person!!!!"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1543253158518,
+      "content": "Thinking of you these days Take care"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1518011175732,
+      "content": "Talk later loved your note about facaebook , it is so true"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1518011142908,
+      "content": "Sounds good....fairly homebound (have to watch spine fractures and COPD)...still finding lots to giggle about....lol"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1518011024618,
+      "content": "Thanks I will try to get up for a visit maybe bring some cookies and coffee."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1518010250337,
+      "content": "I can only suggest that you contact Shelley/David Pos....rather out of my loop on this area.  Glad you are well."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1517923499761,
+      "content": "Hello Lesley, It  has been a while  Things are good with me. I was wondering we will be looking for a organist for our church  and I was wondering would you have any names to share with me? I just love the pictures of Tiana's daughter too too cute. Thanks Lesley we will talk"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1482347987184,
+      "photos": [
+        {
+          "uri": "messages/inbox/lynnlangille_10156016964560160/photos/15666120_376445492709980_1896231679_n_10158073881750160.gif",
+          "creation_timestamp": 1482347986
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482338652694,
+      "photos": [
+        {
+          "uri": "messages/inbox/lynnlangille_10156016964560160/photos/48374604_1944151308996188_6514341742982987776_n_674416329398663.gif",
+          "creation_timestamp": 1482338652
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1433009750125,
+      "content": "So sad but no more suffering she had just a terrible journey. We are sure gong to miss her am at maritime  conference I woolly know more when I get home"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433008641161,
+      "content": "Oh my, oh shit....just heard about Linda. Oh my....so sad."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1430319392420,
+      "content": "you too"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1430319384159,
+      "content": "I will get back to you take care"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1430319328875,
+      "content": "For Sure!!!!!  Let me know when you're available."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1430319180326,
+      "content": "What a beautiful little girl Reggie is she is getting so big. We really must get out or in for coffee"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1426512718607,
+      "content": "Just checked this is awesome made my day take care Georgia had a good night last night I will let you know more later"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1426426595832,
+      "content": "My phone I will check it out on the computer later"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1426426580400,
+      "content": "I am on k"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426426557805,
+      "content": "run the cursor over this little dude."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426426540938,
+      "sticker": {
+        "uri": "messages/stickers_used/851562_147663622082568_1495107959_n_147663618749235.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426426525446,
+      "content": "me too...take care."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1426426458547,
+      "content": "They are on Halifax and she is quite comfortable. Thanks I was so glad I was there when they took her talk late miss our talks"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426425458280,
+      "content": "My thoughts are with you...always and especially today."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1425066881921,
+      "content": "All the best on your special day!! Happy Birthday!!!!!"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1419692508232,
+      "content": "Thanks Happy New Year to you too. things are going along. Just busy busy busy What a gorgeous picture of your grand daughter."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419690718334,
+      "content": "All my best for the New Year!!!!!! Remember, I'm still on The Corner...come visit."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1417744212500,
+      "content": "Thanks we are doing good. I miss my Thursdays to but am glad I am around when needed and never know when that will be."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1417740937229,
+      "content": "thinking of you often and lately, more often....miss you and am sending you all my very best wishes for Georgia, her family, you and your husband, and the rest of your kin....have followed some of what's going on, but am wondering how YOU are...no one else just now, YOU. Hope you are OK: well, safe and doing what you can to support others AND to keep yourself well. In my thoughts."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1413211228062,
+      "content": "whoops...an unintentional double wink. LOL"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1413211208150,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362164215247_428974420_n_126362160881914.png"
+      },
+      "ip": "156.57.14.163"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1413211206565,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362164215247_428974420_n_126362160881914.png"
+      },
+      "ip": "156.57.14.163"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1413211198822,
+      "content": "Missing you....Keep safe and keep well...all my best for this season and, really, all the time!!!"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1413201574716,
+      "content": "Happy Thanksgiving Lesley, all the best today."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1408367250670,
+      "content": "Thanks again Lesley, you are a great friend."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408367226067,
+      "content": "take care...keep safe....keep in contact. .................let me know if you wish to start singing here any time...look forward to seeing you."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1408367210553,
+      "content": "I will try to get up and we will have a talk."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408367164870,
+      "content": "i know that she has had shoulder/neck/throat trouble for a few months, has seen the doctor, but haven't contacted her lately. Saw the video where she sang at the MacMaster reunion (wonderful), haven't taken the time to listen to I Believe....will today and then call/email her.She refused to use a puffer that the doctor recommended...you know her, she isn't too keen on following orders.!!!"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1408367148404,
+      "content": "WE will talk later."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1408367079486,
+      "content": "When I talk to our little Georgia she turned her head and looks right at me."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1408367039192,
+      "content": "Thank you for waiting til January, I will get back to you."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1408366994381,
+      "content": "I know what you are saying but I have to take time and see where we are. I continue to find this facebook so trying and never know what I will see when I turn it on. I am a bit out of touch but I just realized where that little darling got her  name. Did you see Dorte on facebook singing I believe It was lovely. I also noted that Michael said she was not feeling well problems with her throat and lungs. What is the story on that?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408366884330,
+      "content": "Little Ms Reggie is , yes, even if I do say so myself, awesome. Constant care-giving and my life has changed ONCE AGAIN.....how many times do we reinvent ourselves given changed circumstances???Hmmmm?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408366795260,
+      "content": "And if you are sure that you want to wait until the new year, that's fine...although sometimes it helps to have outside interests, .....just saying."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408366738080,
+      "content": "Yes, I can understnd the missing get-up-and-go thing....have lost mine on several occasions...usually due to family demands"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1408366611159,
+      "content": "Good Morning Lesley, As you can see our little angel continues to have her own struggles. I was wondering would it be ok if I waited til January to start voice. I hate to speak of myself but for some reason my up and go got up and left.  How is everything with you. You really must send me some pictures of you little darling."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1401392099677,
+      "content": "Keep me posted."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1401392090048,
+      "content": "AWESOME!!!!!!!!!!!"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1401390019130,
+      "content": "Fraser called when they turned on the left she opened here eyes and when they turned on the right she turned her head and looked at Kristen Isn't that the BEST NEWS of the dlay"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1401387315578,
+      "content": "born"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1401387313050,
+      "content": "This waiting is worse than the day Georgia was boarn"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1401387278006,
+      "content": "I love those quotes from Maya Angelou"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1401387159219,
+      "content": "Thanks"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1401386882117,
+      "content": "I just got the messages and can only say that I am hoping all went as well as possible...no wonder you stayed put waiting to hear. Please let me know the results."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1401386431939,
+      "content": "I should have just come"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1401386419099,
+      "content": "Still waiting"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1401385028401,
+      "content": "Still awaiting I could have come but I wouldn't have been in very focused"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1401383028532,
+      "content": "I will get back to you on this"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1401382564188,
+      "content": "I am waiting here to hear from the kids in Halifax to hear how Georgia did."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399041556774,
+      "content": "This is fantastic news....daily thoughts of positive-power going out to her every day. And make sure you take care of yourself too.l"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1398992793287,
+      "content": "Got back from Halifax about eight thirty she is doing great They will try the implants in about a month. The surgeon did a test on both sides and there were positive results."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398888967461,
+      "content": "WONDERFUL!!!!!!!!!!!!!!"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1398884739321,
+      "content": "Surgery over everything went great. I think I will head down to the city tomorrow. I will talk later. This is the best day yet. I can continue to sing and talk to Georgia and she can hear me.  I am over the moon for the kids and I have to say the grandparents. Talk later"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398858821011,
+      "content": "We have one for me and one for T.  They are so fast (compared to our old rads) and the guys were great installing them, being considerate, etc. So far, so good. The oil will be back-up only in extreme cold next winter. YES!!"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1398858626347,
+      "content": "WE are thinking about those heat pumps they say they are great"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1398858579121,
+      "content": "I will keep you up to date Take care"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398858555751,
+      "content": "You take care and let me know how things go today for Georgia, K?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398858533560,
+      "content": "have to get Jare to Pictou so he can clear out the aprtment this AM. It NEVER ends....yesterday was trip to Pictou Clinic for Reggie/Tiana...and teaching, minding dog, Sobey's trip for Tiana and meeting with the fella who put in our new heat pumps last week....they're terrific."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1398858458809,
+      "content": "How things go not are"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1398858450064,
+      "content": "I will let you know how things are. I will be wishing I was there but I think I will be better here"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1398858414028,
+      "content": "The surgery takes between five and seven hours I am staying put there will be all kinds of people there."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398858366120,
+      "content": "still beautiful...birth weight is back up and all fairly serene upstairs."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1398858300975,
+      "content": "Lessons are tomorrow right and I am waiting to see how the surgery goes. I think I am almost better, this whatever I had is the pits How is that beautiful little girl."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398857893923,
+      "content": "All is well here....I'm keeping my fingers crossed that Georgia does get her implants today....are you going be there for that ?  Are you coming to  lesson today?  Hope that you are all recovered and feeling great."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1398821010065,
+      "content": "How are things? Georgia is supposed to have her coculear (sp) implants tomorrow."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1398343213252,
+      "content": "Get lot s of pictures. I am still quite full so I won't be visiting the little bundle of joy til later. Congrats Nannie or Nana or Grammie or what ever. Can you believe it? How is Tiana? Talk later"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1398343153321,
+      "content": "Congrats Congrats I guess no lessons to today Oh that Lynn tries to be so funny lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398343054278,
+      "content": "BORN!!!!!! All went well...stayed for the whole thing! Amazing.....more later."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1398342932280,
+      "content": "Let me know this is awesome just awesome but you know that !!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398312197138,
+      "content": "!!!! 4 minutes apart....will let you know ASAP"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1398296530883,
+      "content": "Had a great trip to PEI, but I still have that bug and I am not coming near you people with  a baby on the way. Let me know if there is any big news. Our little Georgia had a good check up today. I haven't seen her since two weeks. but it is for the best. Anyway let me know if there is any news. Hopefull this bug will decide to go and BUG somebody else next. week. Belated Easter wished. Gosh I miss  the days I can't be there but you really don't want this bug Take care."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1397738993671,
+      "content": "GET BETTER!!!!!!!! Take care of yourself, treat yourself to perks and remember, deep breathe whenever possible."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1397738991991,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126361970881933_2050936102_n_126361967548600.png"
+      },
+      "ip": "24.222.136.45"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1397738894627,
+      "content": "Thanks I am FULL of cold.I think it is the worry but you didn't just hear me say that. Any time my system gets down I get a cold Anyway I will see you next week I hope you will have BIG NEWS Take care"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1397738509028,
+      "content": "No, shoot, I forgot....thanks for the reminder!!!  No baby yet. Waiting, waiting and housecleaning. Take care....will let you know ASAP re birth."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1397694867852,
+      "content": "I hope you remembered I will be in pei tomorrow No baby yet?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1397079472485,
+      "content": "We are fine.....so sorry for all your families trials...am keeping up to date by facebook...keep safe and well."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1397070996690,
+      "content": "You probably know Georgia is back at IWK and I am either going down tomorrow to the city or Truro if they are home.  Rough week at the langilles. How are things with you and Tiana?"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1395934001037,
+      "content": "Thanks Lesley , the word can be spelled either way. I thought I was losing it.  Hate those senior moments."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1395933531510,
+      "content": "Hello Still not plowed out.( Wow where did I get the other spelling  for that word,  glad I am not a retired teacher.) Hopefully by tonight. Yes I have tickets for tonight. I will fill you in. Take care, It is still blowing like everything here. Thanks Lesley"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1395933342391,
+      "content": "cancelling for today...Lynda not coming as well!!!!  Enjoy the show tonight and let me know how it goes, yes?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1395931669797,
+      "content": "AAARRRGGHHH! re snow. We are plowed out....so will be here if you get here."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1395927418671,
+      "content": "Still waiting to get ploughed out might and might not see you. Take care. I hope this is it for snow"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1395868563977,
+      "content": "bye"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1395868559137,
+      "content": "bye for now"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1395868551877,
+      "content": "nope...quite content to be otherwise occupied."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1395868529382,
+      "content": "Knitting...not...knotting!!"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1395868521433,
+      "content": "OK"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1395868512291,
+      "content": "And that sounds like a song too...\"I'm off to do some knotting\" from the Wizard of Oz\""
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1395868503147,
+      "content": "Do you miss not being in the play?"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1395868483511,
+      "content": "See Ya!!"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1395868478302,
+      "content": "I am off to do some knitting"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1395868471433,
+      "content": "Not sure what tomorrow will bring...sounds like a song, yah?"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1395868467098,
+      "content": "ok"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1395868460524,
+      "content": "I kkinda like \"dod\"!"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1395868415675,
+      "content": "do not dodo"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1395868402893,
+      "content": "How dod lessons look for tomorrrow"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1394113999694,
+      "content": "Thanks"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1394113671090,
+      "content": "Hope to see you next week!!!"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1394112002138,
+      "content": "Hello, you are not going to believe this but I have a funeral in Truro this pm( the husband of a good friend from Berwick) )therefore I guess you will miss my beautiful voice again today.  I really miss our talks and practices . Hope everything is good with you Wow just one more month and a little bundle of joy."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1393539295099,
+      "content": "Hi...I am SO thinking/begging the Powers-that-Be re Georgia that the Birthday has shrunk to \"Oh, well, that's nice\" and I'm sure that many others have had their perspective changed. And I am also thinking of you and your family....hang in there."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1393539168183,
+      "content": "I hope you had a great day. I was over at the hospital today and Georgia had a good day. She is quite sedated but she  didn't have any seizures when I was there. That is a good thing .We will talk later"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1392938649620,
+      "content": "You got it!!"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1392938627743,
+      "content": "Little did I know our little angel was going to be in Halifax today. Thanks for your thoughts Lesley."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1392932350821,
+      "content": "Constantly thinking of you, Georgia and your families.,"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1392909180502,
+      "content": "keep safe and keep well."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1392909113150,
+      "content": "Thanks Lesley, I think I will take another break today. For some reason my energy is zapped. See you next week I will keep you up to date. It has been quite a roller coaster ride this week. I am off to Truro on Saturday. Sorry I will miss seeing you but we will catch up Take care"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1392774960887,
+      "content": "Love you, Lynn....hang in there."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1392774933322,
+      "content": "need anything..want anything that is in my power to give, take care of, just listen to, make late night abusive calls to anyone who can help, but won't... I'm your woman!!"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1392774723665,
+      "content": "Thanks Lesley, some days are just the pits. We are doing ok and I am on the prayer line with you. Thanks for you thoughts. You must have thought about me when everything was on facebook. I know she finds it very difficult as I know I would too. Anyway thanks again Lesley ."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1392774569044,
+      "content": "How is the sweet Babette doing?  I seldom really pray...but I have been, starting yesterday and will continue to do so...don't bother to respond if you'd rather not...you are in my thoughts constantly."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1392329174612,
+      "content": "Sorry I left a few words out of my text. I had to take a friend of mine to a doctor's appointment. See you next week."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1392305678599,
+      "content": "Got it and have a good week."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1392296448657,
+      "content": "See you next week."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1392296436283,
+      "content": "Good Morning, I have to take a friend a the doctor's sppointment  today so I will not be able to make  it afternoon. Take care."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391698404441,
+      "content": "So far, just the street plow and Tiana shoveled out my walk and steps cause she had a client here at 9:00 this AM. She and a neighbour shovelled out her car.  There is parking where she usually parks (by my steps) and hopefully the guy will come to plow the rest soon. So you can make up your own mind re coming....there is room for one car and Linda always leaves by 2:30."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1391696388950,
+      "content": "how are your streets"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390494025099,
+      "content": "Screw  the housework...enjoy the knitting..have a great day!!!"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1390492894992,
+      "content": "Ok had a discussions with myself and it is knitting today and if time permits house work"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390491917393,
+      "content": "I'm going to say \"No\" for lessons cause then you can plan the rest of your day without waiting for me to let you know."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390490548234,
+      "content": "Me?  painting odd bits of furniture and things....later."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390490517821,
+      "content": "mistyping keeps us humble (lol)"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1390490515995,
+      "content": "Talk later I guess it will be  housework ouch and knitting ( that sounds better)\\"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1390490480679,
+      "content": "I will wait and see I don't like this texting either make a mistake and it is gone lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390490471294,
+      "content": "I am going to email Lynda and see how things are with her."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390490454480,
+      "content": "not 'noot'..'not'....can't seem to type this AM...fingers frozen!!!!"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1390490438327,
+      "content": "We have to go out the back door . Too much snow at the front."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390490410420,
+      "content": "noot the card ..the \"car\""
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390490394607,
+      "content": "We are not plowed out as of now...much effort to get the card unstuck and uncovered for Tiana to get to work."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1390488720927,
+      "content": "We are still waiting to be  cleaned out. We have huge blanks of snow if I get out you will see me. If not see you next week.  Good old winter."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1390488656193,
+      "content": "Good Morning,"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389281410310,
+      "content": "Listen, not to worry...stay home, keep warm and treat yourself to some comforting perks!!!  Loved your shrotbread, it's the bestest shortbread in the world. Still trying to make up my mind about doing the part in the musical....15 lines and appearing intermitently throughout the play...lots of  sitingt and doing nothing at practice...not that hard up for socializing!!!! Will let you know. Again, take care of yourself"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1389268647364,
+      "content": " I don't know what happened after I went to bed but I woke up with a strange voice, I can hardly talk. I have an appointment with Randy on Tuesday, maybe he can help me out.I will drink lots and see how I feel even my eyes are watering. I don't know about this flu needle I have had a kind of cold ever since. I got it. Anyway I will text you again later on to let you know how I am You might be getting an early Christmas present. I so wanted to come and catch up but I dont want to pass this on if it is a cold bug. Take care"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1389268424155,
+      "content": "Good Morning Lesley,"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389231568575,
+      "content": "may you rest well and rise to say 'Onward and Upward\"!!!!!"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1389231531711,
+      "content": "Night"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389231522685,
+      "content": "Can't wait...so much to chat about and to sing about, yes?"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1389231454961,
+      "content": "I will let you go  see you tomorrow"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389231434158,
+      "content": "Just trying to get through to Festival with my Registration form as Teacher////// what a mess, but will check out Georgiia's facebook stuff in a moment or two...sounds like fantastic news."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1389231364959,
+      "content": "She had her eye test and there was a response so they are going to get her glasses. The optic nerve has developed a bit and they are  hoping it will develop more. But there was a response that was the great news"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389231313232,
+      "content": "AAAAARRRRGGG...more tomorrow"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1389231298265,
+      "content": "I hear the play has begun"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389231293673,
+      "content": "Not yet...get back to you in a sec or so."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1389231269263,
+      "content": "Did you read about our little Georgia and her glasses"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388069617441,
+      "content": "All the Best, Lynne!!!!!"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1383931736994,
+      "content": "I am off to a funeral this pm and will drop the check off later. Take care"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1383837176622,
+      "content": "Thanks"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1383837172558,
+      "content": "Thanks...have a good day!!"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1383837151770,
+      "content": "I believe I am doing good with the singing and i just dont want to sing if I think it will hurt my voice. Ok If I can I will bring it today or tomorrow ."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1383837117120,
+      "content": "3 (none for today) equals 45, but I owe you one, so it's 30.00"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1383837051047,
+      "content": "No it doesn't hurt but my voice was just not right . How much will I owe you.? "
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1383836998291,
+      "content": "All is well here. Had Jare for four days and am loving my \"space\" to myself today....Hope you are feeling better very soon!!!!  Drop the cheque off if it isn't a problem...it can wait. Does it hurt to talk?"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1383836823919,
+      "content": "Are you going for the try outs for the play? I hear they are on November 17 is that correct."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1383836755643,
+      "content": "How goes your days?"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1383836744300,
+      "content": "Hello did you get my message, I can drop off a check for you but my voice is not good"
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1380752259252,
+      "content": "Hello Lesley, Just to let you know I had dental surgery this week and I am going to have to cancel tomorrow , I am taking advil every six hours so I am a bit light headed I think the play they are doing is Wonderful Days or Wonderful Years. See you next week.  I will have my stiches out."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1372855433479,
+      "content": "so glad!!  keep me posted. thanks. take good care. thinking of you."
+    },
+    {
+      "sender_name": "Lynn Langille",
+      "timestamp_ms": 1372854400199,
+      "content": "Good day yesterday in Halifax. Today will also be a good day."
+    }
+  ],
+  "title": "Lynn Langille",
+  "is_still_participant": true,
+  "thread_path": "inbox/lynnlangille_10156016964560160",
+  "magic_words": [
+    
+  ]
+}

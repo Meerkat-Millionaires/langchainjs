@@ -1,0 +1,222 @@
+{
+  "participants": [
+    {
+      "name": "Brenda MacLeod Parker"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624807715846,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Brenda MacLeod Parker",
+      "timestamp_ms": 1620061635868,
+      "content": "Amelia says cool !!"
+    },
+    {
+      "sender_name": "Brenda MacLeod Parker",
+      "timestamp_ms": 1620061334708,
+      "content": "oh that is cool ! Huge too when you look at that person walking there, lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1620061260366,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/BeethovenAndBeyond/photos/a.470186579775893/3776589089135609/?type=3"
+      }
+    },
+    {
+      "sender_name": "Brenda MacLeod Parker",
+      "timestamp_ms": 1614119472613,
+      "content": "It is not going in a good direction, haha"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614107306136,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0qXdtbtHQieVcpu2bCAeMCZ69oCJbBEmpXxB5N9eGBdr4VdB1Wa5PPzCx5CftU9Xhl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Brenda MacLeod Parker",
+      "timestamp_ms": 1461281879344,
+      "content": "=D"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1461281821993,
+      "sticker": {
+        "uri": "messages/stickers_used/851559_577510682334976_854118530_n_577501519002559.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Brenda MacLeod Parker",
+      "timestamp_ms": 1461281782052,
+      "content": "lol. I just showed the cute blue guy to Susan.  She had a good laugh"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1461281666875,
+      "content": "I have no idea how this litlle, adorable blue guy got on here......my laptop is a thousand years old and leading a life of its own lately."
+    },
+    {
+      "sender_name": "Brenda MacLeod Parker",
+      "timestamp_ms": 1461281645120,
+      "content": "Keep on swimming :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1461281619222,
+      "gifs": [
+        {
+          "uri": "messages/inbox/brendamacleodparker_10153596067206355/gifs/12806930_913260008773135_1169092780_n_566502570190040.gif"
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1461281583959,
+      "content": "Onward and upward !!!!...no rush at all....at some point, I'd love to see you guys and hear all about it. !!!!"
+    },
+    {
+      "sender_name": "Brenda MacLeod Parker",
+      "timestamp_ms": 1461281530012,
+      "content": "Wow, this is so true.  Thank you ! Amelia had a VERY successful 2 days of violin/fiddle.  On to voice now :) We need to get up to visit you once tax season/festival season is over."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1461281018946,
+      "content": "Brenda: I was moved by this and it made me stop ! and remember that this is Festival Week for fiddles, band, violin, etc......Please give my Very Best to Amelia with regard to this week and whatever else she is up to...think of her (and you guys) often...A VERY belated thanks for the Christmas Card. My regards to you and your family.....Keep safe.",
+      "share": {
+        "link": "https://www.facebook.com/Happinessinyourlife/photos/a.124058584341541/419089278171802/?type=3"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1431782150759,
+      "content": "OK   she found you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1431781708607,
+      "content": "Tiana has put my donation for Heart and Stroke in Amelia's collection at the Market."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1431776376044,
+      "content": "If you see Tiana with the baby in stroller down there, she knows to give you the money (save you a trip here)."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1431776244928,
+      "content": "Hi ya....have to bail on going to market....have Amelia's money here at home....come by anytime...if I'm not here, it'll be on the kitchen table. (Cats are allowed on front porch, make sure they don't get out the outside front door. Thanks)"
+    },
+    {
+      "sender_name": "Brenda MacLeod Parker",
+      "timestamp_ms": 1431559678807,
+      "content": "love minions !! lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1431559655346,
+      "sticker": {
+        "uri": "messages/stickers_used/48607585_1186553428160539_3322214640053649408_n_213419212140637.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Brenda MacLeod Parker",
+      "timestamp_ms": 1431559647587,
+      "content": "(y)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1431559638231,
+      "content": "goodie!!!!"
+    },
+    {
+      "sender_name": "Brenda MacLeod Parker",
+      "timestamp_ms": 1431559629417,
+      "content": "we'll drop up anyway :)  thanks!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1431559593498,
+      "content": "I am not sure about the stuff going on this Sat....supposed to be in West Branch late morning....if not, I will be here.....and please pick up the donation anyway, K?"
+    },
+    {
+      "sender_name": "Brenda MacLeod Parker",
+      "timestamp_ms": 1431559464270,
+      "content": "Hi Lesley- thank you ! Amelia is playing at the New Glasgow Market Saturday and we were thinking it would be a good chance to drop up afterwards with the gift that she wanted to give you.  Any chance you may be home?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1431559324186,
+      "content": "Hi...donation for Amelia's skipping will be on the Deacon's Bench in hallway (envelope with her name on it).....pick up any time regardless of any one home."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426766402471,
+      "content": "Brenda, cancel for today?"
+    },
+    {
+      "sender_name": "Brenda MacLeod Parker",
+      "timestamp_ms": 1389904974275,
+      "content": "no problems :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389904941644,
+      "content": "OOOHHH, thanks so much. Again, apologies."
+    },
+    {
+      "sender_name": "Brenda MacLeod Parker",
+      "timestamp_ms": 1389904921703,
+      "content": "We were just leaving the office to go get her, so you caught me in time.  Take care , feel better soon and see you next week :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389904842286,
+      "content": "thanks for the Fetival Registry!!  Feeling wretched...worse than an hour ago...hope it isn't the flu./...have to cancel if that is possible...need to pick up some stuff for my tummy, throat, etc..Sorry this is so late.....if she appears, I will teach"
+    },
+    {
+      "sender_name": "Brenda MacLeod Parker",
+      "timestamp_ms": 1389904559819,
+      "content": "I am :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389904503539,
+      "content": "are you there?"
+    },
+    {
+      "sender_name": "Brenda MacLeod Parker",
+      "timestamp_ms": 1363889351794,
+      "content": "Sorry, we forgot to check for messages last night.  Next week should be fine.\r\n\r\nThanks\r\nBrenda"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1363889267627,
+      "content": "I hope you got my phone message yesterday..no lesson tonight due to trip to Hfx today...hoping you can come next week instead...sorry about another change."
+    }
+  ],
+  "title": "Brenda MacLeod Parker",
+  "is_still_participant": true,
+  "thread_path": "inbox/brendamacleodparker_10153596067206355",
+  "magic_words": [
+    
+  ]
+}

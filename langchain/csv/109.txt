@@ -1,0 +1,411 @@
+{
+  "participants": [
+    {
+      "name": "Allison Hallett"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614107402983,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0qXdtbtHQieVcpu2bCAeMCZ69oCJbBEmpXxB5N9eGBdr4VdB1Wa5PPzCx5CftU9Xhl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1588608816039,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/tiana.fusco/posts/pfbid0AsZ54MDR8UcaaGhKren67oDVyEUQ8qhBPLud6LxZRjUh5bWPwMTr4iKfTcKqo1Vel"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1587487164833,
+      "content": "they tasted great!!!!!!!! and looked a lot better than mine....lol....thanks, Allison!!!"
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1587208775614,
+      "content": "I got you chicken legs.  Bahahahaha..you were talking about your chicken legs in the message"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1587128299540,
+      "content": "thanks"
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1587117537606,
+      "content": "Scratch that. I will go on my way to Tianas"
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1587071145971,
+      "content": "I will be going at 8 am. Probably drop the stuff on the porch around 9 when I am done"
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1587060190736,
+      "content": "You don't need to transfer me anything. You can make the list as long as you wish. Add anything you deleted. It is no trouble at all. I'm getting my order too so I have to go around the store. Lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1587058551652,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/elandken/posts/pfbid0LX37AciqAhXp83fZDZ8b5YHx8noEFRbPRqD7BBBqEpABNQakA2gcSAJqd5vkYH5yl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1587057748058,
+      "content": "Imperial Margerine (large), 2  large bags of regular chips, jar salsa cheese, Deli: 2 containers of mashed potatoes, 1 sliced ham, 1 sliced beef, (for sandwiches), Frozen hamburger patties, 2 bags frozen fries, hamburger buns, hotdogs, 2 pkgs of hambuger (cheapest), lettuce, 6 on-the-vine tomatoes, 2 large onions, 2 large regular coffee, 2 Honeynut Cheerios, 2 milk (jugs/2%), 1 2% chocolate milk (2 liter), eggs, ketchup, maple bacon, dawn dish soap, everything bagels, 2 large pkgs of shredded Tex-Mex  cheese, lg Xtra strength Tylenol, chocolate/other muffins..(2)....sorry this is much longer thqn I thought it would be.....I owe you 20.00 bucks for this....will etransfer ASAP.    love you, hope this doesn't swamp you......trying to keep Jare fed and trying to stop this losing weight problem.....chicken legs.....I will put the card on the smoking table ON the porch.....thank you/... I need your email in order to send an etransfer, but if you can get 20.00 cash at the cashier, please do so....I am out of my comfort zone with all this. Love you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1587056510589,
+      "content": "Alison:  here's some stuff....didn't think it was so long....even cut stuff out....Card is 5959, chequeing....."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1570222963895,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/whiskyandsarcasm/photos/a.275298256372259/538622250039857/?type=3"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1544974828840,
+      "videos": [
+        {
+          "uri": "messages/inbox/allisonhallett_10153536624225629/videos/12412543_577708572383870_1018189197_n_131096554450237",
+          "creation_timestamp": 1544974828
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1514661233120,
+      "gifs": [
+        {
+          "uri": "messages/inbox/allisonhallett_10153536624225629/gifs/11413086_1642926979253615_1564915049_n_869714353202192.gif"
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1514210423788,
+      "content": "MERRY CHRISTMAS, ALLISON!!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1494512543880,
+      "content": "This is not a request for assistance in any way!!!  Just have been thinking about you a lot lately. Really hope all is well."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1493555322298,
+      "content": "Hope you're well."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1493555315728,
+      "content": "Roger is moving out fairly soon. And on we go."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1493555284551,
+      "content": "OK..you are probably worn out and resting up for work....just give me a day and time over the next two weeks for dematting poor kitty. Thanks"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1493296586423,
+      "content": "Sounds very good...keep safe, keep well!!!"
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1493291436189,
+      "content": "I'm away on union business but next weekend I'm open"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1493158475881,
+      "content": "Still in need of Cat Helper re mats....let me know."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490131217980,
+      "content": "back at ya"
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1490131210983,
+      "content": "Will do. Luv u"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490131196956,
+      "content": "OK....just give me a heads up so I can at least brush my hair and put my teeth in!!!!!!lol"
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1490131162389,
+      "content": "Prolly sat"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490131146029,
+      "content": "re cats"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490131141336,
+      "content": "mmmmm....hang in there, sweetie....no rush."
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1490131126077,
+      "content": "That's why I love mama bear"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490131097458,
+      "content": "OK....hope your bod is holding out all right....just let me know whenever would be convenient for you....I confess to being a tad worried about you when I didn't get a reply....Mama Bear in full mode."
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1490131024611,
+      "content": "No, just there every day"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490131013337,
+      "content": "what? or just wrapped up in the ncecessity of making a living?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490130991568,
+      "content": "like not going home?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490130983180,
+      "content": "like \"really living at work\""
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1490130975459,
+      "content": "I can help out whenever u need me. Just let me know"
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1490130939475,
+      "content": "Sorry I missed it totally. Been living at work"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490130883887,
+      "content": "Haven't heard back from you....it causes me to ask \"Are you OK?\"  Sincerely hope so."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489595105218,
+      "content": "Again, thanks for the assistance re doctor's appt.......Turns out I have another compression fracture in spine (not a real surprise)...AARRGGHH.....anyway, if you could see your way to helping with the cats at your convenience...that would be great!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1488401615025,
+      "content": "sorry about the repetition here....T's car is not doing well today AGAIN. me oh mhy"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1488401564334,
+      "content": "So not Thursday, yes? and Friday is weird cause I have to go to Pictou for drs appt (Jare too)."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1488324809463,
+      "content": "Would really appreciate it."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1488324787654,
+      "content": "Thursday would be the best since I have to get me and Jare to Pictou for a double doctor's apppt."
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1488321627526,
+      "content": "I'm off Thurs and Friday"
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1488321611945,
+      "content": "Absolutely"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1488321368217,
+      "content": "OK....want to see you, just because....also cause I need help cutting out cat matts.....lol"
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1482963392728,
+      "content": "Awesome! I love it"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482962234630,
+      "content": "Here it is",
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1475957699949,
+      "content": "Right back at you mom. Love you"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1475952348407,
+      "photos": [
+        {
+          "uri": "messages/inbox/allisonhallett_10153536624225629/photos/290424177_1165882804258406_2263193971839803205_n_636200283220268.gif",
+          "creation_timestamp": 1475952348
+        }
+      ],
+      "ip": "24.89.217.125"
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1452009866872,
+      "content": "Love u mama"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1452009856571,
+      "sticker": {
+        "uri": "messages/stickers_used/70085866_2549475821771125_7335923803651833856_n_973617379356985.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1452009849818,
+      "content": "Have to go answer the door...love ya."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1452009811604,
+      "content": "OK.....I will do what I can at that point, whatever I can.  And would really love to see you.....but as said, no pressure...mostly  take care of yourself as best you can."
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1452009751987,
+      "content": "Yes I can in the near future"
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1452009717688,
+      "content": "I may be asking everyone for help after surgery tho"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1452009706303,
+      "content": "As you know I have no vehicle and care for Reggie on a  regular and irregular basis...is it possible for you to drop in for a few moments at some point....no pressure here. Also have a very strange, abused young pup to care for along with the two cats I adopted last year, plus Autumn monday to friday daily."
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1452009612718,
+      "content": "I am mobile at present and able to do most things in moderation"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1452009572659,
+      "content": "Good luck, sweetie.....I will check in every once in a while."
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1452009533269,
+      "content": "Not sure of surgery date.  Awaiting long term disability"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1452009438345,
+      "sticker": {
+        "uri": "messages/stickers_used/66181288_1467121750093571_2273585605797478400_n_481172852021804.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1452009424472,
+      "content": "OK...do I have this right? You have to have hip surgery? Is it a replacement or otherwise? Can you get out to do groceries and stuff? Will you be able to get back to work? Are you covered financially during this time? How are you dealing with dogs and walks and stuff? Are you mobile re car? Seems that I have lost touch with you almost completely and this is shameful on my part...let me know the real scenario here....can't do much to help, but at least can be a sounding board."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1450132767387,
+      "content": "sweeeeet1"
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1450110382633,
+      "sticker": {
+        "uri": "messages/stickers_used/851585_490565371056908_1157825914_n_488541141259331.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1450104158213,
+      "sticker": {
+        "uri": "messages/stickers_used/70085866_2549475821771125_7335923803651833856_n_973617379356985.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1450104148985,
+      "content": "YAHOO YOU !!!! Another birthday which means a whole new year to give yourself perks !  Gotta love it. Keep well and do try to drop in some time...always laid back here with an open door policy (cept for when Tiana does clients here LOL). Love ya."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1441040334126,
+      "content": "Sweeeet!",
+      "share": {
+        "link": "https://www.facebook.com/animalsalll/videos/725372867577408/"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398535915553,
+      "content": "Reggie Isabella Fusco and mom came home today safe and sound...all is well."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1395702441015,
+      "content": "Thanks re well-wishes on phone...getting there..it is(was) awful...come see me soon."
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1359940922413,
+      "content": "U will be addicted \r\n",
+      "share": {
+        "link": "https://www.pinterest.com/",
+        "share_text": "Pinterest is a visual discovery tool that you can use to find ideas for all your projects and interests."
+      }
+    }
+  ],
+  "title": "Allison Hallett",
+  "is_still_participant": true,
+  "thread_path": "inbox/allisonhallett_10153536624225629",
+  "magic_words": [
+    
+  ]
+}

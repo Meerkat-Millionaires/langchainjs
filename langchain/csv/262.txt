@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Dianne Macintosh"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1432926847911,
+      "content": "I received a message from a Dianne Scalan that she would be over tomorrow....I think you sent it to the wrong person."
+    }
+  ],
+  "title": "Dianne Macintosh",
+  "is_still_participant": true,
+  "thread_path": "inbox/diannemacintosh_910209235687522",
+  "magic_words": [
+    
+  ]
+}

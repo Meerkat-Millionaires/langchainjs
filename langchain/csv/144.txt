@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Lara Scholey"
+    },
+    {
+      "name": "Andrew Hunter Scholey"
+    },
+    {
+      "name": "Cindy Graham"
+    },
+    {
+      "name": "Carl Adams"
+    },
+    {
+      "name": "Paul Scholey"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "James  Stratton",
+      "timestamp_ms": 1423411215014,
+      "content": "James  Stratton left the group."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1423378991094,
+      "content": "I really enjoyed this very much.....thanks for sharing, Lara"
+    },
+    {
+      "sender_name": "Lara Scholey",
+      "timestamp_ms": 1423356084083,
+      "content": "Great concert this afternoon. Charlotte is third from the left, second row.\nLara",
+      "share": {
+        "link": "https://www.facebook.com/nicole.boutilier.39/videos/10153566652727971/"
+      }
+    }
+  ],
+  "title": "Lara, Andrew, Cindy and 2 others",
+  "is_still_participant": true,
+  "thread_path": "inbox/laraandrewcindyand2others_437824603031587",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

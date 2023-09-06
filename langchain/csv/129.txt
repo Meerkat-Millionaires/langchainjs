@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Peter Dunn"
+    },
+    {
+      "name": "Donna Cyr"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "",
+      "timestamp_ms": 1428187688625,
+      "content": "A contact left the group."
+    },
+    {
+      "sender_name": "Donna Cyr",
+      "timestamp_ms": 1428187672909,
+      "content": "yes!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1428187659254,
+      "content": "Or do you mean mom? Lol"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1428187643209,
+      "content": "#37?"
+    },
+    {
+      "sender_name": "Donna Cyr",
+      "timestamp_ms": 1428187620381,
+      "content": "did u check out # 37?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1428181785946,
+      "content": "That was good"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1428181779472,
+      "content": "Wow"
+    },
+    {
+      "sender_name": "Donna Cyr",
+      "timestamp_ms": 1428177888901,
+      "content": "got it and it issss awesome"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1428177152103,
+      "content": "You named the group 2nd try."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1428177128578,
+      "content": "finding it hard to forward this",
+      "share": {
+        "link": "https://www.facebook.com/greenpeace.international/videos/10152341707363300/"
+      },
+      "ip": "24.89.222.200"
+    }
+  ],
+  "title": "2nd try",
+  "is_still_participant": true,
+  "thread_path": "inbox/2ndtry_962159110469511",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

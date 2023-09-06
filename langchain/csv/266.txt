@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1412051782401,
+      "content": "You have the most charming smile I have ever come across. I couldn't help but notice your beauty when your profile popped up. I know we have not met before, was searching for a lost relative when I came across your profile and I was taken by your beauty and couldn't stop myself from saying hi... Always wear that smile"
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/facebookuser_546494385524192",
+  "magic_words": [
+    
+  ]
+}

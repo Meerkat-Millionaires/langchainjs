@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "River Hill Dental"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1543247317526,
+      "content": "Hi, I have an appt this week, but am recovering from 6 days in ICU...leaves me unable to attend this appt at the moment. Would like to reschedule and will call when feeling up to it....thank you and apologies for having to cancel. Please send message when you read this."
+    }
+  ],
+  "title": "River Hill Dental",
+  "is_still_participant": true,
+  "thread_path": "inbox/riverhilldental_1092637704243188",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "participants": [
+    {
+      "name": "Donna MacIntyre"
+    },
+    {
+      "name": "Emma LU"
+    },
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Donna MacIntyre",
+      "timestamp_ms": 1540806402800,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1540778952666,
+      "content": "I\u00e2\u0080\u0099m away until  Friday for some training. I\u00e2\u0080\u0099m hoping that I can get home Wednesday for some trick or treating. \u00f0\u009f\u00a4\u009e\u00f0\u009f\u00a4\u009e"
+    },
+    {
+      "sender_name": "Donna MacIntyre",
+      "timestamp_ms": 1540770491517,
+      "content": "Are you away for a few days?"
+    },
+    {
+      "sender_name": "Emma LU",
+      "timestamp_ms": 1540770237115,
+      "content": "Excellent! Thanks Tiana!!!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1540760297747,
+      "photos": [
+        {
+          "uri": "messages/inbox/donnaemmaandtiana_2525005797517338/photos/45004826_277639732882057_5585861201901912064_n_277639719548725.jpg",
+          "creation_timestamp": 1540760297
+        }
+      ]
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1540760294933,
+      "photos": [
+        {
+          "uri": "messages/inbox/donnaemmaandtiana_2525005797517338/photos/44966238_326313124824454_3860933294229028864_n_326313098157790.jpg",
+          "creation_timestamp": 1540760294
+        }
+      ]
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1540760292609,
+      "photos": [
+        {
+          "uri": "messages/inbox/donnaemmaandtiana_2525005797517338/photos/45022168_2205674666344072_8671033139440648192_n_2205674656344073.jpg",
+          "creation_timestamp": 1540760292
+        }
+      ]
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1540750101216,
+      "content": "Hey everyone!  Wanted to put everyone in touch. Emma is going to have Reggie this week at our place. Should be business as usual \u00f0\u009f\u0098\u0082\nMom will have Reg before and after school and do breakfast with Reg. \nDonna walks Reggie to and from school and is a babysitter extraordinaire."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1540750100619,
+      "content": "Tiana created the group."
+    }
+  ],
+  "title": "Donna, Emma and Tiana",
+  "is_still_participant": true,
+  "thread_path": "inbox/donnaemmaandtiana_2525005797517338",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Judy Suirane"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Judy Suirane",
+      "timestamp_ms": 1548847677389,
+      "content": "please send this to all ur friends $0.05 will be donated for every send."
+    },
+    {
+      "sender_name": "Judy Suirane",
+      "timestamp_ms": 1545145758389,
+      "content": "please send this to all ur friends $0.05 will be donated for every send."
+    }
+  ],
+  "title": "Judy Suirane",
+  "is_still_participant": true,
+  "thread_path": "inbox/judysuirane_10161317486255327",
+  "magic_words": [
+    
+  ]
+}

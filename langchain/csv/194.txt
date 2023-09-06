@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Mary Maureen McKervill"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mary Maureen McKervill",
+      "timestamp_ms": 1498011161989,
+      "content": "Mary sent an attachment.",
+      "share": {
+        "link": "https://propertyguys.com/listing/100887",
+        "share_text": "Search homes, condos, and other properties for sale. Connect directly with private sellers. Enjoy the Future of Real Estate\u00c2\u00ae with dashboard control and expert support."
+      }
+    }
+  ],
+  "title": "Mary Maureen McKervill",
+  "is_still_participant": true,
+  "thread_path": "inbox/marymaureenmckervill_10155207659841251",
+  "magic_words": [
+    
+  ]
+}

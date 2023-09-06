@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Ruth Wortman"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624808196134,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614107812788,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0qXdtbtHQieVcpu2bCAeMCZ69oCJbBEmpXxB5N9eGBdr4VdB1Wa5PPzCx5CftU9Xhl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607159132799,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Ruth Wortman",
+      "timestamp_ms": 1607007903746,
+      "content": "Hope that I'm the First Person to put a CHRISTmas Tree on Your phone. \n\nIf luck is a raindrop, i'd send You a shower.\n\nIf hope is a minute, i'd send You an hour.\n\nIf happiness is a leaf, i'd give You a tree.\n\nAnd if YOU need a FRIEND, You will ALWAYS have ME.\n\nSend this to all the people You care about.\n\nEven me.\n\nIf You get 3 back, You're a True Friend!",
+      "videos": [
+        {
+          "uri": "messages/inbox/ruthwortman_2879214975500122/videos/12349769_1530333383958687_595733009_n_291486588944505",
+          "creation_timestamp": 1607007903
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607007268804,
+      "content": "Hope that I'm the First Person to put a CHRISTmas Tree on Your phone. \n\nIf luck is a raindrop, i'd send You a shower.\n\nIf hope is a minute, i'd send You an hour.\n\nIf happiness is a leaf, i'd give You a tree.\n\nAnd if YOU need a FRIEND, You will ALWAYS have ME.\n\nSend this to all the people You care about.\n\nEven me.\n\nIf You get 3 back, You're a True Friend!",
+      "videos": [
+        {
+          "uri": "messages/inbox/ruthwortman_2879214975500122/videos/12349769_1530333383958687_595733009_n_665799220704316",
+          "creation_timestamp": 1607007268
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1587058516384,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/elandken/posts/pfbid0LX37AciqAhXp83fZDZ8b5YHx8noEFRbPRqD7BBBqEpABNQakA2gcSAJqd5vkYH5yl"
+      }
+    }
+  ],
+  "title": "Ruth Wortman",
+  "is_still_participant": true,
+  "thread_path": "inbox/ruthwortman_2879214975500122",
+  "magic_words": [
+    
+  ]
+}

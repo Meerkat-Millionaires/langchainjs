@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Juliana Julian"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Juliana Julian",
+      "timestamp_ms": 1486639835360,
+      "content": "Basically, the positions will act as the resource person to ensure that children are able to access any and all resources available."
+    },
+    {
+      "sender_name": "Juliana Julian",
+      "timestamp_ms": 1486639753117,
+      "content": "http://news.gc.ca/web/article-en.do?nid=1094749",
+      "share": {
+        "link": "https://www.canada.ca/en/news.html",
+        "share_text": "News Page"
+      }
+    }
+  ],
+  "title": "Juliana Julian",
+  "is_still_participant": true,
+  "thread_path": "message_requests/julianajulian_10158230836370080",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Marla Cameron"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marla Cameron",
+      "timestamp_ms": 1493205370926,
+      "content": "Hi Lesley, Spring clean up  in Pictou county runs from May 8-19 and would be  on your regular collection day."
+    }
+  ],
+  "title": "Marla Cameron",
+  "is_still_participant": true,
+  "thread_path": "message_requests/marlacameron_10154318368386666",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

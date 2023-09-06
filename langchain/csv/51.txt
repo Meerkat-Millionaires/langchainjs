@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Heather Lee"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1621267494983,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/PysankyBySoJeo/posts/pfbid0MxajaRTKXg6D3wSF6UYs5zy9Pskm1faoETJABR6sC5j9BFvS4AwNWNytVMfFmq3Wl"
+      }
+    }
+  ],
+  "title": "Heather Lee",
+  "is_still_participant": true,
+  "thread_path": "inbox/heatherlee_1818191555021129",
+  "magic_words": [
+    
+  ]
+}

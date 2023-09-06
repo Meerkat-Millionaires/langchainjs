@@ -1,0 +1,1149 @@
+{
+  "participants": [
+    {
+      "name": "Mary-Beth Moriarity"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1644929498932,
+      "content": "Good Morning"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1641756096783,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid02mJtwhifQeVzkZHnjitGeq4eqVo6xbs9kFfPP5VvsqaZUjHcRJESPN8ycxGXRFgtXl&id=593472751117593"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1641755272679,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid02mJtwhifQeVzkZHnjitGeq4eqVo6xbs9kFfPP5VvsqaZUjHcRJESPN8ycxGXRFgtXl&id=593472751117593"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624808157123,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1616763879961,
+      "content": "\u00f0\u009f\u008c\u009e"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1616761967710,
+      "content": "great visit..good laughter...thanks!!!!!"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1616687683404,
+      "content": "Coffee?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1616599990280,
+      "content": "excellent"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1616597882937,
+      "content": "how would early afternoon work? 1:30pm"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1616594780202,
+      "content": "just let me know here."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1616594230285,
+      "content": "yes, tht would be loverly....ETA"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1616594175978,
+      "content": "Just wondering about a visit time? tomorrow?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1616594147288,
+      "content": "and to you"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1616594121510,
+      "content": "Good Morning"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1615742412450,
+      "content": "hey...thanks for the supportive remarks....don't know if they are deserved, but I sure hope so....come, visit, any day but Tuesday, and truly,  I need all the  compassionate friendship I can get!!!!     lol and igy (I Get You).",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mary-Beth Moriarity"
+        }
+      ]
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1614791903902,
+      "content": "xo"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614791672573,
+      "content": "I will...just be there , one of very few solid and consistent supports for people like me, when things get rough.....love ya"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1614791546338,
+      "content": "xoxo please know if there is anything I can do I am here."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614791481645,
+      "content": "Sorry, M-B.....things are again in a state of flux and worry....glad you called and messaged,,, just not up for trying to make head or tails of it all re Jare....looks like I have to finally cut him loose and let the system take over. Please keep in touch, it is appreciated and never forgotten."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1614783048710,
+      "content": "Good morning"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1614345685690,
+      "content": "Good Morning"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614107365404,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0qXdtbtHQieVcpu2bCAeMCZ69oCJbBEmpXxB5N9eGBdr4VdB1Wa5PPzCx5CftU9Xhl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1611762754886,
+      "content": "no, but on we go"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1611699663346,
+      "content": "does not sound good"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1611680616826,
+      "content": "and today is another day....he is not going to rehab...all is as well as it could be...try to visit again sometime....so sorry"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1611598477173,
+      "content": "he said that day that he was off to treatment...?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1611594753482,
+      "content": "many thanks for yummy beans!!!!!  in the middle of another drama re Jare....should take another week to settle....will  get in touch....stay safe, stay well"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1611257694097,
+      "content": "Left a package at your door. saw jar he said he would tell you"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1611241412083,
+      "content": "what does early afternoon today look for you"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1611162855341,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1611162849627,
+      "gifs": [
+        {
+          "uri": "messages/inbox/marybethmoriarity_10153449364460801/gifs/50475992_394271964466739_5948197317440962560_n_158607866040027.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1611162624760,
+      "content": "I would say any day but Tuesday (VON and Continuing Care) and this week Fri is the first of help paid by my kids to clear up the messes that have accumulated over the past while....other than that, all I need to know is day and approx. time...so I can put my teeth in and do breathing prep ......really would look forward to this."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1611161893106,
+      "content": "You \"sound\" well.  I would love to stop by when it works for you"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1611160563235,
+      "content": "brb"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1611160548414,
+      "content": "been up since 6:30 AM (garbage day and Jarett needs a personal reminder of the importance of such a biweekly ooccurance)...so am quickly winding down and headed for my nap and rest the bones stuff......"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1611160400556,
+      "content": "Holy Hannah, it is you.....still up and at 'em....me too, regardless of the hurdles. I would love to see you, but that isn't going to happen for a while, yes?  So, things here go as they have been going for months...up and down, but Jare and I are still co-habiting and the girls are still upstairs...Christmas came and went (me home from a week in hospital 2 days before),  quiet and sweet, as was New Year's Eve....2 new kitties to curse at and cuddle with. ....a dear friend gone to cancer, an old friend just gone,  would love to see/hug my dear ones in Ottawa but what the heck, they are alive and well...can't ask for better.  Hope things are working out as well as possible in your neck of the woods with you and yours...."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1611160039954,
+      "content": "Good afternoon"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1609024815497,
+      "content": "Hope you are feeling better xo"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1608833818112,
+      "gifs": [
+        {
+          "uri": "messages/inbox/marybethmoriarity_10153449364460801/gifs/57178299_851503151862711_2744962342457442304_n_306653287372939.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1608833685120,
+      "content": "the good stuff is that my bed is now a foot shorter, the toilet is 2 inches taller and I am much more grateful than I was......which was a lot.!!!!"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1608833594812,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1608833576634,
+      "gifs": [
+        {
+          "uri": "messages/inbox/marybethmoriarity_10153449364460801/gifs/123288756_377399847027804_236298355760830129_n_397662191440687.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1608833516319,
+      "content": "Omg..so sorry"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1608833455512,
+      "content": "just back from another weeklong stint at the hospital....someone pulled the rug from under my feet (intense dream, fall on the floor and hit Reggie's large, wooden rockimng horse....meaning fractures in my sternum and a severe bonk on the head.....and on it goes...home and grateful for it....got any helpful hints for over-dreaming????...hope all is well with you and yours....see you or whatever in the new year, please."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1608763811922,
+      "content": "Left a treat bag at your door"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1608759539377,
+      "content": "How are you?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1608757641445,
+      "content": "You sent an attachment."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1608561033297,
+      "content": "Hi Lesley...  how are you?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607007259964,
+      "content": "Hope that I'm the First Person to put a CHRISTmas Tree on Your phone. \n\nIf luck is a raindrop, i'd send You a shower.\n\nIf hope is a minute, i'd send You an hour.\n\nIf happiness is a leaf, i'd give You a tree.\n\nAnd if YOU need a FRIEND, You will ALWAYS have ME.\n\nSend this to all the people You care about.\n\nEven me.\n\nIf You get 3 back, You're a True Friend!",
+      "videos": [
+        {
+          "uri": "messages/inbox/marybethmoriarity_10153449364460801/videos/12349769_1530333383958687_595733009_n_503058854000447",
+          "creation_timestamp": 1607007259
+        }
+      ]
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1599834335613,
+      "content": "Coffee??"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1599833294761,
+      "content": "sounds very good!!  see ya!"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1599833275215,
+      "content": "How is 1pm"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1599832850464,
+      "content": "excellent...ETA?"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1599832832064,
+      "content": "How about today"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1599832783586,
+      "content": "hi there...still open for a visit sometime....would really like it."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1599776109057,
+      "content": "Good evening"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1597158102713,
+      "content": "I will"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1597158002347,
+      "content": "sorry about not seeing you.....Some days I run out of steam by noon/some days I don't.....mmmmm.....please try again."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1597072435359,
+      "content": "You missed a call from Mary-Beth.",
+      "call_duration": 0
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1597072338609,
+      "content": "Is today still ok?"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1597072327497,
+      "content": "Just finished my appointment"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1597065793691,
+      "content": "sounds so good...see you then"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1597065774192,
+      "content": "I have an appointment at 11, I will be in touch after that."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1597065751529,
+      "content": "yessum"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1597065739935,
+      "content": "Are you around later this morning"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1597065691723,
+      "content": "open for a visit some time, cept Tuesdays.  missing real face time with you.  just let me know so \\i can put my teeth in...lol"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1597065681959,
+      "content": "very strange times"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1597065624614,
+      "content": "strange times we live in, yes?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1597065598837,
+      "content": "argghhhh...here I am. So all goeas as well as possible here on the corner.....survived the slings and arrows of outrageous fortune fairly well"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1597065387567,
+      "content": "lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1597065075278,
+      "content": "whoops...that's for Jare....wacky woman strikes again....."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1597065038186,
+      "gifs": [
+        {
+          "uri": "messages/inbox/marybethmoriarity_10153449364460801/gifs/53202164_424698498304421_5090023750317899776_n_241049090268335.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1597065005523,
+      "content": "I am well and you?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1597064632724,
+      "content": "good morning to you as well...how are things?"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1597062793275,
+      "content": "Good Morning"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1588618979790,
+      "content": "Can you get Jared to take a pick of you guys and send it to us for our PUC video :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1588608767815,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/tiana.fusco/posts/pfbid0AsZ54MDR8UcaaGhKren67oDVyEUQ8qhBPLud6LxZRjUh5bWPwMTr4iKfTcKqo1Vel"
+      }
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1588533897029,
+      "content": "Mary-Beth sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/marybeth.moriarity/posts/pfbid0jkUGmu15Z2LzBpZLJmSK9DD2bEzgwXQkiySakwDKLpK588y4BUBPkWMJjZNPYobMl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586802292348,
+      "gifs": [
+        {
+          "uri": "messages/inbox/marybethmoriarity_10153449364460801/gifs/66161727_500250994060463_1244948609217069056_n_865633353908833.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1586802237426,
+      "content": "Xo"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586802219483,
+      "gifs": [
+        {
+          "uri": "messages/inbox/marybethmoriarity_10153449364460801/gifs/19371024_10155401221676113_8596671372757827584_n_225100795241027.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586802037621,
+      "content": "I hope that the world will treat you kindly and that you will maintain strength and hope during this time....it is without, one of the worst that we could have foreseen and still hang on to the belief that all will be at some point....not now, not next month, or let's face it....not at any time that we can estimate....but we will survive and we will support those in need (physically, medically, psychologically, emotionaly, food-wise, rent-wise, and all the other ways needed.....excuse the spelling of stuff!!!!!).....love you and keep in touch....thabks for the message."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1586801874192,
+      "content": "These are crazy, fearful, uncertain times...I think about you often. I hope you are following PUC on FB"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586801642151,
+      "content": "I am well...but worried, as so many, about everyone else...I hae thought of you often and lately even ( before thought) wanted to ask for a visit....not so....I have been isolted by 80% over the past few years since I have a much lowered resistance to colds, flu, and other ailments,,,so this time of isolation is not new to me....it was a snag in my life....put a complete curtail on friends, visitors, etc so what is happening now is not as difficult for me as with others....but I DO know how upsetting it can be and how disruptive....Jare has been living with me quite a few months now (after her latest crash and burn of self-living), but this is not a bad thing...we have been finding deeper meanings to his life and mine, and lovre each other almost without reservations...with very few spats and overall,  a sweet love.  Tiana and Reggie live upstairs and will continue to do s until we have a partial lift of social distance....they are so precious to me and I, to them"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1586800534885,
+      "content": "How are you?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1576776290104,
+      "content": "thanks!!!"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1576627404872,
+      "content": "The used to run the Westside Bistro . The sell their sweets at the NG Farmer's Market"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1576627348940,
+      "content": "Mary-Beth shared a page.",
+      "share": {
+        "link": "https://facebook.com/crumbsandcrustsbakery"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1575652634217,
+      "gifs": [
+        {
+          "uri": "messages/inbox/marybethmoriarity_10153449364460801/gifs/75389699_532298774016994_5981400614389678080_n_2725861620770490.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1575652544694,
+      "content": "sorry......slept thru most of yesterday....try again!!!"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1575562393883,
+      "content": "Good afternoon"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1574714031062,
+      "content": "yummers...Tuesday is the only yuck day...nurse and continuoing care (don't ever know until the last moment when they will appear)...see ya"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1574713974944,
+      "content": "I will be in touch to stop in with a coffee and treat!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1574713829311,
+      "content": "hi there, my friend...thanks for sharing this amazing schedule of events for this year....I would love to be there, but do not leave the house anymore except for hospital or doctor visits....I know it's so busy for you, but would love even a short drop-in....have been thinking about you lately.  If not feasible, let's try the New Year.!!!  lol..Take care and keep well."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1574713274156,
+      "files": [
+        {
+          "uri": "messages/inbox/marybethmoriarity_10153449364460801/files/AdventSchedule2019MB_559258447955239.pdf",
+          "creation_timestamp": 1574713272
+        }
+      ]
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1574713248669,
+      "content": "Hi Lesley,  I thought you might be interested in some news from PUC. . Hope to see you soon. Advent Blessings"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1574704179494,
+      "content": "friend :)"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1574704169001,
+      "content": "Hello my freind"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1553694878260,
+      "content": "Thinking about you xo"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1544984103893,
+      "content": "Oh my, another one gone.....oh my."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1544977168457,
+      "content": "just wanted to let you know that Sylvia Macdonald died on Wednesday afternoon... service this coming Friday"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1544977144817,
+      "content": "thank you"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1544974778232,
+      "videos": [
+        {
+          "uri": "messages/inbox/marybethmoriarity_10153449364460801/videos/12412543_577708572383870_1018189197_n_953380675050312",
+          "creation_timestamp": 1544974777
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1544306975635,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/mccullochcentre/posts/pfbid02Vx4zAZHmwLGTfgteZK7uXSvNxUBVoP5YVhZ4jTnfyyZ7BxkxNC22StjFXxf8quTKl"
+      }
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1543167471843,
+      "content": "I hate to do this but I am going to have to change our visit day. I now have a funeral to plan for"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1542758341037,
+      "content": "what does tomorrow morning look like for you?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1542719304449,
+      "content": "Great....but only when it's convenient, truly!!!!!!"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1542643031496,
+      "content": "YES of course. I have just been straight out, but that is not excuse. I was away on course this weekend so I am playing catch up today. I will look at the week and do my best to set a time xo"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1542642961278,
+      "content": "OMG- you have been on my heart and mind and I have wanted to drop in. I am not sure what I didn't see you on the hospital list. So So sorry."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1542642784492,
+      "gifs": [
+        {
+          "uri": "messages/inbox/marybethmoriarity_10153449364460801/gifs/29212076_145644109600069_3474548303884976128_n_326847944574424.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1542642557091,
+      "content": "Hey you....any chance for a visit some time at your convenience?  Recuperating from a 6 day stay in ICU...would love to see you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1538676578144,
+      "content": "sorry about delay responding...Jare has to use my laptop to search for work. All is OK, with lots of living going on around me. Visit sometime? I am up to give Reggie her breakfast, do her hair, etc before she is picked up for Pre-Primary every day....so any time is good (bear in mind some days are diamonds/stones for me but that's of no concern for visits. HOpe you are well during the craziness."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1538490098119,
+      "content": "crazy :) you?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1538488925719,
+      "content": "how's it going?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1538488917461,
+      "content": "good morning"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1538488449927,
+      "content": "Good Morning"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1531687103120,
+      "content": "Awe thanks"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1531670165609,
+      "content": "WHOOPS!!!  Late greetings! Happy Birthday."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1531670162846,
+      "gifs": [
+        {
+          "uri": "messages/inbox/marybethmoriarity_10153449364460801/gifs/23947744_1641068019306103_8256701273642893312_n_994113197428973.gif"
+        }
+      ],
+      "ip": "24.89.210.42"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1521055947157,
+      "content": "thank you muchly....hope you are well!!"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1521055277886,
+      "content": "B0K 1H0"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1521054227417,
+      "content": "me memory's gone"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1521054175639,
+      "content": "me too ...lol...would that get it there...?? what is the postal code for Pictou?"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1521054040958,
+      "content": "I know it is Ross Street"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1521053985529,
+      "content": "hmmmm"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1521053750613,
+      "content": "Yes, I read the obit in Herald this AM....I wonder, do you have Isabel's address?"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1521028469937,
+      "content": "Just saw this"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1521028462082,
+      "content": "http://mclarenfuneral.ca/tribute/details/44/John-Henderson/obituary.html#tribute-start"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1517497092057,
+      "gifs": [
+        {
+          "uri": "messages/inbox/marybethmoriarity_10153449364460801/gifs/21742752_1709580759083633_1072622224810180608_n_888427327997561.gif"
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1517496982256,
+      "content": "Hanging in there....fairly good. This week is hectic here too...whenever you have the time. No prob. Take care."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1517421677558,
+      "content": "How are you?"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1517421673409,
+      "content": "I have not forgot you my friend and coffee and a vist would be nice. I am in the midst of 2 funeral/celebration of life services (on top of normal stuff) and another on the horizon. Just have not been your way -without needing to rush back."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1517104554266,
+      "content": "That would be nice:)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1517009936733,
+      "content": "Hey-ho: visit?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1513186579033,
+      "content": "Pretty good here....may all go well with you during one of your busiest seasons!!!"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1513183382644,
+      "content": "Just received your Christmas Card- so, so beautiful.  Hope all is well with you...and yours xo"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1502284523245,
+      "content": "and good morning to you too!!"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1502279391843,
+      "content": "Good Morning"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1500388982138,
+      "photos": [
+        {
+          "uri": "https://interncache-ncg.fbcdn.net/v/t34.18173-12/16244105_1536401683038466_1163668590_n.gif?stp=dst-gif&ccb=1-7&_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-ncg&oh=00_AfAy-GZXq3-uibhRbEtcEXY6VId31T9yJQXcqIWDNS6BiQ&oe=64AE2715",
+          "creation_timestamp": 1500388981
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1500388938469,
+      "content": "thanks....looking forward to it!!!"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1500388920084,
+      "content": "it is that. ...and I will visit ASAP"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1500388884055,
+      "content": "enjoy the summer....'tis lovely"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1500388861139,
+      "content": "yes, a visit would be nice."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1500388826440,
+      "content": "was thinking about you too"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1500388817280,
+      "content": "would love a visit sometime convenient"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1500388802412,
+      "content": "things other than health are pretty great"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1500388789013,
+      "content": "oh well, it is what it is"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1500388788449,
+      "content": "going ok... crazy busy for summer work though"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1500388776384,
+      "content": "how are you"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1500388773839,
+      "content": "how's it going?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1500388767456,
+      "content": "hi, back at ya!"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1500388749920,
+      "content": "hi...thinking about you"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1490213939429,
+      "content": "LOL!",
+      "share": {
+        "link": "https://www.facebook.com/WildWomanSisterhood/photos/a.149642998518626/792181754264744/?type=3"
+      }
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1490211682404,
+      "content": "thanks for today. It was really nice to catch up."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1490193542868,
+      "content": "will do :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490193487245,
+      "content": "indeedy, I mean"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490193475287,
+      "content": "oh yes, ideedy"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1490193466363,
+      "content": "coffee??"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490193465810,
+      "content": "see you then"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490193456716,
+      "content": "dandy"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1490193435251,
+      "content": "how would 12:30- 12:45 work?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490192455798,
+      "content": "sorry so late replying......good morning to you too.....had a bad night, slept in...any time is fine but you'll have to take me as I come..lol"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1490184301491,
+      "content": "Good Morning"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1490139869603,
+      "content": "Not sure what the weather holds tomorrow but if driving is ok would you be home for a visit?"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1490136295333,
+      "content": "Back at my office computer to I can reply more appropriately :)   I would love to share in a coffee and conversation. !!"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1490136255348,
+      "content": "Not meaning to be cold. I was away \"on the road\" when I got your message, so only had my phone with me  and my reply messaging by using my phone is not always easy. I had a longer message (reply) that got lost somehow."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490133807091,
+      "content": "Wow, Mary-Beth. that's cold. What's up?"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1489951039848,
+      "content": "Sorry to hear that."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489941590107,
+      "content": "Yo, Ms. M-B.....a visit some time would be loverly. Hope all is well with you and yours...another fracture keeps me mostly at home."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482613783039,
+      "content": "Moved to tears",
+      "share": {
+        "link": "https://www.youtube.com/null",
+        "share_text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1482338945269,
+      "content": "Merry Christmas my friend"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482338611261,
+      "photos": [
+        {
+          "uri": "messages/inbox/marybethmoriarity_10153449364460801/photos/48374604_1944151308996188_6514341742982987776_n_674416189398677.gif",
+          "creation_timestamp": 1482338611
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482338584834,
+      "content": "Sorry I missed you this AM.....slept in (bit of a rough day re Jare yesterday and didn't sleep well)....try for another visit sometime, K? And thanks for the card plus the Sobey's gift card..Jare drinks more coffee than I do (yup, hard to believe) and the $ will come in handy!!  Keep well, safe and All my Best to you and yours this season and into 2017."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1471525389427,
+      "content": "Hi back at ya!  Not great, but on the very slow, two forward/one back mend. Appt with COPD Clinic tomorrow which will help. Hope all is well with you and yours. Thanks for checking in."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1471447855213,
+      "content": "thinking of you...how are you feeling?"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1470155823658,
+      "content": "Just checking in to see if you are home"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1470155705682,
+      "content": "Hi"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1469954235905,
+      "content": "OK...have a great wedding !!!!!!"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1469927890901,
+      "content": "Sorry to hear this \u00f0\u009f\u0098\u009e  I will be in touch next week. I am away until Tuesday. Pattys daughter is being married tomorrow. Thinking of you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1469899434320,
+      "content": "hi ya...would like a visit whenever possible....had (since Easter) 2 bouts pneumonia, pleurisy, 2 trips to ER (last by ambulance) and confined for about 8 weeks for recovery of compression fracture of the spine....been home since yesterday (after 4 days ICU plus)...ha! not going anywhere for quite some time...coffee requirements the same. Just walk in and holler."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1466431898091,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466431896120,
+      "content": "not fussy"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466431892132,
+      "content": "just milk"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466431883234,
+      "photos": [
+        {
+          "uri": "messages/inbox/marybethmoriarity_10153449364460801/photos/271531530_1070694197108178_6922631320924942876_n_590939777746319.gif",
+          "creation_timestamp": 1466431881
+        }
+      ],
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1466431880413,
+      "content": "awesome... what do you take in your coffee?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466431869864,
+      "content": "Such a nice day, yes?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466431855744,
+      "content": "Excellent....Reggie may have crashed for her nap. Looking forward to it."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1466431701057,
+      "content": "How would 1:30 work?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466431522067,
+      "content": "Sure ......approx time?  .....have Reggie.....visit would be terrific."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1466430955470,
+      "content": "are you free for a coffee today?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466430472774,
+      "content": "Hope all is well with you and yours. Gorgeous First Day of Summer, Strawberry Moon, etc. All good omens."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466430046984,
+      "content": "All's well here, relative to the state of the world...that's for sure."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466429987033,
+      "content": "Hi, how are ya?"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1466426903639,
+      "content": "hi..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460555188793,
+      "content": "We are jinxed re a meeting. Aaarrgghh."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460553761957,
+      "content": "Sorry...just checked in....I am here !!"
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1460503134917,
+      "content": "Does an early morning coffee work tomorrow?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460327366670,
+      "content": "Best to let me know....can't hear a freakin' thing from the back of the house. Or the living room. Or the bedroom. Or the basement....Looking forward to it."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1460306252131,
+      "content": "Thanks for the note. I think about you often and would love to have coffee. I was by a while ago but no answer."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460303050545,
+      "content": "Hi...sorry about the silence from here...getting used to the progressive aspects of COPD.....the last two years have seen another reinvention of my life...which (lol) I seem to be pretty skilled at.....avoiding any groups of people (who might have colds//flu), stopping teaching for the same reason (and fatigue as well), learning to deal with the parts of COPD that curtail my activities....anyway, I have been very busy nonetheless....with dogs, rescue puppy, 4 cats (2 of Jare's), Jare and Mel (his partner) staying with me again until things look up, taking care of Reggie,  etc. Miss you and would love to have you drop in for coffee sometime. Hope all is well with you and yours."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1379261543875,
+      "content": "missed you this morning..."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1374178811173,
+      "content": "Good Afternoon,\n\nI had a phone call today from a member of the community who is making a move from a home to an apartment in Halifax. She has an upright piano that she is unable to move with her.  It is a Nordheimer and she said it was been service and tuned over the years by Dan Friessan.  She would like to get $100-$150 for it, but I believe that she would give it away if there was a piano player/student in need.  I told her I would put some feelers out.\n\nSo if this is of interest, please be in touch and I can put you in touch with her.\n\n\nThanks\n\nMary-Beth\n"
+    }
+  ],
+  "title": "Mary-Beth Moriarity",
+  "is_still_participant": true,
+  "thread_path": "inbox/marybethmoriarity_10153449364460801",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Cynthia McDowell"
+    },
+    {
+      "name": "Marie Bonaparte"
+    },
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Lesley Dunn"
+    },
+    {
+      "name": "Gerry Macintosh"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cynthia McDowell",
+      "timestamp_ms": 1555073206729,
+      "content": "Hey honey! Just read all that and it all sounds awful!! Anything you need at all just let me know!! We\u00e2\u0080\u0099ve got your back! \u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1555072758675,
+      "content": "Alright all my closest people. I found an article that describes a lot of what I\u00e2\u0080\u0099m going through withdrawal wise. It does a far better job explaining than I could. The \u00e2\u0080\u009cbrain zaps\u00e2\u0080\u009d started today. I really appreciate your patience and support. I promise I won\u00e2\u0080\u0099t be crazy forever. \nhttps://mentalhealthdaily.com/2014/03/12/effexor-xr-withdrawal-symptoms-how-long-will-they-last/",
+      "share": {
+        "link": "https://mentalhealthdaily.com/2014/03/12/effexor-xr-withdrawal-symptoms-how-long-will-they-last/",
+        "share_text": "As someone who has taken Effexor XR (venlafaxine HCl), I know all too well what the withdrawal symptoms of this medication are like - they can be pure hell. I was fortunate to have only taken this medication for a couple months. However, there are people out there that have been on this powerful ant..."
+      }
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1555072530741,
+      "content": "Tiana created the group."
+    }
+  ],
+  "title": "Cynthia, Marie, Tiana and 2 others",
+  "is_still_participant": true,
+  "thread_path": "inbox/cynthiamarietianaand2others_2380401658669496",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

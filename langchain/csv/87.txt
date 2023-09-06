@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Meta"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1561574339883,
+      "gifs": [
+        {
+          "uri": "messages/inbox/meta_1233203146853309/gifs/30190759_1487184558059472_5224653490235637760_n_452402292248438.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1561574120797,
+      "gifs": [
+        {
+          "uri": "messages/inbox/meta_1233203146853309/gifs/30190759_1487184558059472_5224653490235637760_n_470501547033223.gif"
+        }
+      ]
+    }
+  ],
+  "title": "Meta",
+  "is_still_participant": true,
+  "thread_path": "inbox/meta_1233203146853309",
+  "magic_words": [
+    
+  ]
+}

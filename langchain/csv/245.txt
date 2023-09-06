@@ -1,0 +1,477 @@
+{
+  "participants": [
+    {
+      "name": "Marie Bonaparte"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624807493610,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624804736173,
+      "content": "You sent an attachment."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1615999632077,
+      "content": "back at ya"
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1615999615197,
+      "content": "Thank you....I always want you to feel like you have a team. Love you and yours always \u00f0\u009f\u0098\u0098"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1615998252417,
+      "content": "When I waver about being strong re this COPD, I think of you and do another breathing exercise or set another goal..thanks."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1615998160237,
+      "content": "hey, meant to say this before....so many thanks and genuine appreciation for your help with Jare and his predicaments, with me over the months, with the garden work last time, and whatever else I'm forgetting.....lol....you rock and rule."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614107889649,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0qXdtbtHQieVcpu2bCAeMCZ69oCJbBEmpXxB5N9eGBdr4VdB1Wa5PPzCx5CftU9Xhl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607007164970,
+      "content": "Hope that I'm the First Person to put a CHRISTmas Tree on Your phone. \n\nIf luck is a raindrop, i'd send You a shower.\n\nIf hope is a minute, i'd send You an hour.\n\nIf happiness is a leaf, i'd give You a tree.\n\nAnd if YOU need a FRIEND, You will ALWAYS have ME.\n\nSend this to all the people You care about.\n\nEven me.\n\nIf You get 3 back, You're a True Friend!",
+      "videos": [
+        {
+          "uri": "messages/inbox/mariebonaparte_10155953420930287/videos/12349769_1530333383958687_595733009_n_436130147387301",
+          "creation_timestamp": 1607007164
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1600439743089,
+      "content": "oh, good to hear you have the level....it was my Dad's...he used it for everything!!!!  Good job, woman!!!"
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1600213186190,
+      "content": "Oops I came home with your level in my pocket. I will bring it next Tuesday and finish up. I used the dirt and grass on the bald spot in the yard on her request."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1599935951222,
+      "content": "love"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1599935946497,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1599839755262,
+      "photos": [
+        {
+          "uri": "messages/inbox/mariebonaparte_10155953420930287/photos/118960841_351468239558335_8241372420505153635_n_2059218937544020.jpg",
+          "creation_timestamp": 1599839754
+        }
+      ]
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1599839731133,
+      "content": "Looking forward to getting over too! Rain day would be the next Tuesday the 22. We are all doing great, here is a first day back to school pic."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1599833512707,
+      "content": "Hi ya!!b First, thanks for the clean-up when fyou were last here. Looking forward to the garden visit on the 15th....can we plan a rain date if necessary?  Hope you are all well and keeping safe."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1588608911556,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/tiana.fusco/posts/pfbid0AsZ54MDR8UcaaGhKren67oDVyEUQ8qhBPLud6LxZRjUh5bWPwMTr4iKfTcKqo1Vel"
+      }
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1579118949169,
+      "content": "Always ready to get my hands dirty for you guys \u00f0\u009f\u0098\u0098"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1579116740710,
+      "content": "Marie :  So many thanks for the thoughtful Christmas gift....can't wait for spring and a gardening visit from you guys!!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1573321522435,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/KneeCurve/posts/pfbid02gdWVS69TecTKPGDDpW1ZNrM2tNo9W75S9iSgqVgGHqNoscM3oLhMBFTpcKSurANml"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1544974853804,
+      "videos": [
+        {
+          "uri": "messages/inbox/mariebonaparte_10155953420930287/videos/12412543_577708572383870_1018189197_n_275531896644940",
+          "creation_timestamp": 1544974853
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1514921132089,
+      "gifs": [
+        {
+          "uri": "messages/inbox/mariebonaparte_10155953420930287/gifs/11693570_10206999094485546_1768399697_n_871370363036591.gif"
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1514767435019,
+      "content": "Happy new year! \u00f0\u009f\u008e\u0089\u00f0\u009f\u008e\u0086\u00f0\u009f\u008e\u0086\u00f0\u009f\u008e\u0087\u00f0\u009f\u008e\u0089\u00f0\u009f\u008e\u008a\u00f0\u009f\u008e\u008a\u00f0\u009f\u008e\u008a"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1514661233121,
+      "gifs": [
+        {
+          "uri": "messages/inbox/mariebonaparte_10155953420930287/gifs/11413086_1642926979253615_1564915049_n_869714379868856.gif"
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1513012069724,
+      "content": "thanks!"
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1512844454372,
+      "content": "Po box 1837 \nPictou \nB0k 1h0"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1512834423853,
+      "content": "Hi ya. What's your mailing address?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1507074021285,
+      "content": "Since I still have no idea how this happened except I used an honest herbal approach to having a distinctly fun evening and one that usually helps my aches and pains.....who knew\"???  You rock !!  and actually,so do I, since I survived it and SHIT it will never happen again. What a hit!!!"
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1506979977055,
+      "content": "You can always count on me, although I hope you never have to feel like that ever again. Shitty luck. Xoxo"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1506945169135,
+      "content": "From the bottom of my heart, Thank You."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1506251598634,
+      "content": "tastiest tomatoes EVER !!!! Thanks mucho."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1506251576566,
+      "gifs": [
+        {
+          "uri": "messages/inbox/mariebonaparte_10155953420930287/gifs/11274593_10206082770403817_186042701_n_821260808047547.gif"
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1506002261124,
+      "gifs": [
+        {
+          "uri": "messages/inbox/mariebonaparte_10155953420930287/gifs/12447058_10153818589664871_473850868_n_819947974845497.gif"
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1506002141125,
+      "content": "Hi there....hope work has eased up a bit....hard to get it all done what with kids, husband and lots of other stuff, I'm sure!!! Any time would be great and many good wishes coming your way."
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1505762476095,
+      "content": "Looks like I won't make it today.... Sorry.... I needed to do a lot more work today than I expected"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1488290810578,
+      "content": "It was indeed an awesome day....much love, hugs, appreciation all over the place. Thanks for your good wishes...Keep well."
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1488239753574,
+      "content": "I don't do birthday wishes on FB walls ( no need to explain my weirdness too you, I believe you are aware).   Nevertheless I must tell you that because you are awesome I really really want you the have a fantastic  day.!!!!!"
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1485297962993,
+      "content": "It is a wonderful day, thank you\u00f0\u009f\u0092\u0096"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1485266616650,
+      "content": "Happy Birthday, sweetums!!!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1480535483618,
+      "photos": [
+        {
+          "uri": "messages/inbox/mariebonaparte_10155953420930287/photos/183673961_911683742734455_909987986993253388_n_662875467219416.gif",
+          "creation_timestamp": 1480535482
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1480535446498,
+      "content": "I want to thank you for the ventolin you dropped off. VERY MUCH APPRECIATED...just got a new laptop (a present from my \"boys\") and so this \"thanks\" is late. Hope all is well with you and yours."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1476100256345,
+      "photos": [
+        {
+          "uri": "messages/inbox/mariebonaparte_10155953420930287/photos/290424177_1165882804258406_2263193971839803205_n_636999309807032.gif",
+          "creation_timestamp": 1476100252
+        }
+      ],
+      "ip": "24.89.217.125"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1455133675821,
+      "content": "Hello: got your message and tried to call back. What's up?"
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1452031924853,
+      "content": "Always!!!! Glad you all had a great Christmas! And Happy New Year too!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1452001812774,
+      "sticker": {
+        "uri": "messages/stickers_used/64364951_1420706118072454_646491989361033216_n_324210707722006.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1452001779960,
+      "content": "hi.....I wanted to let you know that I appreciated your christmas gift and that the family picture (terrific one) is on the fridge. Thanks for thinking about me amid all your busy-ness."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1437738733504,
+      "sticker": {
+        "uri": "messages/stickers_used/10574686_1641020469458372_1984715002_n_1641020466125039.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1437688267999,
+      "content": "but did get symbicort & Ventolin."
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1437688226692,
+      "content": "shit day at work out late and had to haul ass to get the kids, soory but need to drop tomorrow."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1437608673794,
+      "content": "Will get in touch with Burrill"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1437608620483,
+      "content": "Thanks...see you tomorrow."
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1437598691961,
+      "content": "So, yes I will drop off some puffers tomorrow, but I don't know what I can get yet.  I'm off at 4 be over after that.  Symbicort funding is true but the letter only is for Asthma treatment, to get it covered for COPD is a different form that requires spirometry data, when I did you on the machine I had ( pharm. funding is gone and so is my spirometry) your numbers didn't meet funding criteria. That was 2 years ago though, we should test you again.  Get Burrill to fax in a req. for pre/post spirometry and I can get you into the lab and set up the paperwork if you meet."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1437492935915,
+      "content": "And, yes, hope you and yours are well..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1437492900510,
+      "content": "Marie: is you're not on vacation., have some xtra puffers....the clinic has no Symbicort at the moment and I sure could use that or ventalin/spiriva....am having problems with govt. re GST and Guaranteed Old Age Supplement....there's a mix-up and so income is very reduced at the moment.. If not, that's OK and thanks anyway....Also, is it true that Symbicort is now covered by Senior Pharmacare if your doctor writes a letter to them? Is there any truth to this?"
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1429219694839,
+      "content": "hahaha  cats, seriously though big congrats on quitting that really is fantastic!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1429191252132,
+      "content": "Have adopted 2 5 year old cats...one (Pretty Kitty) always helps me use keyboard!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1429191195975,
+      "sticker": {
+        "uri": "messages/stickers_used/47203863_1134375583403365_2640803535783985152_n_144884865685780.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1429191061689,
+      "content": "Thanks for the info...I double checked what I'm using and it is what you recommend....the Ventolin, the Symbicort and the Spiriva....so I guess I'm OK....sending this in case I'm out when you call. I don't use the Atrovent any longer. Not smoking has certainly helped...no wheezing at least. Life is tough, yes? But pretty worth the living."
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1429137792350,
+      "content": "Yes, between the poor sleep and busy days its busy but no not horrible, I do love the job.  the reason I was checking in was to see if you were on Spiriva, last I recalled you had tried it but went back to the atrovent.  The best med combo that you can get is a fast acting bronchodilator- (Ventolin), combine with a LAMA- (Spiriva) and a LABA-ICS ( Advair or Symbicort)  that said the Spiriva and Atrovent are essentially the same drug only difference is how long they last, Atrovent is 6 hours and Spiriva is 24 hours.   The studies show Spiriva is better but some people have found they didn't like it and want the atrovent back, the Spiriva is better but not so much so I wouldn't make the change if the person had a complaint.  The Symbicort and Spiriva are different in that Symbicoct has a 12 hour bronchodilator AND steroind, the Spiriva is a 24 hour bronchodilator. Think of the two different bronchodilators as the divided highway verses the old highway....they get you to the same place but take different routes to get there.  We call them synergistic because they work well together.  I'll call you from work tomorrow."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1429057275394,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362067548590_1152922410_n_126362064215257.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1429057228157,
+      "content": "hi...got your phone message....was a very intense, busy day...I'm sure you have many of those yourself...I am presently on Symbicort, Ventolin,, and  Spiriva....(I still don't understand the difference in opinion re the the usage of both Spiriva and Symbicort.....maybe when you have a free moment (10 minutes tops) we could talk about this..I am still disconcerted about usage.....have quit smoking (3 months this week, but still troubled).  Hope your return to work  hasn't been to horrible re family etc. It's the pits, right.?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1423774967477,
+      "content": "suh-weet!"
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1423765760238,
+      "sticker": {
+        "uri": "messages/stickers_used/47194145_1134365966737660_7669357117161078784_n_144884792352454.png"
+      }
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1423765732793,
+      "sticker": {
+        "uri": "messages/stickers_used/47350821_1134363720071218_8664517772836864000_n_144885035685763.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1423754991467,
+      "content": "\\not sure if \\i know them or not....all my best wishes re the daycare thing!!!  Just give me a call or message me when you want to pick up the shelf...any time is OK."
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1423700090446,
+      "content": "Thanks that great I'll check with Jay tomorrow to see when he can do it and let you know.  Back to work on the 26th......uggggggggg!   Lola & Nora do the first warm up day at Peggy's tomorrow ( she is going to take them....Peggy & Tommy DeCoste from Pictou, do you know them?)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1423697211032,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362120881918_135461923_n_126362117548585.png"
+      },
+      "ip": "24.137.111.148"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1423697167175,
+      "content": "Hello there!!!   Tardy, but many thanks for the lovely wine and terrific photo at Christmas (yup, Christmas.....may be a LITTLE  worse than \"tardy\"  lol).  I believe that you are going to pick up the large shelving unit at some point....I am in the process of moving all the music from it to ELSEWHERE!!!!  Won't need it all from now on. Any time you can arrange to have it picked is great with me.  755-6759.....are you back to work yet? How's everyone doing?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1416752354492,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126361924215271_792446242_n_126361920881938.png"
+      },
+      "ip": "156.57.14.163"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1416752340453,
+      "content": "Sorry to have missed the Pot Luck....a tad under the weather here. Hope it was sensational and lots of fun!!!"
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1392051268995,
+      "content": "Awe, thanks, but I was super happy to get to do it!  Really really glad it want so wonderfully and thanks to you too for helping to make it great!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1392050665256,
+      "content": "So many thanks for all the hard work and creative stuff re the shower for Tiana...much appreciated and never to be forgotten!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390352848779,
+      "content": "Poor Dottie just broke her wrist (3 breaks) while taking the dogs for a walk...cast and they will assess her weekly to see if she needs surgery...La, La...she is 70 yrs old  and we do tend to break easily!!!!! Thanks for contacting them..Anne's hard to get hold of.....I will make sure she knows and that she should let you know....weird women, love 'em."
+    },
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1390350126861,
+      "content": "Called all 3 got Donna and Dorte, left a message for Anne.  Donna was planning to go, Dorte hopes she's feeling well."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390234974949,
+      "content": "THANKS!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390234968707,
+      "content": "should have written or called sooner re shower....I have just 3 specific people who would love to get an invite: Donna Cyr 485-5388/15 Martha Street, Pictou: Dorte MacMaster: 485-6241/RR # 1, Three Brooks Rd, Pictou; and Anne Gratton; cell/331-0809,home/485-6718/3142 Three Brooks Road, Pictou .....All B0K 1H0"
+    }
+  ],
+  "title": "Marie Bonaparte",
+  "is_still_participant": true,
+  "thread_path": "inbox/mariebonaparte_10155953420930287",
+  "magic_words": [
+    
+  ]
+}

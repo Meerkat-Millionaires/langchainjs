@@ -1,0 +1,102 @@
+{
+  "participants": [
+    {
+      "name": "Kristen Classic Mackay"
+    },
+    {
+      "name": "Bunny Ninaber"
+    },
+    {
+      "name": "Chris Bailey"
+    },
+    {
+      "name": "Ann Gunning"
+    },
+    {
+      "name": "Diane Boucher Melong"
+    },
+    {
+      "name": "Anne Louise Gratton"
+    },
+    {
+      "name": "Millie Johnson"
+    },
+    {
+      "name": "Julia McCulloch"
+    },
+    {
+      "name": "Robin Boutilier"
+    },
+    {
+      "name": "William MacCulloch"
+    },
+    {
+      "name": "Brent MacQuarrie"
+    },
+    {
+      "name": "Joe Wadden"
+    },
+    {
+      "name": "Marie McCullough"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Diane Boucher Melong",
+      "timestamp_ms": 1388069140411,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      }
+    },
+    {
+      "sender_name": "William MacCulloch",
+      "timestamp_ms": 1388067674940,
+      "content": "Marie, Ben & Bobbi, so sorry to hear your news. Our thoughts and prayers are with all of you at this trying time. Bill & Anne."
+    },
+    {
+      "sender_name": "Diane Boucher Melong",
+      "timestamp_ms": 1388025211714,
+      "content": "Marie, my thiughts and praters are eith you and especially Ben and Bobi.  So sad forbthem."
+    },
+    {
+      "sender_name": "Ann Gunning",
+      "timestamp_ms": 1388022877902,
+      "content": "Marie, I'm so sad to hear this. Thoughts and prayers to all."
+    },
+    {
+      "sender_name": "Brent MacQuarrie",
+      "timestamp_ms": 1388022745294,
+      "content": "Very sad news, Marie.  My prayers and thoughts are with you and your family. "
+    },
+    {
+      "sender_name": "Robin Boutilier",
+      "timestamp_ms": 1388019958560,
+      "content": "Marie, I'm so sorry to hear this news.  \n"
+    },
+    {
+      "sender_name": "Diane Boucher Melong",
+      "timestamp_ms": 1388019519618,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      }
+    },
+    {
+      "sender_name": "Marie McCullough",
+      "timestamp_ms": 1388019466457,
+      "content": "Sharing the very sad news that my son's and daughter's father took his own life last night. Please keep them in your thoughts and prayers."
+    }
+  ],
+  "title": "Kristen, Bunny, Chris and 10 others",
+  "is_still_participant": true,
+  "thread_path": "inbox/kristenbunnychrisand10others_192081334332793",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

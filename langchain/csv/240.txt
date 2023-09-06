@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "BAM"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "BAM",
+      "timestamp_ms": 1629234056758
+    },
+    {
+      "sender_name": "BAM",
+      "timestamp_ms": 1629147057225
+    },
+    {
+      "sender_name": "BAM",
+      "timestamp_ms": 1629060055367
+    }
+  ],
+  "title": "BAM",
+  "is_still_participant": true,
+  "thread_path": "inbox/bam_1888089071364710",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Rex Dunn"
+    },
+    {
+      "name": "Peter Dunn"
+    },
+    {
+      "name": "Lesley Dunn"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1571928082662,
+      "content": "Arrgghh! Patience, patience"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1571926130333,
+      "content": "Just as an update. Sorry for this trainwreck."
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1571925962104,
+      "content": "Still trying to get ahold of social to see if they will pay out Sept like they were supposed to"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1571925938687,
+      "content": "They keep delaying the date to send the student loans"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1571925924160
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1571925919201,
+      "content": "A contact created the group."
+    }
+  ],
+  "title": "Rex, Peter and ",
+  "is_still_participant": true,
+  "thread_path": "inbox/rexpeterand_2439424509427812",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

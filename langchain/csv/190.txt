@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Jarett Dunn"
+    },
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1406287740314,
+      "content": "Jarett has an appt with dr e on aug 12 at 4 pm"
+    }
+  ],
+  "title": "Jarett and Tiana",
+  "is_still_participant": true,
+  "thread_path": "inbox/jarettandtiana_712164498849477",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

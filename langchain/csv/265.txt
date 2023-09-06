@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Roger Plamondon"
+    },
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1468264655790,
+      "content": "Still waiting on the other"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1468261003979,
+      "content": "K \n630 tonight and 630 tomorrow night"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1468253636910,
+      "content": "Open."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1468194789377,
+      "content": "Open"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1468193813389,
+      "content": "Have another client wanting to book for this week (yay!!). What works for you guys?"
+    }
+  ],
+  "title": "Roger and Tiana",
+  "is_still_participant": true,
+  "thread_path": "inbox/rogerandtiana_1006953869353505",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

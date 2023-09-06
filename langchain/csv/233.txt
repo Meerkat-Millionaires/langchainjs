@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Ashton C.L Hawke"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1519652948844,
+      "content": "OK...think I over reacted...apologies"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1519650609436,
+      "content": "Ash, have you heard from Jare since Friday?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1479052766102,
+      "content": "Thanks for the coffee, Ashton!!!!!!!"
+    },
+    {
+      "sender_name": "Ashton C.L Hawke",
+      "timestamp_ms": 1461973961139,
+      "content": "Yep"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1461973356315,
+      "content": "Gotta love him."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1461973314357,
+      "content": "You have his back."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1461973263032,
+      "content": "I have his back."
+    },
+    {
+      "sender_name": "Ashton C.L Hawke",
+      "timestamp_ms": 1461973066525,
+      "content": "Mel is just being destructive not fair to him at all, I pray for him all the time"
+    },
+    {
+      "sender_name": "Ashton C.L Hawke",
+      "timestamp_ms": 1461973026758,
+      "content": "My pleasure, he will be alright he just needs to focus somehow"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1461972882201,
+      "content": "Thanks, Ash, for all the help this week."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1416086667456,
+      "content": "hey, Ash, if Jare's there could he give me a call?  thanks."
+    }
+  ],
+  "title": "Ashton C.L Hawke",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashtonclhawke_10153725836102464",
+  "magic_words": [
+    
+  ]
+}

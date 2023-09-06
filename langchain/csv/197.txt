@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1361551790422,
+      "content": "That was me :) My e-mail is melanie_long@rocketmail.com or you can send the info to me through facebook, whichever is easier! Thanks!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1361550806707,
+      "content": "Hope you are the person who contacted me about lessons....email from me says incorrect address for you? My email is     lesleydunn@live.com     phone is 755-6759   .........please send email address if you are still interested.  I have slots available and would like to send all the info.  Thanks.  "
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "inbox/facebookuser_10153164118327725",
+  "magic_words": [
+    
+  ]
+}

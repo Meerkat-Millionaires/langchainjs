@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Meghan Fusco"
+    },
+    {
+      "name": "Damion Fusco"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Meghan Fusco",
+      "timestamp_ms": 1518741326417,
+      "content": "Dam",
+      "share": {
+        "link": "https://www.facebook.com/loadedmagazine/videos/10155123776397127/"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426703316350,
+      "content": "You named the group Storm March 18/15."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426703282630,
+      "content": "Completely!!!!",
+      "ip": "24.89.222.200"
+    }
+  ],
+  "title": "Storm March 18/15",
+  "is_still_participant": true,
+  "thread_path": "inbox/stormmarch1815_727686577348269",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

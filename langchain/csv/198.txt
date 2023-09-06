@@ -1,0 +1,116 @@
+{
+  "participants": [
+    {
+      "name": "Blare Sea"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Blare Sea",
+      "timestamp_ms": 1551221057826,
+      "content": "\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1551220918453,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/imnotrightinthehead/photos/a.423554790376/10162255257060377/?type=3"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1517586773212,
+      "content": "really attractive....letter on the way!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1517586752239,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/photo.php?fbid=10152551823531712&set=a.10151324863716712&type=3"
+      },
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1517059040875,
+      "content": "me too!!!!!!!!!"
+    },
+    {
+      "sender_name": "Blare Sea",
+      "timestamp_ms": 1517059024737,
+      "content": "I think it sounds delightful!  I love getting real mail!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1517058992908,
+      "content": "okey-dokey.....this should be fun"
+    },
+    {
+      "sender_name": "Blare Sea",
+      "timestamp_ms": 1517058174339,
+      "content": "Ooh! That sounds like a delightful arrangement!"
+    },
+    {
+      "sender_name": "Blare Sea",
+      "timestamp_ms": 1517058152518,
+      "content": "It's 40 Connolly St, Charlottetown, PE\nC1A 2L8"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1517057781558,
+      "content": "what's your address?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1517057769389,
+      "content": "I am starting the letter writing again and it would be great to hear from you....Lesley Dunn, 59 MacKay St. New Glasgow. B2H 3H5.  Don't knit, but have two cats who help me with every thing else!!  and a Mon to Fri Big Dog!"
+    },
+    {
+      "sender_name": "Blare Sea",
+      "timestamp_ms": 1517011936948,
+      "photos": [
+        {
+          "uri": "messages/inbox/blaresea_10154026966771712/photos/27479193_10155063558261712_156860703_o_10155063558261712.jpg",
+          "creation_timestamp": 1517011936
+        }
+      ]
+    },
+    {
+      "sender_name": "Blare Sea",
+      "timestamp_ms": 1517011911386,
+      "content": "Also, I think one of those bowls could help with this situation:"
+    },
+    {
+      "sender_name": "Blare Sea",
+      "timestamp_ms": 1517011875430,
+      "content": "Please to send me your address, maybe we could write letters?"
+    },
+    {
+      "sender_name": "Blare Sea",
+      "timestamp_ms": 1516816683879,
+      "content": "I love these!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1516816470689,
+      "content": "Thought of you!!!!!",
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482760618015,
+      "content": "You are now connected on Messenger"
+    }
+  ],
+  "title": "Blare Sea",
+  "is_still_participant": true,
+  "thread_path": "inbox/blaresea_10154026966771712",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Young Studios"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433516550283,
+      "content": "whoops, no \"r\". Lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433516533282,
+      "content": "welcomer"
+    },
+    {
+      "sender_name": "Young Studios",
+      "timestamp_ms": 1433515365888,
+      "content": "Thanks so much Lesley!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433507800677,
+      "content": "I have truly enjoyed so many of the paintings. Very appealing to sight and emotional response....wonderful."
+    }
+  ],
+  "title": "Young Studios",
+  "is_still_participant": true,
+  "thread_path": "inbox/youngstudios_838442962995998",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Remy Brignone"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1449674306420,
+      "content": "Do you have prints of the Guitar Skyline and do you sell them ?\n\nThis is magnificent. !!!"
+    }
+  ],
+  "title": "Remy Brignone",
+  "is_still_participant": true,
+  "thread_path": "inbox/remybrignone_747910525353932",
+  "magic_words": [
+    
+  ]
+}

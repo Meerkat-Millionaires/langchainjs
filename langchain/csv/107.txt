@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Betty-Ann Hartling-Battist"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Betty-Ann Hartling-Battist",
+      "timestamp_ms": 1546896601982,
+      "content": "Hi....I actually got another friend request from you which I ignored so you may want to check your account.    Hold your finger on the message until the forward button appears...then hit forward and all the people you want to forward too....PLEASE DO v ACCEPT A NEW friendship FROM ME AT THIS TIME."
+    }
+  ],
+  "title": "Betty-Ann Hartling-Battist",
+  "is_still_participant": true,
+  "thread_path": "inbox/bettyannhartlingbattist_10156038660390893",
+  "magic_words": [
+    
+  ]
+}

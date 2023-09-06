@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Pat Cowan"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pat Cowan",
+      "timestamp_ms": 1614435331804,
+      "content": "Happy Happy Lesley!"
+    },
+    {
+      "sender_name": "Pat Cowan",
+      "timestamp_ms": 1603280674211,
+      "content": "Pat sent an attachment."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1582818975223,
+      "content": "Thanks, Pat!!!!"
+    },
+    {
+      "sender_name": "Pat Cowan",
+      "timestamp_ms": 1582808082802,
+      "content": "Happy Happy Lesley!"
+    },
+    {
+      "sender_name": "Pat Cowan",
+      "timestamp_ms": 1582808080918,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126361970881933_2050936102_n_126361967548600.png"
+      }
+    },
+    {
+      "sender_name": "Pat Cowan",
+      "timestamp_ms": 1574973152087,
+      "content": "You are now connected on Messenger"
+    }
+  ],
+  "title": "Pat Cowan",
+  "is_still_participant": true,
+  "thread_path": "inbox/patcowan_2660607534001725",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Floyd Rudolph"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Floyd Rudolph",
+      "timestamp_ms": 1645965400669,
+      "content": "happy happy 39th bday 2  u ."
+    },
+    {
+      "sender_name": "Floyd Rudolph",
+      "timestamp_ms": 1614430371968,
+      "content": "happy 18th bday 2  U ."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614107661925,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0qXdtbtHQieVcpu2bCAeMCZ69oCJbBEmpXxB5N9eGBdr4VdB1Wa5PPzCx5CftU9Xhl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1520435896504,
+      "content": "back at ya, Floyd!!!"
+    },
+    {
+      "sender_name": "Floyd Rudolph",
+      "timestamp_ms": 1520252369002,
+      "content": "Floyd sent an attachment."
+    },
+    {
+      "sender_name": "Floyd Rudolph",
+      "timestamp_ms": 1448401174910,
+      "content": "will do ,thank you 4 the reply."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1448389921835,
+      "content": "Floyd, do me a favor  and don't post that petition re immigration again...or even remove it..pretty hateful. I do enjoy most of your posts very much. All my best to you and Ruby !"
+    },
+    {
+      "sender_name": "Floyd Rudolph",
+      "timestamp_ms": 1425049795295,
+      "content": "Have a fabulous bday Lesley!!!!\r\n :) F&R"
+    }
+  ],
+  "title": "Floyd Rudolph",
+  "is_still_participant": true,
+  "thread_path": "inbox/floydrudolph_885636838158340",
+  "magic_words": [
+    
+  ]
+}

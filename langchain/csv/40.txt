@@ -1,0 +1,1319 @@
+{
+  "participants": [
+    {
+      "name": "Jackie Daley"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1516982563192,
+      "gifs": [
+        {
+          "uri": "messages/inbox/jackiedaley_10154106914663662/gifs/20506347_10211620393158938_8697447171131179008_n_883693221804305.gif"
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1516930736600,
+      "content": "She was tweedle dee and sang a complete song with her friend gabby cougias.  She really was amazing"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1516930674622,
+      "content": "I had no idea she had such a major part"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1516930658899,
+      "content": "I\u00e2\u0080\u0099m sorry to hear you\u00e2\u0080\u0099re having health troubles"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1516917397820,
+      "content": "Oh how awesome to hear this kind of news...thanks for letting me know!!!! Continuing to battle ill health and it stops me from going out and about too much....curses!!!!~ Tell Lex that I am so proud of her!!!!!!!!"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1516842169283,
+      "content": "Alexis and Amelia Parker were in the Alice in Wonderland play at West Pictou lex was tweedle dee. Amelia was the Queen of Hearts.     They did you very proud tonite"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1489582152326,
+      "content": ":)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489520514645,
+      "content": "Also, glad to show that although the body may be falling apart, at least the brain is still in gear.....Thank the Powers-that-Be for a decent memory. lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489520206257,
+      "content": "Yes, I must agree...she is an absolute gem (with a mind of her own!!). Keeps me on my toes."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1489512907255,
+      "content": "Hope everything is well with you   Reggie is a little doll"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1489512385444,
+      "content": "You're a doll   This is perfect!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489511985621,
+      "content": "good luck."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489511981268,
+      "content": "Sounds like you need it today. Otherwise, I could give you the names of teachers/past students who may have a copy"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489511931082,
+      "content": "And yes, there are 4 \"littles\" each time."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489511852174,
+      "content": "Little, little L. now you're not looking so forlorn. Little, little L., Have a happy day!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489511791018,
+      "content": "Little, little L. Don't sit there looking all forlorn...Little, little L. Come and sing with me....You'll sing high notes and I'll sing low. You'll sing fast and I'll ...sing.......sloooww."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489511700019,
+      "content": "Little. little L. Son't sit there looking all forlorn. ..Little, little L. Come and dance with me...Don't you worry because you're small. It's just that I am much too tall."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489511623072,
+      "content": "Little, little L, Don't sit there looking all forlorn..Little, little L. Come and play with me. We'll play games and I'll let you choose, So you can win and I will lose."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489511476451,
+      "content": "Hi ya. This was in the Toronto Conservatory Vocal Book (either beginner or level 1). I have given all my materials away.  Is it just the words you need or music too?"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1489496104089,
+      "content": "Good morning Lesley     Alexis is asking about the Leprechaun song that you taught her.    She wants to practice it today  She is at Joan Falconers for the day.   Can you tell me the correct title and I'll print the words off for her.  Her music books are at my house.   It goes like:   Little Little Leprechaun don't be ..........  Can you help me out.   THank y ou"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1440807723823,
+      "videos": [
+        {
+          "uri": "messages/inbox/jackiedaley_10154106914663662/videos/11968036_10156036260580078_1003625803_n_469012699939028",
+          "creation_timestamp": 1440807722
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1434554001904,
+      "content": "We will definitely stay in touch :)"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1434553980181,
+      "content": "What a lovely card you gave Alexis, she was thrilled  it and the lovely picture of icing girl are in a place of honor on her bureau at my house.  She came directly to my house and of course had a bubble bath, and stayed the nite."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1434545748583,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362164215247_428974420_n_126362160881914.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1434545723871,
+      "content": "Sending a Thank You for the gifts...we had a very lovely last lesson, and she has a picture of Reggie's Cake Smash that I put in a card for her. She is a special person as you know....my, how time does fly. All my best."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1434480535893,
+      "content": "Will do for sure :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1434480295902,
+      "content": "Please do drop in sometime, alone or with Alexis!!!!   Thanks for everything."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1434480292435,
+      "sticker": {
+        "uri": "messages/stickers_used/47229532_937341696463109_4150176316294955008_n_167788296751790.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1434479231855,
+      "content": "Hi lesley     Jenn is bringing Alexis tonite,   I am going to go to my TOPS meeting (we're having a contest)  .   I was going to have Tea with Tiana, would you tell her I'm sorry but it's a buddy contest, so I should go support my buddy.   Thank you for everything Lesley and we'll stay in touch      Lex and I will drop over one evening this summer to check on you, Tiana and Reggie"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433867381479,
+      "sticker": {
+        "uri": "messages/stickers_used/851565_147663468749250_1873726033_n_147663465415917.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1433867377530,
+      "content": "See you at 5:30"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433867367685,
+      "content": "Always....."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1433867356025,
+      "content": "Yes for sure :)   coffee?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433867344014,
+      "content": "Hi...hope we are on for tonight."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1432656506785,
+      "content": ":)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1432656375272,
+      "content": "Coffee with 2 milk would be very much appreciated. Thanks."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1432652439514,
+      "content": "I guess she hasn't told Alexis yet, I will be bringing her myself tonite and I'll tell her over supper.  and that'll give her the two lessons in June to look forward to.    Thank you Lesley  see you tonite  Tea or coffee?      It'll be a well deserved retirement for sure."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1432651571715,
+      "content": "Nope...the message was:  lesson is on for tonight and then lessons on the 2nd and 3rd Tuesdays of June ( the 9th and the 16th) .  After that I am finished teaching completely, no more next year."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1432651374867,
+      "content": "Hi Lesley    Lesson tonite?   If I remember correctly Jenn told me there would be a lesson tonite and next week and then thru for the season."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1431433044439,
+      "content": "Good morning Lesley    Are we on for tonite?"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1430398866374,
+      "content": "No worries Lesley that's ok,  I'll get to TOPS for a change.  Loved Reggies 'cake' picture"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1430397662133,
+      "content": "FYI: sorry, realize a conflict next Tues evening....so looks like it'll be the week after, after all."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1430143004851,
+      "content": "bye for now"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1430142979908,
+      "content": "Just have to make sure she doesn't ram a drum stick up her nose!!  bye"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1430142946171,
+      "content": "Can't wait to hear Reggie play  !"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1430142934339,
+      "content": "okey-dokey...take care"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1430142925459,
+      "content": "See you next Tuesday"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1430142920584,
+      "content": "Exactly !"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1430142903856,
+      "content": "Reggie turned one and got a, yes, a drum set from Tiana....she's a whiz..musta been some party....a fate worse than death in my books.Lol"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1430142863627,
+      "content": "She had a house party for her graduating class sat nite  close to 100 kids came  Im exhausted."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1430142827858,
+      "content": "And wow....is she really 18? Time's aflying."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1430142807845,
+      "content": "That would be awesome Lesley thank you for changing for me"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1430142781094,
+      "content": "Sure....let's do next week and then the following week so I can get all of the lessons on the Tuesday? So two in a row?"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1430142673393,
+      "content": "Tomorrow is Laurens 18th birthday so could we reschedule for another time this week or next  just for this one time?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1430142588040,
+      "content": "hi....hope your bod is in feeling better! Are we OK for tomorrow?"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1429023283535,
+      "content": "Great Lesley   Jenn is bringing her.  I'm a little overdone today.  Had an epidural injection in my back yesterday.  Wierdest thing / feeling I've ever had done.  But I'll see you next time."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1429020771648,
+      "content": "yes, for sure!!!"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1429019812981,
+      "content": "Hi Lesley   Music tonite?  5:30?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427826787518,
+      "content": "would love one...thanks"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1427823899187,
+      "content": "Jenn will bring Alexis into me, so we'll be there if you're up to it   Would you like a Tims?"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1427820721099,
+      "content": "With school cancelled Lex is out at my place.  If her Mom can get her to me I think we should be ok, rdar shows this as being over (My Dad is ready to choke Cindy Day)     I'll see what Jenn says and get right back to you"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427813411649,
+      "content": "Oh freakin' boy......do you think I'll see you tonight or do you wish to reschedule One More Time (wishful thinking?)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427382659699,
+      "sticker": {
+        "uri": "messages/stickers_used/48607585_1186553428160539_3322214640053649408_n_213419212140637.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427382621277,
+      "content": "Good....see you then."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1427369832481,
+      "content": "And yes we can come next Tuesday for 6:00"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1427369816461,
+      "content": "No worries on our end Lesley just keep me posted.  Have a wonderful day :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427241825093,
+      "content": "I am still waiting to hear back from a parent re the time/day that they think would work for them after the end of March.....his last formal lesson is next Tuesday 5 - 6:00, but then after that I won't know until they get back to me (been waiting for 3 and a half weeks and I know it's a tough decision for them). ."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427241605435,
+      "content": "So, OK about this week..All my \"bestest\"  to the\" bestest\" (Alexis) on her birthday.....Could Alexis come next week on Tuesday (at 6 - 7:00)?"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1427223623745,
+      "content": "Glad to hear you're all feeling better."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1427223616694,
+      "content": "What time would you like us on Tuesdays?  And what two Tuesdays do you prefer?"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1427223576288,
+      "content": "Hi Lesley    Yes, thankfully he came back and quickly afer a phone call.   Alexis is having her birthday party this Thursday in Pictou - her mother tells me it's the only time the rink is available and that's what she wanted a skating party.  I hope it's ok that we can't make it this week."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427208831926,
+      "content": "sorry and glad about your mom's knee."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427208807955,
+      "content": "Hi....all is well...glad you got that snow shit removed!!!  We've had somewhat the same problem here on the corner. All set for Thursday night's lesson..colds and flus all gone. This is the last one on a Thursday. Can we make arrangements for every two weeks on a Tuesday night? is that possible?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1425589320342,
+      "content": "Indeed!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1425589318405,
+      "sticker": {
+        "uri": "messages/stickers_used/851565_275796349225020_1651436218_n_275796345891687.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1425587845684,
+      "content": "Most painful exercise I have been thru in a long time.  Never again   Hope you're feeling better.   Must be a site to see little Reggie walking :)"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1425587810484,
+      "content": "They tell me it''s done I just have to wait for a call   Heading up there for 8:30 am."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1425586322036,
+      "content": "I will be keeping all  available digits crossed re getting your passport in time!!!!!!!!"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1425586102658,
+      "content": "jenn is brining her, I leave in the wee hours of sunday morning if the passport office chooses to give me my passport   I'm still waiting."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1425585906239,
+      "content": "OH Wow....yes, ready for tonight I am!!!  Last week followed up the cold with flu (Fri/Sat/Sun) for both Tiana and I!!!!....not for Ms Reggie, thank goodness....... See you tonight. (are you bringing her?)..When do you  leave for vacation?"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1425579524423,
+      "content": "Hi Lesley    Music tonite?"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1425041212720,
+      "content": "No worries at all Lesley   I hope you're feeling better.  Happy Birthday :)     Alexis got supper out and a trip to Walmart,  easily pleased     Hopefully see you next week"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1424990409494,
+      "content": "I really am sorry...got increasingly worse as the afternoon went on...am always concerned re: passing on flu/cold germs to my students.,..waited too long to let you know that it was getting worse..thought it would lighten up...I truly appreciate your understanding about cancelling."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1424982441088,
+      "content": "ok  Lesley see you 5:30   :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1424982129508,
+      "content": "yup, we are on....just babysitting upstairs this afternoon."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1424965972597,
+      "content": "Hi Lesley     How are things today?  Are we on for music tonite?"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1424366208783,
+      "content": "Perfect  she will be there with bells on :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1424361887814,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362190881911_254357215_n_126362187548578.png"
+      },
+      "ip": "24.137.111.148"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1424361880867,
+      "content": "And a Good Morning (whoops..Afternoon) to you. Everything and everyone is OK...all home and lesson on, unless it (SSSSHHHHH) snows."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1424354439834,
+      "content": "Good morning Lesley  How are you doing?  Much milder today  yahoo  You must be buried up there, I know we are.   Lesson Tonite?  Tiana and Reggie get home?"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1423062715990,
+      "content": "Good luck with their travel, and you all keep safe as well :)  See you next week God willing."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1423062363980,
+      "content": "I thoroughly agree re tomorrow night....what a mess this week has been (and last Tuesday as well). So no lesson. Tiana andReggie are supposed to  fly to Toronto early Fri morning....may have to go erly tomorrow and stay overnight at airport hotel....wish they'd just stay home for a change!!!!!!  Keep safe."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1423061716332,
+      "content": "Hi Lesley       How did you weather the storm?  With the impending weather for tonite/tmr would it be ok if we cancel for tmr nite.  If we get rain on the ice/snow  that's on our road it is going to be disastrous."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1422552033278,
+      "content": "Yup, that's fine!!!!  See you next time round"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1422542796013,
+      "content": "Great, she is getting her new glasses after work today so her Mom will be bringing her (Lex was not happy about this)  Jenn will pay for tonite and then I'll be back on track for next Thursday and pay for the month of February - if that's ok."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1422542741607,
+      "content": "Yes, up for it for sure!!!!!!!"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1422542711891,
+      "content": "Hi Lesley  just wondering if we are on for Music tonite?   I meant to tell you Alexis had a blast last Thursday, and much consideration went into the sharing of the stickers and the little ooks :)"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1421956842187,
+      "content": "Very"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1421952830728,
+      "content": "Oh my goodness.....just read about it . So sad."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1421952501334,
+      "content": "Hi....\\I haven't heard re Fleur.....what happened? Yes, I',m up for lesson."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1421949565488,
+      "content": "Hi Lesley    Just wondering how everyone is doing?  and if you're feeling up to music tonite?  Quite a blow with the news of Fleur today :("
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1421343105715,
+      "content": "Thanks"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1421336849801,
+      "content": "I'm sorry to hear this Lesley  No worries, I hope everyone feels better.  Take care and keep me posted, and of course I understand,  LIFE happens :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1421333634713,
+      "content": "Jackie:  a rough week here (procedure at Hospital Mon..insomnia Tue/Wed and more tests....nothing serious). Reggie's sick today and Tiana is exhausted. I must cancel tonight's lesson (this is a prime example of why I want to cut way back on my students....keeping those who understand where I'm coming from these days).  Jare's here for today as well. Sorry for the inconvenience. Hope all is well with you and the knee is getting better each day."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1419010187179,
+      "content": "No, our Thursday 5:30 is perfect and yes we'll revisit in March when your schedule changes.   You have a super day, stay inside from this terrible weather"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419003979055,
+      "content": "Have a super day."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419003956824,
+      "content": "This has been a very difficult decision to make and I've been hassling it over  since last year. Such a close, wonderful relationship (some very long term) with a number of the young people.  So, we will tackle the change in day/time re 4-H in the New Year if necessary and then look at the  other changes in March, yes?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419003777814,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362170881913_763579892_n_126362167548580.png"
+      },
+      "ip": "24.137.111.148"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419003768414,
+      "content": "Good to hear...just don't broadcast it abroad!!!!!"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1419003663742,
+      "content": "Oh, my heart stopped for a minute, she would be so upset .....  Yes, Yes, Yes, we will continue   and you are most certainly welcome, she has such a great time getting those things together, it means alot to her :) Thank you so much for keeping her on,  and \"Reggie\" is proudly displayed on my fridge"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419003515979,
+      "content": "And, again, so many thanks for the gifts....very much appreciated."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419003455121,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362164215247_428974420_n_126362160881914.png"
+      },
+      "ip": "24.137.111.148"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419003428594,
+      "content": "Hey....I have been informing my students and parents that I am retiring from  full time teaching at the end of March.....I have also spoken to a very few re alternative arrangements (in other words will continue to teach a select few).  Alexis is in this category...It would mean finding a spot, time that would enable me to have the freedom to fulfill my other obligations and needs. So we will talk, yes?  You are under NO obligation to continue after the end of March, but I truly hope you can.....she is a gem."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1418059991630,
+      "content": "That is for certain !"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1418048437353,
+      "content": "Holy doodle!!!!!!  So scary and, yes, \"sooo relieved \" is an understatement, yes? So wonderful to hear of good things."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1418048052202,
+      "content": "One of my friends, had a bad week last week with a migraine, and it turns out she had a brain aneurism, five hour surgery yesterday, but she came thru just fine and her outlook is excellent, I'm soo relieved."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1418047438461,
+      "content": "Oh my.....whatever went wrong, I'm glad it's all right now."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1417711735811,
+      "content": "Great"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1417711722518,
+      "content": "Yuppers!"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1417711713243,
+      "content": "5:30 yes, if that's ok"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1417711700421,
+      "content": "Yummy!!!  Same time?"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1417711668586,
+      "content": "I'm hoping this lasts for awhile  I'll bring you tea tonite  large with two milk ok?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1417711549781,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126361924215271_792446242_n_126361920881938.png"
+      },
+      "ip": "156.57.14.163"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1417711542243,
+      "content": "Full replacement is definitely..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1417711525971,
+      "content": "Amelia has changed her lessons from Thursday to Wed from now on. So if you want to come earlier, feel free....up to you. I am hoping that I won't go into one of those scary cough fits while Alexis is here."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1417711435271,
+      "content": "I'm afraid that hack lasts a long time"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1417711404159,
+      "content": "I am, it's coming along nicely, had stitches out this morning :)  and he told me I'll be needing a full replacement at some point :("
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1417711376469,
+      "content": "Are you pretty mobile?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1417711367203,
+      "content": "I can do the lesson tonight, back still hurts, arm hasn't had shot (rescheduled to the 17th) and cold down to the occasional hacking."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1417711314127,
+      "content": "Just back from the doctor....How are you?"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1417711048765,
+      "content": "Hi Lesley   just wondering if you're on the mend, and up for class tonite ?"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1417115426591,
+      "content": "Yes snow and quite hard at times go snuggle in"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1417115391343,
+      "content": "Excuse me???!!  Did you say SNOW!!!???   I'm goin' to bed...maybe when I wake up it'll be spring. Keep well."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1417115327078,
+      "content": "No worries at all. It's snowing hard here now and was concerned about that. Feel better and well see you next week"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1417115263948,
+      "content": "left messages on your cell and home."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1417115239246,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362084215255_683178977_n_126362080881922.png"
+      },
+      "ip": "156.57.14.163"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1417115233531,
+      "content": "Jackie: feeling a tad upset....this cold is down in my chest/lungs..hard to breathe and wretched coughs. Have to cancel tonight....my absolute apologies."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1416492912977,
+      "content": "Hope all is going well post surgery!!"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1414686649353,
+      "content": "Thank you Lesley hope you feel better soon !"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1414683640198,
+      "content": "Hi....sorry about late notice....have the Cold from Hell....getting worse as I type....will have to cancel tonight for everyone's sake. Must get to drug store ASAP.  Very sorry. My best to you and Alexis."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1412795854555,
+      "content": "That's so sweet,  an hour jammed in that machine was tough, you sure have to go to your happy place,  we'll see you tmr nite and I noticed the books, I'll have money for those and October Lesson Money as well"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1412781004048,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362170881913_763579892_n_126362167548580.png"
+      },
+      "ip": "156.57.14.163"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1412780986087,
+      "content": "I sincerely hope that the MRIs went well....thinking of you."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1411651388847,
+      "content": "Have a great weekend, supposed to be beautiful."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1411651332877,
+      "content": "do what you are supposed to!!!!!  be careful and keep as well as possible."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1411651288732,
+      "content": "Just the same :(  MRI on Oct 6      Now slow up and let it get better"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1411650976728,
+      "content": "was better, overdid cleaning up Tiana's place getting ready for her return on Sat....will start with the Aleeve again....it helped. and you?"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1411650920960,
+      "content": "SHoulder?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1411650915725,
+      "content": "See you then."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1411650910172,
+      "content": "AAARRRRGGGGGHHHHH!"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1411650809321,
+      "content": "Thank you for the heads up Lesley !  See you next Thursday and hopefully they get you back together soon !"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1411650766485,
+      "content": "Hi.....no lessons today....the sidewalk is ripped up, many trucks, machinery and cement truck to come...the road is a mess and parking is minimal...am making life easier for everyone and throwing in the towel re lessons today......will this never end?  Thought it was a lovely, fairly quiet corner...HA. Two years of it now....surely soon it will all be over?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1410992910006,
+      "content": "Whoops...try again, Lesley...Won't have the piano books for tomorrow night....not in store when I went to get them....soon. Won't make a difference for a while any way."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1410992835499,
+      "content": "Sorry, won"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1410441867722,
+      "content": ":)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1410441760237,
+      "content": "Yuppers!!!!"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1410366512952,
+      "content": "Hi Lesley just making sure we're on for Tomorrow nite at 5:30 - 6:30"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1409836948630,
+      "content": "Thank you"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1409746909821,
+      "content": "I'm starting on the 8th, so Alexis would be the 11th. Take care."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1409684815132,
+      "content": "Terrible week is right :("
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1409684806983,
+      "content": "Thanks Lesley  when are you starting?  Next Week?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1409671209223,
+      "content": "What an awful week for so many people. Trying to get back on track here. The 5:00 to 5:30 on Thursday has been taken so I'll see her at 5:30 to 6:30.....as things settle down, there may be a spot on Tuesday nights at an earlier time....don't know yet. Keep safe and keep well."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408628481916,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362164215247_428974420_n_126362160881914.png"
+      },
+      "ip": "24.222.102.84"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408628476904,
+      "content": "OK see you on Thursday the 11th at 5:30 - 6:30.....It's $29.00 per hour lesson. Music books are available at H & R Music in Glasgow Square (will let you know which ones later, yes?)"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1408373142048,
+      "content": "We'll take 5:30 to 6:30 and possible move back to 5:00  but I'll have to see what her swim sch is going to be before I can commit to 5 o'cloc    if that space gets filled up no worries, we can always make 5:30  :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408370716176,
+      "content": "Or even 5:00 to 6:00 on Thursday?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408370686075,
+      "content": "Thursday, I have 5:30 to 6:30."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1408369576664,
+      "content": "Do you have any day available for 5:30-6:30 ?  or 6:00 - 7:00    That way I would have her home a little earlier for bedtime."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408366668668,
+      "content": "Already have people from 4:00 to 6:30 on Tuesday (unless my 5-6 has to reschedule...they are away at the moment...). If not, we'd have to go with 6:30 to 7:30.  There are other possibilities."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1408365214232,
+      "content": "I'll be back to you in the next day  or so   Take care and say hi to Tiana for me.    Thank you for thinking of us !"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1408365169119,
+      "content": "I would like Lex to continue with voice and add piano if possible.  Hopefully on the same day, I'll have to get her swimming schedule and get back to you right away.  Earlier around 5:00 might be best if you start that early.  I hear Reggie is just awesome :)  Hope you are doing well"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1408365018576,
+      "content": "Yes summer has been awesome, going by too quickly though."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1408365004750,
+      "content": "Hi Lesley"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408204120255,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362190881911_254357215_n_126362187548578.png"
+      },
+      "ip": "24.222.102.84"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408204106744,
+      "content": "Very busy here this summer....have the bestest, cutest, chattiest little Ms. Reggie Isabella quite a lot and loving every minute of it (colic much better....raise the flag!!!!)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408204041424,
+      "content": "I'm in the process of schedule-making for this year's music lessons...have a couple of new ones and need to know what slots would be available for them....could you give this some thought and let me know ASAP what you'd like to do re vocal/piano/day/time???? If not returning (insert sobs of sorrow here, LOL) just let me know."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408203805069,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362214215242_499644773_n_126362207548576.png"
+      },
+      "ip": "24.222.102.84"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408203800618,
+      "content": "Hey, hope your back's holding up.!!!!! And that summer has been superb!!!"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1401281660397,
+      "content": "Alexis came home singing the 'back song'  thank you so much.  I have severe spinal stenosis which I have learned to deal with (sort of)  but this was just stupid I picked up a planter to bring it in because of the frost warning - stupid move - pulled some muscles but it's somewhat better this morning.   Hopefully see you next Tuesday for sure and I'll bring June $$s with me.  I got to see Reggie's picture with Tiana, what a stunner :)  Have a great day"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1401239654089,
+      "content": "Jackie, I am so sorry to hear about your back....it must be incredibly painful and  debilitating.  I wish you all the best and hope you heal up quickly!!!!  Thanks for the $. Can't believe that you took care of that piddly little thing with what you are dealing with...All my best."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1401202621043,
+      "content": "OK..thanks."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1401202603691,
+      "content": "I will have it for sue Lesley   Thank you and see you tonite."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1401196794763,
+      "content": "hi ya!!!!  I believe it's $30.00 for the lessons.....got very confused there, so I hope I'm right. Also, there are 3 lessons in June and then none until Sept. Could whoever's coming tonight bring the $30?  Hope all is well with you and yours."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1398359920539,
+      "content": "I can only imagine."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398359872413,
+      "content": "Still :gob-smacked\" by the whole thing......thanks."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1398359860456,
+      "content": "Please give Tiana and the little one our very best wishes. :)"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1398359832829,
+      "content": "II can't wait to meet the little blessing !  We have been assembling our gift for over a week now, Alexis will be thrilled with the news"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398359810581,
+      "content": "Hi Alexis!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398359808839,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126361970881933_2050936102_n_126361967548600.png"
+      },
+      "ip": "24.222.136.45"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398359788001,
+      "content": "A tad of bleeding, weary beyond belief and Happy as Any Person Could possibly Be....awesome."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1398359779111,
+      "content": "Wow  way to go Tiana !!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398359738533,
+      "content": "Born without any pain medication, surrounded by wonderful women and  has a mother of astounding strength and determination.....an experience I will never forget."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1398359694343,
+      "content": "So very exciting you must be thrilled !  Big Girl, hope Tiana is doing ok."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398359649126,
+      "content": "Name:  .....  Isabella......... (TBA)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398359627263,
+      "content": "adorable, loves hiccups and Mary Had a Little Lamb, has piano fingers and lots of very dark brown hair."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398359576270,
+      "content": "8:27 AM on 24/04/14"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398359550608,
+      "content": "21 inches"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398359543665,
+      "content": "9 pounds /2 ounces"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1398343167985,
+      "content": "k"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398343163303,
+      "content": "More info later."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1398343121455,
+      "content": "Congratulations Nannie"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1398343116799,
+      "content": "Oh so exciting !   Weight?  Name?  when?  Alexis keeps asking"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398343085217,
+      "content": "Little one is born and all is well!!!!!"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1397057399401,
+      "content": "Thank you Lesley"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1397057382764,
+      "content": "Have a good trip!!!!!"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1397057359231,
+      "content": "Leaving this Friday so Jenn will bring her next week as well.  Good luck with the Baby !"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1396970535426,
+      "content": "Oh, and have a good trip? Leaving soon?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1396970520008,
+      "content": "Will see Alexis tonight. Great."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1396970507307,
+      "content": "Nope, no baby yet!!! Limbo. Waiting."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1396895554353,
+      "content": "Alexis will be at Music tomorrow evening, I'm in Halifax with Lauren so her Mom is bringing her.   Jennifers cell number 759-4023  in case you need to cancel for any reason,   Any baby news?"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1396895500968,
+      "content": "Hi Lesley"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1394630244411,
+      "content": ":(   I'm sure you will"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1394628913485,
+      "content": "I'm afraid that we had to have her put to sleep yesterday afternoon. I will miss her forever."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1394627902491,
+      "content": "Gob BLess"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1394627899539,
+      "content": "I apologize Lesley I was off yesterday afternoon, running with the kids.  I got your message at home.  Dare I ask how it went with your dog.  I lost my faithful friend two years ago, I had her for 14.5 years and still miss her everyday."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1394554212230,
+      "content": "Didn't hear back re lesson tonight..left message on home phone..have sad situation here with my old dog..at vet's and a decision has to be made today unless a miracle occurs...no lesson tonight."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1391606901049,
+      "content": "Thank you Lesley I hope you feel better soon, and see you next Tuesday for sure :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391558694710,
+      "content": "Good luck with the new refrigerator...sorry about the confusion re messages....I check my computer every morning and , on occasion, at night....so am pleased that we made contact....I DO check my phone messages (land phone) regularly during the day.....Just subtract today's lesson from Feb's fees. Looking forward to seeing Alexis next week."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1391535236088,
+      "content": ":(  so I will be replacing it tonite,   Alexis will make her lesson - her mom is going to bring her.  She will have the $60.00 for Feb.  Is that correct?  Thank you and see you next week, hope you're enjoying this most beautiful day"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1391535184534,
+      "content": "I have a refrigerator emergency - it died"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1391535161759,
+      "content": "Hi Lesley"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1389022030570,
+      "content": "She is sooo excited !"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389021906349,
+      "content": "You are very welcome...looking forward to meeting Alexis!!"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1389021471344,
+      "content": "Great thank you so much "
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389021287160,
+      "content": "59 Mackay St, New Glasgow.....go over bridge and straight up George st..keep to right of church in middle of road...go straight through Temperance St....Mackay St is first on the right and I am the first house on that corner....big yellow house with brown screen porch on front....just come on in..no need to knock and I am right there in the music room. First lesson will only require a binder with lined paper in it. Payment  for the month at $15 per half hour lesson and payable for the month  on the first lesson of that month (any cancellations on my part during the month are just subtracted from the payment on the first lesson of the next month).  755-6759....THANKS."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1389020896488,
+      "content": "ok, so Tuesday the 14th of January at 6:30    your address?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389020860315,
+      "content": "OK, do how about we start next Tuesday?  "
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1389020808683,
+      "content": "Yes Tuesday is perfect, and 6:30 is a good time"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389020635280,
+      "content": "So Tuesday is OK?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389020616787,
+      "content": "But I now have Mondays at 5:30 or 6:00..And I still have the Tuesdays from 6:30 on....they used to have the dialogue practices on Mon night so I thought I would be free on Thursday nights BUT they switched it."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1389020511883,
+      "content": "No worries, so Tuesday @ 6:30 is good"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389020466354,
+      "content": "Whoops, that is gone....now have to be in Pictou on Thursday evenings at 7:00 for the Rotary Musical. Just found out I have a small part. I am sorry about that."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1389020372508,
+      "content": "SOrry, Lesley I just reread you times, Thursday at 6:30 would be the best time if that is still open "
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389020347865,
+      "content": "Yes, for sure....did she want to start this week or next?"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1389020325908,
+      "content": "I apologize for the delay swamped here at work, I will take the Tuesday @ 6:30 if it's still available."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389020226434,
+      "content": "hi ya"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1389020209780,
+      "content": "Hi Lesley"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389019858984,
+      "content": "Sorry about bothering you, but I have two others waiting to hear times available and I can't do that until I hear from you....thanks."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389019286091,
+      "content": "any news on a time for Alexis' lesson?"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1388933937276,
+      "content": "Oh, thank you !  What a beautiful day I'm off to the gym fora few hours and then hopefully some snowshoeing later this afternoon "
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388933848256,
+      "content": "Wow....see how young you look in your pictures!!!!!  Thanks."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1388933707762,
+      "content": "Hi Lesley it's my granddaughter Alexis and I will check with her Mother today to see what is the best time, and I will let you know right away, but one of these will be perfect   Thank you"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388932119490,
+      "content": "Jackie, I have Tuesday evening (6:30 on) and Thursday evening (6:00 on).  I hope you can choose a half hour  from these available times.....I still have 2 more  people to slot in, but will wait  to hear from you first. Will give directions, etc. if you are able to bring your daughter.  Thanks."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1388682391043,
+      "content": "Thank you Lesley and a very Happy New Year to you as well"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388680822882,
+      "content": "Will be doing some serious planning today and tomorrow...will be in touch ASAP and, by the way, Happy New Year!!"
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1387218178848,
+      "content": "Sounds Perfect Lesley  Look forward to hearing from you.  I'm so excited and Alexis will be too.\n"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1387207026182,
+      "content": "I will send you available times in a day or two (have three jockeying for position in the new year!!).  Cost: $15/half hour and payable on the first lesson of each month for the month. Will send more info later."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1387206893928,
+      "content": "yes, I'm still taking (in Jan) new students...thanks for contacting me. 755-6759 (in New Glasgow). 59 Mackay St."
+    },
+    {
+      "sender_name": "Jackie Daley",
+      "timestamp_ms": 1387201084754,
+      "content": "Hi Lesley\nI have a six year old granddaughter that loves to sing.\nFor Christmas I would love to give her singing lessons.\nAre you taking new students?\nI work from 9 - 4:30  (closed at noon 12 - 1 )  at Partners Construction  485-4576 or my cell  is 331-0422    Thank you for your consideration"
+    }
+  ],
+  "title": "Jackie Daley",
+  "is_still_participant": true,
+  "thread_path": "inbox/jackiedaley_10154106914663662",
+  "magic_words": [
+    
+  ]
+}

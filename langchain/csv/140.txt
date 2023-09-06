@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Kathi Ryan"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1576535544395,
+      "content": "OK....sounds good...no rush!!!"
+    },
+    {
+      "sender_name": "Kathi Ryan",
+      "timestamp_ms": 1576529906380,
+      "content": "Let\u00e2\u0080\u0099s wait till you receive it. I\u00e2\u0080\u0099ve been without wifi, still am so periodic checking. Plan to chat with my kids soon."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1576520654848,
+      "content": "Kathi , I want to send you some $, but have lost your email address.....please send. thanks."
+    }
+  ],
+  "title": "Kathi Ryan",
+  "is_still_participant": true,
+  "thread_path": "inbox/kathiryan_2341495275902215",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Kelly Atwater"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kelly Atwater",
+      "timestamp_ms": 1487201370047,
+      "content": "Hey there. We can meet tomorrow evening if that works?"
+    }
+  ],
+  "title": "Kelly Atwater",
+  "is_still_participant": true,
+  "thread_path": "message_requests/kellyatwater_10158157667970246",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

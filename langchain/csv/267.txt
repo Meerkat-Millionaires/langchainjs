@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1447667055918,
+      "content": "HI"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1447643543596,
+      "content": "HI"
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/facebookuser_1094516373949120",
+  "magic_words": [
+    
+  ]
+}

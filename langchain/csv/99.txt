@@ -1,0 +1,1808 @@
+{
+  "participants": [
+    {
+      "name": "Kit Douwsma"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1641774423925,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1641774419944,
+      "content": "Lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1641756833449,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid02mJtwhifQeVzkZHnjitGeq4eqVo6xbs9kFfPP5VvsqaZUjHcRJESPN8ycxGXRFgtXl&id=593472751117593"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1641756653978,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid02mJtwhifQeVzkZHnjitGeq4eqVo6xbs9kFfPP5VvsqaZUjHcRJESPN8ycxGXRFgtXl&id=593472751117593"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1641754724224,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid02mJtwhifQeVzkZHnjitGeq4eqVo6xbs9kFfPP5VvsqaZUjHcRJESPN8ycxGXRFgtXl&id=593472751117593"
+      }
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1641433064303,
+      "content": "I haven\u00e2\u0080\u0099t seen you around. A belated Merry Christmas and a peaceful  new year. Thinking of you often Lesley! \u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1634410591908,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008fBeautiful family tree"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1634410433993,
+      "content": "Reacted \u00e2\u009d\u00a4 to your message "
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1634405977198,
+      "photos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/photos/245136664_451280332977309_1848132333377551003_n_722236855420419.jpg",
+          "creation_timestamp": 1634405976
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kit Douwsma"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1631479868212,
+      "content": "\u00f0\u009f\u0098\u0089 !!!!!"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1631235193265,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1631226319882,
+      "gifs": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/gifs/100415925_3896456880429338_3935169828255432704_n_563971111717304.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1631226241526,
+      "content": "lots of time left!!!!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1631226159303,
+      "content": "ssible.  Am now connected to the Palliative Care group at the Abereeen, the only.unit worth anything...started by Jarrell Farrell and is now a shining example of what such a care unit can be.....I am still in my present home and hoping to remain here until I need more hospitalization.....and I do not want to die at home (way to much angst in tht situation for Tiana, Reggie, tiana's roomie and her daughter.....plus Tiana and I have agreed on this due to previous experience....not going to happen for quite a while....so in the meanwhile, it's talks, laughs, sharing experiences, etc.....Damion was home from Ottawa for week while I was starting new med...what a relaxing, effortless time.....take care you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1631225543201,
+      "content": "am fairly well, considering a dealth sentence (COPD) , but doing my best to push the beach away forr as long as pod"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1631225325931,
+      "content": "lutely wierd lately and I always need a moment to figure out what the heck I am writing about and try to find my way by fighting through the breezy curtains before me.,...will get there, Kit, just so much odd stuff goin' on, yes?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1631225134106,
+      "content": "I will very much get back to you/////Life has become so obsoli"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1631224080976,
+      "content": "Hi LeslieyHow do you fare this particular  day?   I haven\u00e2\u0080\u0099t forgotten you . These are different days. Love seeing Reg in Tiana\u00e2\u0080\u0099s posts about. She reminds me of you. Carrie is living with us .She is in the processof making it a workshop for metal work and jewelry.we have2 dogs (Raven and Maggie). 2 cats (Mikie and Roger) and Carrie\u00e2\u0080\u0099s 2 cats ( Daffodil and Lucy)  We are ok. , getting older and have hearing struggles and I still have fat and hernia struggles  and other  stuff . But   Our tree s. Flowers and bushes are growing. We have lived in this house 21 years!   We moved our bedroom into the living room    So much of our  rooms to play I are on the first  level .I have a room upstairs  that I haven\u00e2\u0080\u0099t unpacked yet for music , creativity and photos and books.We watch too much tv but was delighted to go tothe beach and swim once this  summer. I love  the water and the sunshine. Makes me feel free! Sending you \u00f0\u009f\u0092\u0095 and hugs"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1624826820464,
+      "content": "Blinded us but I don\u00e2\u0080\u0099t know what todo but cry and care and walk along side of our deeply grieving friends and realize that they are the first people of Canada"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1624826661632,
+      "content": "There is no answer to solve all this abuse and grief,that our school textbooks disguised andthe heroes of the explorer s were exalted .missionaries, priests , politicians, and white supremacy"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624807900922,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1621371951823,
+      "content": "And I forgot, you are a an amazing  artist!"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1614118332655,
+      "content": "But you are a great singer, actress and friend!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614107270112,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0qXdtbtHQieVcpu2bCAeMCZ69oCJbBEmpXxB5N9eGBdr4VdB1Wa5PPzCx5CftU9Xhl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1612789992061,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kit Douwsma"
+        }
+      ],
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0NHuumXgXh38uDSbGnsexqGnQZna2k9TH81kG7WsdvW6VmJYkazSfgUxF1gor165Rl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1608920496191,
+      "content": "Merry Christmas Lesley! Hope you have a good daytime! Hope you have some goodies to eat and laughter from that granddaughter of yours and perhaps some turkey with Tiana and Jar . I forgot how to spell his name again . \u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1607368129645,
+      "content": "Kit sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/WestOttawaLadiesChorus/posts/pfbid0M77MAcZQycqNaxssfReYyMS7SjRYxqPRHGFa8AqMTCx4mCzwZUy4kaG6XFqPaBAMl"
+      }
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1607007345018,
+      "content": "Hope that I'm the First Person to put a CHRISTmas Tree on Your phone. \n\nIf luck is a raindrop, i'd send You a shower.\n\nIf hope is a minute, i'd send You an hour.\n\nIf happiness is a leaf, i'd give You a tree.\n\nAnd if YOU need a FRIEND, You will ALWAYS have ME.\n\nSend this to all the people You care about.\n\nEven me.\n\nIf You get 3 back, You're a True Friend!",
+      "videos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/videos/12349769_1530333383958687_595733009_n_135694421424995",
+          "creation_timestamp": 1607007344
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607007169574,
+      "content": "Hope that I'm the First Person to put a CHRISTmas Tree on Your phone. \n\nIf luck is a raindrop, i'd send You a shower.\n\nIf hope is a minute, i'd send You an hour.\n\nIf happiness is a leaf, i'd give You a tree.\n\nAnd if YOU need a FRIEND, You will ALWAYS have ME.\n\nSend this to all the people You care about.\n\nEven me.\n\nIf You get 3 back, You're a True Friend!",
+      "videos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/videos/12349769_1530333383958687_595733009_n_414782429647642",
+          "creation_timestamp": 1607007169
+        }
+      ]
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1603892015700,
+      "content": "Kit sent an attachment."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1602697180894,
+      "content": "Howdy!"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1602696811384,
+      "photos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/photos/121521944_1276482522707175_6636169816260628296_n_398021754699700.jpg",
+          "creation_timestamp": 1602696811
+        }
+      ]
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1589128298572,
+      "videos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/videos/18502470_1671629569813148_6831430661526519808_n_2953781864711612.mp4",
+          "creation_timestamp": 1589128298
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1588608798485,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/tiana.fusco/posts/pfbid0AsZ54MDR8UcaaGhKren67oDVyEUQ8qhBPLud6LxZRjUh5bWPwMTr4iKfTcKqo1Vel"
+      }
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1587068114997,
+      "content": "Yes!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1587058535924,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/elandken/posts/pfbid0LX37AciqAhXp83fZDZ8b5YHx8noEFRbPRqD7BBBqEpABNQakA2gcSAJqd5vkYH5yl"
+      }
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1586210513778,
+      "content": "Found this photo today."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1586207651758,
+      "photos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/photos/92000683_2698090313653051_8046509714525126656_n_2698090306986385.jpg",
+          "creation_timestamp": 1586207650
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1573321464448,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/KneeCurve/posts/pfbid02gdWVS69TecTKPGDDpW1ZNrM2tNo9W75S9iSgqVgGHqNoscM3oLhMBFTpcKSurANml"
+      }
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1564063431331,
+      "content": "\"Hi Les, I am home now. Just noticed yu in chat.    Hope you are having a good day"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1561914626312,
+      "photos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/photos/65392686_344423033146791_8145887857525915648_n_665386513922476.jpg",
+          "creation_timestamp": 1561914622
+        }
+      ]
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1561914543997,
+      "content": "Les,another painting by Vanessa  Pierche  Fred and Christy bought it for me a couple of years  ago.  I love it!",
+      "photos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/photos/65392686_344423033146791_8145887857525915648_n_344423026480125.jpg",
+          "creation_timestamp": 1561914540
+        }
+      ]
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1561486484906,
+      "content": "Love you too, Lesley. No need to apologize. Hope the oxygen will help you enjoy some of the summer beauty."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1561486202932,
+      "content": "sorry...have been in and out of hospital...just returned home once again this AM..Brutal disease COPD.  I have home oxygen now and things should be better for a while.  Will write more at a later time...love ya!!!!"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1560389636371,
+      "content": "O my I must write something more meaningful than that .Thinking about you and sending love ."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1559788797966,
+      "content": "Hi Les,Just dropping in to see what condition your condition is in"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1557367866306,
+      "content": "Kit sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/IntoTheSanctuarySpace/posts/pfbid02gShQY2RmjwEoYtMf2xN8t3i87zn1xRzMsnKpGzJt7LAA7JLxRwiUG94RM8KoSfjql"
+      }
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1557366655102,
+      "content": "Hi Lesley , I have not forgotten you!  I just hope your cat  comes back  .  Such a long winter !   Just wanted  you to know you are on my mind and in my prayers."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1551324394164,
+      "content": "Kit sent an attachment."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1550939380651,
+      "content": "Lve that portrait. Am trying to move things around in order to have painting stuff all in one place....maybe find enough grit to do some art,..been missing it, but still hands are shaking pretty badluy, but since <i turned to abstract, that shouhldn't make much difference...LOL. Hope Fred is not too uncomfortable."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1550854557243,
+      "content": "Same artist VanessaPiersche"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1550854465745,
+      "photos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/photos/52594302_233190114302986_4806241697564459008_n_233190110969653.jpg",
+          "creation_timestamp": 1550854463
+        }
+      ]
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1550010836009,
+      "content": "No snow!"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1550010767847,
+      "photos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/photos/52368356_1231336490349335_9062191380343816192_n_1231336487016002.jpg",
+          "creation_timestamp": 1550010764
+        }
+      ]
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1549401663706,
+      "content": "I love to look at it."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1549399389050,
+      "content": "it's lovely , Kit!!!!"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1549336071719,
+      "content": "Painting by Vanessa Peitsch.   I hope that is her last name but such a peaceful painting  it is hanging in her parents \u00e2\u0080\u0098 bakery in Chatham  I just wanted you to see it.  Love and hugs",
+      "photos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/photos/51214623_517610098646848_1119876863750045696_n_517610095313515.jpg",
+          "creation_timestamp": 1549336068
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1549198643523,
+      "gifs": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/gifs/25429058_315292148989121_5462517287418331136_n_1999939720059639.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1549060958076,
+      "sticker": {
+        "uri": "messages/stickers_used/48784062_1186979188117963_9021698750799675392_n_213405665475325.png"
+      }
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1549060949619,
+      "content": "Sending hugs and love and happy songs."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1549060892977,
+      "content": "Oh my dear Lesley, I am so sorry to hear this.  Is there anyone  there to take care of meals  and you? Resting in your own home and building up your reserves . Sounds difficult. But worse was before.  We will be praying for you Lesley for courage , strength , and healing in every way it comes.   I wish that I could help you  .   I know Reggie will be a great help  with her antics and words of wisdom"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1549055215314,
+      "content": "Have been in the hospital for a week's stay....things were pretty awful. Added to the current issues is a heart malfunction, but am home to build up reserves before geoing to Hfx for angiogram. Belated Happy Birthday,my dear."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1546804983384,
+      "content": "Hi....I actually got another friend request from you which I ignored so you may want to check your account.    Hold your finger on the message until the forward button appears...then hit forward and all the people you want to forward too....PLEASE DO NOT ACCEPT A NEW friendship FROM ME AT THIS TIME."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1545685095234,
+      "sticker": {
+        "uri": "messages/stickers_used/46949788_1074619346032831_6110986696902311936_n_383649078463198.png"
+      }
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1545685085015,
+      "content": "Love you Les!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1545671974117,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/sondra.hooley.5/posts/pfbid064xZXLtLrm2mNdLP6CskkaV27dkAkr2sA1cc1VgMByFzK8NRD5DGgFokVNsrkewWl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1545670483911,
+      "content": "Great picture!!!!!  Contentment is a soft, cozy bed all to yourself!!!  Got your Christmas card and send you best wishes here.....health is dicey, so no cards sent this year and minimal decorating....had a wonderful week-long visit from Damion. Terrific boost. Take care, dear one."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1545266287344,
+      "photos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/photos/48370352_2454920631190217_5460299632594649088_n_513899945686096.jpg",
+          "creation_timestamp": 1545266286
+        }
+      ]
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1545018422994,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1544974749857,
+      "videos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/videos/12412543_577708572383870_1018189197_n_1043886609146135",
+          "creation_timestamp": 1544974749
+        }
+      ]
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1544742687413,
+      "content": "Merry Christmas, from our family to yours! Enjoy!!! \u00e2\u009d\u00a4\u00f0\u009f\u0098\u008d\u00f0\u009f\u008e\u0084\n\nSend this to all\nYour friends and family including me",
+      "videos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/videos/10000000_1737722099602364_4832046531430972874_n_461980110995202.mp4",
+          "creation_timestamp": 1544742687
+        }
+      ]
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1542575514764,
+      "content": "So sorry to hear that you were  in icu but very relieved that you are home  recovering now ! Please take good care! Love you Les. We are finishing the flu. I am stil l trying to make  myself lose weight which is one of my biggest thrills, ..not!  Fred just finished his cardiac wellness course . Carrie is back with us for. Awhile.  Winter is  definitely  here to stay !Plastic\u00e2\u0080\u0099s finally on the windows. Our cat is trying to poke through them just as fast as we put it up! Hugs ."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1542545441644,
+      "content": "Hi ya....another 6 days in ICU...home and recovering ....on it goes...hope all is well with you and Fred"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1534805128507,
+      "content": "Yes, a couple of years after university!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1534802665519,
+      "content": "nice pic.....boy, that was a while ago, yes?"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1534798255400,
+      "content": "Kit sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/photo.php?fbid=59903316359&set=p.59903316359&type=3"
+      }
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1530490704577,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1530457300895,
+      "content": "Onward and Upward for you and your family...also OF COURSE, Canada and Here's To July !!!!!  More later."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1529607404673,
+      "content": "Kit sent an attachment."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1529607404671,
+      "content": "Kit Douwsma sent you an invite to join Messenger."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1529607392031,
+      "content": "Phone rang,don\u00e2\u0080\u0099t know what the \u00e2\u0080\u009cq\u00e2\u0080\u009d is!"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1529607333009,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008fHow are you these days? I have been reading about copd and thinking of you oftenI might even break down to write you a snail mail letter! I  do enjoy this weather , sunny and coolishwarm.  All my children  are vacationing. In NYC  for a little bit.   (Few days) I have. EnjoyedReggie\u00e2\u0080\u0099s adventures and also Tianas\u00e2\u0080\u0099  I hope you are enjoying the gardens of spring and summer. Our car  is working well!  Lots of love q"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1529602851206,
+      "content": "Thanks Lesley. It is just man part stuff and  he gets better  every day. the operation went well. I am looking after 3 cats of the girls and mycatMikey  who wants to leap outside any chance he gets and the 2 dogs. Honestly  the animal business is harder\u00f0\u009f\u008e\u00af\u00f0\u009f\u0097\u00bb",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kit Douwsma"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1529597703817,
+      "gifs": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/gifs/33677741_10160519891980258_692913224256847872_n_969260946580865.gif"
+        }
+      ],
+      "ip": "24.89.210.42"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1529597137968,
+      "content": "Oh my, didn't know about your latest medical challenge...give Fred my best and I send YOU a special gift of extra strength. Take care of yourself as well."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1526167911902,
+      "content": "Kit sent an attachment."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1526167911898,
+      "content": "Kit Douwsma sent you an invite to join Messenger."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1526167907918,
+      "content": "Have a wonderful Mother\u00e2\u0080\u0099s Day, Les! Our tulips, hyacinth s  and daffodils are up! Love the sunshine\nAnd spring. What a difference!  Even the grass is bright green . We are thankful that we don\u00e2\u0080\u0099t live on the St . John River. So many are dealing with so much.      How is Reggie these days? It is so enjoyable getting the updates of the preschool.  She is certainly growing up  quickly.  Hope you have a good week. Love to you and yours."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1525393919544,
+      "content": "Thanks for writing Les . I will respond soon!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1525097572737,
+      "content": "Kit, got your letter and I am as tardy getting back to you. I guess our families really need us, yes? Jare is back home again and we are in the oft-repeated phase of putting him back together again.  BUT, the temperature is rising, the snow is missing, my forsythia is showing a haze of yellow....Hang in there and plan some treats for yourself during this week. Love ya."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1525097418663,
+      "content": "You sent an attachment."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1520879577786,
+      "content": "Adorable!!!!!   Such wonder and excitement!"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1520815810867,
+      "content": "Kit sent an attachment."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1520622021203,
+      "content": "good news!!!"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1520621931536,
+      "content": "Yes they called our other car  a write off. with the insurance an d our income tax we paid cash  but it is still 2008! Really very thankful!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1520621691312,
+      "content": "wowzers!!! hope it serves you well!!!!"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1520621483083,
+      "content": "Sorry I haven\u00e2\u0080\u0099t written yet.just bought a newto us car!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1520621409576,
+      "content": "back at ya"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1520617414173,
+      "photos": [
+        {
+          "uri": "https://interncache-ncg.fbcdn.net/v/t34.18173-12/19988988_134746310444183_1883193243_n.jpg?ccb=1-7&_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-ncg&oh=00_AfDDIHR_De1YfOMjk5ZB1rAJ2j9EvSRA-mBmBezzisNMlA&oe=64AE365F",
+          "creation_timestamp": 1520617413
+        }
+      ]
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1519401453949,
+      "content": "It was like that in Saint John...the whisper of spring somewhere."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1519401319029,
+      "content": "I've \"kissed\" a deer too....it was horrifying. Just keep pluggin' away at the weight, it's so hard to make it move and to stay motivated///but good for you so far!!!!! Have a lovely day if possible...weather here is sweeet."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1519401195008,
+      "content": "Good appointment Les.i said that I was sorry that I only lost 20 pounds not 60  andhe was very affirming and said that  he was not expecting the60 pounds by then and next appointment (June) another  20 to30  Iwassoshocked. Andhe was sonice .he toldmeto go. To emergency when. Worriedandsick.  They would not do the hernia operation just. The emergencyI am planning to write snail  Les   We did have a run inwith a deer  all. Arewell but not the car order. Never a dull moment Thinking. Of you!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1519400601138,
+      "content": "am pathetic at the letter writing, but have changed my morning ritual to include delivered Chronicle Herald and no face book"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1519400552833,
+      "content": "great news"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1519400548332,
+      "content": "whoops, just saw the post"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1519400503340,
+      "content": "Kit, let me know hw the appt went. Crossing fingers here."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1516044368303,
+      "content": "Oh Lesley, fallingover big dogs has to be their fault not ours! How are you?  I fell a bit down half the stairs but I am ok now \n, hurt foot , knee and neck abit , so I\nAm thankful now for my fat derri\u00c3\u00a8re. Takes some of the brunt of a fall . Hadtogetup. And go cuz we Hadto. Drive to  Frederic ton so put on boots.   Really, I was relieved nothing broke.   You know Fred and I should never have a job like fixer upper or love it or list it.our marriage would be tried to the. Nth degree. Today we  tried plastic ing the dining room window!   Not a pretty sound! Out of the mouthes of humans ...  anyway it is on the window! Look forward  to the cards  sometime but meantime hope you feel much better!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1516038317013,
+      "content": "Oh yes.....thank you for your Season's Greetings!!  I do appreciate your comments re my card....it was one half of an old painting tarted up a bit, reduced in size....lots of trips to Staples for paper, envelopes, glue etc....Will mail you a set of 8 note cards: some are lino -prints, some water color, etc.  These are all old works. I sure had fun doing these. Keep well and good luck with any current health endeavors.....I tripped over the Big Dog during the night a week or so ago, smashing both knees and an arm...what a clutsz!!!!!!!"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1515887778076,
+      "content": "Hi Lesley, Just wantedtoknow  that you received my Christmas card  not because it was that great but because I wanted you to know how thank ful  I was to receive yours with your own beautiful art  expression  that I will  frame. Just wanted you to know how much I appreciate it. Love"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1515259430038,
+      "content": "Kit sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/timelinenews/videos/2030808233609297/"
+      }
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1514672150581,
+      "gifs": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/gifs/11413086_1642926979253615_1564915049_n_10210690311042999.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1514661233121,
+      "gifs": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/gifs/11413086_1642926979253615_1564915049_n_869714386535522.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Kit Douwsma"
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1513595695599,
+      "content": "SWEEEEEEET!"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1513541589036,
+      "videos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/videos/12412543_577708572383870_1018189197_n_10210600481397314",
+          "creation_timestamp": 1513541588
+        }
+      ]
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1512856980582,
+      "photos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/photos/25189940_10210545804830434_743466342_o_10210545804950437.jpg",
+          "creation_timestamp": 1512856980
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1512829489920,
+      "content": "Thanks, Kit!!!"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1512414344816,
+      "content": "Sure, it is..... 674 King George Highway,Miramichi,  NB. E1V 1P2."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1512414080954,
+      "content": "could you give me your mailing address please?  If I had it, I've misplaced it!!!  lol, can't remember."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1508717853092,
+      "content": "Please keep the poppy going xx",
+      "photos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/photos/14875124_10209272942753817_199553138_n_10210218626251174.jpg",
+          "creation_timestamp": 1508717852
+        }
+      ]
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1508270376107,
+      "content": "I just wanted to play with pictures\u00f0\u009f\u008e\u00ad,Fred is being good and doing his walking on the  uneven floor s of our first  story of the house .Love,kit"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1508270049153,
+      "content": "Thanks Lesley, we are squirrelly at home between dogs cat, FredanD  I have  gimp knees and I have an opposite foot that is carrying on . We are old geisers.Fredis  actually doing better today. Sorry you are flat on the back  yet again .the Tribs , and trials of the golden years, the painted ponies  go up and down \u00f0\u009f\u009a\u00a2\u00e2\u009b\u00b5\u00ef\u00b8\u008f\u00f0\u009f\u009b\u00ab\u00f0\u009f\u00a4\u00b9\u00f0\u009f\u008f\u00bd\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1508253921737,
+      "content": "May you and Fred be soon able to stroll together as above!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1508253896362,
+      "gifs": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/gifs/19292189_1041448959321150_7965713064630681600_n_831907323649562.gif"
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1508253865176,
+      "content": "OMG....yes, and much appreciated plus kitty (we have 4 at the moment AAARRGGHHH). Hope you are recuperating from the trials of hospitals, worries, fatigue, etc. And sincere Best Healing Wishes to Fred!!  Suffering from more pain (now in lower back and spreading laterally)....will be spending 3 days mostly flat on my back (been there, done that...it works to some extent). This is my excuse for not sending you message re the newspaper photo."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1508253645914,
+      "content": "Did you receive the mail with  Jar ett's photo yet"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1506451476078,
+      "content": "one of ours loves the bathroom sink. lol"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1506432305699,
+      "photos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/photos/22050568_10210041092412939_672436094_o_10210041097333062.jpg",
+          "creation_timestamp": 1506432305
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1506014223703,
+      "content": "thanks...good luck with the weight...so hard to do."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1506014207850,
+      "content": "it's Jarett...but we accept all interpretations..lol"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1506006985194,
+      "sticker": {
+        "uri": "messages/stickers_used/69092109_2155543731223344_4295988450244427776_n_1180650008712726.png"
+      }
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1506006967361,
+      "content": "I will mail  the picture of Jarred or is it a t tomorrow"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1506006859569,
+      "content": "Fred is number 9 on list .they  will phone on a   Friday and he Has to be there  on a Monday an me too.My. Surgeon wants me to lose 60  pounds first . I have lost 8.  So far and sometimes I am so hiungryfor the forbidden foods!  The operation will be. 7  hours..hmm..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1506002369117,
+      "content": "hope all is well.....any closer to you having your issues dealt with?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1506002349685,
+      "content": "59 MacKay St, New Glasgow, NS...B2H 3H5"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1505862893442,
+      "content": "Hi Lesley would you message me your address and postal code so I can mail you your newspaper picture of Jarret as a baby. Thanks"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1503070559462,
+      "content": "It is a nice size and I think that he was given an Easter bunny.  Chocolate...."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1503066879947,
+      "content": "It is a newspaper article with a photo of  Jarret  on it .(baby). I do not have your address and I would be glad to send it to you. You keep well too, Les."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1503066593005,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1503063463103,
+      "content": "I would love to have that picture of Jare. Is it from his hospital visit when a baby? Do you need my address?  Keep well."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1503012670566,
+      "content": "Thanks Lesley, I see the surgeon next week. (If the don't postpone) Still waiting for Fred's call. I found a newspaper picture of baby Jarret. Do you want it? It fell out of a book that I was going to read. Are you getting outsy too?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1502977203036,
+      "content": "Kit, I hope all your tests, appointments and surgeries go well and are sooner, rather than later.....upsy/downsy here, but surviving pretty well......hi to Fred and keep safe!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1496055400170,
+      "content": "Hi there...good to hear from you. I am slowly improving once again (\"never say die\"!!). As the trees green up, my spirits rise and mornings are happily anticipated instead of dreaded. Now, if only it would warm up a tad!!! Human condition: Be never satisfied...lol. At the moment , all is well here. Life imitates roller coaster action. Strangely, this roller coaster springs new twists, turns, stomach churning drops on us when least expected!  3 fractures in spine over 1 year, continued COPD, various aches and pains....but life is good today. What more can one ask? Good luck with ALL your (and family's) health challenges. I do think of you often, but have been taking more breaks from the laptop than before...but ALWAYS do the daily Chronicle Herald crossword puzzle, a mental kickstart to each day. Keep well. Keep me informed. And, yes, Mother's Day was pretty terrific, thanks to Tiana. Miss Damion on these days and Jare doesn't really get the whole idea of celebration days."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1495648283954,
+      "content": "Hi Lesley, I have been wondering how you are . I am terrible about Mother's day this year. Hope yours was a good one. Are you lying down still or up for a bit. I finally heard that my consultant appointment with the surgeon July 13. Fred is supposed to meet with his surgeon between mid to late June. No definite date.   How is spring and flowers and sunlight?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1494687590039,
+      "content": "Thinking of you...",
+      "share": {
+        "link": "https://www.facebook.com/mothersdaypeoms/photos/a.642760029202312/833742086770771/?type=3"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1492723600006,
+      "videos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/videos/10288897_344887215685465_268088416_n_10208780934429777",
+          "creation_timestamp": 1492723598
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489583589245,
+      "content": "Thank you , Kit."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1489536300745,
+      "content": "Any way , my friend, I hope  that you keep  determined somehow.   and that the pain will let up  and that you can sleep and  when the snow ends you will enjoy the scent of flowers and warm breezes,  and   a heart of love from your Reggie. Meantime, I send love hugs and prayers.  Hang in there, Lesley! Love , Kit"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1489536025418,
+      "content": "I was in Moncton with Christy and Carrie and that really was fun.  I needed to be  in the city for fun and frolic.   The girls were home for a few days during March break.   Now  to tell you about what I shall be doing in my spare time. My sister and her husband phoned and said that they are coming late June.  She is a  hyperactive  athletic  neat freak that can clean her whole house in a couple of hours..  We gave dog eaten table, chairs, couch  and  I am very  blind to dust and dont notice until I start cleaning.   I also hold on to many useless things. So it will be a very  busy spring and  we have to give her some rules about the dog.sThey are very affluent and just brought a truck that is worth ;more than our house.     I should stop going on about it but I will another time."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1489535385372,
+      "content": "That doesn't help.  Well, I hope  that  Jared     will be ok in Trenton and at least he has a little  money to live on.  I hope too that some help will be able to get back to New Glasgow  for him.  Tonight is another snow storm  Fred and I have still not heard from the hospital in Saint john. He gets tired more easily so I hope that somehow they will see him soon.   We read in the paper about overstuffed hospitals and cancelled surgery.       ."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1489534956163,
+      "content": "Oh my dear Lesley!   What are your vertabrae    up to? How dare they collapse on you and give you the ithe pain  and  crap you had last year!   I am so very sorry Les.    Are you flat on your back again?     I am  speechless about  what to say;  I am  just so sorry."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489522058766,
+      "content": "sayin'"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489522050571,
+      "content": "aaaaarrrgggghhhhhh.....just satin'"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489522031465,
+      "content": "Hope that things are as well as they can be with you and yours."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489522011358,
+      "content": "OK...yes, have been hiding from a pall of doom for a while....update: Jare is now under the financial umbrella of Mental Health Assistance (the only way he could afford...minimally.. to live on his own) and living in an apartment in Trenton....let that be as it may for however long it lasts. Tiana and Reggie are fine...Damion and family continue to live in Ottawa with all the built in ups and downs of family/children/financially driven father....I have mended the T 6 vertebrae, weathered shingles, undergone a tooth extraction and answered a Sunday call from my family doctor re my Xrays last week....Vertebrae T 7 has decided to collapse....which I wasn't surprised about, given the new and increased pain in the same area...So, I deal with the COPD and am back at square one with the stupid fracture crap......hence, my silence of late. Now have given myself a few days to curse, moan and the occasional tear. Onward and upward."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1484871491161,
+      "content": "I understand that it is at least 200.00///can't dp that and also too late.......caught it early...and , truth to be told, the pain that I have had from pleurosy and fractured vertibrae has at least offered me a modicum of cushioning against this pain....it \"ain't nonthin', my dear\"....just cruising on and enduring....so, will connect again, as soon as I  feel up to it....Love ya, Kit...hang in there"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1484870883102,
+      "content": "Lesley Dunn,  scream!   Shingles, I had  in Winnipeg. All I can say  is      No!  Is this what anyone needs NO!  And especially not you, Are you able to get that needle? or isit too expensive?   It is here.   I dont think that I had it after Ihad it in Winnipeg. I hope you have a mild case.   Even if that is true scream.     Sure sorry,"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1484870400214,
+      "content": "All I can say that after 10 months of illness/pain (sometimes excrutiating)//// .....I now have SHINGLES,,,,,,good grief."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1484255514555,
+      "content": "Now try to make it bigger and /or get a magnifying glass to see your name"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1484255446262,
+      "photos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/photos/15991627_10154127430207256_1612559070_o_10207990896519323.jpg",
+          "creation_timestamp": 1484255446
+        }
+      ]
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1484251316201,
+      "content": "HiLesley,  the poster is about an exhibition of photographic art. Your name was the second mentioned  among others. I think that  is in Saint Johnnb . IfCarrie can tellmehow. To send you a picture of  it , I will."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482364096911,
+      "content": "back atcha"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1482361414980,
+      "content": "LOL!!!!!!  Love all of your message!You are one funny gal! So glad you inherited that huge gift from your father.! Merry Christmas !"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482338386966,
+      "photos": [
+        {
+          "uri": "https://interncache-ncg.fbcdn.net/v/t34.18173-12/13705309_1731497060439544_346967358_n.gif?stp=dst-gif&ccb=1-7&_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-ncg&oh=00_AfAh9LvFpx5Tsa4NvKBIDGjn-OxbIjyn_cPQWchRT0UcnQ&oe=64AE4128",
+          "creation_timestamp": 1482338386
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482338340336,
+      "content": "For goodness sake, stop throwing yourself off the furniture....not a good move. lol.....I am putting out all my vibes, beseeching the heavens for a better 2017 for us all. Surely we deserve it and it is long overdue. Our sense of humor (no matter how deep) can only take so much, right? Though I think we would be lost without it. I bless my dad for passing on this ability to laugh (certainly did not get it from my mother!!!). I miss him always. Had a chuckle this AM when I heard thumping, bumping and the Big Dog (all 140 pounds of her) appeared from around the corner with the top half of the kitty litter box stuck on her head...it was hilarious (not painful for her)....sort of a canine Star Wars soldier."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1482194655087,
+      "content": "Hernia  s getting larger ,partly due to falling backwards off a  chair , my good old dining room chair.   I was playing on the computor and playing ball with raven and alas, a leg broke. !  So glad it wasnt when I was l6 at home but this chair is mine now and I guess I am  not headed for wealth in my old age. lol. I didnt fee l so well for a week but I am much better even than yesterday.,I hope you have more diamond days  as your Christmas gift from me!Thankful for the kids,  good food,  , of course , Fred, and the fact that winter  will someday pass once it officially comes.    and forfriends.."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482194082432,
+      "content": "You?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482194079505,
+      "content": "Low key festivity this year, but have the most important parts....family basically OK, food, warmth, loving animals......don't require much else.  I am having a 'diamond' day (easier breathing/little back pain) Yahoo...always  enjoy a good day."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1482193969962,
+      "content": "I hope it lasts . It must especiall y cuz it is in the living room.   I hate walking outside on ice.  I am clumsy. How are YOU?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482193901038,
+      "content": "Watch walking outside....icy a lot of the time"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482193877316,
+      "content": "Excellent move with the treadmill....hope the enthusiasm lasts LOL."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482193872113,
+      "photos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/photos/275301288_1341059556394632_6903843766197041316_n_673504112823218.gif",
+          "creation_timestamp": 1482193871
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1480525043253,
+      "content": "So glad that you are there and that things are proceeding as well as possible. No word from St. John for either of us.  Our biggest news is that I bought  a used treadmill for $60  and we both use it .  Wonder of wonders , miracles of miracles! And now for the kicker, It is placed as our decor in the small living room so we can watch tv too! Though , it is not too classy , man, It is a victory!.We don't have to go  outside and fall on ice. and it is so much easier , than  feeling   that somany people are noticing that you are walking."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1480515684673,
+      "content": "Hello!!!Laptop died and then there was withdrawal before family came to the rescue...have a lovely, fast. incredible new one. Thanks for missing me. All else is proceeding as well as possible. How about you and yours?"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1480291790124,
+      "content": "Dear Lesley, I haven't heard from you in a while a and I am wondering if you are all right   or okay? Maybe I have heard from you but it seems like a while.We are doing  okay waiting to hear some month from the hospital in St, John.  And our most eventful event is that we bought a  treadmill , used for $60  and put  it in our small livingroom.  It is so much easier  to use than wearing all sorts of clothes and going outside and falling due to clumsyness.  So this is one of our winter tasks. Havent done decorating for Christmas yet or listened to Christmas songs Is your son still living with you?  Anyway, I hope you are okay. Write when you can and let me know .\u00f0\u009f\u0099\u0082"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1474991015399,
+      "content": "I think he's from Madrid."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1474990884513,
+      "content": "This is another of Carlos San Millan's works.",
+      "share": {
+        "link": "https://www.facebook.com/sanmillanpainter/photos/a.145869159087686/290662137941720/?type=3"
+      },
+      "ip": "24.89.217.125"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1474675703401,
+      "content": "Sorry about that messenger thing"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1474675645304,
+      "content": "This is all good news. And I.  Forgot to tell you that mum  lived until age 91"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1474675529419,
+      "content": "Kit sent an attachment."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1474672894676,
+      "content": "Jare had a good (honest) visit today with his psychiatric nurse and she agrees that he isn't doing well.....all sorts of things happening from that. I had a very good experience with the COPD Clinic this morning and hope that it will continue to improve my access to medical help when necessary/"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1474672652122,
+      "content": "That procedure is quite safe: my brother had one done and he is still as hyper-active as usual. As to your wanting to say \"COLD\" , can understand that....since it was often called Chronic Obstructive Lung Disease."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1474657826451,
+      "content": "Sometime  Fred has to get heart surgery to replace a valve (aortA) this will be atsaint John too Not quite sparking yet!  Are we grown up yet?feeling  groovy...."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1474657277914,
+      "content": "I had a cat scan on Wed. And  told  folks that I was their heavy  metal  mamma, sister, friend...Now I am justheavy... I am gladthat you are improving somewhat and sure hope that some solid help will come for  Jarret.  My mother.  Had  copd .  This phone wants to write  cold .Dontknow to much yet"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1474651889030,
+      "content": "(as opposed to 'stone')"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1474651879100,
+      "content": "Well, life gallops on (when not crawling - ha). Waiting to hear for results from Bone Density test (won't hold my breath). Also attended my first COPD Clinic this AM....very good (run by my daughter's best friend) with lots of info. Jare is now off to see his psychiatric nurse (having moved home again)...wants to go by himself, hope he remembers to ask all the relevant questions.  No job for him right now and I am not sure he is able to take on any jobs at this time....we will see what happens. My back is now steadily improving (still aches) so I am somewhat encouraged. Trying to do more activities (low-key) and (for cryin' out loud, Lesley) smile more often. Hope this is a diamond-day for you."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1474235661683,
+      "content": "Crap is a pain in the arse.  Hope  you get through it all..  Tallk to you when you are able .   Hangin there.  Love, Kit"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1474234629026,
+      "content": "I think I am losing my mind....not really,,,,just so much crap coming down....will contact later...keep the peace...love ya"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1473801653772,
+      "content": "I am sorry that Jarett has such a difficult time  but glad you are improving.Yes, we do look for the best in the worst of times, ;  I have to keep trying too, after looking at my face, my reflection in a store window,  reality is setting in, I have to try to lose weight now somehow  someway somewhere.  ..west sside story. Thinking of you, my friend."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473800742213,
+      "content": "Poor Jare...another meltdown and is moving home once again....will arrive tomorrow..but good news is that my fracture is definitely improving.....we look for the best in the worst of times, yes?"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1473118856192,
+      "content": "You too Lesley."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473118798724,
+      "content": "hehee...have a good night, Kit."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1473117800359,
+      "content": "I didn't mean to do this one but we could pretend that we have a long pony tail to flip around for the   heck of it."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1473117700390,
+      "photos": [
+        {
+          "uri": "https://interncache-ncg.fbcdn.net/v/t34.18173-12/13819311_1232814086729515_634430094_n.gif?stp=dst-gif&ccb=1-7&_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-ncg&oh=00_AfA96mYA4UzTMmDJv6sx9EM8Z-43Ef4oBw_2uFK_lC_UfQ&oe=64AE3B3B",
+          "creation_timestamp": 1473117700
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473116747634,
+      "content": "Yahoo....it is  fun,!!!  Good for you."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1473101610860,
+      "content": "By George, I think I got it!"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1473101541009,
+      "photos": [
+        {
+          "uri": "https://interncache-ncg.fbcdn.net/v/t34.18173-12/13705180_10210278751466315_555186790_n.gif?stp=dst-gif&ccb=1-7&_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-ncg&oh=00_AfB8CWEaA7HsVLmQB4CDBT11eQntV6wPPXBSWHl1B4Ds6w&oe=64AE46BC",
+          "creation_timestamp": 1473101539
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473100797721,
+      "photos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/photos/275566919_1352337038572030_733268015058805762_n_621824664657830.gif",
+          "creation_timestamp": 1473100797
+        }
+      ],
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473100759328,
+      "content": "like friendship"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473100735425,
+      "content": "Look at the bottom of your message board and find GIF...click on that and stuff will come up....enter what your interest is on the top line...click enter and you get all kinds of good stuff to choose from (some fun in a trying world.)."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1473097026753,
+      "content": "I meant virtual hug not  hub!"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1473096898259,
+      "content": "Thankyou  Lesley,  I am sometimes reeling and sometimes, telling myself , ok kid,  go forward, look at the future,  check out St. John . It is n9t the end of the world. But I am well familiar with this kind of assault so that is why , it hooks intomy  being and makes me  feel vulnerable  and doubt my worth.  However again,     , I sound like blah blah blah,,, I receive your virtual hub  and give you one back but I don't how! Thank so much for caring, Lesley.  How is going today for you?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473092416492,
+      "photos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/photos/275358903_1293325707817228_4156435430160388947_n_621777974662499.gif",
+          "creation_timestamp": 1473092415
+        }
+      ],
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473092346698,
+      "content": "I was heartbroken when I read this, Kit. Whatever the background, there is no excuse for his words or behavior, none. I can't imagine how you felt (or perhaps I can, to some degree) and how hard it would be to recover from what amounts to an verbal assault. No sense seeking redress, since it's too complicated, painful and the med profession protects its own at all times. I've had some pretty horrendous experiences that impacted members of my family and, in the end, found myself just having to \"suck it up, Buttercup\".....then the process of finding another way if possible. Strength is a personal issue. Just when we are sure there is absolutely none left, we find another teeny, tiny reservoir deep inside. Kind of like the 'loaves and fishes' since the tiny amount we find seems to expand when we access it. Weird, yes? I know that you have this strength. I will be thinking of you every day."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1472943925654,
+      "content": "Thanks. Lesley.    My surgeon said ,that my hernia is a mess and implied that somehow I was responsible for the mess after telling me he  had signed off on .me 3 years ago. And I didn't lose weight in fact, he said I was  fatter.I wouldn't receive the expensive mesh.The truth is I am allergic to the other mesh and it gets infected and the whole cycle begins again. But he would use the mesh that I am allergic to, because they have spent enough on me.I said if you signed off on me, why did you do it?  Did something happen at the prior operation that I didnt Know/   Anyway he is going to send me to Saint John and I wont get in for a long time. I said ok , send me to St.John felt rejected, shamed andhumiliated, and Iwenthome  feeling like a criminal, Iam  theonly  66 year old living in Miramich i that has no surgeon and had no one  looking after this,  ie GP ignored it. for 3 year..s.  I was trying very hard when I had episodes to look after myself so it wouldnt break open llike other times.  Any way ,  I am trying to get out of this trigger  for gloom and doom. I hope   that you are doing well. as I share my dark cloud but certainl y not impossible.   Have you felt better again after lying still and looking up.? Thanks forcaring   Lesley,"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1472938092935,
+      "content": "thinking of you./"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1472743758572,
+      "content": "ikf too small I  will share on facebook"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1472743686095,
+      "content": "Kit sent an attachment."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1472743205878,
+      "content": "Exactly!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1472743134221,
+      "content": "Will keep this in mind .... the system and medical care are sometimes harder to deal with than the illness!!!!"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1472743062404,
+      "content": "I am so glad for You!!!!   This moment I am angry at my surgeon and doctor.  Kind of a mess about my hernia.  I will tell you sometime when you are reallly well.  Hope you continue to get better and better. Love, Kit"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1472742870322,
+      "content": "the last few days of mostly bedrest has worked wonders...!!!  ....****.....keep fingers crossed. Hope this finds you well."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1472500328865,
+      "content": "\u00f3\u00be\u008c\u00b8"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1472488843479,
+      "content": "Going to keep on with this \"bed-ridden\" approach, was able to walk a tad better today. You wouldn't believe just what I DO imagine while staring at the ceiling, the far wall, the mirror, my pictures, out the window at the Linden tree.....quite amazing at times. Keep well."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1472405486739,
+      "content": "Flat on your back. The pitts.  I can't even write a funny poem. I just hope it works. I will   wait for your report. Meantime , look at the ceiling, and imagine beautiful pictures,  or ideas for paintings or  poems  or just breathe  . Love, Kit"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1472405111093,
+      "content": "Spending 3 days 'flat on my back' to see if things improve. thanks for checking in....will report after tomorrow re any changes..This is the Pitts."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1472342481417,
+      "content": "I don`t see you on line. Just hope that you are not  having more trouble. Sending our love and prayers. Thinking of you. Kit"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1470616445455,
+      "content": "Thank you for the roses and and kittys. Take good care Les.    Let's hope for that \"resurgence  of progress   dear Lesley. I just remembered that Maritimers like to be called their whole name\u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1470606428241,
+      "content": "cause I know that you like roses!!!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1470606414241,
+      "photos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/photos/275858309_1387560715029659_6222996966580799938_n_609672819206348.gif",
+          "creation_timestamp": 1470606413
+        }
+      ],
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1470606280260,
+      "content": "So glad you are safe and brought good memories back home with you....yesterday and today were a few steps backward for me....hoping for a resurgence of progress tomorrow....it's OK, just so frustrating....will send you a much more positive message . So many thanks for checking in."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1470590987813,
+      "content": "Well, I didn't quite swim in the ocean but swam in 2 pools and went to 2beaches in my clothes and walked in the water  up to my chest. Felt a little nervous about swimming because Fred was on the shore and I was   worried about untow and the time. But even that was so wonderful. I love sandy beaches and water sparkling and sunlight and blue skies.  I am checking in to see how thingsare for you today.  We came home at 1am   supposidly frid  night but early sat morning.  we are tired and poor Fred is preaching 3 charges today.    Love, Kit"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1470059488288,
+      "content": "OK...travel safe and enjoy !!!!"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1470019467587,
+      "content": "We will be so glad to have a rest from our 2 yappy dogs who think that we are in our forties.   Take good care,  my dear friend.  sending love."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1470019460760,
+      "photos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/photos/13918441_10206676607262913_2127432034_o_10206676607262913.jpg",
+          "creation_timestamp": 1470019458
+        }
+      ]
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1470018762249,
+      "content": "I   will visit another time Lesley,  It is much more important that you heal and can  get to a much less painful state. I wish that we could dosomething but I dont know what.  INthe  meantime, Let us continue to swear  at Trump and anything else  you want .    Home care  is good even  if you dread it.     as long as they come at the time you arrange and it does pass the time.  I certainly will keep in touch and I am just so glad that we have reconnected.     Fred and I will probabley go exploring for the time after Ben's visit  and we hope to find a sandy beach   even if it is raining."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1470011434072,
+      "content": "Oh, and I can swear....that damn Trump. Find it hard to sit at laptop for very long at a time. I just kind of ooze into bed from my chair (2 feet away),, ..do a little walking to front of house/kitchen/screen porch/and THE BATHROOM whenever I `can. AAARRGGGHHH.  Yuppers, this too will pass. Take care."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1470011288573,
+      "content": "Hi ya.....things are pretty painful still, will be for a long time, I understand....thanks for your messages.  I can laugh for a bit after an hour after taking the pain meds...kind of tough since I love to laugh. Perhaps we should look at another time for a visit (don't want to say this) due to my inability to have any say in when it rears its ugly head !!!! But DO want to keep in touch. Glad you and yours weren't damaged in storm. We are lucky....put in two heat pumps a year ago (one in my flat and one for Tiana's upper two floors) so the AC is fantastic. Working on Homecare visits (I HATE THIS), but not just yet.....we want to see how it goes over the next week or so."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1469904421984,
+      "content": "And now for the lighter material, which certainly isn't ,t me/   I think that you probably have been spared some of donald trump nonsense.   He makes me swear..... Well i am writing you,   there is apicture of a these cupcakes with icing and strawberrys,  a nice back set.   You are not missing weather. unless you like tobe melting like the wicked witch of Wizard of  Oz.    OUr faces looks like limppieces of lettuce.   Ourcurtains are closed like the cold deep freeze in winter to keepout  the evil hotl.  and old hugesbranches fell off our tree  but did not crash on our house/     and I am a terrible joke teller.  Better not get laughing too painful. but until next time, we are rooting for you!"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1469903951200,
+      "content": "I was so  worried about you when I did not see you on facebook. I thought  that you might be in the hospital. I am so sorry that you are suffering so much but  glad that you came home yesterday.But it sounds like a long painful process.  But wwhat do I know about medicine.?  Please do message re progress.  We will see Ben on Wed evening and we stay overnight in Halifax . The good news is Ben has a temporary job with Service NS.  I would love to see you but if you are not up to it  at all , we will visit  another time and I will v isit   when you are better. So , it is up to you.  But no matter what , PLEase get better and  take goodcare of yourself. Do you get respite workers coming in.   Do you have an air conditioner. ..We will pray, pray, pray...  We love you Lesley, dear friend!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1469898313786,
+      "content": "went by ambulance last week to Aberdeen....lots of horrid, unrelenting pain..have a compression fracture in spine along with other pathetic stuff....home as of yesterday after a spell in ICU plus....will message in a few days re progress."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1468778605351,
+      "content": "Ms Reggie Isabella is a sparkling beautiful gal!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1468778428843,
+      "content": "Yes, Ms. Reggie Isabella Fusco. Awesome little dude"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1468778258475,
+      "content": "O  she looks like Tianna today Whhat a doll! She is so cute.   She also looks like you .Reg, do I have her name right?"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1468698078066,
+      "content": "or is it Ms Lesley. I don't know why but that word makes me think of old novels and people writing with  good penmanship and  sharing their heart's dreams with hand drawings of flowers  and trees..."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1468697914045,
+      "content": "Now , in the mean time,   I will send pictures,  on this trusty? contraption   , We will pray, but most ofall, Miss Lesley, we send our love ."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1468697684944,
+      "content": "I am so sorry to hear of  your health problems and \"this bout of pleurisy\" Please rest well  and   take good care of yourself  my friend.  We really want to see you but make sure that  your bout is over. What we will do is go see Ben first in Halifzx and then  go up and around New Glasgow area but if you are not well,  we will be in touch.  Even if it is not that time,  I will drive over  and let Fred look after the dogs at home  and come see you. when yousay it is the right time. I   really really really hope that you feel much better very soon. Of course, I looked up pleurisy  on the computer.  How long have you been fighting this?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1468684976348,
+      "content": "Hoping, truly hoping that this bout of pleurisy is over by then....my life has been a tad challenging healthwise lately. Yes, I would LOVE to see you guys."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1468679570054,
+      "content": "We will be staying in a motel  and  will look forward to seeing you if it works out for you."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1468634097546,
+      "content": "Hi Lesley:  we are planning a trip to HFX to see Ben during the first week in August.  Any chance we can stop by then?  We will be leaving here on Wed. (3rd) and have to be back on Sat. (6th).  We're thinking of going via NG either on the way to or from, whichever works for you."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1464713391887,
+      "content": "guitar hand weakened to  form chords easily but what can you do,  press forward. (like t he conqueres we are. I have lost my ability to spell today.Talk again soon."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1464713154331,
+      "content": "I remember Natalie because she looked like a camp friend of mine when I was young. .  I think that I forgot that you had an older brother.  And a barbershopper?  Hmm...  Glad that Ann and you are good friends.  (Iremember her too)  Sorry that you had bronchitus,   and copd. My Mother had that too.    Did I tell you that Carrie and Christy will be living in Fredericton  in the fall for  a year. Christy goes to U of NB and Carrie goes to  NBCC (if all goes well)   We are going to Fredericton  to find an apartment on Friday.   hopefully.  right now, Christy is still teaching on Baffin Island. Fred has been doing a lot of preaching fill ins which helps. I havent really been going with him  much. I am still in the community choir. Last practice was terrrible because we changed the practice to one hour earlier. The director was not to pleased . She is very spunky though, Scottish, and a great director and pianist.At first, I was a bit afraid of her until I realized that she makes me laugh;  Do you know who \"Hyascient (Sp} Bouquet from the english comedy show. I can't remember the name. Still can.t.  ahhh.  I have diabetes 2 dwhich I am still having trouble with  peppermint , sugar, addiction.    and   I love dessert so much more than green vegetables like kale or asparagus.     It is strange singing songs that I never met before in a style that would never be folk and have my guie"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1464699431271,
+      "content": "Please ignore the Spring Break one....aarrrggghhh."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1464699401042,
+      "photos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/photos/271531530_1070694197108178_6922631320924942876_n_582555198584777.gif",
+          "creation_timestamp": 1464699399
+        }
+      ],
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1464699376516,
+      "photos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/photos/295077008_1438233233312886_2565863717764410202_n_582555098584787.gif",
+          "creation_timestamp": 1464699374
+        }
+      ],
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1464699353904,
+      "content": "Keep well, Kit and enjoy  the wonderful flowers, trees, earth that we are fortunate enough to find all around us at this time of year. Hi to Fred."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1464699293087,
+      "content": "A little barbershop goes a looooong way."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1464699268762,
+      "content": "Gorgeous weather this week for the most part...no gardening since I am recovering from my second serious bout of bronchitis (COPD related)...better now. Little Miss Reggie is A-one, Tiana's good,Damion continues to make money in Ottawa....Life moves on. I did make it to Sydney (my brother Peter drove) to see my oldest brother's Barbershop Concert and competition. Stayed with them overnight. It was a lovely trip and Peter and I like to spend time together,.....not able to very much."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1464699071722,
+      "content": "Yes, Kit, it is Anne's daughter (the oldest). She is a power-house of activity and dedication to her job...great kid (oooops, a kid no longer....my we grow old). And yes, they went to First Church, Anne still does. She is one of my closest friends, a highly unique, unusual woman who is Susy Sunshine unless I have to tell her \"Stuff It\" on occasion (lol). We hang in there....Jare is back on his own again, new apartment after 2 months here with his girl  friend, they split up. Now I can get the baby's crib out of my bedroom and back into a separate room."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1464466746770,
+      "content": "Hi  Lesley, I have been wondering if Natalie MacIsaac was Ann  MacIsaac's daughter and she went to  First Pictou when we were there. ? How are doing these days?"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1459035319850,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1458917389358,
+      "content": "Yay!"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1458917367480,
+      "sticker": {
+        "uri": "messages/stickers_used/64663054_2318950841530764_2434160981157347328_n_584600231632509.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458917081931,
+      "content": "yes, oh yes for a visit.....all is fairly fine here...will write more ASAP...Happy Easter to you and yours."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1458916764703,
+      "content": "Hello Lesley, Have a good Easter weekend. How are you doing? Fred and I were wondering if sometime late spring or late summer  or earlyfall, whether we could visit you to  see you face to face. We are making a trip sometime then  when we visit Ben in Halifax.        Ben is between jobs right now and I am trying not to be too much of a helicopter mom but ,   I jst hope and pray he finds another job. Not impossible.     I hope that we can see you even if its just for coffee , or water ,.. The fact that Ben is between jobs now has nothing to do with our thought s of seeing you but it crossed my scattered mind..   Right now, outside we have freezing rain and lots of snow on the ground. If it would just be sunny, then, I would know that spring is pushing through.  Hope youhave fun with easter bunnies and your little grandchild."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1451150536420,
+      "content": "And to you Lesley , a very Merry Christmas  season and  a happy  new year!  sending our love  to you and your family!"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1451150522412,
+      "sticker": {
+        "uri": "messages/stickers_used/64455656_1420708634738869_1073385964484689920_n_324210814388662.png"
+      }
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1451150509754,
+      "sticker": {
+        "uri": "messages/stickers_used/64358766_1420704651405934_3412776443556397056_n_324210807721996.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1451142273881,
+      "sticker": {
+        "uri": "messages/stickers_used/64289945_1420707024739030_3019371758663761920_n_324210757722001.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1451142250163,
+      "content": "Merry Christmas and a Very Happy New Year, Kit...to you and yours."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1448822365801,
+      "content": "Mj"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1448822146080,
+      "content": "Thinking of renaming her again....\"Chaos\"."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1448812044520,
+      "content": "Hi Lesley, I have the door. Closed so th at our  obedienced lessened dog will not come bounding in and pull at my arm.   Ah the  silence... The teacher says  that she will come over when she is in the area and give her an extra lesson...I hope for free. She and we did learn some things so it is a beginning .  All our dogs and cats are shelter animals.   \n    The social anxiety and generalized anxiety has been going on for many years for Carrie.  She has taken a step backword but she is at a stage where she is working at  trying to regain so me ofher strength but I really hope that there would be a part time employment that would help her see what a long wayshe has  come.   Not there yet. \nTemper , a great name sounds like fun and mischief.talk  agAin later. Sending love,"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1448807910196,
+      "content": "I would be interested in hearing how the Obedience lessons go....My new little dog (rescue) sure could use some LOL."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1448807867981,
+      "content": "Oh Kit...so sorry re your poor hand !! Hang in there...this too will pass. Jarett had a very long and hard row to hoe while trying to come to grips with his mental health issues and some of it was exactly what you say Carrie deals with...he also had an awful time when doing Call Center stuff, worried constantly about money, loans, debts, money for meds, getting in to psychiatrists/psychiatric nurses, admitted himself a number of times, over the space of 4 years or so. It was frightful. He had to return to live with me over and over after so many attempts at independent living.... a long journey, but now is pretty good...great apartment, working at home, a wonderful partner Melanie who also has issues, 4 (yup, 4 !! ) kitties, enough income to keep the roof over his head, sees his psychiatric nurse for his monthly injection, money for meds and handling adversity so much better. It is an ongoing battle but he has the support of his family (for the most part) and friends. His bravery and courage has never been completely extinguished despite the roller coaster ride he's on. My heart goes out to Carrie and to all families who have had to deal with any sort of problems in this area."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1448740818030,
+      "content": "Thurs nite, I fell and broke a bone in left hand  and a hairline fracture. That night  I was  talking to my brother in law and  told him that I had a fish line fracture . Lol."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1448740419325,
+      "content": "Sorry  I have my stickers going out of control.thut"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1448740280917,
+      "content": "P"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1448739944280,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1448739942612,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1446769077989,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1446768920294,
+      "content": "It is wonderful to heAr from you Reggie looks tall and will be lots of fun agAin at Christmas.  How are you doing?  Tiredness is a battle  with this stage in our lives.  Our bodies like to betray  u s. But, we shall overcome!  Love,   Kit"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1446768434661,
+      "content": "We must be on the same wave link  because this  morning , i  was planning to write you.  My I phone needed some power and Fred was using the computer.  We seem very busy with our dog Raven   She has grown so much and can reach everything  no. Matter how tall. She still likes to chew  us when she is tired and  she thinks Carrie are dogs not humans. We begin  obedience. Class this weekend and hope  that all  of us will be successful because  in the long run,we just love her!  I am sorry. Thatyou  lost  your  dog. It is like a family member  passing and the grief is very real.  \n    I enjoyed your picture  of some of the family while  voting\n Fred and I watched   The whole event  yesterday. I found it exciting .\n    Carrie had a major pAnic attack at the call center where she just started work  and did not. return . She is discouraged and uncertain of herself now.   Can't get in to the  psychiatrist for  Carrie until  dec.23.  She is worried about student  loans etc.   And the beat goes on..\n  Christy returns for  Christmasand then after goes t NYC .  She loved. Broadway kWw and it is  along way  from Baffin Island!\"\n Our choir is doing a little bit of filler songs. For this Remembrance Day concert.( not my favourite)\n  But Christmas  music is enjoyable to sing"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1446738403312,
+      "content": "Think of you often...keep safe and keep well."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1446738388015,
+      "content": "I don't miss the teaching at all and also don't  mind not singing, playing piano, acting in musicals....still doing some art work, but not any where near as much as before (sold 15 pieces at one point!!)...not as much energy as in the past, which is a pain in the butt."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1446738246648,
+      "content": "Roger) who's pretty nice/.....they are working on living together...so far so good. My other son Damion (Ottawa) is fine, making mega bucks and living the high life with his wife Meghan and my other two granddaughters. Don't see them as much as I'd like. Also busy with dog-sitting (Mon to Fri) of Tiana's bull mastiff \"Autumn\" and my own fairly new rescue puppy \"Tember\" (short for September....had a much loved dog named \"Tober\" (short for October) !!  A sweetie (ACTIVE); Jack Russell/Fox Terrier mix.."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1446737956782,
+      "content": "Apr 2016 and a going concern. Tiana is well, very busy and also has found a partner ("
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1446737921790,
+      "content": "Hi!! All is well here and life marches on and on. Jarett is doing pretty well (hardly any mental health crises lately) and he is lucky to have found a partner (Melanie) who is a terrific \"fit\" ..she understands his issues cause she has some as well...been a year and a half, living together and supporting each other. He works from his apart. doing IT stuff. My granddaughter (Reggie) spends Mon/Tues with me, plus some overnights and odd times. Extremely active (2 in"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1441066057624,
+      "content": "I darn I must go in mid sentence"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1441065983609,
+      "content": "Finished painting 2 coats.kind of a different way to spend our anniversary!(41) NEXT Year we will hopefully have a more fun celebration    now... What breathing issues?   Ihope.  That you are okay    . Aches and pains are something  you really  never  think about when youare 35  but  aging  is quite an experience   .  I hope that you are able to relax and adjust to your new"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1441034546993,
+      "content": "Whoops again!  The dogs had to be outside fast.   They have separation anxiety. At the same time we are trying to fix a floor upstairs that has asbestos tiles but we have to do it ourselves and it is stressful. Fred is not the best handyman and I just want the job done .it is the way I\nUsed to sew  not liking it , just trying to finish and accept the fact  it is imperfect .At least it is done..   So that is what. We are doing in the present tense.my turn to paint   Will write more Ina break."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1441032405142,
+      "content": "O dear iwas watching Fred lift something and my finger slipped. I wasn't going to send sticker yet.one thing that  happens is my wild typing. I can see what a big change this willbe for you!  I thought that Reggie was her name or some form of your  father's name!  Our dog Raven , the cute one is Very hard dog to. Handle. Very lovable, strong  50 pounds already and hugely stronge willed.  Weare committed to her but she makes us very tired and just when we think we get ahead withher... I am embarrassed  to say how much furniture shehas chewed  We are..."
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1441031345864,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1441031341521,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1441031306899,
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1441026138787,
+      "content": "Hope life is treating you with humor and respect!!!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1441026095202,
+      "content": "Well, this grandmother is sortta OK....some breathing issues, 67 year old aches, pains...etc. On the whole, not too bad. Spend a lot of time with Reggie (Tiana's girl)...babysit every Monday and Friday with frequent other  occasions (Tiana has private clients some evenings) and also so she can have a break, I take her overnight...my pleasure since I am not teaching anymore...also have the dog every  work day (bull mastif) ...love this  dog., Autumn. Wish I could see my other two granddaughters more often (Damion's in Ottawa), but really don't like flying. Have just repapinted the kitchen ( a 3 day job in the old days....took 3 months!!!) and other stuff on the go. Absolutely no commitments to anything else other than family and home....big changes for me since I was so busy for so long with other interests...a great relief to let all that rushing around and deadlines go....takes some getting used to. Reading a lot more, painting will resume soon, and a visit with my brother Peter coming up in Halifax. Ages and stages, yes?"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1440816708321,
+      "content": "What a  sweetie!  How does she  eat without  spilling?  I don't think  that Ido... Thank you for sharingyour little granddaughter   How is her. Grandmother ? Sending love"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1440807723823,
+      "videos": [
+        {
+          "uri": "messages/inbox/kitdouwsma_10204476623744700/videos/11968036_10156036260580078_1003625803_n_469012706605694",
+          "creation_timestamp": 1440807722
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1411676299945,
+      "content": "Hi Lesley.  Today used to be my father's birthday and I think that it may be Valerie C\"s tool   the birthday thing was somehow connected and my birthday in January was the same as her mother's   I think.Anyway  just thought you might like to know. We had a great warm day out and I was so glad for the sun and the warmth.  What's happening with you?  I have something to look  forward to in  the new year.  Christy is taking Carrie and I to New York for a fast weekend.  I've been there once before and was so exhausted and excilarated , that it was so exciting.  Fred doesn't like big places and wants to stay home with his dog and the cats. How is the grandbaby?Oh my email address is  f.douwsma@rogers.com."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1384007903439,
+      "content": "so good to hear from you!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1384007891293,
+      "content": "Send me your email.....mine is  lesleydunn@live.com"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1384007837747,
+      "content": "We have two dogs, one cat (old)....I dog-sit hers (bull mastiff \"Autumn\") Mon to Fri and some overnights."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1384007774577,
+      "content": "Church?  Mmmm...took a year off, but havegone back to Pictou United (love the singing in that choir). Hard to get there all the time so we'll see how it goes. Tiana and I are a one car family now which doesn't bother me much. Sure saves a lot of moolah."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1384007669139,
+      "content": "Jarett (youngest) has had much trouble with mental health issues and this is an ongoing concern for all of us. He is presently attempting another stab at independent living in Pictou, but is usually here with me every week in order to make his varied appts in NG. Works (computer) from home when he can and is finally on social assistance for rent. This is a relief, cause we've (he's) gone through a LOT of money (from all family members including uncles) and we can't afford any more. Keep him in your thoughts."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1384007479926,
+      "content": "All is as well here as it gets!! Thanks for your update and here goes mine: Oldest (Damion) is in Ottawa making obscene amounts of $ doing computer stuff and raising two very strong-willed young ladies (Renee and Emily) so, along with their mom Meghan, they're in for an eventful life!! Girls are 5 and 7.  I see them whenever possible, but not enough. Miss my oldest as well, but he works 24/7. Tiana is amazing...works on two Reserves doing addiction/mental health therapy.  Hasn't found anyone to spend her life with so has gone the IVF route and is expecting as a single mother in April!! We are living in New Glasgow (having finally given up the country life...so labor intensive) and share a two sectioned enormous old home that serves our purposes well....I have the bottom flat (living room, dining room (which is now my bedroom), bedroom( which is now my art room), kitchen, music room (which Tiana also uses for private consults), bathroom, laundry room and den in basement. Started with the abstract art about a year and a half ago (having finally given up the musicals) and have (still amazed by this) actually sold about 11.....small to large. Also teach one young boy with learning disabilities. Keeping the roof over my head with CPP and about 17 students (piano and voice). Love all the wood and character in this house.  "
+    },
+    {
+      "sender_name": "Kit Douwsma",
+      "timestamp_ms": 1383427439262,
+      "content": "Hi Lesley, How are you? I started to write but it sounded so stilted. You look well   especially the dancing theatre mask, Jarred too.  Those kids with you look so excited.   Did you ever hear the broadway play \"once\" ? I am loving the music.It's been alot of time since we've last communicated. I have your commorant painting up in the hall upstairs and when I saw you writing on facebook, I thought this was the time. One time, we attended somthing at that United Church centre in Tatamagouch Ns and you had advertised about flowers  (perrenials) for sale. Looks like you are very involved in teaching music.Fred is retired but doing what I call supply teaching, but it's preaching. He has a stint in tabusintac nb from Nov. to June in the united church. Christy's teaching and doing resource in Kimmurut NU. Ben is working with a temp agency in Halfax and Carrie is living with us. I was sick with aninfected hernia due to allergies with the mesh  andmany surgeries for the past 10 years.  I am better than I was but the story continue. However, Christy, Carrie and I drove to New York and saw these broadway shows. It was so exciting and stimulating.  I was very tired afterwards but what a wonderful experience. It was so LOUD!  Anyway, when you can, I would love to hear from YOU!"
+    }
+  ],
+  "title": "Kit Douwsma",
+  "is_still_participant": true,
+  "thread_path": "inbox/kitdouwsma_10204476623744700",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Sandra MacDonald-Anderson"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1484262850771,
+      "content": "Sandra, my answer was blocked....see my further face book posts....thanks...he is truly  wonderful."
+    },
+    {
+      "sender_name": "Sandra MacDonald-Anderson",
+      "timestamp_ms": 1482411819610,
+      "content": "Tell all contacts from your list not to accept a video called the \"Dance of the Pope\". It is a virus that formats your mobile. Beware it is very dangerous. They announced it today on the radio. Fwd this msg  to as many as you can!"
+    },
+    {
+      "sender_name": "Sandra MacDonald-Anderson",
+      "timestamp_ms": 1478130200214,
+      "content": "http://www.gowithhippo.com/why-book-with-a-consultant",
+      "share": {
+        "link": "http://www.gowithhippo.com/why-book-with-a-consultant",
+        "share_text": "Why Book With a Consultant"
+      }
+    },
+    {
+      "sender_name": "Sandra MacDonald-Anderson",
+      "timestamp_ms": 1478014888403,
+      "sticker": {
+        "uri": "messages/stickers_used/851580_147663508749246_1605922532_n_147663505415913.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1478013052287,
+      "content": "Hi..hope this message finds you and yours well. My health has been precarious for a while so activities are limited. Thanks for thinking of me.!!!!!"
+    },
+    {
+      "sender_name": "Sandra MacDonald-Anderson",
+      "timestamp_ms": 1477875105698,
+      "content": "Check out this link:  https://www.facebook.com/celticfestivalbarbados",
+      "share": {
+        "link": "https://facebook.com/barbadoscelticfestival"
+      }
+    },
+    {
+      "sender_name": "Sandra MacDonald-Anderson",
+      "timestamp_ms": 1477874875620,
+      "content": "Hi Lesley, Just reaching out as a Certified Travel Professional with GOwithHIPPO! Not sure if you were aware of the 'Barbados Celtic Music Festival' happening in May 2017. With your beautiful talents with music and groups you may be involved with, just thought I'd let you know I'm here if interested to build a 'group' travel opportunity to attend this great event."
+    }
+  ],
+  "title": "Sandra MacDonald-Anderson",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandramacdonaldanderson_10154711977258140",
+  "magic_words": [
+    
+  ]
+}

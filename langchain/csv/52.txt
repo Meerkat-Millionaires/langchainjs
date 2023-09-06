@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Judy Cormier"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624808054656,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1459276190195,
+      "gifs": [
+        {
+          "uri": "https://interncache-ncg.fbsbx.com/v/t59.2708-21/12655783_10207198520300419_1967995471_n.gif?ccb=1-7&_nc_sid=041f46&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9lbnRpdHkvbWVzc2FnZV9hbmltYXRlZF9pbWFnZSJ9&_nc_ht=interncache-ncg.fbsbx.com&oh=03_AdQKK-2609Wolre487H5jokUwfhs5cuoyZL2hvwVEAtm1w&oe=64AE143E"
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1459276045326,
+      "content": "Judy...a late reply !!  So good to hear from you. Looks like you have had a super vacation; well done !! We are well and lots of fun activity with the little one, Tiana's daughter Reggie (named after my dad)...they live upstairs which is GREAT.....I do a lot of care-giving. Also babysit her bull mastiff. Jarett and his partner have moved in with me for an interim period of time; working out well s far. Glad to hear re the music lessons and I send you lots of good vibes...bet you have fun with it again....I was sorry to quit teaching, but dealing with my COPD has necessitated a number of changes in my way of living, but I am still lovin' livin' !!!!!!  Painting, writing all go well. Keep safe and keep happy."
+    },
+    {
+      "sender_name": "Judy Cormier",
+      "timestamp_ms": 1457459114968,
+      "content": "Hello my dear!!! Was so sad th hear you retired as my grandson is interested in piano so I had to go on the hunt. He is taking lessons from Angela Campbell (Music teacher at Pictou Elem. but on maternity leave). As well I have decided to take lessons too but not with her. I take them with Paula Milman- she uses a different series and surprisingly enough I am doing not too bad- can remember many things- a testimony to your good teaching- but I also tell her my downfalls Ha!!!!"
+    }
+  ],
+  "title": "Judy Cormier",
+  "is_still_participant": true,
+  "thread_path": "inbox/judycormier_10154577155998496",
+  "magic_words": [
+    
+  ]
+}

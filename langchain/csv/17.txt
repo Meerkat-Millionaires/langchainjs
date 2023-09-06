@@ -1,0 +1,451 @@
+{
+  "participants": [
+    {
+      "name": "Colleen Hawley"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1620150794308,
+      "content": "Awww.  Back atcha! \u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1620148568729,
+      "content": "Hope all is well with you........really like you."
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1614115355493,
+      "content": "Right there with you! \u00f0\u009f\u0099\u0084"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614107426188,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Colleen Hawley"
+        }
+      ],
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0qXdtbtHQieVcpu2bCAeMCZ69oCJbBEmpXxB5N9eGBdr4VdB1Wa5PPzCx5CftU9Xhl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1469983127937,
+      "content": "you too!!!!"
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1469982962115,
+      "content": "So sad to hear you're having health problems Leslie!  You're in my prayers. And yay Jare! Take care!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1469982589973,
+      "content": "Nope..retired last year....now fighting health issues...currently home after week in hospital (pleurisy and now a compression fracture in spine) so totally out of commission for a couple of months. Jare doing well (again) in Hfx with jobs and rebounding one more time. Hope all is super with you and yours...great weather....ENJOY !!!!!"
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1469967373746,
+      "content": "Hey Lady!  Are you still teaching voice?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408721892608,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362164215247_428974420_n_126362160881914.png"
+      },
+      "ip": "24.222.102.84"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408721870750,
+      "content": "Thanks for the books!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408656108810,
+      "content": "not a problem....no immediate rush. thnks."
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1408639417518,
+      "content": "OMG I forgot all about them!  I'll bring them tomorrow, so sorry!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408628743451,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362214215242_499644773_n_126362207548576.png"
+      },
+      "ip": "24.222.102.84"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408628725135,
+      "content": "hey ya!!! I'm hoping you `can drop off the music materials from last year...I will be needing them in Sept. Thanks so much. If they're in your vehicle, Jare could even bring them home after his shot tomorrow, if you are on deck for that. Hope summer was awesome."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1395931606205,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362190881911_254357215_n_126362187548578.png"
+      },
+      "ip": "24.222.136.97"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1395931595824,
+      "content": "Hi!!  Got him there and back...good. Have a great trip and don't worry about the books....whenever."
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1395926074831,
+      "content": "I still have your books, right in my van. What I don't have is enough functioning short term memory cells to drop them off. Today!"
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1395926023254,
+      "content": "Terri is there if I'm not, no worries!  We're shovelling hard, but my driveway is about a half mile long and all hill."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1395925118960,
+      "content": "We are plowed out and planning to come for injection"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1395922163055,
+      "content": "Sorry to bother you...Jare's appt at 10:30 today....suggestions?"
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1393987045706,
+      "content": "I was sorry to hear it, but not shocked. He's a sweet kid, but not very motivated."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1393985375498,
+      "content": "So sorry that Renan isn't continuing lessons....spoke to him on phone today and he wanted to know what was  owed....the slate is cleared..except for the cost of the Adult   Piano Book (if returned, no charge...if kept, $12.00)..he also has some of my books which need to be returned.  Money and books can be dropped off at my place (on screen porch) at any time. Good luck to all!"
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1392673815778,
+      "content": "Lol!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1392673312528,
+      "content": "Don't.  Freaking.  Blame.  You."
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1392663348881,
+      "content": "March 29.  Can't.  Freaking.  Wait."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1392658737691,
+      "content": "I think that the misunderstanding comes from missing lessons....I will not charge him for the two he missed (so no $60.00  for the rest of this month), but usually the student pays for a missed class if I am not given advance warning. So that is the way we will proceed after Feb....by the way, when are you away?  (lucky dog!!)"
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1392583757010,
+      "content": "Sorry, I thought he paid up. I'll make sure he brings it. And yes, he'll miss when we're away."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1392567554925,
+      "content": "hi! I got Renan's  Piano Book ($12.00 ..please reimburse on Tuesday) and to finish paying for Feb = $60.00.  Is he going to miss when you go on Vacation?"
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1391559696817,
+      "content": "LOL!  It's coming!  I swear!  Next week!  With a donut attached!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391559145827,
+      "content": "With a family who follows their own path regardless of any contemporary trend, what else can I enthusiastically do???!!!  Still waiting for my coffee."
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1391558605254,
+      "content": "Will do!  And thanks for being so understanding!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391555611274,
+      "content": "try 755-6759 (I check messages often.  Give him my \"Get better soon Wishes!!!!"
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1391555243245,
+      "content": "Hey chick, Renan has a flu and needs to skip tonight. I thought he notified you, but he fell asleep. What's the easiest way to get ahold of you if he needs to cancel again?"
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1391198721488,
+      "content": "Done!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391197368725,
+      "content": "with a great deal of appreciation and 2 milk (small or medium)"
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1391191597103,
+      "content": "How do you take it?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391185081073,
+      "content": "Coffee welcome anytime!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391185077479,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362190881911_254357215_n_126362187548578.png"
+      },
+      "ip": "24.138.56.151"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390582019108,
+      "content": "Got it, thanks..will enter amount in records....this covers 4 one hour lessons..will let you know when next fees are due. Feeling better..too much shoveling? AAARRRRGGGHHH. Have a great day."
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1390561319470,
+      "content": "It's in your mailbox. Hope you beat the yuckies."
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1390525076657,
+      "content": "Get to bed chick. He'll drop it in the mailbox. Thanks for your patience!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390522864959,
+      "content": "No problem, was just worried about your dad.  Yes, he can do the hour on Tuesday (better all round) starting next Tuesday (7 - 8:00). Could you ask Tommy to just put it in the mailbox inside the screen porch (no rush if you want to drop it off tomorrow)...feeling yucky, heading for an early night."
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1390517705853,
+      "content": "And Renan says sorry. And I echo that."
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1390517688085,
+      "content": "Tommy will drop your money off after he refs a game, around 9:15 or so. Is that ok?"
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1390517187138,
+      "content": "Oh FECK!  All is ok, he just totally forgot to tell you he has to study for an exam. I'll bring his payment tomorrow, he's wondering if he can do an hour on Tuesdays instead of twice a week. Is that possible?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390516891950,
+      "content": "REALLY HOPE EVERYTHING IS ALL RIGHT."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390516822902,
+      "content": "whoops...just rescheduled the 6:30 and will wait until 7:00 just in case you thought it was the same time today as on Tuesday."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390516757357,
+      "content": "just rescheduled the 6"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390515880051,
+      "content": "7:00 on Tues and 6:00 on Thursday"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390515634707,
+      "content": "Whoops another miscommunication?  I understood he was coming at 6:00 on Thursdays....anyhow, I have another commitment after 6:30. Oh dear. Hope all is well."
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1390418076316,
+      "content": "I thought he paid you, so sorry! I know he took it with him. I'll make sure he brings it again tomorrow. He loved it!  And thanks about Dad, he's having a cardiac catheterization right now. Doing good!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390416994003,
+      "content": "Hope he enjoyed last night's lesson...I sure did. What a cutie. Question:  who's handling payment? Sorry to be so crass. Looking forward to tomorrow night (won't keep him overtime!!!!!) if weather cooperates.  Hope your dad is on the mend and tests go well."
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1390145789386,
+      "content": "Great!  See you then!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390143246299,
+      "content": "Yup, Tiana mentioned this was a possibility.....Tuesday at 7:00? and Thursday at 6:00?  Half hour? Yes?  Ask him to bring a binder with lined paper in it, K? We'll discuss a Piano Book when he gets here. Looking forward to it. 15.00 per lesson payable for the month on the first lesson of the month ...(4 lessons for this month).  Just walk in front door of 59 Mackay St. Music room is right there and so am I!!"
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1390108125660,
+      "content": "Can he do Tuesday and Thursday both?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390070603611,
+      "content": "So glad your dad is feeling on the upswing..worrying, Huh? Yes, Regan can start this week.  I have Mon at 5:30 or 6:00/ Tues at 7:00 and Thursday at 6:00...let me know what you think? Half hour or one hour?"
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1390013474857,
+      "content": "Can Renan start this week?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389026919195,
+      "content": "Okey-dokey."
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1389025323503,
+      "content": "I think Tuesdays and I'll confirm when Renan gets home. Thanks!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389021863924,
+      "content": "If the above doesn't work, we will find an answer. Starting new students next week, Adult Piano Books are available at H & R and I think they could share? This would be discussed at first lesson...no need to buy anything before then.......just let me know how this sounds, K?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389021693704,
+      "content": "finally!!!!!  I have Mondays  (5:30 to 7:00) and Tuesdays (7:00 to 8:00)..Half hour each, yes? Is any of this feasible? Thursday nights are gone (dialogue practice in Pictou for musical...no excitement , please...teeny part)"
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1388933816285,
+      "content": "Have fun. I'll just sit immobile and gorge on refined carbs. My favorite time filler..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388933786586,
+      "content": "I'll just go and move some furniture around.....my favorite time-filler!!! Later."
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1388933722706,
+      "content": "Lol!  Hurry up and wait!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388933706769,
+      "content": "as soon as the little one gets back to me, I'll message. Not so good at waiting am I....nope, nope, nope."
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1388933557835,
+      "content": "That works great. What times?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388932253257,
+      "content": "Times available are Tues eves and Thursday eves.....waiting to hear back from one other student about her choice for a lesson (a little singer)..working on it.Have a lovely day."
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1388775962990,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388775509671,
+      "content": "Happy?  Yup. Been there and Dunn that. Talk soon."
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1388696640372,
+      "content": "Happy Hawleydays!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388680906970,
+      "content": "Will be doing some planning re schedule over the next day or two and will be in touch....Happy New Year!!!  Like your facebook pictures."
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1386791816485,
+      "content": "Back atcha!  We'll set a date in the new year for all these men to become Liberace."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1386786854603,
+      "content": "As it goes: All is Calm, All is Bright....now, as long as I can keep my sanity over the next few weeks, All will be Well!!! My best to you and yours."
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1386295869871,
+      "content": "Sounds great!  How about the first week of January?\n\nWe're all doing great, how about you?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1386291581670,
+      "content": "Lessons are 15.00 per half hour, payable for the whole month on the first lesson of that  month....books? depends on what the student has in mind and my own experience....most materials can be purchased at H and R downtown...but I do have other materials here for unique requests (HA.)  Are we looking at a possible after Christmas Start? Hope all is well with you (or as well as it can get with you and yours mixed with love and laughter(!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1386291376276,
+      "content": "hI ya....had lessons, babysit the dog (plus mine), had my youngest home for a few days, had frequent mental vacations......so:"
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1386191432878,
+      "content": "Great, thanks!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1386191122570,
+      "content": "gotta go teach...be in touch tomorrow, K?"
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1386190953132,
+      "content": "And yay!"
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1386190943302,
+      "content": "His name is Renan, he's from Brazil, and he's already one of my favorite people on earth. Now Hubby says he wants them too. What's the price?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1386190504985,
+      "content": "Hey yourself, Wonder Woman!  Yes, still tickling the ivories......gearing down somewhat but still taking anyone who is really interested.....let me know more about your exchange student."
+    },
+    {
+      "sender_name": "Colleen Hawley",
+      "timestamp_ms": 1386111740955,
+      "content": "Hey fabulous lady...one of my exchange students wants to take piano lessons. Are you still teaching?"
+    }
+  ],
+  "title": "Colleen Hawley",
+  "is_still_participant": true,
+  "thread_path": "inbox/colleenhawley_10154300326972394",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "participants": [
+    {
+      "name": "So Jeo LeBlond"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "So Jeo LeBlond",
+      "timestamp_ms": 1639762438553,
+      "content": "Reacted \u00e2\u009d\u00a4 to your message "
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639762427798,
+      "gifs": [
+        {
+          "uri": "messages/inbox/sojeoleblond_10158633199425901/gifs/267592856_399559578591195_2007695658098736948_n_693325302052406.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "So Jeo LeBlond"
+        }
+      ]
+    },
+    {
+      "sender_name": "So Jeo LeBlond",
+      "timestamp_ms": 1639762313384,
+      "content": "You\u00e2\u0080\u0099re so welcome and thank you!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639762290622,
+      "content": "REALLY fast...thanks!"
+    },
+    {
+      "sender_name": "So Jeo LeBlond",
+      "timestamp_ms": 1639762264583,
+      "content": "Wonderful!  That was faster than so expected!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639759742697,
+      "content": "Got  it today!!!   Had to open it to see it!!!! Beautiful!!!! Many thanks!!!!!"
+    },
+    {
+      "sender_name": "So Jeo LeBlond",
+      "timestamp_ms": 1639681204915,
+      "content": "Just dropped it off so you should receive it maybe Monday or Tuesday!"
+    },
+    {
+      "sender_name": "So Jeo LeBlond",
+      "timestamp_ms": 1639679778759,
+      "content": "Reacted \u00f0\u009f\u0098\u0086 to your message "
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639679749907,
+      "content": "my laptop is possessed. And a very Chrristmas to you and yours!!!!!!!!!!!!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "So Jeo LeBlond"
+        }
+      ]
+    },
+    {
+      "sender_name": "So Jeo LeBlond",
+      "timestamp_ms": 1639679652747,
+      "content": "Oh, it just came through!  I\u00e2\u0080\u0099m printing off the postage now.  Again, thanks you so much!  Merry Christmas!"
+    },
+    {
+      "sender_name": "So Jeo LeBlond",
+      "timestamp_ms": 1639679073506,
+      "content": "I didn\u00e2\u0080\u0099t receive it on my end, do you mind double checking?"
+    },
+    {
+      "sender_name": "So Jeo LeBlond",
+      "timestamp_ms": 1639678932734,
+      "content": "It might take a minute to come through"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639678872051,
+      "content": "password is my missle name   : ::  Jane"
+    },
+    {
+      "sender_name": "So Jeo LeBlond",
+      "timestamp_ms": 1639678788410,
+      "content": "It\u00e2\u0080\u0099s sojeole@gmail.com"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639678763115,
+      "content": "what's your email for the transfer?\\"
+    },
+    {
+      "sender_name": "So Jeo LeBlond",
+      "timestamp_ms": 1639678685528,
+      "content": "Great!  Thank you so much!  I\u00e2\u0080\u0099ll get it down to the post office before the mail truck leaves.  I hope that you have a wonderful Christmas!  It\u00e2\u0080\u0099s so nice that you live close to your daughter."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639678621385,
+      "content": "yes, fine re mail...oooo thank you.  59 MacKay St, New Glasgow, NS  B2H 3H5"
+    },
+    {
+      "sender_name": "So Jeo LeBlond",
+      "timestamp_ms": 1639678482945,
+      "content": "It might be easier for me to mail it.  Aw, I\u00e2\u0080\u0099m so happy to hear that!  You can etransfer $240 to sojeole@gmail.com and I can get it in the mail today.  I just need your full address."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639678375385,
+      "content": "It's going to the same people as last year...they love your work."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639678292521,
+      "content": "yes indeed.....mail or dropoff (will pay for service) would be very helpful.!!!!  Mastercard or e-transfer ? I'd prefer e-transer if at all possible. 59 MacKay St.;  bottom flat with brown screen porch in front (2 resident house....my daughter owns it and lives upstairs, while I live downstairs and seldom l \nleave the house (oxygen plus other stuff).  Can yu give me a cost?"
+    },
+    {
+      "sender_name": "So Jeo LeBlond",
+      "timestamp_ms": 1639678206411,
+      "content": "If it\u00e2\u0080\u0099s local I can ship regular parcel up until Dec. 20th.   Regional and national by Xpresspost Dec. 21st and 20th respectively."
+    },
+    {
+      "sender_name": "So Jeo LeBlond",
+      "timestamp_ms": 1639678013345,
+      "photos": [
+        {
+          "uri": "messages/inbox/sojeoleblond_10158633199425901/photos/266386789_426053205733346_6680912461944246154_n_426053199066680.jpg",
+          "creation_timestamp": 1639678011
+        }
+      ]
+    },
+    {
+      "sender_name": "So Jeo LeBlond",
+      "timestamp_ms": 1639678011718,
+      "content": "Did you mean this one?"
+    },
+    {
+      "sender_name": "So Jeo LeBlond",
+      "timestamp_ms": 1639677962072,
+      "content": "Sorry to hear about your health issues.  Do you want me to mail it or can I deliver it to you?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639677884752,
+      "content": "I'm in New Glasgow"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639677871091,
+      "content": "if I order now, will it be too late for Christmas?  Sorry, health issues flared up again....would like the blue flowers/diamond egg."
+    },
+    {
+      "sender_name": "So Jeo LeBlond",
+      "timestamp_ms": 1639250949870,
+      "content": "Hi Lesley, yes I do still make eggs.  I have a small selection of them currently in stock.  You can find them in my Etsy store www.SoJeo.Etsy.com and they are in the In Stock Pysanky section.  I hope that you are well!",
+      "share": {
+        "link": "https://www.etsy.com/shop/PysankyBySoJeo",
+        "share_text": "You searched for: PysankyBySoJeo! Discover the unique items that PysankyBySoJeo creates. At Etsy, we pride ourselves on our global community of sellers. Each Etsy seller helps contribute to a global marketplace of creative goods. By supporting PysankyBySoJeo, you\u00e2\u0080\u0099re supporting a small business, an..."
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639249876882,
+      "content": "do you still sell the eggs? I can't find pictures or info? I do hope so and that this message finds you and yours safe and well."
+    },
+    {
+      "sender_name": "So Jeo LeBlond",
+      "timestamp_ms": 1609426476987,
+      "content": "You can now message and call each other and see info like Active Status and when you've read messages."
+    },
+    {
+      "sender_name": "So Jeo LeBlond",
+      "timestamp_ms": 1609426476908,
+      "content": "I\u00e2\u0080\u0099m sorry to hear that you aren\u00e2\u0080\u0099t well."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1609423647688,
+      "content": "So Jeo,  please send the egg to me since I now have other items to mail..Lesley Dunn, 59 MacKay St , New Glasgow, NS....B2H 3H5...thanking you...sorry for the delay (poor health)."
+    }
+  ],
+  "title": "So Jeo LeBlond",
+  "is_still_participant": true,
+  "thread_path": "inbox/sojeoleblond_10158633199425901",
+  "magic_words": [
+    
+  ]
+}

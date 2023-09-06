@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "The Shib Shop"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487350411242,
+      "content": "Mr. Prime Minister: We all know how well you are doing as leader of our country on so many challenging issues. It is of utmost importance that you take a close look at the struggle in Nova Scotia between teachers/Mr. McNeil's Liberal stance on ongoing and burgeoning problems. This will most certainly have significant impact on future voting choices.  Your reasonable and timely intervention would be most appreciated."
+    }
+  ],
+  "title": "The Shib Shop",
+  "is_still_participant": true,
+  "thread_path": "inbox/theshibshop_703906246449671",
+  "magic_words": [
+    
+  ]
+}

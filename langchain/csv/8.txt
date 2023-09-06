@@ -1,0 +1,94 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1412952711547,
+      "content": "Thanks"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1412952706752,
+      "content": "Good luck."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1412952701727,
+      "content": "Whoops....sorry about the xtra face."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1412952666076,
+      "content": "Wrong person"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1412952662175,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362127548584_1211061758_n_126362124215251.png"
+      },
+      "ip": "156.57.14.163"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1412952657590,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362067548590_1152922410_n_126362064215257.png"
+      },
+      "ip": "156.57.14.163"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1412952653557,
+      "content": "Omg. Sry"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1412952631185,
+      "content": "I have no child named Logan. Perhaps you have the wrong person...I have a brother named Peter, but my children are obviously not his."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1412952406689,
+      "content": "Just curious if he is still paying child support for Logan. That's all. He hasn't paid me anything in almost 7 weeks"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1412952302512,
+      "content": "Does Peter still give you money each month for support for Logan?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1412952249590,
+      "content": "I'm sorry, I have no idea what you are referring to.....perhaps you could explain?"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1412930933632,
+      "content": "Just wondering if Peter is still paying child support for Logan?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1412900955767,
+      "content": "What questions do you have in mind?"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1412894544831,
+      "content": "Hi Lesley, it's Michelle. I'm just wondering if I could ask you a couple questions...?\nIt's in regards to child support for Logan. If you don't want to answer I understand."
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "inbox/facebookuser_858474577659503",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "James Arthur MacDonald"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1544974961836,
+      "videos": [
+        {
+          "uri": "messages/inbox/jamesarthurmacdonald_10208693846284505/videos/12412543_577708572383870_1018189197_n_201898647384246",
+          "creation_timestamp": 1544974961
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1455208767778,
+      "content": "post deleted"
+    }
+  ],
+  "title": "James Arthur MacDonald",
+  "is_still_participant": true,
+  "thread_path": "inbox/jamesarthurmacdonald_10208693846284505",
+  "magic_words": [
+    
+  ]
+}

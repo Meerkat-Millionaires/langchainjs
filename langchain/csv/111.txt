@@ -1,0 +1,105 @@
+{
+  "participants": [
+    {
+      "name": "Randy Gilby"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624808293315,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614107746023,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0qXdtbtHQieVcpu2bCAeMCZ69oCJbBEmpXxB5N9eGBdr4VdB1Wa5PPzCx5CftU9Xhl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1483896566818,
+      "content": "Hi....thanks for the reply.....been sick for a few days.....Happy New Year to you too and to your family!!!"
+    },
+    {
+      "sender_name": "Randy Gilby",
+      "timestamp_ms": 1483578376954,
+      "content": "Happy New Year and take care \u00f0\u009f\u00a4\u0097"
+    },
+    {
+      "sender_name": "Randy Gilby",
+      "timestamp_ms": 1483578198879,
+      "content": "I can understand your point of view and do see the severity of the situation but I did not post it I only commented as I found it humorous in a juvenile way ,..and as a man who watches NASCAR and enjoys car racing i will not apologize for being a fan of The driver (3 time champion Jeff Gordon ) !! You are certainly entitled to your view but entertainment is in the eye of the beholder and I hold no grudge whatsoever for bringing this to my attention . Facebook is for my entertainment and I will post as an adult in this forum some posts that all may not like or agree with but I will do this with no harm intended to anyone ...... And of course I will NOT delete you Leslie everyone is entitled to their point of view \u00f0\u009f\u00a4\u0097"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1483577384081,
+      "content": "Please don't delete me."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1483577311664,
+      "photos": [
+        {
+          "uri": "https://interncache-ncg.fbcdn.net/v/t34.18173-12/15211547_10154308825889332_401961227_n.gif?stp=dst-gif&ccb=1-7&_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-ncg&oh=00_AfChkWC4gRiG5xA389Md2jjWoGKksclXKwOXemz4CHenvA&oe=64AE4488",
+          "creation_timestamp": 1483577311
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1483577160330,
+      "content": "Please, even if this clip is old and there are (apparently) lots of others in the same mode, delete it"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1483577098205,
+      "content": "If we have come to the point that scaring someone within an inch of their life for no reason in particular, then this clip succeeded. I am ashamed ( that as a viewer and reader of facebook posts) I didn't respond in the general view...I didn't because I like you and wouldn't want what I have to say made open to the public."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1483576911780,
+      "content": "This is not funny..at as a matter of fact, it is horrific.  Whether he was paid off after the fact doesn't change the issue. Whoever OKd the idea, whoever Okd the funds, whoever OKd the concept that this would be humerous...all wrong. It was the worst thing that I have allowed myself to watch on facebook.....and only because you posted it."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1483576707098,
+      "content": "Randy: I seldom let myself be perturbed by what is posted on my facebook page....but I must, really must, respond to the clip re disguised driver and salesman...."
+    },
+    {
+      "sender_name": "Randy Gilby",
+      "timestamp_ms": 1448398515003,
+      "content": "Yes tickets are available at the door !! Hope to see you there !!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1448390993252,
+      "content": "Can we get tickets at the door on Fri evening?"
+    },
+    {
+      "sender_name": "Randy Gilby",
+      "timestamp_ms": 1358304230603,
+      "content": "Thanks for the instructions !!!! LOL !! See ya soon :) \n"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1358259105281,
+      "content": "HAPPY BIRTHDAY TO YOU...AND MANY MORE! (sing to the tune of \"Happy Birthday to You\", DUH)"
+    }
+  ],
+  "title": "Randy Gilby",
+  "is_still_participant": true,
+  "thread_path": "inbox/randygilby_10204021634101377",
+  "magic_words": [
+    
+  ]
+}

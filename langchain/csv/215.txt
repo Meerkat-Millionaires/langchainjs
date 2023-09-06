@@ -1,0 +1,80 @@
+{
+  "participants": [
+    {
+      "name": "Kathie MacLeod Gunn"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kathie MacLeod Gunn",
+      "timestamp_ms": 1466612214397,
+      "content": "Great !"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466612203762,
+      "content": "Yes, I will."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466612126665,
+      "photos": [
+        {
+          "uri": "messages/inbox/kathiemacleodgunn_1008139995886913/photos/271531530_1070694197108178_6922631320924942876_n_591690864337877.gif",
+          "creation_timestamp": 1466612125
+        }
+      ],
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Kathie MacLeod Gunn",
+      "timestamp_ms": 1466612083069,
+      "content": "Pass the word."
+    },
+    {
+      "sender_name": "Kathie MacLeod Gunn",
+      "timestamp_ms": 1466612053592,
+      "content": "Hope you are feeling ok.  Thanks for getting back to me. Take care."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466612047891,
+      "content": "ooops, wrong picture ...lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466612036712,
+      "photos": [
+        {
+          "uri": "messages/inbox/kathiemacleodgunn_1008139995886913/photos/275433693_1413606482426540_1035305697281317257_n_591687247671572.gif",
+          "creation_timestamp": 1466612034
+        }
+      ],
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466611992959,
+      "content": "It certainly is my sort of thing.....health is a bit uncertain these days so can't commit to any day in particular.   So, thanks for thinking about me, but it's a no-go. Hope you are all well and thriving...special \"hi\" to your girls !!!!!! All is very busy here on the corner."
+    },
+    {
+      "sender_name": "Kathie MacLeod Gunn",
+      "timestamp_ms": 1466608395282,
+      "content": "Hey Leslie, How are you? Hope you had a good winter. Just wondering if you ould be interested in tickets to a Valdy, Doris Mason , Dave and Katie Concert. It is this Saturday night at Al Gunn's Barn ( very cool venue) 7-9+   25.00 a ticket and I have 15 left at this point. Just thought of you  when I was looking at FB. Thought it might be your thing. Take Care Kathie"
+    },
+    {
+      "sender_name": "Kathie MacLeod Gunn",
+      "timestamp_ms": 1422471124760,
+      "content": "Hey Lesley, jethro has the car, however, we will try to make it for 530."
+    }
+  ],
+  "title": "Kathie MacLeod Gunn",
+  "is_still_participant": true,
+  "thread_path": "inbox/kathiemacleodgunn_1008139995886913",
+  "magic_words": [
+    
+  ]
+}

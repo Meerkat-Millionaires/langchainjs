@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Lara Scholey"
+    },
+    {
+      "name": "Carl Adams"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Keith Cross",
+      "timestamp_ms": 1525026922184,
+      "content": "Keith Cross left the group."
+    },
+    {
+      "sender_name": "Keith Cross",
+      "timestamp_ms": 1525026817929,
+      "content": "The video chat ended."
+    },
+    {
+      "sender_name": "Keith Cross",
+      "timestamp_ms": 1525026758096,
+      "content": "Keith joined the video chat."
+    },
+    {
+      "sender_name": "Keith Cross",
+      "timestamp_ms": 1525026757935,
+      "content": "Keith started a video chat."
+    },
+    {
+      "sender_name": "Lara Scholey",
+      "timestamp_ms": 1525023640246,
+      "content": "Trying to do this from phone. Just sent audio of Charlotte singing Holy city in church today. Recording is from before service (when I could be mom!). One blip that didn't happen during service. Enjoy."
+    },
+    {
+      "sender_name": "Lara Scholey",
+      "timestamp_ms": 1525023639891,
+      "content": "Lara created the group."
+    }
+  ],
+  "title": "Lara and Carl",
+  "is_still_participant": true,
+  "thread_path": "inbox/laraandcarl_1663516347101429",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

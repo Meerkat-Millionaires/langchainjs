@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Gillian Boone"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1412266605043,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362164215247_428974420_n_126362160881914.png"
+      },
+      "ip": "99.192.36.27"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1412266596629,
+      "content": "Hope this finds you well and life is rewarding you for \"being you\"...a reward certainly deserved!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1412266557771,
+      "content": "Still painting (not as often as my soul requires)..you? And teaching is on the go (reducing numbers with the goal of ceasing by June 2015)."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1412266483459,
+      "content": "Hi!!  Got your phone message..away a bit and also feeling a tad overwhelmed at that time....better now. Nope, piano key is still other-wordly in sound and have grown quite fond of it! So many other things to take care of. Have a third lovely grandaughter (Tiana's) so find myself busy with her and Jarett has been living with me for a few months....mmmmm... All is fairly OK there right now."
+    }
+  ],
+  "title": "Gillian Boone",
+  "is_still_participant": true,
+  "thread_path": "inbox/gillianboone_10157376952955164",
+  "magic_words": [
+    
+  ]
+}

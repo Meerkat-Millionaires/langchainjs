@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Jarett Dunn"
+    },
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Damion Fusco"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1384884055106,
+      "content": "PS. Jare: feel free to send along the congrats part without including the \"he doesn't even know how to spell it\" part ;)  "
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1384881498727,
+      "content": "Amanda (and AJ) are proud new parents to a little girl.  Rex left me a message to say all is well and to pass it along.  He's unsure of the name because it's one of those confusing ones (\"I don't even know how to spell it\") so we're not sure about that ;)"
+    }
+  ],
+  "title": "Jarett, Tiana and Damion",
+  "is_still_participant": true,
+  "thread_path": "inbox/jaretttianaanddamion_1397413340497976",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Wontoys"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Wontoys",
+      "timestamp_ms": 1631115471110,
+      "content": "You opened this conversation from wontoys.com."
+    },
+    {
+      "sender_name": "Wontoys",
+      "timestamp_ms": 1631115470865,
+      "content": "\u00f0\u009f\u0098\u0080Hello, welcome to our online store, do you have any questions to consult?"
+    },
+    {
+      "sender_name": "Wontoys",
+      "timestamp_ms": 1631114116194,
+      "content": "You opened this conversation from wontoys.com."
+    },
+    {
+      "sender_name": "Wontoys",
+      "timestamp_ms": 1631114115749,
+      "content": "\u00f0\u009f\u0098\u0080Hello, welcome to our online store, do you have any questions to consult?"
+    },
+    {
+      "sender_name": "Wontoys",
+      "timestamp_ms": 1630779389911,
+      "content": "\u00f0\u009f\u0098\u0080Hello, welcome to our online store, do you have any questions to consult?"
+    }
+  ],
+  "title": "Wontoys",
+  "is_still_participant": true,
+  "thread_path": "inbox/wontoys_1903830336457250",
+  "magic_words": [
+    
+  ]
+}

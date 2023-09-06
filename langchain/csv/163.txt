@@ -1,0 +1,520 @@
+{
+  "participants": [
+    {
+      "name": "Lee Bezanson Jewellery"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1641239396319,
+      "content": "I hope everything is OK with you!  <3"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1641088512621,
+      "content": "HI there and Happy New Year!  It's finished :)  I couldn't get a great picture, but here it is!",
+      "photos": [
+        {
+          "uri": "messages/inbox/leebezansonjewellery_940172106156416/photos/270114304_673912193987812_519407688916149701_n_673912187321146.jpg",
+          "creation_timestamp": 1641088503
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1640798212269,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1640717719004,
+      "content": "* that should read  \"that sounds great! \"  not the question mark LOL"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1640717687135,
+      "content": "that sounds great?  :)  I'll let you know when it's finished, and then I'll take it down to you. I hope you have a good week <3"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1640715050586,
+      "content": "oh shoot, let's make it black instead of copper."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1640714941962,
+      "content": "70.00 sent .... \u00f0\u009f\u0098\u0089your patience has been greatly appreciated"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1640714592812,
+      "content": "copper, please and sending payment now"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1640711522410,
+      "content": "the payment, when you are ready, can be sent to lee.b.jewellery@gmail.com"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1640711441858,
+      "content": "Hello there!  I'm so sorry you had such a rough time over Christmas.  I hope you are feeling a little better now.  I've attached a photo of the trinity suncatcher; it's $70.  I don't have any bronze wire, but it can be copper, gold, silver, or black.  the stones would have to vary too, but the overall style would be the same.  the other two pieces (necklaces) have been sold but can be remade if you'd like. I wish you peace, love, and joy Lesley!",
+      "photos": [
+        {
+          "uri": "messages/inbox/leebezansonjewellery_940172106156416/photos/269740107_663240728423336_6676692056736170474_n_663240721756670.jpg",
+          "creation_timestamp": 1640711212
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1640709118333,
+      "content": "\" by phone 902-7556759 or message me when you are ready.  Thank you so much"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1640709061024,
+      "content": "Oh Lee, I am so sorry....I ended up in the hospital that same day.......really sick (not Covid) and didn't get home for a week (jspent the time in Palliative care. Things I can't remember, but I do remember contacting you!!!!!  I would like a Trinity one made up, please.....no rush now, but home at all times cept for hospital or dentist....Tell me how much and I will etransfer  the money.....just a \"heads up"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1640119576327,
+      "content": "should i put them back in my inventory for sale?"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1640021644007,
+      "content": "Hello my dear :)  are you still interested in the pieces you mentioned??  I hope you are OK <3"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1639953000416,
+      "content": "Hello ??  :)"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1639927802432,
+      "content": "HI there!  Did you get my messages ? \u00f0\u009f\u0099\u0082  I hope you are feeling well today."
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1639868734903,
+      "content": "let me know if you would like a Trinity one though so I can get it made up for you <3"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1639868698489,
+      "content": "it's $60",
+      "photos": [
+        {
+          "uri": "messages/inbox/leebezansonjewellery_940172106156416/photos/257977990_321919196444279_597491047002960793_n_2100919376751955.jpg",
+          "creation_timestamp": 1639868621
+        }
+      ]
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1639868416409,
+      "content": "the copper tree does have a necklace :)"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1639868302429,
+      "content": "I can make a trinity suncatcher but it would not be bronze and the stones would be different."
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1639868266207,
+      "content": "I'm sorry but I was cleaning the house getting ready for company tomorrow LOL.  the Trinity suncatcher is in a past inventory album, the only suncatcher available at present is the red jasper one.   the other two pieces are available though"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639856589854,
+      "content": "lee, did you see my messages re three purchases!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639854312780,
+      "gifs": [
+        {
+          "uri": "messages/inbox/leebezansonjewellery_940172106156416/gifs/255092240_614546276244950_6084989678913407869_n_4892541190808289.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639854293218,
+      "content": "Let me know here if you will be up tomorrow and what I owe you.....many thanks to the Canadian Government for supplying a Pension, Guaranteed Income and Supplement....!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639854194742,
+      "content": "but ain't life just grand???!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639854034890,
+      "content": "and yes, I will be home tomorrow.....never go anywhere what with COPD: \n Stage four, Compression Fractures of the Spine, Heart Issues, fracture 0f the sternum.and blah and blah and blah.."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639853857429,
+      "content": "....gonna send the big moolah as soon as you give me a total....if you have necklaces, I'd like them and can pay for them....all to go to my sweetums big and small/"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639853786082,
+      "content": "Lee, did you get this?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639853545361,
+      "content": "Is that 70.00 plus 25  plus 25 or more?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639853451762,
+      "content": "Full Moon coming this weekend!!!!!!   Yuppers/love it."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639853412637,
+      "content": "so: blue crystal with silver tree necklace, copper tree with white moon necklace and Trinity Celtic Knot Suncatcher in bronze and coper"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639853124872,
+      "content": "OK, with you?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639853059458,
+      "content": "Okey-Dokey....will send etrnansfer ASAP (now....)....total please? and thank you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639852957236,
+      "content": "and the trinity Celtic knot suncatcher  in bronze and copper  with crystals....that's three...I always know now what to do when atumped at Christmas/"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639852044222,
+      "content": "AND...the cobalt blue tree in silver of life necklace,  as well ......"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639851488554,
+      "content": "sorry, had a person at the door...."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639851435344,
+      "content": "dandy!!!! 59 MacKay St.....NG.....copper tree of Life with Mother of pearl moon......does this have a necklace provided.?"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1639777230651,
+      "content": "How are you Leslie ?  <3 this is still available and I am coming in town on Sunday if that's time enough :)"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1639777229865,
+      "content": "Lee Bezanson Jewellery is responding to a comment you made on their Page. View comment.(https://facebook.com/lbjewellery/posts/5000180963349614?comment_id=5017219651645745)"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1639776992130,
+      "content": "https://www.facebook.com/media/set/?set=a.4985489218152122&type=3"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1639776982377,
+      "content": "you found the Christmas Album? https://www.facebook.com/media/set/?set=a.4985489218152122&type=3"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639760139169,
+      "content": "found it"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639759979030,
+      "content": "Hi, are you still offering your works for sale?"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1608770288473,
+      "content": "Thank you Lesley.   I hope all is wel with you.  Merry Christmas <3"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1608754146373,
+      "content": "sorry about the delay in responding...was in the hospital for a week....just home last night and want to say thanks for the necklace \"Tree\"...lovely...will send rest of funds now....thanks so much. and have a very happy vacation as much as possible...."
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1607968742173,
+      "content": "I also declined the second $95 transfer you sent so you don't have to worry about that one now.  Just the  added $12 or $15.  Can't remember LOL"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1607968681414,
+      "content": "Hi there Lesley :)  I left your parcel in your porch last evening.  Did you get them ok?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607879809977,
+      "content": "thanks"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1607879663783,
+      "content": "sounds good Lesley.  Have a rest and take of yourself.  I will drop these off soon.  I'll leve them in the porch if you are not home  <3"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1607879663579,
+      "content": "Lee Bezanson Jewellery is responding to a comment you made on their Page. View comment.(https://facebook.com/lbjewellery/photos/a.167229893311436/3870881426279579/?comment_id=3911758842191837)"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1607877742167,
+      "content": "or something else from this album https://www.facebook.com/media/set/?vanity=lbjewellery&set=a.3593613744006350"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1607877705558,
+      "content": "can i suggest this instead?",
+      "photos": [
+        {
+          "uri": "messages/inbox/leebezansonjewellery_940172106156416/photos/131102962_379153419815115_4040925461837312833_n_379153413148449.jpg",
+          "creation_timestamp": 1607877699
+        }
+      ]
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1607877656206,
+      "content": "oops, you better cancel that, I already got it"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1607877631647,
+      "content": "Yes, my dear, it went through.  Thank you, but did you see the message I sent about the tree you chose?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607877568465,
+      "content": "new password is     white"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607876826207,
+      "content": "Did it go through?  If not , jI'll get my son to doit...don't know whaat's wrong,,,very sorry"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607874543418,
+      "content": "sorry...wil fix this a resend"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1607815217313,
+      "content": "HI, I can't find the e-transfer, but I noticed the address you have above isn't spelled properly.  :)  It's lee.b.jewellery@gmail.com"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1607814083788,
+      "content": "https://www.facebook.com/media/set/?vanity=lbjewellery&set=a.3593613744006350"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1607813754282,
+      "content": "HI Lesley :)  this is from my past inventory from a few years ago.  I don;t have another bead like this.  I'll send a link to my current inventory"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1607813753548,
+      "content": "Lee Bezanson Jewellery is responding to a comment you made on their Page. View comment.(https://facebook.com/lbjewellery/photos/a.493793160655106/2242266269141111/?comment_id=3909207389113649)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607797695384,
+      "content": "the answer is tiana"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607797692271,
+      "content": "hi is it Email:lee.b.jewellry@gmail.com"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1607698433018,
+      "content": "If you know which necklace you'd like, I'll be in town today.  But, I could also drop it off after I get back from the Tatamagouche Market tomorrow.  :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607684504964,
+      "content": "that's great....will also be getting a necklace and will finish the order and payment today"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1607615595983,
+      "content": "Sorry Leslie..it's actually $65"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1607453320269,
+      "content": "a tea saucer"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1607453302241,
+      "content": "it's a little bigger than a saucer"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1607453271171,
+      "content": "agate, golden carnelian, tiger eye, and unikite :)"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1607453148690,
+      "content": "hi there Lesley.  I have this one at $75.  the tree is very detailed and the halo is made of semi precious beads."
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1607453147732,
+      "content": "Lee Bezanson Jewellery is responding to a comment you made on their Page. View comment.(https://facebook.com/lbjewellery/photos/a.167229893311436/3870881426279579/?comment_id=3898819100152478)"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1606598064021,
+      "content": "<3"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1606570589814,
+      "gifs": [
+        {
+          "uri": "messages/inbox/leebezansonjewellery_940172106156416/gifs/51798141_2287059491614668_5727918787110371328_n_720142808895580.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1606570552849,
+      "content": "beautiful!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1606497844749,
+      "content": "if no answer at door (I have health problems), please inaidee front porch....thank you, Lee!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1606497683125,
+      "content": "we've sent the $150, the answer is tiana"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1606496990941,
+      "content": "yes"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1606496799783,
+      "content": "perfect.  you are still at MAcKay Street?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1606496767732,
+      "content": "yes"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1606496408157,
+      "content": "please let me know if you still want it"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1606496388862,
+      "content": "i found your address.  I'll take it to you this afternoon"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1606496166231,
+      "content": "HI Leslie, I just saw this.  Yes, I can drop it off to you :)  Please let me know where <3  You can send e-transfer to lee.b.jewellery@gmail.com.  Is later this afternoon OK? it will be in a gift bag"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1606496165461,
+      "content": "Lee Bezanson Jewellery is responding to a comment you made on their Page. View comment.(https://facebook.com/lbjewellery/photos/a.3593613744006350/3864377736929948/?type=3&av=167227463311679&eav=AfbKJRXarjFyTCOua1MMicV0kH8Y9Z-KioBaVoAgLrDb5a7sTKXmEmP8SvdkOUAs86A&comment_id=3868827423151646)"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1606495447534,
+      "content": "https://www.facebook.com/pg/lbjewellery/photos/?tab=album&album_id=3593613744006350"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1606495440195,
+      "content": "HI Lesley.  Which one exactly?  Here's a link to my Current Inventory. The only one with a blue moon right now, is the big piece I just finished the other day. Let me know I can take it to you later this afternoon :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1606492071742,
+      "content": "If you can, it would be great if I could have it today or tomorrow (I know this is unreasonable!!!)  for her birthday, if not  no rush (for Christmas....and am happy to etransfer funds or master card......thanks."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1606491515765,
+      "content": "Lee, I would like to purchase on of these (with blue moon)...I live in New  Glasgow and can pay by etransfer or master card..is it possibble for someone to drp it off here?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1576535692033,
+      "content": "thanks for the update!!!"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1576524377582,
+      "content": "https://www.facebook.com/pg/lbjewellery/photos/?tab=album&album_id=2852148281486237"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1576524282737,
+      "content": "HI there Lesley :)  no, this is from my Past Inventory Album. I'm sending you a link for my Christmas 2019 (Current Inventory) Album.  It's a little low right now, but I will be adding to it this week.\n\nhttps://www.facebook.com/pg/lbjewellery/photos/?tab=album&album_id=2852148281486237",
+      "share": {
+        "link": "https://www.facebook.com/lbjewellery/photos/a.493793160655106/2502380849796317/?type=3&comment_id=2925952600772471",
+        "share_text": "Facebook"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1525611447252,
+      "content": "Awesome. 59 Mackay St New Glasgow...large yellow house...brown screen porch on front...up George from the bridge and continue straight through Temperance....at DO NOT ENTER signs turn right (only turn you can make) and it's right there on corner of George and Mackay.   Many Thanks."
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1525548887967,
+      "content": "HI Lesley!  It's $30, and can drop it off to you.  Let me know your address.  I work in New Glasgow, so I can drop it off this week :)"
+    },
+    {
+      "sender_name": "Lee Bezanson Jewellery",
+      "timestamp_ms": 1525548887560
+    }
+  ],
+  "title": "Lee Bezanson Jewellery",
+  "is_still_participant": true,
+  "thread_path": "inbox/leebezansonjewellery_940172106156416",
+  "magic_words": [
+    
+  ]
+}

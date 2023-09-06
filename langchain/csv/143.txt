@@ -1,0 +1,83 @@
+{
+  "participants": [
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Damion Fusco"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1584888322319,
+      "content": "Fantastic....lucky Dad!!!!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1584736187805,
+      "content": "awesome!"
+    },
+    {
+      "sender_name": "Damion Fusco",
+      "timestamp_ms": 1584734563077,
+      "content": "My birthday present from Em"
+    },
+    {
+      "sender_name": "Damion Fusco",
+      "timestamp_ms": 1584734554130,
+      "photos": [
+        {
+          "uri": "messages/inbox/tianaanddamion_2947117545309395/photos/90441464_501732723837595_1112000112772513792_n_501732677170933.jpg",
+          "creation_timestamp": 1584734553
+        },
+        {
+          "uri": "messages/inbox/tianaanddamion_2947117545309395/photos/90550414_223160702214863_6298486582290677760_n_223160638881536.jpg",
+          "creation_timestamp": 1584734553
+        }
+      ]
+    },
+    {
+      "sender_name": "Damion Fusco",
+      "timestamp_ms": 1584734549730,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1584719065900,
+      "content": "The video call ended.",
+      "call_duration": 132
+    },
+    {
+      "sender_name": "Damion Fusco",
+      "timestamp_ms": 1584718945747,
+      "content": "Damion joined the video chat."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1584718935729,
+      "content": "Tiana started a video chat.",
+      "call_duration": 0
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1584718935139,
+      "content": "Tiana created the group."
+    }
+  ],
+  "title": "Tiana and Damion",
+  "is_still_participant": true,
+  "thread_path": "inbox/tianaanddamion_2947117545309395",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

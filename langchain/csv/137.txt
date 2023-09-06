@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Steve Goodwin"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1478108177425,
+      "content": "I see lots of \"thanks\" from you to others....would love to know why."
+    }
+  ],
+  "title": "Steve Goodwin",
+  "is_still_participant": true,
+  "thread_path": "inbox/stevegoodwin_10210928864199599",
+  "magic_words": [
+    
+  ]
+}

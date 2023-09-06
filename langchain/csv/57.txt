@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Katie Porter"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1402926679378,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362190881911_254357215_n_126362187548578.png"
+      },
+      "ip": "24.222.136.45"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1402926674911,
+      "content": "I often think of you and the other Porters. Still teaching (but winding down the number of students) and moved to New Glasgow a year and a half ago.....lovely older home with my flat downstairs and my daughter Tiana has the upper two floors...completely separate. I have a Music Room (so nice). Tiana has a lovely little babe (Reggie, after her grandfather) who is two months old...terrific to have her so near and spend lots of time with her....they sure change your life completely, yes? I keep up with you on fb so keep those pictures coming of you and Lily!!!!  Take care. And thanks for the message..it sure perked me up."
+    },
+    {
+      "sender_name": "Katie Porter",
+      "timestamp_ms": 1402177761578,
+      "content": "Hi Lesley! How are you?\n\nI have been really missing playing the piano lately as I don't have one here in the city.  Thinking about the piano of course makes me think of you and I miss our lessons together! It's been so long!\n\nI really hope I don't lose too much of what I've learned as I want to teach Lily (my daughter) how to play too!\n\nAnyways I just thought I'd say hi and let you know I was thinking of you! I hope all is well :)\n\n- Katie"
+    }
+  ],
+  "title": "Katie Porter",
+  "is_still_participant": true,
+  "thread_path": "inbox/katieporter_10153645898371815",
+  "magic_words": [
+    
+  ]
+}

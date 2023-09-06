@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Lesley Dunn"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Facebook user"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "",
+      "timestamp_ms": 1460327893017,
+      "content": ":)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460327841560,
+      "sticker": {
+        "uri": "messages/stickers_used/851559_577510682334976_854118530_n_577501519002559.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460327828851,
+      "content": "indeed !"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1460327816329,
+      "content": "haha<3"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460327773732,
+      "content": "Yuppers"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1460327766736,
+      "content": "gotta love 'em cats :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460327739516,
+      "content": "Ya gotta laugh, yes?",
+      "share": {
+        "link": "https://www.facebook.com/GattolandiaOdv/photos/a.323898840337/10155350788900338/?type=3"
+      }
+    }
+  ],
+  "title": " and Facebook user",
+  "is_still_participant": true,
+  "thread_path": "inbox/andfacebookuser_1010609522348692",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

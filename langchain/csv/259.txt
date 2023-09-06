@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1482192043805,
+      "content": "How are you doing?"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1482192038381,
+      "content": "Hello"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482191914430,
+      "content": "You are now connected on Messenger"
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "inbox/facebookuser_673493222824307",
+  "magic_words": [
+    
+  ]
+}

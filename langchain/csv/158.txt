@@ -1,0 +1,1437 @@
+{
+  "participants": [
+    {
+      "name": "Dorte M Mac Master"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1634405833834,
+      "photos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/photos/245136664_451280332977309_1848132333377551003_n_557764741968666.jpg",
+          "creation_timestamp": 1634405833
+        }
+      ]
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1625064854579,
+      "content": "If it wasn't for the TV my cross stitch and my Dog. I am sure that I would have gone crazy."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1625064724267,
+      "content": "I can't stand the masks.  Are you still on the oxygen"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1625064659543,
+      "content": "I haven't been away from her to much either. Going to Sobeys  the vet's. A bit to my kids not too much."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1625064537585,
+      "content": "Sorry to hear that Lesley"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1625064140889,
+      "content": "but my health issues have squashed any going out unless by ambu;ance or with a couple of people for Covic vaccination.....haven't been away from the house (except for the above) in 2 years."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1625060621738,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1625057699384,
+      "content": "I miss Jungle Jim too"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624807766793,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1614429413533,
+      "content": "Happy Birthday Lesley. Hope you will have a great day \u00f0\u009f\u00a5\u00b3\u00f0\u009f\u008e\u0081\u00f0\u009f\u008e\u0089\u00e2\u009d\u00a3\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614107886465,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0qXdtbtHQieVcpu2bCAeMCZ69oCJbBEmpXxB5N9eGBdr4VdB1Wa5PPzCx5CftU9Xhl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607794621922,
+      "content": "love you"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1607007630182,
+      "content": "Hope that I'm the First Person to put a CHRISTmas Tree on Your phone. \n\nIf luck is a raindrop, i'd send You a shower.\n\nIf hope is a minute, i'd send You an hour.\n\nIf happiness is a leaf, i'd give You a tree.\n\nAnd if YOU need a FRIEND, You will ALWAYS have ME.\n\nSend this to all the people You care about.\n\nEven me.\n\nIf You get 3 back, You're a True Friend!",
+      "videos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/videos/12349769_1530333383958687_595733009_n_706566906904468",
+          "creation_timestamp": 1607007629
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607007161085,
+      "content": "Hope that I'm the First Person to put a CHRISTmas Tree on Your phone. \n\nIf luck is a raindrop, i'd send You a shower.\n\nIf hope is a minute, i'd send You an hour.\n\nIf happiness is a leaf, i'd give You a tree.\n\nAnd if YOU need a FRIEND, You will ALWAYS have ME.\n\nSend this to all the people You care about.\n\nEven me.\n\nIf You get 3 back, You're a True Friend!",
+      "videos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/videos/12349769_1530333383958687_595733009_n_2499111363714954",
+          "creation_timestamp": 1607007160
+        }
+      ]
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1602860602900,
+      "content": "Lovely"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1602860599300,
+      "gifs": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/gifs/50396478_241440736782966_2515314491294482432_n_354610469217324.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1602860219394,
+      "gifs": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/gifs/119449226_357559172160166_170214249671778703_n_1694113160744598.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1602860179143,
+      "content": "Thanks Lesley. I wish that you will have the same Take care \u00f0\u009f\u0098\u0098\u00e2\u009d\u00a3\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1602859685174,
+      "content": "May this season fill you with joy seeing all the natural beauty around us and may the upcoming season keep you filled with happy expectation for the future...love from me."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1599833609716,
+      "content": "Hi there How is everything. It is a good day today. Not to hot. Everything is ok here \u00e2\u009d\u00a4\u00ef\u00b8\u008f not much going on. Hate to go to town. So I only go when I absolutely have to. Take care. Say hi to Jerret\u00f0\u009f\u008e\u00b6\u00f0\u009f\u0090\u00a6\u00f0\u009f\u0090\u009e\u00f0\u009f\u00a6\u008b"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1599833075759,
+      "content": "all is well here....hope you are doing well also. Miss you."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1599596875090,
+      "content": "Hi, hope all is well with you.. have a favor to ask for Breast Cancer Awareness month! Would you put a \u00e2\u009d\u00a4 on your Facebook page, and then send this message to your women contacts? This is for women to remember it's breast cancer prevention week! \n\u00f0\u009f\u0092\u0097\u00f0\u009f\u0092\u0097\u00f0\u009f\u0092\u0097\u00f0\u009f\u0092\u0097\u00f0\u009f\u0092\u0097\u00f0\u009f\u0092\u0097\u00f0\u009f\u0092\u0097\u00f0\u009f\u0092\u0097\nHold your finger down on the message and hit forward."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1593897655251,
+      "content": "Great day today"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1593897650683,
+      "sticker": {
+        "uri": "messages/stickers_used/14130009_1775288522711852_127155195_n_1775288509378520.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1593875029163,
+      "content": "not so hot now!!  Enjoy...keep in touch."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1593525470726,
+      "content": "Pretty good do not like the heat."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1593525433836,
+      "sticker": {
+        "uri": "messages/stickers_used/14146878_1775283429379028_1512662151_n_1775283416045696.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1593523620353,
+      "content": "hope you are well!!!!!!!@"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1593523609169,
+      "sticker": {
+        "uri": "messages/stickers_used/851559_577510682334976_854118530_n_577501519002559.png"
+      }
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1593439393686,
+      "videos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/videos/10000000_3025165414230317_8698764586254518957_n_592315635052842.mp4",
+          "creation_timestamp": 1593439392
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1592683055275,
+      "content": "beautiful work!!~~~"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1592663466884,
+      "content": "https://www.facebook.com/501186324/posts/10157495670311325/"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1592485840834,
+      "photos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/photos/79585192_854056668344851_6880007720896823296_n_1151149731888786.jpg",
+          "creation_timestamp": 1592485839
+        }
+      ]
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1589147041555,
+      "content": "Thanks Lesley  Hope you will have one as well."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1589143364885,
+      "videos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/videos/18502470_1671629569813148_6831430661526519808_n_1410147269179833.mp4",
+          "creation_timestamp": 1589143364
+        }
+      ]
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1586269608711,
+      "content": "Back at you \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00f0\u009f\u0098\u0098"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586269574819,
+      "content": "true. and he is safe here....I hope you have a good day...love ya"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1586269524844,
+      "content": "That is good It will not be so lonley with him there."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1586269470549,
+      "content": "I am ok."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586269457584,
+      "content": "yes, he's been home for months...we are keeping each other company.  Getting to know each other even better,It is good."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1586269407360,
+      "content": "Is Jarred home with you again. Say hi to him."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1586269406391,
+      "gifs": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/gifs/30658013_242408689670095_284242164009926656_n_676489073117179.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586269312737,
+      "content": "I am glad Jare and I can spend this time together.. All is well. Yiu?"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1586269292091,
+      "content": "How are you doing today\nHope that everyone is doing well."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1586269257109,
+      "content": "Me too also tears comming down my face."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586269186196,
+      "content": "it makes me smile!!"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1586269185497,
+      "content": "Great picture \u00e2\u0099\u00a5\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1586269170403,
+      "content": "That brings back memories. How quite was he"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586269081447,
+      "photos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/photos/92000683_2698090313653051_8046509714525126656_n_915828202209425.jpg",
+          "creation_timestamp": 1586269081
+        }
+      ]
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1586193787270,
+      "content": "I am. And you take care \u00f0\u009f\u0098\u0098"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586193735236,
+      "content": "I miss you at so many odd times., a cloudy day, a sunny day, a windy day , almost any day at all....you are in my heart....see you when this is not as severe as it is now....keep me in your thoughts, as I always have you."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1586193561310,
+      "content": "You too."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1586193560566,
+      "gifs": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/gifs/50157143_505336409989775_3829182392011063296_n_929077820857310.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586191322263,
+      "content": "keep safe"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586191309668,
+      "content": "missing you"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586191299246,
+      "gifs": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/gifs/52043407_833710486968295_59583832189304832_n_301755950804941.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1586113803875,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586105864172,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1586104217866,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1586104206965,
+      "sticker": {
+        "uri": "messages/stickers_used/47270791_937342239796388_4222599360510164992_n_167788116751808.png"
+      }
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1586104200392,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586102190365,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1586083402680,
+      "content": "Dorte sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid09D7z3PnRNsRYTLqbeXjntJnkHXHB2tNZZLNqVsTYrtm52G58f45AVi25To7vDk2nl&id=100008694341404"
+      }
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1585422834435,
+      "videos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/videos/10000000_206680027096968_5370118058251649024_n_677272119788719.mp4",
+          "creation_timestamp": 1585422833
+        }
+      ]
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1585135294498,
+      "content": "Be careful: I got a message from you or it shown on your wall here..  Please tell all the contacts in your messenger list not to accept friendship request from Andrea Wilson. She is a hacker and has the system connected to your Facebook account. If one of your contacts accepts it, you will also be hacked, so make sure that all your friends know it. Thanks. Forwarded as received.   Hold your finger down on the message. At the bottom in the middle it will say forward. Hit that then click on the names of those in your list."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1585135229110,
+      "content": "Be careful: I got a message from you or it shown on your wall here..  Please tell all the contacts in your messenger list not to accept friendship request from Andrea Wilson. She is a hacker and has the system connected to your Facebook account. If one of your contacts accepts it, you will also be hacked, so make sure that all your friends know it. Thanks. Forwarded as received.   Hold your finger down on the message. At the bottom in the middle it will say forward. Hit that then click on the names of those in your list."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1585086477526,
+      "photos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/photos/90722947_519830785395961_3366723038249746432_n_1063448804024866.jpg",
+          "creation_timestamp": 1585086477
+        }
+      ]
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1585075357982,
+      "photos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/photos/90722947_519830785395961_3366723038249746432_n_140214174086465.jpg",
+          "creation_timestamp": 1585075357
+        }
+      ]
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1585043138839,
+      "content": "But are making a quick stop to Sobyes. They are open , from 7-8.For  sinors My kids have been bringing me stuff. But can't keep putting them harm's way\n Take care and be well.\u00f0\u009f\u0092\u0096\u00f0\u009f\u0087\u00a9\u00f0\u009f\u0087\u00b0\u00f0\u009f\u0091\u008c"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1585042940462,
+      "content": "I am great so far. Haven't been out for 8 days. Except for the dogs ."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1584996177969,
+      "content": "Am pretty paranoid and strict about visitors, etc......So far so good cept Jare has a cold. This is all really strange, isn't it?  Scary and I really have to be careful. I sure hope you are staying away from other people and taking good care of yourself....Love from Me"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1584978856471,
+      "content": "Take care and take care.\u00f0\u009f\u0087\u00a9\u00f0\u009f\u0087\u00b0\u00f0\u009f\u0091\u008c"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1584978837132,
+      "content": "Hi Lesley. Are you doing ok. I am worried about you. Because of your breathing."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1584913557578,
+      "photos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/photos/90511189_2598784940444285_1925442836753285120_n_528445301425844.jpg",
+          "creation_timestamp": 1584913556
+        }
+      ]
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1582819943164,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1582819932573,
+      "sticker": {
+        "uri": "messages/stickers_used/47270791_937342239796388_4222599360510164992_n_167788116751808.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1582819917895,
+      "content": "mmmmmmm"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1582819903389,
+      "content": "You too. I am hoping for the last word.\u00f0\u009f\u008e\u00b6\u00f0\u009f\u008e\u00b6\u00f0\u009f\u008e\u00b6"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1582819784039,
+      "content": "You wouldn't believe how much I don't know anymore!!!!!!!   I was being funny too,,,,lol...Have a great day, my friend"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1582819718943,
+      "content": "I know I was trying to be funny."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1582819661299,
+      "content": "Daffodils are the yellow ones they sell for cancer research"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1582819621932,
+      "content": "Yes thanks for that. Hope to see you soon. You are so funny. Yes When the daffodils blooms What is daffodils. Take care. \u00f0\u009f\u0087\u00a9\u00f0\u009f\u0087\u00b0\u00f0\u009f\u0092\u0096\u00f0\u009f\u008c\u00b7\u00f0\u009f\u008c\u00b7\u00f0\u009f\u008e\u0082"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1582819506989,
+      "content": "see you when the daffodils bloom, OK?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1582819484332,
+      "content": "Some days I pee my pants and somedays I dojn't Ha!!!!!lol"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1582819426118,
+      "content": "But everything has changed so much. Someday I feel wery old and other days I  feel like I have all the energy in the world."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1582819388519,
+      "content": "Looks like another storm today?  Hate this stuff....It was a blizzard when I was born on this date in l949 and I was born in New Glasgow....wonder what this means?? lol And yes, we sure did have fun...have started writing,  a bit of painting and being more cheerful...SPRING IS COMING!!!!"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1582819277457,
+      "content": "I think about you a lot. And how much fun we used to have."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1582819212173,
+      "content": "Hope you have a great day. I don't get out mutch. Just got my van back about 2 weeks ago. I guess it is falling apart. But it's ok now."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1582819000552,
+      "content": "Miss you."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1582804305619,
+      "gifs": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/gifs/57064743_281065889493102_2223533061952241664_n_1259356570924587.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1582804244057,
+      "sticker": {
+        "uri": "messages/stickers_used/851552_488524361261009_718436261_n_488524357927676.png"
+      }
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1582804233744,
+      "sticker": {
+        "uri": "messages/stickers_used/851594_396468647163908_509266324_n_396449120499194.png"
+      }
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1582804226012,
+      "content": "Happy Birthday Lesley. Have a marvelous day.\u00f0\u009f\u008e\u00b6\u00f0\u009f\u00a6\u008b\u00f0\u009f\u0090\u00a6\u00f0\u009f\u008e\u0082\u00f0\u009f\u008c\u00b7\u00f0\u009f\u008c\u00b7\u00f0\u009f\u0092\u0096"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1581695034672,
+      "gifs": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/gifs/31905404_153953042115445_3210012953067651072_n_190698492038648.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1576928984790,
+      "content": "Dorte sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/gigglepalooza/videos/1518834284868132/"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1575485136904,
+      "content": "sweet!!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1575485120609,
+      "videos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/videos/12412543_577708572383870_1018189197_n_442172419800355",
+          "creation_timestamp": 1575485120
+        }
+      ]
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1575437128061,
+      "content": "Christmas Card Delivery pass it on to all your loved ones Please Send It Back To Me Thanks",
+      "videos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/videos/12412543_577708572383870_1018189197_n_2655265134540783",
+          "creation_timestamp": 1575437127
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1574701258908,
+      "gifs": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/gifs/31162389_1667230820062025_4759559290002341888_n_432108944346510.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1574701143759,
+      "content": "Dorte is waving at you!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1570222940108,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/whiskyandsarcasm/photos/a.275298256372259/538622250039857/?type=3"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562353007722,
+      "content": "Dorte: missing you.  If you have the dog(s) in , [lease drop in and say jhell0......love you.\\"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1545815542785,
+      "content": "Share this Christmas card with whoever you like most.\nI hope I get mine !!! \u00f0\u009f\u008e\u0084 wishing you and your family a merry Christmas.",
+      "videos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/videos/12412543_577708572383870_1018189197_n_2198407217047851",
+          "creation_timestamp": 1545815542
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1545670572328,
+      "content": "All my best to you and yours during this season!!"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1545059363746,
+      "content": "Going to shop a bit on the 20 of December. wont be to much. Going to Craigs for Christmas. Leaving on the 23 and return on the 27. I had hoped to see you before Christmas. but maby after. Take care and say hi to everyone. Take care.\u00f0\u009f\u0098\u0098."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1545059139661,
+      "content": "Hi there. Glad you are feeling better. I havent decorated here ither. Only the outside light and the tree that I put op every year on Edwards birthday.Yes it hurt a bit when you asked me about gambeling. That is somthing that I will not be cut op in."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1544974759265,
+      "videos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/videos/12412543_577708572383870_1018189197_n_2035160036530032",
+          "creation_timestamp": 1544974759
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1544974667902,
+      "content": "been another long haul...it is what it is...Damion is here for a week...Yahoo!! All else is as well as possible,,,,how about you? Christmas is very low key here. Haven't decorated and probably won't cause it's too difficult...Tiana has gone to town with her decorating!!! Drop in if you get a chance. I have the feeling that I may have offended you when I asked about the gambling...sorry about that...no harm intended. Take good care and enjoy what you can. Love ya."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1544541155736,
+      "content": "Hope you are on jur feet again.."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1544541066513,
+      "videos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/videos/12412543_577708572383870_1018189197_n_316230609027827",
+          "creation_timestamp": 1544541066
+        }
+      ]
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1531576329561,
+      "content": "Cant find anyway to get rid off that."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1531576289533,
+      "content": "No I ven out the other day and looked at the bush. I saw a bg that looked like a verysmall grashopper. He looked olmost like he was see thrugh."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1531319586594,
+      "content": "I can only find these reasons for skeletonization of rose leaves....Will keep looking.",
+      "share": {
+        "link": "https://www.gardeningknowhow.com/plant-problems/pests/insects/skeletonized-plant-leaves.htm",
+        "share_text": "Leaf problems abound in the home landscape but nothing is more puzzling than the causes of skeletonization. The reasons for skeletonizing leaves may stem from insect or disease and occasionally chemical injury. Click this article for more info."
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1522931318590,
+      "content": "Sorry about yesterday....just a plain wipe-out of a day except for your visit. Better now. Thanks for listening"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1522849502586,
+      "content": "It only took her 1 1/2 houre for Maggie. So I was counting about 3 hours for 2 dogs. But I guss I will find out when I get there."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1522849421615,
+      "content": "Hi Lesley. Are we still on for today. Not sure how much time I have. Took Maggie to the groomer  on Monday. And there were 2 people grooming."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1522073665175,
+      "content": "whoops, after getting the choices, scroll through until you get the one you want and click on it...that's it"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1522073618253,
+      "content": "just click on the GIF just below, type in what you want (birthday, congrats....) , press enter and there it is."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1522073538272,
+      "content": "if so, it's easy"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1522073528210,
+      "content": "Do what? the cartoon?"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1522073464315,
+      "content": "How do you do this."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1522073441525,
+      "content": "Gret to hear. I hope so.Have a happy Easter."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1522073363318,
+      "gifs": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/gifs/20688989_1648956291783087_1745210229303279616_n_917696085070685.gif"
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1522073335036,
+      "content": "You were on my mind this AM, while sitting on the sunny front porch"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1522073302896,
+      "content": "yes, I will. Take care, my dear!!!  Spring is coming!"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1522073278945,
+      "content": "Sorry to hear that. Hope he will be better soon. Say hi to him when you talk."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1522073278146,
+      "content": "I am feeling better knowing that he is getting some help....he will not be living with me again....not possible...so I am slowly regaining physical health and feeling more positive"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1522073209140,
+      "content": "Hope you are well and enjoying this nice day today. Take care and let me know."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1522073197461,
+      "content": "No problem...sorry to hear about Van trouble....Jare's been through (ongoing) more problems with him ending up in Truro Mental Health Unit...it has been a very hard two weeks...hopefully, next week would be better"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1522073168729,
+      "content": "I have a appointment on April the 4 in Westville to have 2 dogs groomed. If you are able to go somewhere on that day around 2:30 pm that would be great. If not we will make it some other time."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1522073025123,
+      "content": "I have to take the van in on Wedensday for a check up. It is making a funny noice. and cant drive till that is fiugered out."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1522072950100,
+      "content": "I am not able to get to New Glasgo this week, as I had planned."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1522072872884,
+      "content": "Hi Lesley. Not sure if you are reading chat."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1521119564767,
+      "content": "Sounds good Let me know when and were. Take care and have a great day."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1521053841889,
+      "content": "happy birthday......would love to take you out for lunch at the end of the month!!!!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1521053820022,
+      "gifs": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/gifs/22286891_280953482424823_3144900467176243200_n_911117389061888.gif"
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1521053804152,
+      "content": "dorte:  HAPPY BIRTHDAY TO YOU"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1514661233121,
+      "gifs": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/gifs/11413086_1642926979253615_1564915049_n_869714363202191.gif"
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1507474251383,
+      "content": "Thanksgiving Best Wishes",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=10155812497705701&id=663235700"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1505412442452,
+      "content": "Here's Peter's singing!!!",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid02jmZaZwHmF7bgPnhgjsfTmMYt1DSh5amWfg7S9vQPkdWiCUhvwveCLd1dHEkPLv1ul&id=902210248"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1505314027647,
+      "content": "You sent an attachment.",
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1501247655910,
+      "content": "Feed the dogs and hedded for bed. I am able to go any of the two dayes. As long as I get a drive. As you know I do not drive in the dark any more. Take care and let me know when the screening will take olace. Thanks'"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1501247549820,
+      "content": "Hi Lesley. I am glad you are feeling better. You sound better as well. I was away all day yesterday, with a frind. To late to call when I got home."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1494673321652,
+      "content": "From one mother to another!!!! Happy Mother's Day.",
+      "share": {
+        "link": "https://www.facebook.com/681900635247464/photos/a.681906968580164/1158002984303891/?type=3"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1493997287218,
+      "photos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/photos/17806961_10209471377404130_20000830_n_744849119022050.gif",
+          "creation_timestamp": 1493997286
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1493997260363,
+      "content": "Oh my, you have a great day too.....it is gorgeous out indeed~~~~ Enjoy! All is well here, Roger moving out this weekend, Tiana and Reggie away for the weekend, I am dog-sitting and puttering around: painting old birdhouses that Dad built,  very nostalgic. Trying to stop pulling, lifting....think I have another compression fracture (3rd if so) just above the first two!! Good friggin' grief. All else is fine. Love ya."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1493991890899,
+      "content": "Hi There. How are things going. It is a beautiful day. Going iout to do some yard work. Manley picking up sticks. Lots of three branches on the grown. Take care and have a great day."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490033383954,
+      "content": "basically OK.....hunkering down for a few days. Will be in touch later....keep getting better....that's an order!!!!"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1490021865771,
+      "content": "Hi Lesley. Thanks for your call yesterday. Did not answer phones all day, to keep from coufen. Better today. How are you doing."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487429484573,
+      "content": "Love ya!!"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1487429468777,
+      "content": "If I know Ann I know she will have a ball. When she comes back we will hear all about it.I am sure. OK got to go Michael is here .Take care and be well.\u00f0\u009f\u0098\u008d\u00f0\u009f\u008e\u00b5\u00f0\u009f\u008e\u00b6\u00f0\u009f\u0092\u0093"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487429272085,
+      "content": "I guess so...you know how I feel about travelling, but I sure hope she has a great time.....should be back soon"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1487429240433,
+      "content": "I hear that Ann is on vacation. Lucky her."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487429215917,
+      "photos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/photos/276945413_120332001180954287_1374168731610703746_n_704365853070377.gif",
+          "creation_timestamp": 1487429214
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1487429205638,
+      "content": "You too. I hopr the snow is over, and the warmer weather will soon be here."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487429151558,
+      "content": "Keep safe, keep well and Keep Calm......better weather ahead."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1487429143714,
+      "content": "Had the man here on Thursday to look at the house, to see what improvement I need. The next step is to wait for the letter to approve the money and so forth. I think I am getting a new bathroom and 6 new windows. He also said I need a new elictrich box. The one we have is not op to standard any more."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1487428983134,
+      "content": "MY dogs are great the love the snow. I just let them out in the front, when the snow is high. They gant run away."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1487428921237,
+      "content": "I saw him at sobeys in New Glasgow about 2 weeks ago. Doesent say much just hi how are you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487428904167,
+      "content": "brb"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487428883978,
+      "content": "Actually I think I am  a little Cabin Crazy myself....need spring"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487428841665,
+      "content": "He seems much the same, oddlittle duck"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487428830909,
+      "content": "All is better.....cleared up, then had a bad cold, AARRGGHH   .....  come on sun!"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1487428823120,
+      "content": "How is he dooing."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1487428800602,
+      "content": "Sorry about your shingles is it getting any better at all."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487428796062,
+      "content": "Had a unexpected phone call from Hughie MacDonald a few days ago....could have knocked me over....nothing special...it was weird"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1487428770372,
+      "content": "just leaving it there. Michael I surposed to come back down and blow me out again. Sure he can get it out for me."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1487428694010,
+      "content": "Of course when I got back home I got the van stuck in the end of the driveway. Tryed to get it out again this morning gave op."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487428690076,
+      "content": "\u00f0\u009f\u0098\u009d"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487428674299,
+      "content": "at least you got out or they may have ended up eating YOU"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487428651897,
+      "content": "crap"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1487428638534,
+      "content": "because I was out fo dogfood. After showeling for about an hour I gave op. then the power man came. I got him to make me some tracks with his cat. Then I showeled a littkle more and got out."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487428596838,
+      "content": "Watch out you don't have a heart attack shoveling"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487428576788,
+      "content": "Don't know about your dogs, but my cats are Cabin Crazy!!"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1487428553988,
+      "content": "I have been out there shoveling for almost a week. Had to go to town yester day."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487428542655,
+      "content": "and so on, and so on IS RIGHT!"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1487428521802,
+      "content": "But then of course more snow and so on and so on."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487428505459,
+      "content": "Good!!!!!"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1487428498052,
+      "content": "Michael did come down on Wedensday night and blowed me out."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1487428469026,
+      "content": "No sutch luck.I saw the truck go by but He did not stop. I think that it was someone else he had to plov out, and made a mistake."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487169164035,
+      "content": "Hi...hope you get plowed out again....wowzers, lots of snow!!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1484578344114,
+      "content": "Shingles are no fun!!!  Painful, itchy, meds make me more weird than usual. lol"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1484578284998,
+      "content": "Hi Lesley how are things today. Hope you are well. Sorry about not wisiting. It because I have no gass only for one trip to Pictou. and still 2 weeks to payday. Not much fun.\u00f0\u009f\u0090\u00ac",
+      "share": {
+        "link": "https://www.facebook.com/",
+        "share_text": "Log into Facebook to start sharing and connecting with your friends, family, and people you know."
+      }
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1484496833202,
+      "photos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/photos/15996045_1164010980386880_277237077_n_10155160268808974.jpg",
+          "creation_timestamp": 1484496832
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1484423194051,
+      "content": "VISIT !!!!!   soon, please"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1484422671558,
+      "content": "Well, for f's sake,,,,,,I now have shingles!!! Was there anyone anywhere so beset with idiotic maladies,"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1484151609852,
+      "content": "Love you !!!!!!  This is sweet."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1484139662175,
+      "videos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/videos/13187478_492944867580380_55235901_n_10155145099668974.mp4",
+          "creation_timestamp": 1484139661
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1484062107240,
+      "photos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/photos/48396807_230381364526578_4866352513651048448_n_684252611748368.gif",
+          "creation_timestamp": 1484062106
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1484062089808,
+      "content": "I realley do not go anywhere mutch. But I am sure we can get together before long. Take care and be well.\u00f0\u009f\u0098\u008d\u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1484061959830,
+      "content": "Actually looking forward to sitting on the front porch a bit over the next few days!!!!  So glad you saw your young'un. Hopefully, we will see each other sometime soon."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1484061864570,
+      "content": "Sorry to hear you wer sick again. And this w It is surposed to be a lot milder the next few dayes, and then back to an other storm.eather does not help."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1484061779504,
+      "content": "Baby is beautiful.BlaCK HAIR, AND i THINK SHE IS GOING TO HAVE eDWARDS EYES.I think she has her great grandfatheres soul..You know I belive in reincarnation."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1483976916847,
+      "content": "Hi, guy!!!!  I have been ill again but don't want to talk about it. Soooo much better now. Trying to catch up with boring stuff (housework for example)!!!  How are things with you? Did you see the baby?"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1483542849881,
+      "photos": [
+        {
+          "uri": "https://interncache-ncg.fbcdn.net/v/t34.18173-12/15841177_10212092334362872_764344232_n.gif?stp=dst-gif&ccb=1-7&_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-ncg&oh=00_AfANxTaI9wNtybQeg5-lbQ_PuhJayxLlvtH-bhmIKFaUcg&oe=64AE33FC",
+          "creation_timestamp": 1483542849
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1483204922822,
+      "photos": [
+        {
+          "uri": "https://interncache-ncg.fbcdn.net/v/t34.18173-12/15841681_221080268350607_912874604_n.gif?stp=dst-gif&ccb=1-7&_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-ncg&oh=00_AfCzjGVBfikWn7ZZwJE1gvY62pIjw5aTjbNv9SdQBZzbvw&oe=64AE9E55",
+          "creation_timestamp": 1483204922
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482798987452,
+      "content": "Keep safe. I am also glad it's over."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1482776357378,
+      "content": "I my self is glad it is over."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1482776278652,
+      "content": "Nothing yet. If she does not go by the 30 they are going to Induse her. Hope you had a great christmas."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482593360437,
+      "content": "Any news re Kelsey?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1481896620709,
+      "content": "Sending all my love",
+      "share": {
+        "link": "https://www.facebook.com/QuantumWorldAwakenYourMind/photos/a.295030507294942/928704297260890/?type=3"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1481722647014,
+      "content": "Back at you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1481722627365,
+      "content": "You are so welcome...love ya"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1481722600408,
+      "content": "Thank you Lesley."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1481647598490,
+      "photos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/photos/277012098_1294779847695721_6647639628620367384_n_670277656479197.gif",
+          "creation_timestamp": 1481647597
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1481647540057,
+      "content": "We should use this messaging here, since the other one is public."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1480790070153,
+      "content": "Donna rescheduled to next week, but I may watch anyway (Roger is putting on 3 or 4)"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1480789511240,
+      "content": "Have a great time tonight."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1480789492292,
+      "content": "Thank you for looking it up. Hope not more than 2. Maby someone else is expecting that I do not know about."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1480776541410,
+      "content": "Since you saw so MANY roosters, looks like a multiple birth for sure....lol. I had a good time too....thanks for letting me 'vent'."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1480745027076,
+      "content": "Thanks for yesterday. It was great."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1480744971657,
+      "content": "As far as we know only one. But she could have twins, she is huge."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1480724456401,
+      "content": "It also means a healthy birth if any one around you is pregnant !!!!  How many babies is Kelsey having? !! lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1480724110532,
+      "content": "found some stuff",
+      "share": {
+        "link": "https://whatismyspiritanimal.com/spirit-totem-power-animal-meanings/birds/rooster-symbolism-meaning/",
+        "share_text": "In-depth Rooster Symbolism & Rooster Meanings! Rooster as a Spirit, Totem, & Power Animal. Rooster in Celtic & Native American Symbols & Rooster Dreams, too!"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1479996386432,
+      "photos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/photos/15146859_10205660862799357_862525153_o_10154977285363974.jpg",
+          "creation_timestamp": 1479996385
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1479429438930,
+      "content": "laptop dying...no hope...won't be on line for the most part"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1478530212405,
+      "content": "sweeeeeeet !!!!!"
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1478530207308,
+      "content": "Nice day today though."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1478530202782,
+      "sticker": {
+        "uri": "messages/stickers_used/10333100_798723750139805_1108350702_n_798723746806472.png"
+      }
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1478530142861,
+      "content": "Sorry to hear. You have to take care. The weather is only going to get worse from now on."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1478530096867,
+      "photos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/photos/276967425_1286552875170314_8043140560053523687_n_651754231664873.gif",
+          "creation_timestamp": 1478530095
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1478530070271,
+      "content": "Fighting a cold/chest congestion...AARRGGGGHHH...Otherwise, all is well. Hope you are fine, keeping warm and dry during this gray, dreary weather."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1478529989826,
+      "content": "Take care and be well."
+    },
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1478529979340,
+      "content": "Thank you Lesley. Great Picture. How are things. Everything is the same here."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1478022037994,
+      "photos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/photos/357619205_2416655641841381_5982537538224751637_n_648771271963169.jpg",
+          "creation_timestamp": 1478022037
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1477321193095,
+      "content": "Fantastic pie !!!!!! Thanks for everything."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1476099983298,
+      "content": "Hope all is well with you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1475952124436,
+      "photos": [
+        {
+          "uri": "messages/inbox/dortemmacmaster_10153666093943974/photos/275068217_1367290963704221_7643496959514013734_n_636199176553712.gif",
+          "creation_timestamp": 1475952119
+        }
+      ],
+      "ip": "24.89.217.125"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1475951933763,
+      "content": "Thinking of you.....Keep safe....phoned, but will do so again ASAP."
+    }
+  ],
+  "title": "Dorte M Mac Master",
+  "is_still_participant": true,
+  "thread_path": "inbox/dortemmacmaster_10153666093943974",
+  "magic_words": [
+    
+  ]
+}

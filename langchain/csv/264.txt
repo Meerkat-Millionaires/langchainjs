@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": ""
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "",
+      "timestamp_ms": 1628102658316,
+      "content": "It\u00e2\u0080\u0099s nice to hear from you! Doing good and extremely blessed. All is well here!! Life is good and I\u00e2\u0080\u0099m enjoying it. Great thing happened to me lately, do you heard anything about me?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1628082244424,
+      "content": "hi ya, Pat....today's what I call a diamond day and am enjoying it greatly....how's all the world going with you?"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1627937931807,
+      "content": "How are you doing today"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1627937929205,
+      "content": "Hello"
+    }
+  ],
+  "title": "",
+  "is_still_participant": true,
+  "thread_path": "inbox/1876473579192926",
+  "magic_words": [
+    
+  ]
+}

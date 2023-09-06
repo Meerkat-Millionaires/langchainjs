@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Erin Porter"
+    },
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624807529102,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1615314210024,
+      "content": "OK"
+    },
+    {
+      "sender_name": "Erin Porter",
+      "timestamp_ms": 1615314200013,
+      "content": "Great. I'll drop her off by 5:00"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1615313948571,
+      "content": "would love to have her!!!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1615304057961,
+      "content": "ok, we'll see what she comes back with, lol"
+    },
+    {
+      "sender_name": "Erin Porter",
+      "timestamp_ms": 1615303564056,
+      "content": "If @Lesley Dunn isn't available I can keep Reggie. I have zero plans."
+    },
+    {
+      "sender_name": "Erin Porter",
+      "timestamp_ms": 1615303491357,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1615303406957,
+      "content": "Hello Erin and mama bear.  Wanted to drop a line regarding Thursday.  I am in Potlotek working for the day and Reggie's music lessons have been canceled. Erin, could you drop Reg off at mom's instead of at singing lessons?  Mom, can you keep an eye on her until i get home (shouldn't be too late)"
+    }
+  ],
+  "title": "Erin and Tiana",
+  "is_still_participant": true,
+  "thread_path": "inbox/erinandtiana_4130097853709072",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466869884390,
+      "content": "Mel: i think of you often and hope that life is treating you well and that we can still be friends. I am using the vanity (so is Reggie!!) and have cleaned the side table, bureau...the room is all put back together again as an xtra bedroom and Reggie's crib (with my art supplies in the big closet).....remember that you can get them back at any time, whenever you wish. Just know that they are being taken care of. I am grateful that I got to know you regardless of the final situation. Also know that I do have a cat carrier (small) here in the basement.  Keep in touch.Onward and upward, Mel."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1465220059547,
+      "content": "Would use your vanity in my room."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1465220041119,
+      "content": "Perhaps it would be better if I just stored the furniture here for you...have moved the crib back in so I don't have to sleep on the couch anymore when Reg is here overnight. Let me know ASAP so I can move the stuff around"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1464351841240,
+      "content": "Ok have a great day. Msg you soon"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1464351824354,
+      "content": "Wasn't planning on moving them. I'm thinking they will have to stay :( I can't see them fitting up Jare's staircase"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1464351823323,
+      "content": "gotta go, talk later....have a good day"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1464351746923,
+      "content": "good......what about Jare's desk and filing cabinet?"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1464351724261,
+      "content": "Okay. And yes I spoke to Jare. I think we are giving the bed to Aaron- he doesn't have one"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1464351692942,
+      "content": "No, not really....are you taking the bed too?"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1464351674431,
+      "content": "Is there anything you want left there for you?"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1464351666821,
+      "content": "ok i'll try and line this up. It'll have to be on a weekend, shooting for this one. Will update you as soon as I know more."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1464351613067,
+      "content": "Sure....any one would do, yes?"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1464351525976,
+      "content": "Hey, still attempting to borrow/hire a truck. Funds have been low, but I had one person say that he would help. I just need to find one more lifter and I'm thinking that might be Aaron Heighton. If that's okay with you?"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1463348115987,
+      "content": "soon as I can I'll call you"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1463348098925,
+      "content": "trying to get a truck..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1463320992430,
+      "content": "Wondering what your plans are for vanity, bed, dresser, side table ?"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1462379583856,
+      "content": "Things are going fine. Waiting around home for a call from burger king.Thanks. Hope the same for you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1462379478344,
+      "content": "Hope things are going all right."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1461612703008,
+      "content": "ohhhh"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1461612567092,
+      "content": "I checked re Social Assistance payments on Income Tax....it isn't taxable, but is usually reported to ascertain eligibility for GST, etc."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1459901345791,
+      "content": "xo"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1459901313725,
+      "gifs": [
+        {
+          "uri": "messages/inbox/facebookuser_536894123150885/gifs/11400244_10205655627941781_1407802051_n_559681887538775.gif"
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1459901292310,
+      "content": "Another challenge....feel so heart-sick for Peter. Although they divorced, they still cared  for each other and he is there with her in this time of finality....lots of courage needed for both of them. I will go down to Hfx if he gets \"weird\" (his words). ---Have had my own experiences with both of my parents.  I am thinking of you and hope that your mood will find an upswing."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1459900981581,
+      "content": "Yay glad you liked it :)\nThings are fine, i've been so moody lately and it's not been fun, but it's alright. Going to new hope tomorrow will be nice.\nI am very sorry to hear about Janet. Hope you are ok. <3"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1459900790968,
+      "content": "The pork chop was fantastic !!!!!  Thanks very much. And again, thanks for helping with Reggie yesterday and all the other stuff you've been doing. Hope that things are OK with you."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1459870276994,
+      "content": "Hehehe"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1459870248757,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.fiverr.com/catifyme/draw-a-cat-version-of-you",
+        "share_text": "For only $10, catifyme will draw a cat portrait of you, the perfect gift. | Embrace your feline side or make the perfect wedding or birthday gift for your cat loving friends or family!Starting from$10, you will get afull colored, | On Fiverr"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1459691538657,
+      "content": "Was pretty bad again for a few days...thanks for asking...am on my feet today at least ..lol"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1459626127545,
+      "content": "Hope you are feeling better, or at least ok. xo"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1458577583327,
+      "content": "See ya"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458577572007,
+      "content": "She's wakiing....later"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458577563178,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1458577554640
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458577532705,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1458577524795,
+      "content": "Thank you!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458577466255,
+      "gifs": [
+        {
+          "uri": "messages/inbox/facebookuser_536894123150885/gifs/12073566_10206840372720969_2024311999_n_550361631804134.gif"
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458577453372,
+      "content": "Good Luck and such, Mel !!!!!"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1458513613340,
+      "content": ":)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458513393113,
+      "content": "So nice that you can interact with Reggie...love this !!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458504635058,
+      "content": "Maybe i'll just move it myself. No prob."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458504611471,
+      "content": "any time after 2:30....ho, ho...had the phone call from Jare.....usually we can \"reappear\" after 15 mins or so after her last client....I wnt to the store and did some other stuff...so glad you are having supper at your Dad's...everything is fine here.....might ask to have one of you two move my TV  back into the living room just for her overnight...I would like that."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1458496617850,
+      "content": "When was it that we could come back?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458240427908,
+      "content": "back at ya.....have a good evening"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1458240408797,
+      "content": "Love ya noma"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458240207865,
+      "gifs": [
+        {
+          "uri": "messages/inbox/facebookuser_536894123150885/gifs/12316877_10206979430955660_1972301028_n_548298822010415.gif"
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458240129134,
+      "content": "going to collapse now...client cancelled."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458240097888,
+      "content": "Really glad you will be with Jare over the next while......things will work out...nothing stays static.....always changing. Now is just now; not forever."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458240025085,
+      "content": "am"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458240021819,
+      "content": "Put stuff away....will show you or draw a map (lol) about where everything is....most important is that I bought stuff last night that is for you guys only, not me.....fresh bread, bagels, muffins (should be heated) and I will inform more tomorrow.....I can only eat certain things ...rule of thumb \"if in doubt leave at least one of the items\" ...that should work.  Kitty dinner area is under advisement. As is a litter box perhaps. Will let you know if I am going to be upstairs tomorrow"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458140642277,
+      "gifs": [
+        {
+          "uri": "messages/inbox/facebookuser_536894123150885/gifs/11109408_833636153388562_822375865_n_547752848731679.gif"
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458140469597,
+      "content": "Hang in there !!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458140461602,
+      "content": "Yuppers...too bad it stopped."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1458140442954,
+      "content": "Cute big guys though"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1458140432542,
+      "content": "It stopped halfway through, and won't let me play it :("
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458140215776,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/elephantfamily/videos/10153359113532321/"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1457893344065,
+      "content": "No problem"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1457892700831,
+      "content": "i think jarett already got back to you. but thankyou very much for the offer. it is sweet of you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1457886654982,
+      "content": "up to you guys"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1457886609484,
+      "content": "Since you are down to two cats, I would like to offer your moving in here with Jarett...talk it over with him...I will send him a message too."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1457883680862,
+      "content": "Hehe, just another cold...this has been a trend for me. Third since the new year. Of course I dont want to get you or reggie sick, but would like to see you as soon as im better,"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1457883577281,
+      "gifs": [
+        {
+          "uri": "messages/inbox/facebookuser_536894123150885/gifs/11400066_839018879527586_767101734_n_546494855524145.gif"
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1457883537908,
+      "content": "Love you too.....just got this, couldn't remember the facebook name....SO SORRY THAT YOU ARE SICK, not fun.....whoops, cookie eating dog was a mistake !!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1457883503575,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_275796282558360_1015771912_n_275796279225027.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1457883488476,
+      "sticker": {
+        "uri": "messages/stickers_used/851556_275796255891696_977686511_n_275796252558363.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1455715814666,
+      "content": "Hey this is Melanie. Add me :) my sister Leslie took in the little cat. And my mother wants Addy because she is declawed.  You were right- it's not terribly hard to rehome a cat or two. Love ya!"
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "inbox/facebookuser_536894123150885",
+  "magic_words": [
+    
+  ]
+}

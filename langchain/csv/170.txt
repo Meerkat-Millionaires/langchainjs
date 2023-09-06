@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1415840446544,
+      "content": "Sounds good, thank you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1415840294963,
+      "content": "Hi..will get back to you tomorrow, K?"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1415821340804,
+      "content": "Hi there :) I was hoping to learn piano and a friend referred me to you! How much do you charge ?"
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "inbox/facebookuser_460570477449917",
+  "magic_words": [
+    
+  ]
+}

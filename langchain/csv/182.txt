@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Cathy McMullin"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624807598114,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Cathy McMullin",
+      "timestamp_ms": 1581454616212,
+      "content": "Ladies watch this before FB bans it ... dont put it publicly on your wall either as apparently people who've put it on their FB walls have been banned and the video removed but you can send it in messenger \u00f0\u009f\u0098\u008a\u00f0\u009f\u0091\u008d.",
+      "videos": [
+        {
+          "uri": "messages/inbox/cathymcmullin_10155391880176639/videos/10000000_3423126457758647_6866044098242283730_n_2789337471159432.mp4",
+          "creation_timestamp": 1581454615
+        }
+      ]
+    },
+    {
+      "sender_name": "Cathy McMullin",
+      "timestamp_ms": 1497535932242,
+      "content": "Thank you for the info, it's a great start. I love the repurposed piano but I could never afford to fill it and I would drink it all anyway LOL Hope you get feeling better. I will let you know how I made out."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1497535030627,
+      "content": "Or how about a transformation!!?????  LOL",
+      "share": {
+        "link": "https://images.google.ca/imgres?imgurl=https%3A%2F%2Fcdn.instructables.com%2FFYZ%2F5AHJ%2FISCBVRRT%2FFYZ5AHJISCBVRRT.MEDIUM.jpg&imgrefurl=http%3A%2F%2Fwww.instructables.com%2Fid%2FHow-to-Repurpose-a-Piano-Into-a-BarDrinks-Cabinet%2F&docid=r21XS7jCA49CaM&tbnid=SK3i0XBhWF6DQM%3A&vet=1&w=620&h=555&hl=en-us&source=sh%2Fx%2Fim",
+        "share_text": "Found on Google from instructables.com"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1497534714790,
+      "content": "Hi back at ya.....not sure I'll be much help here....I used to go with parents to check out pianos that they were looking at...my health is rotten, so it's not possible for me to take a look at yours.....sounds like it would serve as a \"practice\" piano, but hard to tell without current tuning. Your best bet is to contact teachers who are currently teaching (I stopped a few years ago) and let them know it's available. Wish I could tell you what to ask for it, or to give it away. If you know of anyone who uses a piano, they may agree to check yours out to give you a more definitive opinion. Sorry I can't be more help/........hope you are doing well, weathering all the changes life throws at us."
+    },
+    {
+      "sender_name": "Cathy McMullin",
+      "timestamp_ms": 1497480944894,
+      "content": "Hi Lesley, I need anopion about my Mom's piano which I have no use for. I was wondering if you have any idea if they are still selling or if people are giving them away. The piano has never seen dampness and has been tuned up until fifteen years ago. Any suggestions what I can do? It's an old player piano with parts taken out, upright. Any info or suggestions would be helpful. Thanks Lesley."
+    }
+  ],
+  "title": "Cathy McMullin",
+  "is_still_participant": true,
+  "thread_path": "inbox/cathymcmullin_10155391880176639",
+  "magic_words": [
+    
+  ]
+}

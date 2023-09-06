@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Country Critters"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Country Critters",
+      "timestamp_ms": 1507255379520,
+      "content": "Sorry, just dogs!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1507218941156,
+      "content": "Do you have \"Beware of the Cats\" as a sign?",
+      "share": {
+        "link": "https://www.facebook.com/countrycritterspet/photos/a.393937957477396/798965900307931/?type=3"
+      },
+      "ip": "24.89.215.232"
+    }
+  ],
+  "title": "Country Critters",
+  "is_still_participant": true,
+  "thread_path": "inbox/countrycritters_826323694207925",
+  "magic_words": [
+    
+  ]
+}

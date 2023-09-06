@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Melony Godreau"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Melony Godreau",
+      "timestamp_ms": 1491131619722,
+      "content": "You are now connected on Messenger"
+    }
+  ],
+  "title": "Melony Godreau",
+  "is_still_participant": true,
+  "thread_path": "inbox/melonygodreau_10154580060282547",
+  "magic_words": [
+    
+  ]
+}

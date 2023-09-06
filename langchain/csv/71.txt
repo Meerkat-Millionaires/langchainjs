@@ -1,0 +1,97 @@
+{
+  "participants": [
+    {
+      "name": "Lee Ha"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1570136023548,
+      "gifs": [
+        {
+          "uri": "messages/inbox/leeha_1308140402692916/gifs/52595657_310734476298326_4462246720171933696_n_2691857094157607.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lee Ha",
+      "timestamp_ms": 1570135662246,
+      "content": "Anytime \u00f0\u009f\u0098\u008a\u00f0\u009f\u0098\u008a"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1570135646144,
+      "content": "thanks.....many thanks"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1570135637023,
+      "content": "phew"
+    },
+    {
+      "sender_name": "Lee Ha",
+      "timestamp_ms": 1570135630273,
+      "content": "So he\u00e2\u0080\u0099s probably just out for coffee"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1570135626871,
+      "content": "yes!!!!!"
+    },
+    {
+      "sender_name": "Lee Ha",
+      "timestamp_ms": 1570135614592,
+      "content": "Said be there in a min"
+    },
+    {
+      "sender_name": "Lee Ha",
+      "timestamp_ms": 1570135603834,
+      "content": "Ya he\u00e2\u0080\u0099s with Mel."
+    },
+    {
+      "sender_name": "Lee Ha",
+      "timestamp_ms": 1570135586879,
+      "content": "I\u00e2\u0080\u0099m on his thing seeing who he msged"
+    },
+    {
+      "sender_name": "Lee Ha",
+      "timestamp_ms": 1570135536241,
+      "content": "He might of gone with Mel"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1570135497760,
+      "content": "So you don't know where he might be?  I'm concerned since he wasn't great yesterday. Who else might know?"
+    },
+    {
+      "sender_name": "Lee Ha",
+      "timestamp_ms": 1570135405788,
+      "content": "His computer is on the couch"
+    },
+    {
+      "sender_name": "Lee Ha",
+      "timestamp_ms": 1570135400748,
+      "content": "You can now message and call each other and see info like Active Status and when you've read messages."
+    },
+    {
+      "sender_name": "Lee Ha",
+      "timestamp_ms": 1570135400675,
+      "content": "I woke up late and he was gone"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1570134175159,
+      "content": "Is Jarett available or do you know why he is not answering messages....would like to know. thank you."
+    }
+  ],
+  "title": "Lee Ha",
+  "is_still_participant": true,
+  "thread_path": "inbox/leeha_1308140402692916",
+  "magic_words": [
+    
+  ]
+}
