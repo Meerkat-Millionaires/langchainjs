@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Allison Hallett"
+    },
+    {
+      "name": "Tatjana Krajnjan"
+    },
+    {
+      "name": "Marie Bonaparte"
+    },
+    {
+      "name": "Nadia Taylor"
+    },
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Damion Fusco"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624807551332,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Tatjana Krajnjan",
+      "timestamp_ms": 1598272667585,
+      "content": "I\u00e2\u0080\u0099m in too\u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Nadia Taylor",
+      "timestamp_ms": 1598265501354,
+      "content": "I be there to celebrate you in style we can come with something awesome"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1598245441260,
+      "content": "Done"
+    },
+    {
+      "sender_name": "Damion Fusco",
+      "timestamp_ms": 1598245427362,
+      "content": "Lol. I'm in!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1598245423562,
+      "content": "@Damion you\u00e2\u0080\u0099ll be my best man."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1598245396500,
+      "content": "Big fucking party. I want one. And I\u00e2\u0080\u0099m never getting married. So let\u00e2\u0080\u0099s make shit up \u00f0\u009f\u0098\u008a"
+    },
+    {
+      "sender_name": "Damion Fusco",
+      "timestamp_ms": 1598245322996,
+      "content": "? What ?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1598245276874,
+      "content": "Alright folks. It\u00e2\u0080\u0099s 2 am and I\u00e2\u0080\u0099m done with this bullshit. \n\nIs everyone ready for the very-merry-unwedding next year?  Or the year after, covid dependant?"
+    }
+  ],
+  "title": "Allison, Tatjana, Marie and 3 others",
+  "is_still_participant": true,
+  "thread_path": "inbox/allisontatjanamarieand3others_4904646956228252",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

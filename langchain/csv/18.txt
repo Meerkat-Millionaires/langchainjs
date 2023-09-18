@@ -1,0 +1,1710 @@
+{
+  "participants": [
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1392218220495,
+      "content": "just gonna take it easy ;)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1392218211189,
+      "content": "Cucumber response?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1392218203765,
+      "content": "yup!  totally going to make it ;)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1392218191288,
+      "content": "better now though?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1392218172978,
+      "content": "better now.  was feeling \"off\" this morning.  thought about just going home and spending the day horizontal, lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1392218141726,
+      "content": "good...you?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1392218135764,
+      "content": "how's your day?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1392218128137,
+      "content": "hi ya"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1392218118750,
+      "content": "hey mama"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1391704825079,
+      "content": "that should totally work"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391704814924,
+      "content": "love ya....bye"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391704803012,
+      "content": "Will tale a quick trip after 5:30, K?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1391704771790,
+      "content": "yup"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391704768210,
+      "content": "7:00?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391704764943,
+      "content": "right.  What time?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1391704750303,
+      "content": "lol"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1391704747608,
+      "content": "yoga.  i'm going to attempt to yoga tonight"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391704730130,
+      "content": "Oh, and fingers in cement"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391704703355,
+      "content": "See you later...forget what you're up to toni9ght"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391704691011,
+      "content": "Head in a vice, stomach in a blender, foot in a nutcracker.......today's medical report...will get better, and still teaching...what courage, what stmina, what a woman!!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1391704639830,
+      "content": "no bad dreams last night.  good night sleep actually"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391704614692,
+      "content": "keep dreaming!!! about this, not your nightdream yuckies"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1391704572859,
+      "content": "lol, loved it.  every time i read one I try to imagine the picture that would go with it on the book page :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391704531593,
+      "content": "how'd you like yesterday's Squashette?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1391704503126,
+      "content": "just listened to your message :)  thank you"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391704483740,
+      "content": "All plowed now"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391700196761,
+      "content": "How was the drive? Too much work for you this AM...good for Joyce to help. How'd you like yesterday's Ridiculum? Can I help out today (other than Dog)?  Haven't had any cancellations yet, but waiting. Maybe a little silver on the trunk branches of your cherry tree?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391369519133,
+      "content": "K"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1391369254866,
+      "content": "630 should do"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1391369242051,
+      "content": "I'll drop you & pick you up"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391369222324,
+      "content": "I can leave Hector at a certain time if we know in advance."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391369191237,
+      "content": "Are you dropping me off or am I dropping you off?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391369176867,
+      "content": "I should be there for 7:00 (Hector Center) and a quick stop at corner store.  K?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1391369104781,
+      "content": "Hey!  What time we leaving?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391197425609,
+      "content": "Hi! plans  for today/night!!!!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1391189356904,
+      "content": "lol, congrats moma!  job well done!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391185457650,
+      "content": "Last payment to Income \nTax was yesterday !!!!!!! YAHOO."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391185454509,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126361970881933_2050936102_n_126361967548600.png"
+      },
+      "ip": "24.138.56.151"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391008148005,
+      "content": "still reading"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1391008132328,
+      "content": "Cute little doggies. You could do an application in advance and just leave it as approved for whenever. Or never."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391007577157,
+      "content": "reading now"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1391007559749,
+      "content": "Nice!!  Just tagged you for a page you should like. That litters and critters one I was telling you about."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1391007509626,
+      "content": "HOLY SMOKES!!!!! That beef strip thing was YUMMY! Had it over penne."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1390958182135,
+      "content": "http://www.sixsistersstuff.com/2012/09/slow-cooker-freezer-meals-make-8-meals.html"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1390776951598,
+      "content": "Meh. He added me sometime last week."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390771567855,
+      "content": "You are now friends with Andy MacConnel? Another WOW."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390771412887,
+      "content": "WOW!!! the entire bag? What kind?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1390765293227,
+      "content": "Yup. I just ate a whole big bag of chips. And now I'm comatose."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1390683565406,
+      "content": "And you"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390683554215,
+      "content": "Love ya."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1390683543723,
+      "content": "Yup. After the hood"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390683541649,
+      "content": "yuppers."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390683530910,
+      "content": "Treading today?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1390683523924,
+      "content": "Mmmmm. An hour?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390683504614,
+      "content": "don't blame you!!!  Estimate for Range Hood Attack?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1390683462602,
+      "content": "Hey schma. Going to relax for a little bit, then I'll come do the range hood"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1390615501698,
+      "content": "You too!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390615487449,
+      "content": "NIGHTIE NIGHT..SLEEP TIGHT."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1390615463903,
+      "content": "No problem mama bear"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390615442832,
+      "content": "yeah!! yahoo!! THANKS!!!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1390431915726,
+      "content": "And also love the rediculum lol. You have an amazing brain woman :)"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1390431861130,
+      "content": "I did :). Before I napped :). Love the name Allegra. It really is beautiful. It's not quite on the probable list, but won't be forgotten ;)."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390428085828,
+      "content": "so, did you read today's stuff?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1390274968710,
+      "content": "Hey. When are your practices for the musical supposed to be again?  Sundays?  And another day?  Wanted to know because I signed up for a prenatal yoga Thursday evenings. Hoping its not a conflict. If it is we can figure it out."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390263443741,
+      "content": "takes one to recognize one. Nightie night. And PULEASE remember to bring that freakin' stud home tomorrow....no, no...the finder of the stud (is that like a reverse pimp?)/// grief, time for supper and bed. LOVE YOU."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1390263316797,
+      "content": "Crazy woman"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1390263307497,
+      "content": "Lol. You're freaking hilarious"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390262910823,
+      "content": "AHA!!! and also Baby Rutabaga week..phew, I still \"got it\". Love ya."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390262749893,
+      "content": "Animal, vegetable, mineral....whoops, wrong game. I WILL figure this out!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390262691346,
+      "content": "Congratulations for tomorrow...the 3RD TRIMESTER, the SEVENTH MONTH and something else, Yes?   What, what , what?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390262618588,
+      "content": "If the world is my oyster....I would throw out the world and find a buyer for the most humungous pearl ever imagined..or perhaps you meant my oyster came without a pearl..in which case, I would verathane the  oyster, frame it and then go buy an 8 pack of Labatt's Blue."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1390236606930,
+      "content": "lol, the world is your oyster ;)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390236219212,
+      "content": "oh no..oh no.. I just discovered that I can watch movies on my laptop...even found MASH OH no, Oh No....will I now be spending ALL my time with this infernal machine?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390070435736,
+      "content": "love you too"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1389925814374,
+      "content": "I love you dearly back. I really am sorry that stuff you care about got broken. I thought it was just some decorative things and plants. Didn't realize it was other more meaningful stuff too :(. Also, you started off with saying you weren't going to do anything about it tonight and that you were just done and going to bed. I just took that at face value. I'm sorry you were disappointed in my response. Ill ask Lynn to borrow her stud finder again so that we can try to make it super secure for next time. I love you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389922652840,
+      "content": "Night"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389922617550,
+      "content": "See you in the AM. I hope you have a better sleep than usual. You deserve it.."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389922581427,
+      "content": "just deleted some stuff that isn't helpful. I love you dearly."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389922372118,
+      "content": "so, I will not be cleaning that mess up until tomorrow or whenever...not the first time I could have avoided the problem by listening to others advise...does this sound familiar?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389922288857,
+      "content": "kinda thought (nope, actually was sure) that you would high-tail it down here to help me clean up the mess and hug me re my sadness about the breakage of certain  pottery figures ( 2 especially, given to me from Damion))....was not to be."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1389801208149,
+      "content": "xoxo"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389801201882,
+      "content": "K"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389801177820,
+      "content": "bye"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1389801174837,
+      "content": "not sure.  will call soon"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389801149779,
+      "content": "what about my taking Jare at 5 ?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389801130861,
+      "content": "lettuce drool"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1389801121767,
+      "content": "lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389801114996,
+      "content": "cute fella and very nice....lovely eyes"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1389801112019,
+      "content": "okie"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389801102066,
+      "content": "whatever, talk to him"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389801087440,
+      "content": "says the roof looks good"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389801046577,
+      "content": "He said they put some tar on spots, he doesn't need to go inside..I was talking to him and suggested that he talk to you cause he can't see what the problem is there....should be all right with the facing and spots fixed maybe"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1389800893536,
+      "content": "hole"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1389800886456,
+      "content": "if john r needs upstairs to make a whole to see the leak, he is welcome to!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389800594164,
+      "content": "I have another lesson at 6:30"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389800566425,
+      "content": "can I take Jare home at 5:00?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389800544467,
+      "content": "have a good day"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389800520306,
+      "content": "Lettuce pray"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1389800512351,
+      "content": "i wasn't all the concerned about the flashing, but the leak was an issue"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1389800484257,
+      "content": "he's doing the leak while he's up there"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389800472361,
+      "content": "You should talk to him about that leak"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1389800467201,
+      "content": "lettuce be thrilled!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389800441937,
+      "content": "Home Pro is busy banging away out/up there!!!  'Lettuce be Happy\"!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389637376438,
+      "content": "OH....pooor baby. No problem....come home and rest...hope Ridiculum cheers you up a spec..love me"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1389637205936,
+      "content": "I'm dead to the world today...  didn't sleep til 430 again this morning... at least.  that was the last time i looked at the time anyway...  not going anywhere doing anything tonight.  might not even make the treadmill"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389636416495,
+      "content": "also had my first smoothie this AM..pretty good and easy. Off in a minute to walk to the bank and Big Al's..thank the Powers-that-Be for Ginseng. "
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389636256738,
+      "content": "Don spoke to me last night..really wants me in the musical...I don't have to go to hardly any of the Thursday practices..so OK..will do chorus too..mmmmmmm"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389636196868,
+      "content": "will smash some of that snow...are you using the car tonight? Jare has an appt tomorrow and some forms to fill out...I could go pick him up after I feed the Girls while you are \"treading\"/"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389636130348,
+      "content": "love you...thanks for veggies..Brown rice, carrots, celery, broccoli and lean ground turkey soup is done.  On stove. "
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1389124159784,
+      "content": "Can't do it.  Isabella is the 8th most popular name in canada right now"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389123531657,
+      "content": "Baby's name: Isabella Whatever Fusco"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389123514860,
+      "content": "lol, indeed!!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1389121022389,
+      "content": "Cauliflower, lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389103061057,
+      "content": "Have a lovely day. Got your phone message re delivery."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389103028491,
+      "content": "grief!!!!! Cantelope was a BUST!! Aside from \"No, you can't elope\" and the new dance \"Can Can Cantelope\" , not much happened from Ridiculum...the medical personnel have put away their Cantelope Stethascopes and are moving on....to ???"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1388784431848,
+      "content": "Oh, just talked to you on the phone. Lol. Good timing. Love you."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1388784157198,
+      "content": "Lol. Hi!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388781554848,
+      "content": "Hope you saw my\" Intertwined\" thing."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388781495404,
+      "content": "I would really like to find more dishes like the one and only I gave you on which resided   your second turkey dinner. I know that they weren't expensive but I also kniw that they don't make them anymore....remember how ecstatic  I was to get them at a yard sale?  They were the most lovely (Lesley-type) dishes ever......do you think that at some point, I would find a bunch more on-line?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388781219751,
+      "content": "I am ready to fold my tent and slink away silently into the night....I will leave the sustenance on the stove....with containers on the side."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388781070348,
+      "content": "Do you wish me to put some of each in containers to be enjoyed at a future date?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388781018553,
+      "content": "made the soup!!! yummie thing includes turkey, chicken, carrots, CELERY, mashed potatoes, barley and lovely broth...ready anytime...PLUS: spaghetti sauce extraordinaire which can be used for any number of dishes. "
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388780883543,
+      "content": "hey! hi!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1388683742749,
+      "content": "Cool. Rescheduling moving the furniture from tonight to Sunday because of the impending weather."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388683352858,
+      "content": "OK"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1388683113637,
+      "content": "I wouldn't turn it off, just down."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388682349969,
+      "content": "Nobody was prepared for this deep-freeze, I guess."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388682300184,
+      "content": "Okey-dokey...we'll hunker down in my bedroom. I've turned it way down, should I turn it off?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1388681535455,
+      "content": "Fuuuuuck. So she \"hopes\" it will be today. Lots of people calling."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388681208150,
+      "content": "love you"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1388681134583,
+      "content": "Nope"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388681104766,
+      "content": "did you see the Garden Geeks post about cantaloupe?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1388681083145,
+      "content": "Can't even heat up my Medium warm soup"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388681042952,
+      "content": "crap and poopy-drawers .....hate waiting"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1388680993021,
+      "content": "Please stay on the line your call is important. Blah blah"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388680977137,
+      "content": "kitchen looks great...lots of dishes drying"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388680947047,
+      "content": "ggrrrrrrr!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388680936710,
+      "content": "hi"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1388680928971,
+      "content": "On hold with Irving. Since 10 mins. Ugh"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388680563347,
+      "content": "meant \"left message\" on your phone,,,,not a \"mess\".  Freudian slip?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388680507209,
+      "content": "Appear to be out of oil...could you call and ask them to deliver? I will cut back severely with using it. Am sorry."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388680465450,
+      "content": "Left mess on phone...done the kitchen, bathtub and sink area...will do toilet, living room and floors tomorrow."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388680434482,
+      "content": "The Garden Post stole my plan for Cantaloupe today!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388680392650,
+      "content": "you there?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1388604445113,
+      "content": "Cantaloupe :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388601598639,
+      "content": "can't remember the fruit/veg size for this week...planet Ridiculum will begin their reporting tomorrow (Vacation's Over...sob from all Ridiculumiums)."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1388456110458,
+      "content": "Hey. Anne and nat are going to stop n tomorrow around 4. Sound ok?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1388326007315,
+      "content": "Love you too :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388325996176,
+      "content": "love you"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1388325976658,
+      "content": "Cuff free"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388325941098,
+      "content": "Got any ideas off the cuff from up there?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1388325921610,
+      "content": "Really, feel free to browse up here too :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388325869177,
+      "content": "mmmmmm....we'll see what I can come up with, yes?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1388325845017,
+      "content": "Bah."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388325834399,
+      "content": "Would be for Rex so he can still feel \"manly\" if he has to drink wine!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1388325814508,
+      "content": "Cause it's awesome"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388325794133,
+      "content": "crap...next year I will do better. Why can't I give it away?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1388325773812,
+      "content": "Can't give away the red neck wine glasses!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388325761508,
+      "content": "Or not"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388325733546,
+      "content": "Maybe an \"Ode to Wine\" theme?  My abstract with the wine bottle in it, the set of slate coasters, the red neck wine glass?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1388325704801,
+      "content": "Lol. Feel free to come up here and browse too"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388325674962,
+      "content": "K....trying to come up with gift ideas at the moment"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1388325655402,
+      "content": "Nope. Nada."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1388325645581,
+      "content": "Lol. Look at you and your new age vernacular."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388325634392,
+      "content": "hear from Rex?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388325619224,
+      "content": "whaz up?\n"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388325611559,
+      "content": "mornin'"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1388325601994,
+      "content": "Good morning Lesley Dunn"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1387479846242,
+      "content": "When I run home between my client and dinner to throw some makeup on my face I'll drop off the girl's dinner?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1387473029135,
+      "content": "6-8"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1387469026821,
+      "content": "what time is the Xmas party for band?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1387468628337,
+      "content": "Love Rediculum... always.  Even just seeing it in the subject line makes me smile :)"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1387468341167,
+      "content": "I have a 4-5 client in PL now, had to cancel my massage.  Can't take him tonight (Xmas party for band council).  Re-booked massage for 530 tomorrow in pictou"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1387463767762,
+      "content": "Also, how'd ya like yesterday's Ridiculum Report?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1387463745206,
+      "content": "so...was fairly asleep this AM when dog delivery took place...am I correct here? You are seeing a client after work and no Jare-transport?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1387129332551,
+      "content": "loving you ....see you around 5:00"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1387129312384,
+      "content": "Hope you don't"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1387129290867,
+      "content": "Maybe you won't have to go to work tomorrow"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1387129276121,
+      "content": "R and H won't be through here until the 28th or 29th...so no Moolah until then, I guess....RATS"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1386635309458,
+      "content": "Lol. Enjoy schma :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1386635281871,
+      "content": "But hey, I gotta leave it all and meditate on the Peace of the Season....yeah, like THAT'S gonna fly. Love ya oodles."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1386635246166,
+      "content": "Lol. Later we may have to have the \"genetically modified\" debate ;)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1386635199339,
+      "content": "May their wisdom rule in all areas of decision making....including seedless...ZING!!!  They just got your suggestion...giggling, whispering and generally intrigued."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1386635053696,
+      "content": "And perhaps the powers that be could explore some sort of seedless options??"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1386635024898,
+      "content": "Yeah, but there are so many frm the earlier times (plus this repeats itself every 9 months, right?)"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1386635004650,
+      "content": "It's getting better :-D"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1386634968133,
+      "content": "Lol. Well the babies are getting further and further apart."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1386634964475,
+      "content": "It certainly is a concern to the Powers-that-Be"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1386634938775,
+      "content": "never struck you that Ridiculum must get overcrowded?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1386634921039,
+      "content": "I feel as though we just left redicculum to head to the twilight zone..."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1386634892876,
+      "content": "Ummmm, no?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1386634880982,
+      "content": "not pregnant women "
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1386634863473,
+      "content": "Did I ever tell you about the Bliss Bubbles?n Deals with planet over`crowding"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1386634844250,
+      "content": "And their impending fruit"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1386634832919,
+      "content": "For pregnant women"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1386634812464,
+      "content": "The planet redicculum book series :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1386634786849,
+      "content": "WWWWhhhaaattt?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1386634769951,
+      "content": "I did. Shayla loved it too. Now we're thinking it should be a series of books ;)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1386634754163,
+      "content": "ALLO?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1386634740845,
+      "content": "ALLO?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1386634730278,
+      "content": "Lol."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1386634723331,
+      "content": "did you like today's Ridiculum?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1386634721839,
+      "content": "ALLO?!?!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1386634715910,
+      "content": "Allo?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1386634708578,
+      "content": "Allo"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1386634696024,
+      "content": "hi"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1386595891195,
+      "content": "hey, just went looking for the NG music festival forms but couldn't find them.  When I looked under forms it said registration for 2013 is closed"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1386079242832,
+      "content": "Banana week :)  Followed by: pomegranate, papaya, grapefruit, cantaloupe, cauliflower"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1385561324530,
+      "content": "I'm going to say between 930 and 10"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1385560339344,
+      "content": "T, Jare has no internet and has to use the library's...do you know what time you can pick him up tomorrow evening so I can message him today when he can get the message from the library?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1385417092955,
+      "content": "Tiana sent an attachment.",
+      "share": {
+        "link": "https://www.marcandangel.com/2012/11/28/19-signs-youre-doing-better-than-you-think/",
+        "share_text": "Even in uncertain times, it\u00e2\u0080\u0099s always important to keep things in perspective. True wealth is the ability to fully experience life. \u00e2\u0080\u0093 Henry David Thoreau You are alive. You are able to see the\u00e2\u0080\u00a6"
+      }
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1384180407455,
+      "content": "Love back"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1384180398297,
+      "content": "love!!!!!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1384180390270,
+      "content": "be back soon"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1384180384596,
+      "content": "cute"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1384180374126,
+      "content": "I'd lovacado"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1384180349837,
+      "content": "want a javacado?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1384180325461,
+      "content": "Only day tims closes is Christmas :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1384179871745,
+      "content": "check your email....final Avacado effort. Is Tim's open?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1384179843310,
+      "content": "allo back at ya"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1384177569197,
+      "content": "Happy remember day"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1384177549609,
+      "content": "Allo mommy"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1383140980370,
+      "content": "loving you too"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1383140975684,
+      "content": "have a good day"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1383140968696,
+      "content": "Orange ain't easy"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1383140946612,
+      "content": "Autumn ate 2 (at least) miniature pumpins made of raffia yesterday and left the rest in a major trail of orange (HA) bits and pieces EVERYWHERE!!  No harm"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1383140879914,
+      "content": "hi"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1383140867439,
+      "content": "You kill me mom. Much love and miss you!!!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1381242454163,
+      "content": "uh huh.  piss off ;)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1381242447844,
+      "content": "sweet momma......."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1381242434995,
+      "content": "whoops....."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1381242432829,
+      "content": "XOXO"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1381242424790,
+      "content": "see you later, big momma"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1381242418924,
+      "content": "lol"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1381242415761,
+      "content": "that's DISGUSTING!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1381242410959,
+      "content": "YES!!!!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1381242403184,
+      "content": "today :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1381242342231,
+      "content": "when does the second trimester start?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1381242323425,
+      "content": "i once dreamed that an old boyfriend ate my cat (whole) and then regurgitated it at my feet."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1381242152780,
+      "content": "As you move into the second trimester, baby shifts into the growth and maturation stage. After weeks in the critical development stage, almost all of her systems are fully formed.\t"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1381241867063,
+      "content": "ahhhhh, i get it now."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1381241790250,
+      "content": "my internet connection is off the wall today"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1381241772636,
+      "content": "as opposed to what she was (an alto) BEFORE she ate the soap"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1381241582399,
+      "content": "a soap-rano??"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1381241572290,
+      "content": "excellent, thanks!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1381241516657,
+      "content": "OK?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1381241491570,
+      "content": "oops...thursday is after 6:00 this week"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1381241431695,
+      "content": "Autumn is now a soap-rano."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1381241405237,
+      "content": "Thursday: after 6:30"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1381241389548,
+      "content": "tomorrow (wed) after 7:30"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1381241365399,
+      "content": "tonight: after 6:45"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1381240148632,
+      "content": "Hey!  What times are you done in the evenings this week?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1381167858886,
+      "content": "LOVING BOTH OF YOU."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1381167802441,
+      "content": "lol, then twitch less and email more ;)  love you"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1381167783707,
+      "content": "jare seems to be getting stuff done this week  ..... and all this little green dot / upper rights/ lower lefts / double clicks right / double clicks left......all 'twitchy' making."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1381167698011,
+      "content": "there will be a little green dot to say i'm \"online\""
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1381167684825,
+      "content": "when you click on my name on the right hand side of your screen it's chat"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1381167664697,
+      "content": "lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1381167654378,
+      "content": "last week was limes!!!! Oh, OK ; plums,,I still thought that only you would see my message.....not to have it go on Home page.  Sorry.....think I'll email from now on."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1381167577582,
+      "content": ":)"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1381167575634,
+      "content": "then it's plum week"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1381167568717,
+      "content": "i deleted it, and it's lime week until tomorrow,  "
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1381167549733,
+      "content": "lol, i'm not making a pregnancy announcement on facebook crazy woman!!!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1380642261222,
+      "content": "Happy lime week!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1380329340843,
+      "content": "Yup!!  2:50 pm. Sorry!  Been staying away from my phone because Internet costs big $$. Love you!!!  See you tomorrow!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1380321479130,
+      "content": "I assume so.....see you there: going to bed....been a bit beleagered with cold/flue start up."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1380321374293,
+      "content": "so, are we OK for pickup tomorrow...as stated in my email?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1379433630601,
+      "content": "This is week 9"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1379433608354,
+      "content": "http://m.thebump.com/pregnancy/pregnancy-tools/articles/how-big-is-baby.aspx"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1379205757307,
+      "content": "night"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1379205747481,
+      "content": "guess you're not going out this eve?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1379205729343,
+      "content": "hey"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1379087017262,
+      "content": "lol, mostly cause it's more fun to hang out at nono and nona's when dad is there..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1379085419510,
+      "content": "How come?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1379078781851,
+      "content": "hey ma.  may go to toronto for a week in the next couple weeks so i can hit a time dad is there"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1378915629908,
+      "content": "it's by: Nazanin Afshin-Jam & Susan McClelland"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1378859776587,
+      "content": "Hey, can you see if the library has the tale of two nazanins and see how long the wait list is?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1377337796557,
+      "content": "Hey. Had a very scary dream last night. Missing you. Call me later?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1375890084683,
+      "content": "XOXO"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1375890078587,
+      "content": "K...Listen, Love, Laugh (the 3 Ls of Living)"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1375890003688,
+      "content": "5 ish i think"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1375889968716,
+      "content": "Have a good one....time home?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1375889929453,
+      "content": "Jare will be emerging from the basement any minute now (apparently franctically emailing all and sundry re jobs)...may the Powers-that-Be sustain me."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1375889851734,
+      "content": "lol, tried to fool myself with decaf coffee this morning, that was a complete fail.  other than that, same old same old :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1375889755861,
+      "content": "pretty good...nice visit with Donna (she brought CANNIES, a smoking grape fake cigarette and some clothes) ...stained by the franklin outside,  their doing roofing next door, Jarett didn't get the funding re full time work,  the Girls are great, I have an art lesson tomorrow, going out of my mind...........pretty normal day. You?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1375889568581,
+      "content": "hey mama.  how's your day going?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1375103652060,
+      "content": "right back at ya"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1375103632399,
+      "content": "and you.  love to you and the girls :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1375103619261,
+      "content": "Have a good day"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1375103615392,
+      "content": "XOXO"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1375103610019,
+      "content": "K"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1375103596989,
+      "content": "remind me tomorrow that i can't have coffee or anything at all in the am?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1375103551175,
+      "content": "a replenishing one!!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1375103531917,
+      "content": "a big sleep?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1375103511041,
+      "content": "hope it's a big one"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1375103498243,
+      "content": "lol, one more sleep"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1375103484125,
+      "content": "good...c'mon tuesday!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1375103471074,
+      "content": "uncomfortable but not painful"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1375103431362,
+      "content": "how's the belly"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1375103418205,
+      "content": "soooooo happy i don't have to snort or inject anything today"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1375103393679,
+      "content": "good"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1375103367308,
+      "content": "good so far...yours"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1375103357411,
+      "content": "how's your morning"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1375103350531,
+      "content": "hello"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1375103222090,
+      "content": "hello lesley dunn :)"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1372452838741,
+      "content": "Hello back :)"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1364509758928,
+      "content": "love you too"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1364509756251,
+      "content": "kk"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1364509753290,
+      "content": "love yah"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1364509750149,
+      "content": "weird ok well I'm coming up for my stuff"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1364509749366,
+      "content": "might have been the internet box then"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1364509735275,
+      "content": "then plugged em both back in"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1364509726432,
+      "content": "unplugged the power going to both the internet box and the router box and left it unplugged for a minute"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1364509697004,
+      "content": "I tried everything under the sun:("
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1364509691095,
+      "content": "sigh what did you do different?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1364509647424,
+      "content": "kk"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1364509644601,
+      "content": "when she's back"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1364509630460,
+      "content": "she's gone to the library"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1364509617452,
+      "content": "ask ma if she fed the pooch"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1364509609744,
+      "content": "whatevs"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1364509583889,
+      "content": "it's 7:26 atm ;)\\"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1364509573238,
+      "content": "not 3?? or 5??"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1364509553572,
+      "content": "I'll give it 4 minutes to see if it craps out"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1364509532817,
+      "content": "dunno"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1364509530448,
+      "content": "huh"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1364509516577,
+      "content": "it's like surrounded by bubbles, like iphone txts?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1364509506170,
+      "content": "mom has a cool little instant-chat-looking thingy on her facebook chat"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1364509480735,
+      "content": "kk"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1364509475785,
+      "content": "lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1364509475103,
+      "content": "let me just cruise around gmail and kijiji for a sec"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1364509466720,
+      "content": "sigh it does appear to be working now"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1363275845291,
+      "content": "Maybe spring cleaning on your main floor this weekend?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1363275051132,
+      "content": "<3 "
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1363274977887,
+      "content": "Your wish is my command...loving you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1363274901720,
+      "content": "So, what's up  Anything I can do/change/not do? to help out."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1357783094906,
+      "content": "Hi mom"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1356015365630,
+      "content": "Mom???  Really???  Yaye!!"
+    }
+  ],
+  "title": "Tiana Fusco",
+  "is_still_participant": true,
+  "thread_path": "inbox/tianafusco_10155948455705078",
+  "magic_words": [
+    
+  ]
+}

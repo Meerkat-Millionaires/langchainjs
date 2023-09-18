@@ -1,0 +1,239 @@
+{
+  "participants": [
+    {
+      "name": "Heather MacLean"
+    },
+    {
+      "name": "Millie Hoffe"
+    },
+    {
+      "name": "Isabel Phillips- Roach"
+    },
+    {
+      "name": "Wanda Theriault"
+    },
+    {
+      "name": "Natalie Jay"
+    },
+    {
+      "name": "Judy  Garland"
+    },
+    {
+      "name": "Caroline V. Morris"
+    },
+    {
+      "name": "Alana Toole"
+    },
+    {
+      "name": "Judy Cormier"
+    },
+    {
+      "name": "Sharon Rapp"
+    },
+    {
+      "name": "Mary-Beth Moriarity"
+    },
+    {
+      "name": "Donna Belanger"
+    },
+    {
+      "name": "Michelle Roberts Davey"
+    },
+    {
+      "name": "Linda Tucker"
+    },
+    {
+      "name": "Carolyn Moore"
+    },
+    {
+      "name": "Alison Arsenault"
+    },
+    {
+      "name": "Ethel Rudolph"
+    },
+    {
+      "name": "Tiena Buckley"
+    },
+    {
+      "name": "Paula Millman"
+    },
+    {
+      "name": "June Littler Hill"
+    },
+    {
+      "name": "Darlene Sutherland Gilby"
+    },
+    {
+      "name": "Marion MacDonald"
+    },
+    {
+      "name": "Mary E Miller"
+    },
+    {
+      "name": "Bonny McTague"
+    },
+    {
+      "name": "Victoria Reich"
+    },
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Karen Vaughan"
+    },
+    {
+      "name": "Mary MacCallum"
+    },
+    {
+      "name": "Ruth Morse"
+    },
+    {
+      "name": "Patty MacIsaac"
+    },
+    {
+      "name": "Judy Ann Macdonald"
+    },
+    {
+      "name": "Sharon Cheverie"
+    },
+    {
+      "name": "Marjorie Henderson-Macdonald"
+    },
+    {
+      "name": "Nancy Steele"
+    },
+    {
+      "name": "Joan Sheila Fraser"
+    },
+    {
+      "name": "Chriss Landry"
+    },
+    {
+      "name": "Margibel Jones"
+    },
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Jeannie Maclean"
+    },
+    {
+      "name": "June Mackenzie-Brown"
+    },
+    {
+      "name": "Nic Cole"
+    },
+    {
+      "name": "Glenda Lake"
+    },
+    {
+      "name": "Shelley Pos"
+    },
+    {
+      "name": "Cheryl Henderson Macdonald"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Karin Weatherbie MacDonald",
+      "timestamp_ms": 1357842974845,
+      "content": "Karin Weatherbie MacDonald left the group."
+    },
+    {
+      "sender_name": "Brenda MacLeod Parker",
+      "timestamp_ms": 1357831466328,
+      "content": "Brenda MacLeod Parker left the group."
+    },
+    {
+      "sender_name": "Brooke Talbot-Maclean",
+      "timestamp_ms": 1357831329652,
+      "content": "Brooke Talbot-Maclean left the group."
+    },
+    {
+      "sender_name": "Susan MacDonald McNamara",
+      "timestamp_ms": 1357831204256,
+      "content": "Susan MacDonald McNamara left the group."
+    },
+    {
+      "sender_name": "Delia-Dawn Bray",
+      "timestamp_ms": 1357830863334,
+      "content": "Delia-Dawn Bray left the group."
+    },
+    {
+      "sender_name": "Tiena Buckley",
+      "timestamp_ms": 1357830844933,
+      "content": "Oh nice tell Charlotte Tiena sends birthday wishes and give her a hug from me.\n\n\nDrive safe\n"
+    },
+    {
+      "sender_name": "Tiena Buckley",
+      "timestamp_ms": 1357830807315,
+      "content": "lol I always ask Ryan....Mary-Beth said that she would be there tonight, they are desembling the can struction so I will bring Terry's laptop or we could use Mary' Beths and see what we can do.  I think I need a projector ???  We will see what tonight brings.\n"
+    },
+    {
+      "sender_name": "Bonny McTague",
+      "timestamp_ms": 1357830806586,
+      "content": "Well heading to NG for Sharon Macdonald and Charlotte MacDonald's Birthday Lunch at Baked. See you all tonight!  Bonny"
+    },
+    {
+      "sender_name": "Bonny McTague",
+      "timestamp_ms": 1357830725492,
+      "content": "I don't but I think Mary-Beth knows how, she and I had that Conversation once. I always have to ask my Son Jay to do it.   "
+    },
+    {
+      "sender_name": "Tiena Buckley",
+      "timestamp_ms": 1357830611868,
+      "content": "yes I love that song too and just hoping that I can use Terry's laptop to show the funny winter videos and the songs!  Do you have the ability to download and burn to a dvd or cd the videos??  I know there is a way but I don't have the smarts to do it."
+    },
+    {
+      "sender_name": "Bonny McTague",
+      "timestamp_ms": 1357830542567,
+      "content": "I just loved Sarah McLachlan's Song for A Winter Night you posted. Maybe we could do a Sing a Long and learn a new song, the words are posted."
+    },
+    {
+      "sender_name": "Bonny McTague",
+      "timestamp_ms": 1357830252302,
+      "content": "JUST HOPE FOR THE BEST: We never know what the weather will do."
+    },
+    {
+      "sender_name": "Tiena Buckley",
+      "timestamp_ms": 1357830197332,
+      "content": "Looking forward to it!  Hope the weather is fine for travelling "
+    },
+    {
+      "sender_name": "Bonny McTague",
+      "timestamp_ms": 1357830101689,
+      "content": "See you tonight, GReat ideas! "
+    },
+    {
+      "sender_name": "Tiena Buckley",
+      "timestamp_ms": 1357830050768,
+      "content": "THRILLED TO BE FILLED WITH MORE OF PUC HOSPITALITY, FUN, FRIENDSHIP AND WARMTH"
+    },
+    {
+      "sender_name": "Jaime Lowe",
+      "timestamp_ms": 1357829990274,
+      "content": "Jaime Lowe left the group."
+    },
+    {
+      "sender_name": "Mary-Beth Moriarity",
+      "timestamp_ms": 1357829941051,
+      "content": "Mark you calendars and please pass the word around!",
+      "share": {
+        "link": "https://www.facebook.com/events/124611461040193/"
+      }
+    }
+  ],
+  "title": "Heather, Millie, Isabel and 41 others",
+  "is_still_participant": true,
+  "thread_path": "inbox/heathermillieisabeland41others_493078570735456",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

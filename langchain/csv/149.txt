@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Holly Turple"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Holly Turple",
+      "timestamp_ms": 1467555291282,
+      "content": "Thank you"
+    },
+    {
+      "sender_name": "Holly Turple",
+      "timestamp_ms": 1467555289415,
+      "content": "Yes such a relief. Worst hour ever! Thank heavens for social media"
+    },
+    {
+      "sender_name": "Holly Turple",
+      "timestamp_ms": 1467555241364,
+      "content": "You can now message and call each other and see info like Active Status and when you've read messages."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1467554976710,
+      "content": "So glad you found her....I kept a look out after talking to you at the corner of MacKay and George St. last night...Could hear you calling and calling. Happy ending."
+    }
+  ],
+  "title": "Holly Turple",
+  "is_still_participant": true,
+  "thread_path": "inbox/hollyturple_10157139867415008",
+  "magic_words": [
+    
+  ]
+}

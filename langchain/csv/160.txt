@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Dave Mac Kay"
+    },
+    {
+      "name": "Donna Cyr"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1432817341938,
+      "content": "You sent an attachment.",
+      "ip": "24.89.222.200"
+    }
+  ],
+  "title": "Tiana, Dave and Donna",
+  "is_still_participant": true,
+  "thread_path": "inbox/tianadaveanddonna_663440070434302",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

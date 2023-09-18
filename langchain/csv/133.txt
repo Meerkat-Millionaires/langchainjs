@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Lisa Cromwell Morse"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lisa Cromwell Morse",
+      "timestamp_ms": 1448886040353,
+      "content": "\u00f3\u00be\u00b0\u0080"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1448883787746,
+      "content": "you too"
+    },
+    {
+      "sender_name": "Lisa Cromwell Morse",
+      "timestamp_ms": 1448844059788,
+      "content": "Awe thanks Lesley, we really didn't get a chance to talk but it was good to see you!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1448808100995,
+      "content": "Lisa, meant to tell you that I loved your hair on Friday night !!!!"
+    }
+  ],
+  "title": "Lisa Cromwell Morse",
+  "is_still_participant": true,
+  "thread_path": "inbox/lisacromwellmorse_1186937354656294",
+  "magic_words": [
+    
+  ]
+}

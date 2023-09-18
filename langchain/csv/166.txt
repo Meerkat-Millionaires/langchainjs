@@ -1,0 +1,308 @@
+{
+  "participants": [
+    {
+      "name": "Meghan Fusco"
+    },
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Damion Fusco"
+    },
+    {
+      "name": "Lesley Dunn"
+    },
+    {
+      "name": "Jarett RS Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630615390525,
+      "content": "I would assume that's a mistake"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630615384068,
+      "content": "Let me ask him"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630615371523,
+      "content": "He hasn't mentioned it"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630615360940,
+      "content": "Hey mom I just woke up"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1630605285809,
+      "content": ".....aw well"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1630604629404,
+      "content": "jare sending you $ i assume"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1630604409700,
+      "content": "attn: Jarett"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1630604390870,
+      "content": "yes"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1630604127592,
+      "content": "is that's jare's friend?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1630604100016,
+      "content": "so. in email, amessage tthat Luke fDavidson has sent me 100.00......no answer for Security question,,,,where's this money coming from?"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630530209945,
+      "content": "Ok so 2 people recommended I listen to 3 songs since I started working today and ignoring socials. It got me thinking.. wouldn't it be cool IF.. people could recommend me songs, right to my playlist? Turns out this is already a Spotify feature. I tested it by logging into another Spotify account (only worked on an app tho, not on the web interface) and recommended those 3 songs to myself. Anyways, add stuff to me playlist :) sending to a select few ppl. Now, gotta actually listen to those songs now lol.. HEY as I was copypasting this to about a dozen ppl, I found a THIRD person had recommended a FOURTH song to me during the same timeframe. #jeebus\n\nhttps://open.spotify.com/playlist/6jq9ZSLjaTGFNIfQTaKEwQ?si=fb2f72c8683f4cb4",
+      "share": {
+        "link": "https://open.spotify.com/playlist/6jq9ZSLjaTGFNIfQTaKEwQ",
+        "share_text": "Jare Reginald StewartStarratt Dunn \u00c2\u00b7 Playlist \u00c2\u00b7 3 songs \u00c2\u00b7 1 likes"
+      }
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630434232856,
+      "photos": [
+        {
+          "uri": "messages/inbox/meghantianadamionandjarett_4159752547427656/photos/236828971_519241742708937_8573935510838191119_n_519241736042271.png",
+          "creation_timestamp": 1630434231
+        }
+      ]
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630434202738,
+      "content": "nowhere to sleep here lol"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630434199208,
+      "content": "that money is on 8th now"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630434196321,
+      "content": "yeah"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1630434192056,
+      "content": "Going to behave?"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630434170669,
+      "content": "taking off in a couple hours, no worries about dindin for me"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1630434133195,
+      "content": "Mine"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630431967574,
+      "content": "this is for noma"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630431967195,
+      "content": "https://www.canadiantire.ca/en/lighting/pendant-lights.html?adlocation=LIT_Lighting_PendantLights_en",
+      "share": {
+        "link": "https://www.canadiantire.ca/en/lighting/pendant-lights.html?prerender=true",
+        "share_text": "Shop for pendant lighting and hanging lights. Brighten any room with pendant light fixtures in modern and classic styles. Pick up at 500+ stores or Ship to Home."
+      }
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630431570344,
+      "photos": [
+        {
+          "uri": "messages/inbox/meghantianadamionandjarett_4159752547427656/photos/240361970_248302000493244_7527319941481371486_n_248301997159911.jpg",
+          "creation_timestamp": 1630431569
+        }
+      ]
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630368072889,
+      "content": "Jarett set the nickname for Meghan Fusco to Nomainlaw."
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630368049155,
+      "content": "Jarett RS Dunn added Meghan Fusco to the group."
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630368000428,
+      "content": "be there tmr before 8"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630356753111,
+      "content": "have $800 or $900 now"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630356744768,
+      "content": "and 0 urge to spend on drugs"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630356739357,
+      "content": "I've had $500-$4000 crypto balance the last few days"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630356730803,
+      "content": "I mean"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630356450764,
+      "content": "was put a little bit of time and delays into accessing $"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630356443275,
+      "content": "-r"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630356441159,
+      "content": "The main thing I learned from Grerg"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630356431600,
+      "photos": [
+        {
+          "uri": "messages/inbox/meghantianadamionandjarett_4159752547427656/photos/238295142_163724049183663_6009590261923784684_n_163724039183664.png",
+          "creation_timestamp": 1630356430
+        }
+      ]
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630356420846,
+      "content": "Sigh my screenshots don't work"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1630356420600,
+      "content": "Better that than some of the alternatives"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630356397516,
+      "content": "I don't wanna turn her into an ATM either"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1630356361754,
+      "content": "You can send the $ to Vikki if you need a safe place for it"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630355998679,
+      "content": "so it's safer for me to be in a more restrictive environment lol"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630355957701,
+      "content": "and I get a whole bunch for no good reason tmr"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630355951254,
+      "content": "having money onhand is dangerous for my mental health and sobriety"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1630355932164,
+      "content": "I have no idea what that even means"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630354752300,
+      "content": "the math is something like 5% of this split 64000 ways x2"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630354744666,
+      "content": "https://polymarket.com/market/what-will-the-fully-diluted-market-cap-of-d-yd-x-s-token-be-1-week-after-it-starts-trading",
+      "share": {
+        "link": "https://polymarket.com/market/what-will-the-fully-diluted-market-cap-of-d-yd-x-s-token-be-1-week-after-it-starts-trading",
+        "share_text": "This is a scalar market on what the fully diluted market cap of dy/dx\u00e2\u0080\u0099s token will be in USD 1 week after it begins being actively traded. The \"fully diluted market cap\" is determined by multiplying the price of the token by the total supply of tokens. The lower bound for this market is $0, and th..."
+      }
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630354610734,
+      "content": "at least 1 depends on dog"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630354591817,
+      "content": "It's also a bit of self preservation cuz I get an as-yet unknown but-it'll-be-a-lot of crypto tomorrow from a giveaway thing, sooo I'd prefer spending a few nights there @Lesley Dunn"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630354492769,
+      "content": "Jarett set the nickname for Damion Fusco to Notanoma."
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630354488928,
+      "content": "Jarett set the nickname for Tiana Fusco to Mininoma."
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630354483983,
+      "content": "Jarett set your nickname to Noma."
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630354466882,
+      "content": "work swamped me today"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630354431831,
+      "content": "we're arranging a dogsitter for tomorrow"
+    },
+    {
+      "sender_name": "Jarett RS Dunn",
+      "timestamp_ms": 1630354424279,
+      "content": "hey guys"
+    }
+  ],
+  "title": "Meghan, Tiana, Damion and Jarett",
+  "is_still_participant": true,
+  "thread_path": "inbox/meghantianadamionandjarett_4159752547427656",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

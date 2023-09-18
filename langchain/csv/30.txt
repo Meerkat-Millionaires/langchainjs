@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Anna Guadagnoli Disalle"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607007324390,
+      "content": "Hope that I'm the First Person to put a CHRISTmas Tree on Your phone. \n\nIf luck is a raindrop, i'd send You a shower.\n\nIf hope is a minute, i'd send You an hour.\n\nIf happiness is a leaf, i'd give You a tree.\n\nAnd if YOU need a FRIEND, You will ALWAYS have ME.\n\nSend this to all the people You care about.\n\nEven me.\n\nIf You get 3 back, You're a True Friend!",
+      "videos": [
+        {
+          "uri": "messages/inbox/annaguadagnolidisalle_10210247434046906/videos/12349769_1530333383958687_595733009_n_5647875488667093",
+          "creation_timestamp": 1607007323
+        }
+      ]
+    }
+  ],
+  "title": "Anna Guadagnoli Disalle",
+  "is_still_participant": true,
+  "thread_path": "inbox/annaguadagnolidisalle_10210247434046906",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "participants": [
+    {
+      "name": "Ay\u00c5\u009fe Y\u00c3\u00bczer"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1566059460917,
+      "content": "Ay\u00c5\u009fe sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/george.dannewald/posts/pfbid02EFoX45wA8xYs2LPMKfQDToRkk5fAYZfkDhvWHxciRrsoEvcu6WxLNWWN6vUayybol"
+      }
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1510344531975,
+      "content": "Ay\u00c5\u009fe sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/thedashleysvlog/videos/287740938400135/"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490619164796,
+      "content": "Sorry, Connie.....having trouble with compression fractures in my vertebrae and am unable to attend this performance...wishing you all the best."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482367044644,
+      "content": "You rock."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1482366531021,
+      "content": "I put my name in for chorus and dancing hahahaha"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482366355837,
+      "content": "yup"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1482365683341,
+      "content": "Did you hear the musical is Chicago"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482364117549,
+      "content": "sweeeeet"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1482360424263,
+      "photos": [
+        {
+          "uri": "messages/inbox/ayseyuzer_10152956658102212/photos/15645023_10153996320272212_1003685244_n_10153996320272212.jpg",
+          "creation_timestamp": 1482360423
+        }
+      ]
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1482360400195,
+      "content": "Awwwwwwe thank you and all the best to you and yours - Baran and Connie and Dilo"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482337040051,
+      "photos": [
+        {
+          "uri": "messages/inbox/ayseyuzer_10152956658102212/photos/48393246_2227514227536098_6484947725543538688_n_674409156066047.gif",
+          "creation_timestamp": 1482337038
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482337028012,
+      "content": "Best Wishes from the two best cats in the world (and the rest of us) during this festive season!!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1457994925081,
+      "sticker": {
+        "uri": "messages/stickers_used/66051217_1467112376761175_9109585167634137088_n_481567665315656.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1457994911882,
+      "content": "Hope all is well with you,: your hopes, dreams, plans etc.  Come visit, coffee,tea, whatever on tap. And humor tinged with empathy."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1457994842856,
+      "content": "Hi...awesome to hear from you....I'm not sure about when or how, but I  really hope to be there...juggling sweet girl's needs, Tiana's needs, and some other stuff...WILL BE THERE AT SOME POINT. Thanks for contacting me.....cats are fine and currently shedding like mad (even with brushing)...they are completely outdoor cats and Perfect Kitty recently confronted and totally rebuffed the neighbor hood cat bully....love 'em."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1457986781155,
+      "content": "Hi Leslie, In the play again this year, it's hilarious, hope to see you there :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1442578405835,
+      "content": "Big Dog is Tiana's bull mastif Autumn who stays with me Mon to Fri from 8 to 5:00. Can get pretty wild here when both dogs, two cats and young Reggie are all present.!!! You enjoy this great weather too!"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1442489332277,
+      "content": "No problem good friend, you haven't retired at all.  I didn't realize you already had a pooch with a cone on his head.  That's a sight for sore eyes.  I'll introduce her another time.  I'll reach out soon.  Take care and enjoy this beautiful weather.  xx"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1442440410647,
+      "content": "Hi!!!!!  good to hear from you..I must say, the timing is really bad for having your lovely Granny to visit for a few days.....I have the two cats, a very large dog (my daughter's) with an enormous cone on her head, my grandaughter and a very new puppy to take care of, so I must say I can't do it.....at any other time with less responsibilities, I would have loved to meet her. My apologies, but a reality check says no way. I hope you can find some one else with less on their plate."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1442430460680,
+      "content": "any interest, the cats would love it. lol."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1442430445493,
+      "content": "Hi Les, I'm going to Minneapolis for 5 days on Sunday - looking for sitter for Granny, any interest at $10 a day"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1434114246047,
+      "content": "Yes they are fixed"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1434113978477,
+      "content": "Pretty Kitty insists on going outside."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1434113956115,
+      "content": "Meant to ask before (maybe I did LOL)...Are the girls fixed?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433333486478,
+      "content": "OK"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1433332325629,
+      "content": "Thanks for letting me know Les"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433332276172,
+      "content": "Hi...been sick since Monday evening...will not be going to funeral today...I'll be in touch."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1433167813433,
+      "content": "sure"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433167261563,
+      "content": "Oh WOW!!!!!! i AM GOING TO USE THIS, OK?"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1433161480679,
+      "content": "I just found this while looking through photos."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1433161470019,
+      "photos": [
+        {
+          "uri": "messages/inbox/ayseyuzer_10152956658102212/photos/11348800_10152818369977212_2065038776_n_10152818369977212.jpg",
+          "creation_timestamp": 1433161469
+        }
+      ]
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1433161412352,
+      "content": "lyons brook will be packed"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1433161394875,
+      "content": "sounds good,"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433161370187,
+      "content": "Dottie is picking me up on Wed for funeral....where and when did you want to hook up with us? At the church in Lyon's Brook? Just let me know."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1433082065173,
+      "content": "Yes we do soon"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433082055581,
+      "content": "got to get together for an update, yes?"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1433082033537,
+      "content": "It was and will be eventually"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433082019616,
+      "content": "that's a hoot."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1433081993194,
+      "content": "Check out Baran's shirt"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1433081981889,
+      "photos": [
+        {
+          "uri": "messages/inbox/ayseyuzer_10152956658102212/photos/11297780_10152816469522212_1987365275_n_10152816469522212.jpg",
+          "creation_timestamp": 1433081981
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433081971224,
+      "content": "OK, will do. Glad you're back safely"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1433081950646,
+      "content": "Let's coordinate when you hear back"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433081925174,
+      "content": "Always....the more the better..have a lot of shade places that need help... I am hoping to go to funeral and am waiting to hear f rom Dorte/Anne/my friend Donna....also, may have child care that day....,"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1433081916657,
+      "content": "I'm overloaded"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1433081825764,
+      "content": "Need some hostas?"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1433081817390,
+      "photos": [
+        {
+          "uri": "messages/inbox/ayseyuzer_10152956658102212/photos/11292755_10152816466647212_1881935659_n_10152816466647212.jpg",
+          "creation_timestamp": 1433081816
+        }
+      ]
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1433081789308,
+      "content": "Got the email, meet you there?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433080087421,
+      "content": "Don't know if you got the email from Don: Visitation is Tue June 2 (2 -4 and 7 - 9) with funeral on Wed June 3 at 2:00 (Lyon's Brook United Church)."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1433010431352,
+      "content": "Just back from turkey on Monday"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433008953595,
+      "content": "OK..where are you?"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1433008943505,
+      "content": "Ok - let me know"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433008922934,
+      "content": "She died last night, so not yet....oh my."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1433008896163,
+      "content": "Sad so sad - is there an obit"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433008791696,
+      "content": "You?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433008788967,
+      "content": "Cats are well."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433008780449,
+      "content": "Oh d  ear, just heard that Linda Munro died...oh dear."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1431081298705,
+      "content": "Ay\u00c5\u009fe sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/gaydio/videos/10152119951309833/"
+      }
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1428067238389,
+      "content": "They are sisters and I'm so happy for them to be with such a wonderful Mom!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1428066157678,
+      "content": "will check here later."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1428066132513,
+      "sticker": {
+        "uri": "messages/stickers_used/47350821_1134363720071218_8664517772836864000_n_144885035685763.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1428065994261,
+      "content": "excellent!!!!  love them both. Are they sisters?"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1428065852765,
+      "content": "Just wondering how you're doing with the Kiki's"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1427893917125,
+      "content": "I'll leave at 10:30 - does that work for you?"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1427893059272,
+      "content": "car loaded."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1427889870654,
+      "content": "Just to let you know, Nancy is coming down shortly to help me get the deacon's bench in the car, and then I'll head over with the kitties, they both come to \"KIKI\", one is Sisu and one is Kissa but they both come to kiki."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427813032872,
+      "content": "OK...see you then"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1427812121291,
+      "content": "Great - I'll ping before I leave, hopefully snow stops sometime this month.  I'll try for leaving around 11ish so Nancy can help me get into the car.  This is so exciting."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427810875154,
+      "content": "i can help get it in or Tiana will probably be around too.....looks great!!! Wednesday is also fine... 59 Mackay St....go across George St Bridge and follow George up, keeping to right of the church in the middle of the road, go through Temperance St (staying on George).....the next right is Mackay (where the Do Not Enter sign is on the straight through George St) and I am the house right there, corner of Mackay and George.....big, yellow with a wooden screen porch out front....#59 (Tiana's door is to the left #61)....Come in mine, through the screen porch and TAH-DAH, there I am.   If you can give me an approx ETA, I can keep an eye out for ya."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1427755554591,
+      "content": "now you can imagine when you paint this.  See the little on the end."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1427755511085,
+      "photos": [
+        {
+          "uri": "messages/inbox/ayseyuzer_10152956658102212/photos/11104199_10152685036117212_1064193188_n_10152685036117212.jpg",
+          "creation_timestamp": 1427755510
+        }
+      ]
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1427755156227,
+      "content": "Let's do Wednesday then, and I'l get thing organized tomorrow, send me the address so I'll know where I'm going.  Will Jarrett be there to help get the deacons' bench in?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427755115555,
+      "content": "Going to get my supper (taught tonight) and will check back here later tonight."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427755037306,
+      "content": "Wed, Thursday Am or any time, on any day after that.....I do stuff for the babe, Jarett and the odd student (their need, not their personality!!!) so some advance notice would be great....looking forward to this."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1427754836277,
+      "content": "You just let me know when."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1427754826381,
+      "content": "Any time that's convenient for you, and I'll have to get Nancy down the street to help me with the deacon's bench to get it in the car.  And I'll transport them in the dog cage, and bring their stuff."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427754767305,
+      "content": "When can we do the transfer? I have most mornings free (still teaching/ending up  teaching in afternoon/evenings today/Tuesday/Wed).....ridiculous to try to tell you when?????,,........just let me know , OK..then we can do it."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1427754519521,
+      "content": "It's really nice and they use it."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1427754503012,
+      "content": "It's not painted, but you can do your magic on it."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427754489322,
+      "content": "about the bench, I mean"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427754478291,
+      "content": "get out"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1427754477304,
+      "content": "WOW.  I'm excited."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1427754469081,
+      "content": "yes indeedy, it's a deacon's bench with a door on the end for them to climb in."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427754443358,
+      "content": "Whoa....what do you mean \"deacon's bench\" for litter?...Call me tomorrow from the morning on...I'm on my way out the door....happy to help out. /Looking for to meeting the felines."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1427754345654,
+      "content": "omg this is fantastic news.  I'll bring everything and I have and I have deacon's bench for their kitty litter. Oh Leslie, you made my day.  I'll call you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427747215687,
+      "content": "Did you  get my message? If you didn't , yes, I will take the kitties. What kind of food do they prefer....are we talking male/females? Should I get a new litter box? What type of treats do they like? Let me know if you didn't get the other message from today..so I can give you directions again. When do you suppose this will happen?"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1427715702841,
+      "content": "Hi Les, Let me know about the kitties, I'm in panic mode with the house and what needs to happen now that the musical is over, it's reality check."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1427117238218,
+      "content": "You wouldn't believe the saga I'm in. call me 382-2431 - it'll put you in stiches.\\"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427117084147,
+      "content": "hey ya!!  Had the cold/flu  from hell...all better now.  How are ya? 902-755-6759....into my third month of non-smoking, have gained  a horrifying bundle of weight...all else is well..What's up?"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1426801119681,
+      "content": "Hi stranger, do you phone number, I'd like to call regarding a proposal....got you going?"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1423244381927,
+      "content": "Thanks Les means a lot"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1423158645783,
+      "content": "I was browsing through your pics and still find it awesome!!!  You look so terrifically GOOD.  How's the musical coming? Hope you are enjoying it. Keep  safe and well....may 2015 belong to you!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1420320907313,
+      "content": "K...take care"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1420320897500,
+      "content": "really girl...we will."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1420320847719,
+      "content": "really"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1420320841309,
+      "content": "Keep in touch."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1420320837906,
+      "content": "let's connect Leslie, when you're ready."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1420320816868,
+      "content": "Whoops, and youngest son."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1420320803640,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362104215253_1651254063_n_126362100881920.png"
+      },
+      "ip": "24.137.111.148"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1420320750795,
+      "content": "Have to get through the next couple of weeks with doctor's appts and a \"hated\" procedure at Hospital....then should be clear sailing cept for my obligations to students and daughter and grandaughter."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1420320684466,
+      "content": "Sounds excellent!!!!  Just let me know what suits your times and I'll adjust accordingly.. Yes?"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1420320645810,
+      "content": "I can do that, and a sleep over girl."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1420320641077,
+      "content": "Live in NG now. Love my house. Retiring full time in March from teaching.....tired of all that."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1420320589477,
+      "content": "I'd love to have a get-together so you can maybe motivate me and feed me wine. LOL"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1420320555941,
+      "content": "63 and feeling 4 0"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1420320545418,
+      "content": "fitter than I've ever been."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1420320529468,
+      "content": "lots of skin but who cares, nobody sees it lol."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1420320523437,
+      "content": "your bod, I mean"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1420320510333,
+      "content": "And it's toned, yes?"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1420320508246,
+      "content": "hahahahah you come come visit me."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1420320498132,
+      "content": "Let's see, I'm 1/2 half myself seriously."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1420320490876,
+      "content": "You have been looking absolutely fantastic....green here looking at you"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1420320481873,
+      "content": "I am and hoping to dance this year."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1420320452029,
+      "content": "nope....guess I have found my world evolving  in another direction over the past year or two!!!!..Wish they had parts for \"mature\" ladies....lots for men, though!  You going? Yes., of course you are!!!"
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1420320342272,
+      "content": "music man is calling you."
+    },
+    {
+      "sender_name": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+      "timestamp_ms": 1420320329858,
+      "content": "Hey kiddo, are you coming tomorrow night?"
+    }
+  ],
+  "title": "Ay\u00c5\u009fe Y\u00c3\u00bczer",
+  "is_still_participant": true,
+  "thread_path": "inbox/ayseyuzer_10152956658102212",
+  "magic_words": [
+    
+  ]
+}

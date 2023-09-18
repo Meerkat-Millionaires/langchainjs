@@ -1,0 +1,414 @@
+{
+  "participants": [
+    {
+      "name": "Dave Mac Kay"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1519769006330,
+      "content": "Not a problem at all."
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1519768996566,
+      "content": "Oh thank goodness."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1519768971672,
+      "content": "All is well.....thanks for the quick response"
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1519768428014,
+      "content": "Ok darlin thanks. \nI was super worried there too."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1519768348061,
+      "content": "OK....it must be Vicky then....they must have gone for supper or something, but I am on pins and needles here. will let you know the result. ...thanks"
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1519768288266,
+      "content": "She said to him that she spoke to Vicky he just said."
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1519768267247,
+      "content": "Francis spoke to tianna"
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1519768230067,
+      "content": "They didn\u00e2\u0080\u0099t because they are with me here in Pictou."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1519768175374,
+      "content": "Dave, need a way to contact Francis or Makeighla....want to know if they picked up Reggie from Day care today? waiting for her to be dropped off....concerned"
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1459169957348,
+      "content": "Ok thank you. \nHope you feel better soon."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1459169816217,
+      "content": "Sick as a dog...keys are on the piano bench in hallway. Drive safe."
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1458919633309,
+      "content": "Happy Easter to you also. \nHope the rabbit finds you"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458919567519,
+      "content": "Happy Easter"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458919562724,
+      "content": "Abject Apologies"
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1458919541928,
+      "content": "Oh it's ok. Don't you worry one little bit about that."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458919488044,
+      "content": "In my defense, I was sleep-dopey."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458919459753,
+      "content": "Oh, oh....it dawned on me that I didn't even ask how you were getting home....and didn't even check to see if you had to wait for a ride or ANYTHING ....I am a jerk."
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1448582283803,
+      "content": "That's not far off from being accurate. Lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1448578000146,
+      "content": "You sent a link.",
+      "share": {
+        "link": "https://i.pinimg.com/originals/81/79/0f/81790fc40f4148db2378a9111907f849.gif"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1432817365729,
+      "content": "You sent an attachment.",
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1425154861947,
+      "content": "Your welcome. \u00f3\u00be\u008c\u00b5"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1425154811830,
+      "content": "thanks!!!!!"
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1425079813953,
+      "content": "Hope you had a great day!!"
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1425079781820,
+      "photos": [
+        {
+          "uri": "messages/inbox/davemackay_1243274719022142/photos/351446226_7121562557859966_3656525832564744895_n_1076768322339450.jpg",
+          "creation_timestamp": 1425079781
+        }
+      ]
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1424214034291,
+      "content": "Lol not complicated at all. You have great evening to. \u00f3\u00be\u008c\u00b5"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1424213595381,
+      "content": "why do I make things so complicated. Have a good night!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1424213435363,
+      "content": "Or just call 902-755-6759 cause the message machine is on which I hear all the time. I usually only check my laptop   twice a day  (morning and eve)."
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1424212642653,
+      "content": "Sweet"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1424212348581,
+      "content": "door's are open."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1424212339588,
+      "content": "OK"
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1424212005599,
+      "content": "Lol\nI'm not totally sure on the time that I will be up to pick up the automobile but I will message you before I do. I have to turn the heat back on for Tiana upstairs as well."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1424211590273,
+      "content": "Whoops, they're multiplying."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1424211567105,
+      "sticker": {
+        "uri": "messages/stickers_used/47220252_1134362596737997_4699383456700825600_n_144885185685748.png"
+      },
+      "ip": "24.137.111.148"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1424211551229,
+      "sticker": {
+        "uri": "messages/stickers_used/47220252_1134362596737997_4699383456700825600_n_144885185685748.png"
+      },
+      "ip": "24.137.111.148"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1424211536918,
+      "content": "DRIVE SAFE."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1424211525598,
+      "content": "Oh, Tiana's keys are also on the kitchen table."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1424211472574,
+      "content": "OK.  dear Dave.....what time will you be picking up the car?  I've done my thing,  so whenever is great. Will have gas money and a \"Dave Perk\" on kitchen table. (in case I'm away at the Grand Preview of Madonna's new Film....which is so hush-hush, no one, but NO ONE, knows about it...obviously I can't miss it., although I would rather see you!)."
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1424100720974,
+      "content": "You are welcome. \u00f3\u00be\u008c\u00b5"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1424100660576,
+      "content": "thanks"
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1424100269530,
+      "content": "I will let you know for sure."
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1424100254742,
+      "content": "I will for sure. \nProbably pick it up in the afternoon some time."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1424100199248,
+      "content": "mmmmmmmmm.....wouldn't  hurt.  just let me know when it will disappear so I can get Sobey's run done. Soooooooo many thanks."
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1424100131646,
+      "content": "Just gas in the car."
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1424100121269,
+      "content": "Oh nothing is necessary."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1424100103148,
+      "content": "Great!!!! Would $50 be all right?"
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1424100035349,
+      "content": "Yes I will be going up for sure Wednesday."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1424100004394,
+      "content": "Are you planning on going for Tiana on Wed? Just let me know and I'll have it gassed up (and can I pay you a little something for your trouble?)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1424099931179,
+      "content": "dear dave: survived another one, yes?......Got a snow plow guy (s) who have made one swipe at the parking lot and stairs....he is coming back again today!!! (ching-ching-ching...money down the drain)"
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1423319273136,
+      "content": "Lol yes I suppose we do."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1423319162035,
+      "content": "Gotta love her anyway!!!"
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1423319131450,
+      "content": "If it wasn't for Mother Nature it would have been there sooner."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1423319048150,
+      "content": "Okey-Dokey...many appreciations"
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1423318910321,
+      "content": "I will be up this morning with the car miss Lesley."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1423268212422,
+      "content": "so....the plow fairies (more like a SWAT team)  finally came by and also did the steps....YAHOO the dog can poop again and there's a place to park a couple of cars.  So whenever it is convenient for you, feel free to \"bring it on home\".  just  email or message or whatever."
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1423237448914,
+      "content": "Well you will have it before then my dear."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1423237338907,
+      "content": "I don't need to go anywhere until this mess is cleared up ....maybe tomorrow, maybe Sunday\\///   so relax."
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1423236641438,
+      "content": "Flipping snow!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1423236624360,
+      "content": "OK"
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1423236608702,
+      "content": "Let me know when your plowed. I don't want you have to take cabs."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1423236540043,
+      "content": "no place to park it here until our parking lot is plowed.....will let you know whenever that happens....I can alwys take a cab if \\i ever need to go anywhere in the next day or so."
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1423236461011,
+      "content": "I think they're getting main ones done first."
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1423236421673,
+      "content": "Ok Lesley. Roads are awful. Not even plowed here yet."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1423236370974,
+      "content": "no rush at all"
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1423235173233,
+      "content": "I'll will do my best. \nThe roads are still pretty crappy here so it might be a fair bit til I get over with the car. :("
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1423234233546,
+      "content": "aaarrrggghhh...I loathe this white stuff. Have a good day...no heart attacks from shoveling please."
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1423234178391,
+      "content": "It's going to be a little while before I can get it out of here. I will message you on here once I do."
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1423234133419,
+      "content": "I do have the car and it is buried. Lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1423234088421,
+      "content": "Holy Shit!!!  I believe you have the car?  Can you even find it out there? I lost the dog off the front steps, but then I found her!!. Best to email (lesleydunn49@gmail.com) or facebook message when returning car.   Just put the keys in my mailbox or keep them ( I have a set).  Thanks for taking her."
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1388069606631,
+      "content": "\u00f3\u00be\u0094\u0092Merry Christmas to you aswell!\u00f3\u00be\u0094\u0092"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1388069541315,
+      "content": "Ho! Ho! Ho!  All the BEST  to you and yours!!!!"
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1374624276314,
+      "content": "Thought you would enjoy this. "
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1358369236137,
+      "content": "Haha it's a lovely evening"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1358369174404,
+      "content": "Let it Snow, let it... Blah...grouch making"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1358369125816,
+      "content": "How are ya doin\""
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1358369114191,
+      "content": "good eve, Mr Dave"
+    },
+    {
+      "sender_name": "Dave Mac Kay",
+      "timestamp_ms": 1358369058682,
+      "content": "Good evening miss Lesley"
+    }
+  ],
+  "title": "Dave Mac Kay",
+  "is_still_participant": true,
+  "thread_path": "inbox/davemackay_1243274719022142",
+  "magic_words": [
+    
+  ]
+}

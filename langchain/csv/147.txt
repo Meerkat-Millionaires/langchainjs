@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Andre's Pizza & Seats"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andre's Pizza & Seats",
+      "timestamp_ms": 1514412510572,
+      "content": "I think our reply might be too late but the answer is yes. Have a great day and Happy New Year"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1513878572366,
+      "content": "Do you have gift certificates?"
+    }
+  ],
+  "title": "Andre's Pizza & Seats",
+  "is_still_participant": true,
+  "thread_path": "inbox/andrespizzaseats_864759383697689",
+  "magic_words": [
+    
+  ]
+}

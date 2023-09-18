@@ -1,0 +1,162 @@
+{
+  "participants": [
+    {
+      "name": "Candice Connor"
+    },
+    {
+      "name": "Judith Anne Connor"
+    },
+    {
+      "name": "Craig Anthoney Charles Macleod"
+    },
+    {
+      "name": "Wayne Walter Cock"
+    },
+    {
+      "name": "Jackie Burt"
+    },
+    {
+      "name": "Jeff Gunn"
+    },
+    {
+      "name": "Sharon Gunn"
+    },
+    {
+      "name": "Betty Gunn"
+    },
+    {
+      "name": "Debbie Matheson"
+    },
+    {
+      "name": "Amber Lynne"
+    },
+    {
+      "name": "Meaghan Macleod"
+    },
+    {
+      "name": "Chrystal Macleod"
+    },
+    {
+      "name": "Mary Mac"
+    },
+    {
+      "name": "Brenda Ross"
+    },
+    {
+      "name": "Valerie Smith"
+    },
+    {
+      "name": "Kathie MacLeod Gunn"
+    },
+    {
+      "name": "Kathi Ryan"
+    },
+    {
+      "name": "Sue Arsenault"
+    },
+    {
+      "name": "Steve Debbie Crossman"
+    },
+    {
+      "name": "Lesley Dunn"
+    },
+    {
+      "name": "Leah Sutherland"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jeanie MacRitchie-MacKinnon",
+      "timestamp_ms": 1500335792211,
+      "content": "Jeanie MacRitchie-MacKinnon left the group."
+    },
+    {
+      "sender_name": "Jeanie MacRitchie-MacKinnon",
+      "timestamp_ms": 1500335751649,
+      "content": "Sorry Kath!! Going in a thousand directions here and desperately trying to get hay done so just couldn't make it!  I kept hoping but no go!  I trust it was a lovely time and love to Molly xoxoxo"
+    },
+    {
+      "sender_name": "Wayne Walter Cock",
+      "timestamp_ms": 1500167762404,
+      "content": "Kathy and I will be there!\u00f0\u009f\u0091\u008d"
+    },
+    {
+      "sender_name": "Jeff Gunn",
+      "timestamp_ms": 1500151707997,
+      "content": "Ella and I (and maybe Noah) hope to be there at some point!"
+    },
+    {
+      "sender_name": "Sharon Gunn",
+      "timestamp_ms": 1500146513802,
+      "content": "Donnie and I will be there at some point. Other stuff going on as well!\u00f0\u009f\u0098\u0080\u00e2\u009d\u00a4"
+    },
+    {
+      "sender_name": "Brenda Ross",
+      "timestamp_ms": 1500135842198,
+      "content": "Congrats Molly. So happy for you and your next adventure. :) x"
+    },
+    {
+      "sender_name": "Ruby Mackenzie",
+      "timestamp_ms": 1500081507676,
+      "content": "Ruby Mackenzie left the group."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1500080886171,
+      "content": "A contact left the group."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1500037646263,
+      "content": "A contact left the group."
+    },
+    {
+      "sender_name": "Leah Sutherland",
+      "timestamp_ms": 1500034047980,
+      "content": "I can give it to Molly"
+    },
+    {
+      "sender_name": "Leah Sutherland",
+      "timestamp_ms": 1500034032308,
+      "content": "I have some decorating stuff here you can use,   I'm all done!!!!"
+    },
+    {
+      "sender_name": "Jenny Gunn-Sinclair",
+      "timestamp_ms": 1500034019961,
+      "content": "Jenny Gunn-Sinclair left the group."
+    },
+    {
+      "sender_name": "Kathie MacLeod Gunn",
+      "timestamp_ms": 1500033966785,
+      "content": "Nice. I thought it best to push to supper . Enjoy your day and maybe we will finally get our glass of wine . \u00f0\u009f\u0098\u008a"
+    },
+    {
+      "sender_name": "Leah Sutherland",
+      "timestamp_ms": 1500033874196,
+      "content": "Going on a run in the morning be over later"
+    },
+    {
+      "sender_name": "Kathie MacLeod Gunn",
+      "timestamp_ms": 1500033256747,
+      "content": "Hi All,   Summer is such a busy time. I thought that I should narrow down the time. Anyone is welcome at anytime, but we will start to BBQ at around 5.  Come on over and eat ,drink and be merry.",
+      "share": {
+        "link": "https://www.facebook.com/events/131965337396089/"
+      }
+    },
+    {
+      "sender_name": "Kathie MacLeod Gunn",
+      "timestamp_ms": 1500033256639,
+      "content": "Kathie named the group Celebrating 2017- Molly Graduated!!"
+    }
+  ],
+  "title": "Celebrating 2017- Molly Graduated!!",
+  "is_still_participant": true,
+  "thread_path": "inbox/celebrating2017mollygraduated_1570860349620399",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

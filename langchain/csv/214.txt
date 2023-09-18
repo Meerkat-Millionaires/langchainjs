@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Dorte M Mac Master"
+    },
+    {
+      "name": "Anne Gratton"
+    },
+    {
+      "name": "Donna Cyr"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1433935176231,
+      "content": "Thanks' Donna. Right back at you"
+    },
+    {
+      "sender_name": "Donna Cyr",
+      "timestamp_ms": 1433894808408,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362104215253_1651254063_n_126362100881920.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433893509813,
+      "content": "You named the group love you!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433893493408,
+      "content": "Love you!!!!",
+      "share": {
+        "link": "https://www.facebook.com/127548767448128/photos/a.128130024056669/378761928993476/?type=3"
+      },
+      "ip": "24.89.222.200"
+    }
+  ],
+  "title": "love you!",
+  "is_still_participant": true,
+  "thread_path": "inbox/loveyou_1003759062976052",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

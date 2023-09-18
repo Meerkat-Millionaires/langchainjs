@@ -1,0 +1,98 @@
+{
+  "participants": [
+    {
+      "name": "Julia Dunn"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624808409440,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607007317942,
+      "content": "Hope that I'm the First Person to put a CHRISTmas Tree on Your phone. \n\nIf luck is a raindrop, i'd send You a shower.\n\nIf hope is a minute, i'd send You an hour.\n\nIf happiness is a leaf, i'd give You a tree.\n\nAnd if YOU need a FRIEND, You will ALWAYS have ME.\n\nSend this to all the people You care about.\n\nEven me.\n\nIf You get 3 back, You're a True Friend!",
+      "videos": [
+        {
+          "uri": "messages/inbox/juliadunn_10153982479766001/videos/12349769_1530333383958687_595733009_n_3050297705182622",
+          "creation_timestamp": 1607007317
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1573321483907,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/KneeCurve/posts/pfbid02gdWVS69TecTKPGDDpW1ZNrM2tNo9W75S9iSgqVgGHqNoscM3oLhMBFTpcKSurANml"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419279192813,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362164215247_428974420_n_126362160881914.png"
+      },
+      "ip": "24.137.111.148"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419279186501,
+      "content": "Ok?  Wonderful and such a surprise...an amazing surprise....Keep well everyone, Keep safe.  All the best to each and everyone of you during this festive season and in the New Year."
+    },
+    {
+      "sender_name": "Julia Dunn",
+      "timestamp_ms": 1419273543660,
+      "photos": [
+        {
+          "uri": "messages/inbox/juliadunn_10153982479766001/photos/10881468_10152869425851001_33810712_n_10152869425851001.jpg",
+          "creation_timestamp": 1419273543
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1402490887618,
+      "content": "Sad and scary stuff, yes?  Keep well and safe."
+    },
+    {
+      "sender_name": "Julia Dunn",
+      "timestamp_ms": 1402455198209,
+      "content": "My towel is another way that keep my Canadian roots close to me. I too was thinking of the memorial service in Moncton today."
+    },
+    {
+      "sender_name": "Julia Dunn",
+      "timestamp_ms": 1396567976989,
+      "content": "For the most part it's gone ok today"
+    },
+    {
+      "sender_name": "Julia Dunn",
+      "timestamp_ms": 1396567963831,
+      "content": "Thanks yes I did.\nI've tried to keep busy today"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1396567915329,
+      "content": "Hope you got my message of condolence.  Have been thinking about you and your children (Cam too)."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1396532054762,
+      "content": "So sorry about Tikka..i had to have my 13 year old constant companion dog (Misha) put to sleep about 2 weeks ago.....all very upsetting for all...best wishes to you and yours."
+    }
+  ],
+  "title": "Julia Dunn",
+  "is_still_participant": true,
+  "thread_path": "inbox/juliadunn_10153982479766001",
+  "magic_words": [
+    
+  ]
+}

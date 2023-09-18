@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Crystal Sheppard"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Crystal Sheppard",
+      "timestamp_ms": 1566062813168,
+      "content": "Awesome I'm so glad to hear that.....you take care and see you on tuesday :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1565972520840,
+      "content": "Very good indeed on Friday. Tell you about it when I see you.  Take care and treat yourself!!!!"
+    },
+    {
+      "sender_name": "Crystal Sheppard",
+      "timestamp_ms": 1565796476295,
+      "content": "Aww I missed you too, been thinking of you.... how did everything go last friday"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1565792660389,
+      "content": "missed you yesterday...hope all is well.!!"
+    },
+    {
+      "sender_name": "Crystal Sheppard",
+      "timestamp_ms": 1565270856974,
+      "content": "You are now connected on Messenger"
+    }
+  ],
+  "title": "Crystal Sheppard",
+  "is_still_participant": true,
+  "thread_path": "inbox/crystalsheppard_10157345154778798",
+  "magic_words": [
+    
+  ]
+}

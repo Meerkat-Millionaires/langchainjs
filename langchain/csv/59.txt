@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Haley Quinn"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487279213831,
+      "content": "You sweetie.....thanks"
+    },
+    {
+      "sender_name": "Haley Quinn",
+      "timestamp_ms": 1487279177800,
+      "content": "He was laying down when I left so that's a good possibility. I'll go check on him soon just finishing my errands in new Glasgow"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487279112163,
+      "content": "OK..hasn't answered me....tad concerned, but he may be asleep.  Thanks"
+    },
+    {
+      "sender_name": "Haley Quinn",
+      "timestamp_ms": 1487279035116,
+      "content": "I'm not home right now sorry. I'm pretty sure he's there tho. He was earlier when I left"
+    },
+    {
+      "sender_name": "Haley Quinn",
+      "timestamp_ms": 1487279007590,
+      "content": "You can now message and call each other and see info like Active Status and when you've read messages."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487278856098,
+      "content": "Haley, is Jarett around? Sorry to bother you."
+    }
+  ],
+  "title": "Haley Quinn",
+  "is_still_participant": true,
+  "thread_path": "inbox/haleyquinn_1733976569951077",
+  "magic_words": [
+    
+  ]
+}

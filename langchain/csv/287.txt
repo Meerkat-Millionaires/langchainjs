@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Peter Cameron"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Peter Cameron",
+      "timestamp_ms": 1534096691237,
+      "content": "OMG .... s blast from the past or what? I am back in Nova Scotia after traveling the world and I stumbled across your FB page as a friend of Carolyn Price and Karen MacNeil. \nWe had a 50th Anniversary reunion of the LSD band last summer ...."
+    }
+  ],
+  "title": "Peter Cameron",
+  "is_still_participant": true,
+  "thread_path": "message_requests/petercameron_10156012112454285",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

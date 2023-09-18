@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Karen Corbin Hughes"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624808373874,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    }
+  ],
+  "title": "Karen Corbin Hughes",
+  "is_still_participant": true,
+  "thread_path": "inbox/karencorbinhughes_10156847910391429",
+  "magic_words": [
+    
+  ]
+}

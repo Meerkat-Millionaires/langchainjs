@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Roger Plamondon"
+    },
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Lesley Dunn"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1460991743478,
+      "content": "Booked a client for 530 on Thursday"
+    }
+  ],
+  "title": "Roger, Tiana and ",
+  "is_still_participant": true,
+  "thread_path": "inbox/rogertianaand_1000303550016749",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

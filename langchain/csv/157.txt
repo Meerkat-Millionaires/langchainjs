@@ -1,0 +1,967 @@
+{
+  "participants": [
+    {
+      "name": "Melissa Latter"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1641756184429,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid02mJtwhifQeVzkZHnjitGeq4eqVo6xbs9kFfPP5VvsqaZUjHcRJESPN8ycxGXRFgtXl&id=593472751117593"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1641754689044,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid02mJtwhifQeVzkZHnjitGeq4eqVo6xbs9kFfPP5VvsqaZUjHcRJESPN8ycxGXRFgtXl&id=593472751117593"
+      }
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1633118743893,
+      "content": "You are awesome! I hope the closet looks OK for you \u00f0\u009f\u00a4\u0097"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1633116888817,
+      "content": "Excellent job. excellent person.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Melissa Latter"
+        }
+      ]
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1633037751380,
+      "content": "I\u00e2\u0080\u0099ll be there at 10 :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1633028537241,
+      "content": "oh yes!!!!  And (I can hear you cringing, I don't blame yu cause it's another bit of moving furniture...almost done...pretty simple....feeling better , meds getting sorted...hope all is manageable at your place.  Do  you have any idea of of arrival time here, approx?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Melissa Latter"
+        }
+      ]
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1632949267137,
+      "content": "Are we still good for Friday!?"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1631983019979,
+      "content": "Again I am so sorry"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1631983012614,
+      "content": "Monday is perfect! I will be there at 10"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1631970145696,
+      "content": "this is never a problem for me....glad it wasn't anything worse, although I've been told that there ISN'T ANYTHING WORSE!!! Monday would be great...just let m e know."
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1631906837993,
+      "content": "Hi Lesley! Oh my goodness, I was down with a migraine most of the day and meant to message you, but slept the day away. I can come on Monday, Thursday or Friday whichever works best for you! I am so so sorry that today slipped from me"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1631904646034,
+      "content": "I very likely be mistaken (probably!!), so could we set up a visit? If, however you have stuff going on or just not up to it...let me know..I am very aware that you carry heavy load.....next week, whenever.  love ya."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1630603894107,
+      "gifs": [
+        {
+          "uri": "messages/inbox/melissa_4256749024341482/gifs/241188872_405847077730721_3605204206319411872_n_1958248607682315.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Melissa Latter"
+        }
+      ]
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1630603716923,
+      "content": "See you then!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1630603709580,
+      "content": "loverly"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1630603697558,
+      "content": "Hi!! I will be there for 10 am tomorrow \u00f0\u009f\u0098\u008a"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1629225057143,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1629224881810,
+      "content": "\u00f0\u009f\u0098\u0089"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1629224842124,
+      "content": "I\u00e2\u0080\u0099ll see you then"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1629224836080,
+      "content": "I hope you are feeling better. This heat isn\u00e2\u0080\u0099t always a good thing"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1629224831068,
+      "content": "great....see yiou then"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1629224805264,
+      "content": "I\u00e2\u0080\u0099d say 10?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1629223762444,
+      "content": "that's good for me...will let you know if anything comes up...you too.....thanks...any time in mind?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Melissa Latter"
+        }
+      ]
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1629223397942,
+      "content": "I am off that day"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1629223397826,
+      "content": "How is Monday?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1629218275314,
+      "content": "are you availab;e  sometime?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1629218255156,
+      "content": "hi...I'm here...bad few days, gone now....sorry about not responding"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1628981043660,
+      "content": "Sure thing. I was thinking about you this morning - how are you?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1628969136000,
+      "content": "Hi.....would like to hire you for at least an hour per week....to water plants, keep laundry going, etc....having a meeting with Paliative Care nurse on Monday here at the house....maybe some dishes....day and time up to you, but not Tuesday.  Would pay 20.00 and a month in advance so 80.00 at a shot (which is better for you).  Let me inow"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1626522698299,
+      "content": "Hi!I think the best time I can come would be tomorrow morning. I have to travel to Cape Breton today - is around 10 okay for you?"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1626364171089,
+      "content": "That\u00e2\u0080\u0099s okay!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1626364160436,
+      "content": "wow, i am so going to write things down....oh my",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Melissa Latter"
+        }
+      ]
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1626364118211,
+      "content": "She was my student before she started with the Von"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1626364102791,
+      "content": "Yeah you told me that!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1626363841175,
+      "content": "just curious...did you know I had Adelle Dunn as a voice student?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1626362407570,
+      "content": "thanks"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1626289327190,
+      "content": "Hi! Sure thing!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1626286431988,
+      "content": "maybe before next Tuesday?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1626286335760,
+      "content": "Melissa, can you come sometime  to help with the last few things that are driving me a tad mad....only a tad...so no rush.?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1625064025192,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1625063749222,
+      "content": "My youngest is going fishing with her dad and the twins will be sleeping!! I will see you tomorrow :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1625063249066,
+      "content": "sounds good, though, unless you would rather spend it with your kids"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1625063128802,
+      "content": "not for me, I mean , but for you"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1625063116576,
+      "content": "but it's a holiday???"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1625061045021,
+      "content": "Thursday - tomorrow"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1625060198977,
+      "content": "I am a tad confused here"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1625060168815,
+      "content": "Melissa.....what day are you referring to?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1625057174308,
+      "content": "yes, ma'am"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1625052318513,
+      "content": "Hi Lesley, \nI will come over tomorrow morning - say 10?"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1624807902964,
+      "content": "Beautifully said"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624807497764,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Melissa Latter"
+        }
+      ],
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1624804708082,
+      "content": "Okay :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624803931635,
+      "content": "just let me know on the laptop when that will happen closer to the date."
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1624803877727,
+      "content": "She was my student in the fall and we became pretty good friends; Adeline and her girl are the same age and play well together"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624803821575,
+      "content": "How do you know Adele Dunn?  I tried to instruct her in singing"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1624803786307,
+      "content": "You just made me cry!!! Thank you \u00e2\u009d\u00a4\u00ef\u00b8\u008f i am very happy to have you in my life \u00f0\u009f\u0098\u008a \nI am on evenings this week so I have some time through the earlier part of the day - I can come over Wednesday or Thursday."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624803594957,
+      "content": "Tuesdays are a \"no-go\"....all else is up to you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624803528817,
+      "content": "I cannot speak at any length to anyone else (cept Tiana to some extent)....but I trust you....you have integrity, a solid stature and you live your life dealing with joy and sorrow, with bravery and empathy....I would be honoured to have you as a helper and friend."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624803360057,
+      "content": "I am stubborn, stong willed...and a maniac about some things.....but loveable overall.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Melissa Latter"
+        }
+      ]
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1624803335806,
+      "content": "I would be honoured to"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624803277748,
+      "content": "Melissa, in the midst of the mess we are in as a province and people, I feel so very small and pathetic to ask this of you....as you go back to work, can you find an hour or so every week to come and FORCE me to have bath/shower, to shampoo my hair, to slather skin cream on my legs, back, front, feet....to berate me for not brushing my teeth, to suggest it really isn't the best decision to not change my clothes and to ignore the laundry, to decide how to make meals that are easy to heat up and actually consume more than one (at best two) food item at a sitting.........is any of this posiible?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Melissa Latter"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1623416819564,
+      "content": "good.....see you then",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Melissa Latter"
+        }
+      ]
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1623339044291,
+      "content": "I have a dentist appointment Monday and other than that I am pretty open, how is Wednesday?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1623333844853,
+      "content": "omg...really have been out of it.....   no, keep it and that means I can afford you next week??!!!  Yahoo....just let me know when you can make it.  love..."
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1622926718173,
+      "content": "You take care too \u00e2\u0099\u00a5\u00ef\u00b8\u008f you sent me $60 yesterday - I believe you paid me twice!!! do you want me to sent that back?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1622916906152,
+      "content": "just sent 50.00....so many thanks and greatly appreciated.....will have to take  a few weeks before another visit.....budgetary priority.....\"wolf at the door\" stuff.....no worries.  You take care and know that I will be thinking of you.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Melissa Latter"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1622633894571,
+      "content": "loverly!!!"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1622558094011,
+      "content": "Hi Lesley - that is exciting news for  Jarrett!! Yay!!!! It is definitely heavy news to hear, sadly there are 1000s more yet to be found, poor babies. \nI can come over no problem, how is Friday? I am free then. Love you!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1622557704786,
+      "content": "can completely understand if you are off grid for now....love you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1622555761093,
+      "content": "Hey, any chance for you to come this week to undo/clean-up 4 Visits from Jarett (evicted, moved, living now in an apt with another guy WHO ACTUALLY HAS A JOB!!!) I have no words to describbe how I (and so many others) feel about the latest news re the mass grave and fears that more that will be found across Canada.....how much more can all of us take on a personal and humane level.....??  Let me know."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1621092720237,
+      "content": "thank you from my heart",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Melissa Latter"
+        }
+      ]
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1621022692444,
+      "content": "Love ya!! Take care of yourself!! If you need anything (no money necessary- let me know)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1621019602949,
+      "content": "sent 50.00...many thanks. No money left for the rest of this month (oh, poor me, alas, alack)...will contact you by the 29th....love ya and keep safe.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Melissa Latter"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1620833693375,
+      "content": "Yes, Friday would be very fine......hope all is going well."
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1620748993058,
+      "content": "As of tomorrow, I will be off for atleast the rest of the month so I can help the kids with their homeschool journey!"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1620748896521,
+      "content": "Hi!! Did you want me to come over Friday? I am taking a leave of absence from work"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1619803642313,
+      "content": "I'm happy you're happy!!! Its all coming together- Enjoy:)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1619802837038,
+      "content": "So many thanks,Melissa...sending money now!!!!!!...everything looks so good and in transition as I hoped",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Melissa Latter"
+        }
+      ]
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1619657273833,
+      "content": "I will be at your place around 1130 tomorrow - adeline has a dentist appointment and hen I will be there"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1619619904275,
+      "content": "sounds fine...see you then"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1619543648046,
+      "content": "If that is okay with you"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1619543640703,
+      "content": "My daughter has an appointment at 1130 on Friday now, so Thursday would be ideal"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1619543626178,
+      "content": "Hi!! Would it be okay if I can over on Thursday instead."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1618758674938,
+      "content": "you too"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1618589017317,
+      "content": "Thank you :) have a good two weeks!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1618588018722,
+      "content": "thanks...have a good two weeks and hopethat all goes well meantime."
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1618587964716,
+      "content": "May 1!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1618587566300,
+      "content": "65.00  sent ...thank you very much.  When is the draw?"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1618336694835,
+      "content": "Okie!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1618336023735,
+      "content": "just let me know if you can't make it for any reason....take care."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1618330124904,
+      "content": "Sounds great...see you then."
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1618330109912,
+      "content": "I was tender the last few days but feeling myself again"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1618330099007,
+      "content": "I am off on Friday! Feeling pretty good so far"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1618329795371,
+      "content": "hope your shot went well and will help...let me know when you have time and want to come on over!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1617722464380,
+      "gifs": [
+        {
+          "uri": "messages/inbox/melissa_4256749024341482/gifs/50202896_763821267306507_5677836053940011008_n_739328993407608.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Melissa Latter"
+        }
+      ]
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1617722155529,
+      "content": "Thanks! Yeah I\u00e2\u0080\u0099m nervous - I am scheduled to get three over the next six weeks, but if it doesn\u00e2\u0080\u0099t the trick then I\u00e2\u0080\u0099ll be happy!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1617721784081,
+      "content": "yuck poor you, but hope it helps a lot~!!!!....yes, but let's wait til after the weekend ."
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1617721477449,
+      "content": "Just let me know when and if ya need me again :) I\u00e2\u0080\u0099m getting injections to my spine this Friday so I\u00e2\u0080\u0099ll be a little down for the count this weekend though \u00f0\u009f\u0098\u00ac"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1617721321620,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1617721316205,
+      "content": "Thanks!!"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1617721306348,
+      "content": "Lol I totally forgot!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1617720688455,
+      "content": "OMG.....I didn't pay you...just sent 50.00 and am so sorry!!!!  Thanks agsin"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1617028007856,
+      "content": "sounds great!!!!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Melissa Latter"
+        }
+      ]
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1616945247926,
+      "content": "Sure I can do that! I am day shift this week, how about I pop over after work on Wednesday?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1616939540229,
+      "content": "your coffee cup is safe"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1616939528994,
+      "content": "hope this message finds you as well as could be expected (and maybe a lot more) in these times."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1616939471359,
+      "content": "Hi there...would you consider doing a shopping trip to Canadian Tire for me sometime over the next week (gas cost covered as well).....I would give you my debit card to do this...also a list and color choices for the paint...would talk it over with you here first....3 paint quarts (one with paint card, one to be scanned for paint color and the other is a washable kitchen paint...) and there are a few other items as well?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1615996111427,
+      "content": "I totally understand given my life with Jarett and other stuff.....If I don't hear from you, I'll see you then....no prob if you have to cancel."
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1615908388465,
+      "content": "Hi! I was thinking Friday would be good ! Sorry it\u00e2\u0080\u0099s been a wild week"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1615904994981,
+      "content": "hi there....really hope this finds you and yours as OK as possible. I know it's March Break and maybe also need to keep an eye on your children...it's a mother's lot.  Please just let me know when you think you'd be able to come here....NO PRESSURE.  Hang in there"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614105291133,
+      "content": "OK"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1614030921199,
+      "content": "Hi Lesley! Sure I will come over Friday - we can chat then!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614013076330,
+      "content": "thank yu.   .....I love you."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1614013042064,
+      "content": "Tiana Fusco left the group."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1614013034156,
+      "content": "Oh sorry!!  I'm going to exit the group and leave it to you two :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614013004840,
+      "content": "this is for Melissa"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1614012973476,
+      "content": "huh?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614012943435,
+      "content": "If you could come at the end of this week for 2 hours, I wold appreciate it....then I could take a week or two off in order to really figure out what I need, but I am also concerned about what you have had in mind re steady (or intermittent) income..please advise. How's the cat?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1613755849955,
+      "content": "you too"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1613755833514,
+      "content": "You sure welcome :) have a great weekend!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1613754878920,
+      "content": "Melissa, it all looks so tidy, cleaned up and cared for.!!!!  Thank you so much, it is very much appreciated...$ sent . Hope the Kitty has good news and that your weekend goes well.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Melissa Latter"
+        }
+      ]
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1613665224967,
+      "content": "Say 10?"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1613665215539,
+      "content": "I can come tomorrow"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1613664378164,
+      "content": "hi...are you able to come tomorrow or Monday ? ...Jare has finally moved out. ..."
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1613074813361,
+      "content": "Great :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1613072944968,
+      "content": "will make sure your mom takes the wooden stand...when I bought it, there was wiring through it up to the top and a light with a shade..was very nice.  shouldn't take too much to have it rewired (or not)."
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1613072915898,
+      "content": "You are so very welcome \u00f0\u009f\u00a4\u00a9 enjoy the space \u00e2\u0099\u00a5\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1613072816110,
+      "content": "Melissa, thanks a HfUGE-LOT for all the work today...am also glad you could understand my retreat from the foray....\"I can see clearly now\" and it all looks possible....will get in touch about the next step in getting this under control...whether the boy is here or not....a huge move forward today.  Thanks.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Melissa Latter"
+        }
+      ]
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1612970709901,
+      "content": "Lol thank you!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1612969372308,
+      "content": "Lol"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1612969341743,
+      "content": "Not sure if that was passed al, look"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1612969323971,
+      "content": "Also moms # is 9027556759"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1612968609053,
+      "content": "Hi Lesley, this day is gone sideways already with work - if I could come tomorrow that would be easier, I will come as soon as I am off work tomorrow, so I should be there by 1"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1612789411160,
+      "content": "You stay safe and warm too :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1612789255467,
+      "gifs": [
+        {
+          "uri": "messages/inbox/melissa_4256749024341482/gifs/50173262_2129767720420328_150530696690008064_n_272867920850163.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Melissa Latter"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1612789234357,
+      "content": "sounds fine...keep me posted, K?  Stay safe,warm and don't wreck your bod shoveling.!!!!"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1612789179656,
+      "content": "I think it\u00e2\u0080\u0099s a cancel! How is Wednesday afternoon for you? I work until 1, I can come over after work"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1612789156488,
+      "content": "Good morning! I was about to message you!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1612789136927,
+      "content": "OK///guess it's a cancel for today?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1612715594685,
+      "content": "Whenever you can do it...I just realised that I owe you for the Drano!!!...how much would that be?  and good luck with your eye exam."
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1612485404242,
+      "content": "Hey Lesley, I just realized I have an eye exam at 10 on Monday - so I will be over after that, probably between 10:30 and 11"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1612445420406,
+      "content": "YES!!!"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1612445395694,
+      "content": "I do"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1612444971514,
+      "content": "do you have any Drano?  Laundry sink in basement is semi-plugged"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1612444940515,
+      "content": "loverly"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1612380626455,
+      "content": "Around the same, 10ish"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1612363307590,
+      "content": "so good!! estimated time?"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1612314153321,
+      "content": "I can come on Thursday"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1612303740116,
+      "content": "Melissa, Jare has left (today).  I would love to have you come again....lots to do.....Wed, Thurs, Fri or next Monday?...just let me know...You really did a terrific job."
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1611583234850,
+      "content": "I\u00e2\u0080\u0099m running about five minutes behind! I\u00e2\u0080\u0099ll be there in a few"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1611162872573,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1611160808100,
+      "content": "Lol okay!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1611159430541,
+      "content": "you got it!!!!  prepare for \"odd\" or \"what\"?...lol"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1611103050411,
+      "content": "I'll come from 10-12 :) make a list of what ya need done!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1611076618281,
+      "content": "it's great....do you want an hour or 2?"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1611004781666,
+      "content": "How is 10 am?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1610994390111,
+      "content": "FRiday would be great, just let me know what time, K?"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1610927316178,
+      "content": "Hi Lesley, I am off this Friday - so maybe that day would work? A time when the kids will be in school, whatever is best for you"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1610730098753,
+      "content": "OK...got it!!!..Melissa, when would you like to come for an hour or whatever???  The only day that is not good is Tuesdays (VON weekly and Continuing Care every two weeks on this day)....please advise..thanks."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1610711535026,
+      "content": "Hey mom. It\u00e2\u0080\u0099s this message"
+    },
+    {
+      "sender_name": "Melissa Latter",
+      "timestamp_ms": 1610221281169,
+      "content": "Hi!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1610211133487,
+      "content": "Hey guys!"
+    }
+  ],
+  "title": "Melissa",
+  "is_still_participant": true,
+  "thread_path": "inbox/melissa_4256749024341482",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

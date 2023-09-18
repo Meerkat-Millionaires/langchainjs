@@ -1,0 +1,227 @@
+{
+  "participants": [
+    {
+      "name": "Niki Veniot"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Niki Veniot",
+      "timestamp_ms": 1660048055671,
+      "content": "Niki tagged you in a post",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0EP1dngeSquRu1y3KyuH6jEk5Mu4G2UWWtnbCDfSVqRrz6Pgw2W6oyzDWxLpegbWol&id=100018352600800"
+      }
+    },
+    {
+      "sender_name": "Niki Veniot",
+      "timestamp_ms": 1614107472994,
+      "content": "LOL"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614107408704,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Niki Veniot"
+        }
+      ],
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0qXdtbtHQieVcpu2bCAeMCZ69oCJbBEmpXxB5N9eGBdr4VdB1Wa5PPzCx5CftU9Xhl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Niki Veniot",
+      "timestamp_ms": 1613669020883,
+      "content": "You will always have such a special place in my heart Lesley \u00f0\u009f\u0092\u0095\u00f0\u009f\u0092\u0095"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1613664545795,
+      "content": "I love you too...times can be tough and I remember you with great fondness!!!!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Niki Veniot"
+        }
+      ]
+    },
+    {
+      "sender_name": "Niki Veniot",
+      "timestamp_ms": 1613160515569,
+      "content": "Lesley I had a dream last night that I had to learn a piece on the piano and you were going to teach me! Ha!! It\u00e2\u0080\u0099s funny the things that come up in our minds. It brought me right back to our lessons together. You were the best teacher, I was so lucky to have you. \nXoxox"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1551467252922,
+      "gifs": [
+        {
+          "uri": "messages/inbox/nikiveniot_778455098994785/gifs/23555794_360356301042268_3518262459548827648_n_991708651035159.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Niki Veniot",
+      "timestamp_ms": 1551467191770,
+      "content": "Okay!!... I have to perform in Truro and didn\u00e2\u0080\u0099t realize our soundcheck is soon... \n\nBUT tomorrow I am going to swing by okay?! I\u00e2\u0080\u0099ll see you sometime tomorrow I promise :) \nIf you need anything let me know!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1551467098194,
+      "content": "available most days....no need to let me know in advance"
+    },
+    {
+      "sender_name": "Niki Veniot",
+      "timestamp_ms": 1551308428090,
+      "content": "Yay!!! I will see you tomorrow after work or Friday during the day !?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1551307722433,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0b8j34VLPLEBBgReosT5atNmErZDFiF3xiugCVLLuNr6hCnvs1xVvh6tRzYauMFc9l&id=282597549093308"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1551306824411,
+      "content": "Yes, available and pretty much always at home!!!!"
+    },
+    {
+      "sender_name": "Niki Veniot",
+      "timestamp_ms": 1551289910823,
+      "content": "Hi Lesley, hope you have a wonderful birthday \u00e2\u009d\u00a4\u00ef\u00b8\u008f\nI am not sure if you are still on messenger or not!!\nI would LOVE to see you!!.. are you available tomorrow after 4pm?\n\nLove you lots as always xo"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1519767062473,
+      "content": "thanks!!!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1519767056014,
+      "gifs": [
+        {
+          "uri": "messages/inbox/nikiveniot_778455098994785/gifs/19299043_10203300031897015_3510586339378593792_n_902622806578013.gif"
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Niki Veniot",
+      "timestamp_ms": 1519764549393,
+      "gifs": [
+        {
+          "uri": "messages/inbox/nikiveniot_778455098994785/gifs/21742735_1899095956773810_1650955514135183360_n_178899629398456.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1518910614592,
+      "gifs": [
+        {
+          "uri": "messages/inbox/nikiveniot_778455098994785/gifs/20272579_1416585478419690_1435533032743239680_n_897147647125529.gif"
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Niki Veniot",
+      "timestamp_ms": 1518827150254,
+      "content": "Awwww.... Thank you so much lesley \u00e2\u009d\u00a4\u00e2\u009d\u00a4 I need those types of messages right now more than ever. Ive been going through a really big rough patch that I didn't evee think I'd let myself feel again. So I really appreciate the love and positive vibes \u00e2\u009d\u00a4\u00e2\u009d\u00a4\u00e2\u009d\u00a4 love you so much. You will always be one of the most important people in my life, someone I still praise and talk about to this day to others when I tell people about who has had the biggest impact on my life xoxo"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1518826797127,
+      "content": "love you"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1518826735495,
+      "content": "I know that life and the living of it can be extraordinarily tough, so much so that it doesn't seem the effort to keep on truckin'...but I can assure you that it is worth the effort...I know of the truth here....the teeny tiny gem stones that you find when mining for the reason to go on are so underestimated...each one is a small, rough, unworthy looking piece of nothing....but when you hold onto them, tumble them,  shine them up, they become  the sweetest, worthiest stones.  All the people you meet during the trying times are the 'gem-stones', the reason for living, the muses who can inspire you, the basis for a new song, the cause for stretching out again to put it into music or into a short story or into a book......draw from them..and from the emotions  that they resonated in you. Never, ever give up. Ever."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1515359813302,
+      "content": "tripped over the dog last night, smashed my knee badly (and the other not so bad( and my elbow....finished for today....Nightie night!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1515359695370,
+      "content": "Never, never give it up....Never....keep those close to you when you are down, keep them very close, and then keep them in the background (ready and willing) for when you need them again...they will always be there, watching you stumble, run, fly and soar.....always."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1515359558670,
+      "content": "And I am proud to know you, always...persevering at all times, changing, exploring, questioning, supporting, singing, playing, putting up with shit you don';t deserve and wondering why you can't get the support you deserve, loving those who love you and trying to understand the ones who don't seem to love you, picking up your socks and trying again when it didn't work out......Babe, you rock, you rule, you are the explorer, the gallant questor, the best!"
+    },
+    {
+      "sender_name": "Niki Veniot",
+      "timestamp_ms": 1515359142126,
+      "content": "I hope you know what a difference you made in my life, you had such a major impact on who I became as a person and on showing me I am capable of doing things I love \u00e2\u009d\u00a4\u00e2\u009d\u00a4 I am so grateful for you. I would never have traded our years together for anything. I'm so glad out of all the piano teachers I couldve had, you were the one that came into my life. You changed me. You are such a special wonderful woman, full of strength and love and generosity and talent.. I'm proud to know you xoxox"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1515358960098,
+      "content": "And if your best isn't good enough, call on the people who love you to shore up your ramparts,"
+    },
+    {
+      "sender_name": "Niki Veniot",
+      "timestamp_ms": 1515341454154,
+      "content": "Its been really tough:( I'll try my best \u00e2\u009d\u00a4\u00e2\u009d\u00a4"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1515333856225,
+      "gifs": [
+        {
+          "uri": "messages/inbox/nikiveniot_778455098994785/gifs/20859840_117892992182086_2626155944957968384_n_873659009474393.gif"
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1515333843940,
+      "content": "Holy Shit.....you're right ...something has to go...can't believe that Soby's is allowing this to happen."
+    },
+    {
+      "sender_name": "Niki Veniot",
+      "timestamp_ms": 1515254615898,
+      "content": "Awwww thank you Lesley \u00e2\u009d\u00a4\u00e2\u009d\u00a4\u00e2\u009d\u00a4 was just talking about you last night actually! \nHonestly it's work. Work has been extremely difficult on my mind and body lately. I'm sure you heard sobeys cut a lot of jobs..\nWhen they announced all the cuts, we lost our 2 girls in NL who basically do what I do. We also found out that Kathy (theres 3 of us here in stellarton) is being moved to merchandising as of february. Then Vanessa (the other girl) left on stress leave a month ago.\nKathy hasnt been in in 2 weeks.\nIts literally been me there alone, doing 5 peoples jobs, covering 4 provinces of customers.\nIts insane. I'm feeling depressed and stressed and anxious and tired etc. I cant handle it much longer. Ive worked 12-14 hour days. Its been a tough go:("
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1515244830611,
+      "content": "Niki, I read that things are tough right now...don't know the specifics....remember you have a nugget of pure strength deep inside.....hope you can draw on this. Will be keeping you in my thoughts."
+    },
+    {
+      "sender_name": "Niki Veniot",
+      "timestamp_ms": 1501840488031,
+      "content": "Awwww, thank you so much Lesley. You will always be family to me \u00e2\u009d\u00a4\u00e2\u009d\u00a4"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1501816047314,
+      "content": "Whatever it is, you have my complete support and love during your life travel."
+    },
+    {
+      "sender_name": "Niki Veniot",
+      "timestamp_ms": 1499515059089,
+      "content": "You are now connected on Messenger"
+    }
+  ],
+  "title": "Niki Veniot",
+  "is_still_participant": true,
+  "thread_path": "inbox/nikiveniot_778455098994785",
+  "magic_words": [
+    
+  ]
+}

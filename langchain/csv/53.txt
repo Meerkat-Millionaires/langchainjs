@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Sylvia Chiasson Bonaparte"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sylvia Chiasson Bonaparte",
+      "timestamp_ms": 1624810646210,
+      "content": "\u00f0\u009f\u0098\u009e\u00f0\u009f\u0098\u009e\u00f0\u009f\u0098\u009e"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624808350858,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    }
+  ],
+  "title": "Sylvia Chiasson Bonaparte",
+  "is_still_participant": true,
+  "thread_path": "inbox/sylviachiassonbonaparte_10165483377600506",
+  "magic_words": [
+    
+  ]
+}

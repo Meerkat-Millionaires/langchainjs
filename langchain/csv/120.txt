@@ -1,0 +1,151 @@
+{
+  "participants": [
+    {
+      "name": "Paul Crawford"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614107521646,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0qXdtbtHQieVcpu2bCAeMCZ69oCJbBEmpXxB5N9eGBdr4VdB1Wa5PPzCx5CftU9Xhl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1521907621645,
+      "content": "thanks"
+    },
+    {
+      "sender_name": "Paul Crawford",
+      "timestamp_ms": 1521906671568,
+      "content": "Hey hun sorry I am hardly ever on this account, I will add you to my new one."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1521311559836,
+      "content": "Just called hospital and he is already in Truro."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1521310213498,
+      "content": "Paul, You may know, but Jare is in hospital again. He will probably be going to Truro on Monday and then to a long term facility in the Valley. One aspect of the fallout has been a visit to my by the Easy Home people. I am searching for information re a stereo, keyboard and mouse....I believe that the mouse is in the hospital, so I will retrieve that and replace it with a cheap one by tomorrow. If you have any idea about the stereo and keyboard, please let me know. Tiana has told me that you wouldn't mind going to the apartment and getting Jare's belongings....at this point there is only his personal items: clothes, wallet, etc. I have no idea what is there, but there are no home furnishings at all. If you could do this, I would would be most grateful, and they can be dropped off to me. If you can't/don't wish to do this....it's OK too.  What a mess."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1519652985626,
+      "content": "sorry/// ignore this, Mel called and it's all right"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1519650966554,
+      "content": "Bothering you again....do you know if Jare's OK? Hasn't answered messages since Friday."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487279832489,
+      "content": "S'OK...all's fine.  Sorry to bother you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487277759318,
+      "content": "Paul, have you heard from Jarett today?"
+    },
+    {
+      "sender_name": "Paul Crawford",
+      "timestamp_ms": 1428538953474,
+      "content": "I will thank you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1428538943799,
+      "content": "OK...any time I can help in a small way let me know. ...K?"
+    },
+    {
+      "sender_name": "Paul Crawford",
+      "timestamp_ms": 1428538917505,
+      "content": "thank you"
+    },
+    {
+      "sender_name": "Paul Crawford",
+      "timestamp_ms": 1428538913825,
+      "content": "Hey Lesley I am good, mom and dad got me a pair"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1428538880901,
+      "content": "hey guy...haven't a whole lot to spare, but would be very happy to contribute to a soleful cause.....(how much are we talking about?)....have any thing from 50 to 75 to contribute..."
+    },
+    {
+      "sender_name": "Paul Crawford",
+      "timestamp_ms": 1409341961217,
+      "content": "and please remind him he has friends, that want to see good in his life and will fight with him to achieve it."
+    },
+    {
+      "sender_name": "Paul Crawford",
+      "timestamp_ms": 1409341764529,
+      "content": "ok thats a good idea for him. Send him my thoughts and prayers, and remind him if he needs to talk or help with anything I am here for him."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1409327771301,
+      "content": "He took himself off facebook...living with me and getting it together. Will tell him you inquired....keep well and keep safe."
+    },
+    {
+      "sender_name": "Paul Crawford",
+      "timestamp_ms": 1409266474426,
+      "content": "hey Hate to bug ya, where did Jarret go? I haven't heard from him in a very long time."
+    },
+    {
+      "sender_name": "Paul Crawford",
+      "timestamp_ms": 1364306826594,
+      "content": "What time is good today?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1364299816020,
+      "content": "I am home today. "
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1364299775400,
+      "content": "Sorry..glitches with comp connections for a few days.....call instead? in case it happens again..7556759"
+    },
+    {
+      "sender_name": "Paul Crawford",
+      "timestamp_ms": 1364213910150,
+      "content": "Good morning lesley. Just wondering if it was ok to get those tires today"
+    },
+    {
+      "sender_name": "Paul Crawford",
+      "timestamp_ms": 1363971080695,
+      "content": "Hey lesley, i work until 7 tonight actually all weekend, are they ok there until wednesday?"
+    },
+    {
+      "sender_name": "Paul Crawford",
+      "timestamp_ms": 1363896746775,
+      "content": "If you wanted to get jarred to put them outside i will pick them up tomorrow evening after work. I will take your plate down then as well."
+    },
+    {
+      "sender_name": "Paul Crawford",
+      "timestamp_ms": 1363893660402,
+      "content": "On hun thank you for selling the car. Enjoy your rest"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1363885594873,
+      "content": "hi!! thanks for taking the car. Am back from Hfx (exhausted) and will sleep...let me know when you want the winter tires, K?"
+    }
+  ],
+  "title": "Paul Crawford",
+  "is_still_participant": true,
+  "thread_path": "inbox/paulcrawford_10158261462590344",
+  "magic_words": [
+    
+  ]
+}

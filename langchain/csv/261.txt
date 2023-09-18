@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "VON Pictou County"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "VON Pictou County",
+      "timestamp_ms": 1593779308259,
+      "content": "Hi Lesley, please contact our Pictou office directly by phone at 902-752-3184 or 1-866-540-2359 to learn more about our plans for resuming certain services. Unfortunately I'm unable to answer your question directly as this account is managed by VON Canada's Communications team. Thank you and take care!   -E"
+    },
+    {
+      "sender_name": "VON Pictou County",
+      "timestamp_ms": 1593607963213,
+      "content": "Thank you for your message! A VON representative will be in touch with you shortly."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1593607962701,
+      "content": "Is there a plan to restart Continuing Care/VON visits?"
+    }
+  ],
+  "title": "VON Pictou County",
+  "is_still_participant": true,
+  "thread_path": "inbox/vonpictoucounty_1557243874449233",
+  "magic_words": [
+    
+  ]
+}

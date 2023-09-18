@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Tonya Anne Marie"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419003728058,
+      "content": "i will check around and get back to you."
+    },
+    {
+      "sender_name": "Tonya Anne Marie",
+      "timestamp_ms": 1419003470380,
+      "content": "I live in Scotsburn.  I really just want her to learn laid back. If she chooses to persue it more aggressively later it will be up to her. Shes very shy. Ten years old. No peformance as of yet i would say."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419003100754,
+      "content": "Will get back to you tomorrow if you reply.....have a great day!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419003066343,
+      "content": "OK...need to know what you have in mind for the type of lessons...eg. RCM with or without exams, basic intro with no performance, very laid back or up to quite strict.....helps to know this so I can offer appropriate persons. Also what location would be closest."
+    },
+    {
+      "sender_name": "Tonya Anne Marie",
+      "timestamp_ms": 1419002661992,
+      "content": "Yes please. \u00f3\u00be\u008c\u00b0"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419002368691,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362164215247_428974420_n_126362160881914.png"
+      },
+      "ip": "24.137.111.148"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419002360906,
+      "content": "And Merry Christmas!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419002349338,
+      "content": "Hi....thanks for your interest, but I am retiring at the end of March, so it wouldn't be much good for you. Would you like some other teacher suggestions?"
+    },
+    {
+      "sender_name": "Tonya Anne Marie",
+      "timestamp_ms": 1418960098063,
+      "content": "Hi there, \nMy friend Mercy suggested you for piano lessons. I am wondering if you are still teaching and if I could get more details! :)"
+    }
+  ],
+  "title": "Tonya Anne Marie",
+  "is_still_participant": true,
+  "thread_path": "inbox/tonyaannemarie_10155776050116420",
+  "magic_words": [
+    
+  ]
+}

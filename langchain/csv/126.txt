@@ -1,0 +1,156 @@
+{
+  "participants": [
+    {
+      "name": "Cheryl Corbin"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cheryl Corbin",
+      "timestamp_ms": 1482080851716,
+      "content": "Hold your finger on it ,should say forward",
+      "gifs": [
+        {
+          "uri": "messages/inbox/cherylcorbin_949835145076574/gifs/12317264_10206154156027551_1830000414_n_1307219739338111.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Cheryl Corbin",
+      "timestamp_ms": 1459897453192,
+      "sticker": {
+        "uri": "messages/stickers_used/851583_233289166829514_557700822_n_233289163496181.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1459896756283,
+      "sticker": {
+        "uri": "messages/stickers_used/851554_575285909224120_1862309190_n_575284979224213.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1459896720871,
+      "content": "My laptop is possessed !!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1459896702550,
+      "gifs": [
+        {
+          "uri": "messages/inbox/cherylcorbin_949835145076574/gifs/11666903_1453201781642232_54131013_n_559666134207017.gif"
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1459896686225,
+      "content": "Whoops...damn..hit the wrong keY .....aaaarrggghh/."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1459896655101,
+      "gifs": [
+        {
+          "uri": "messages/inbox/cherylcorbin_949835145076574/gifs/12447187_10209217666263034_984550855_n_559666034207027.gif"
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1459896595027,
+      "content": "I realize this, Cheryl....and you know that I have one of the greatest sense of humor ever..... I know that you did NOT mean any disrespect, because I know you are a wonderful woman....I appreciate your response. My mother was Bi-Polar (my childhood was horrific due to her non-diagnosis), I have battled with Bi-Polar and one of my sons' Illnesses is partly Bi-Polar.....and we have developed a \"black humor\" to deal with it. Enough said.  I understand the musical was \"Fabulous\"......With you in it, it couldn't be anything else. !!!!!."
+    },
+    {
+      "sender_name": "Cheryl Corbin",
+      "timestamp_ms": 1459881958831,
+      "content": "Wow Lesley, I actually thought it was cute about mother nature and never looked at it any further than that at all. I deleted it as it may offend someone else too. I know a great deal about bi-polar and many illnesses as I work with children and deal with mental illness as well regularly. I really did not look at the words to go any further than the cuteness of it!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1459880825456,
+      "content": "Cheryl, love your posts and being able to keep up with you and your family....Am finding it hard, however, to not reply publicly that Bi-Polar is a terrible illness and affects all friends, family in demanding ways. Cute joke, wrong message."
+    },
+    {
+      "sender_name": "Cheryl Corbin",
+      "timestamp_ms": 1439210391351,
+      "content": "Adorable!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1439208583964,
+      "sticker": {
+        "uri": "messages/stickers_used/851553_575285995890778_225688196_n_575284785890899.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1439208560744,
+      "content": "Oooooo...what a good time was had by all!!!  Thanks for sharing."
+    },
+    {
+      "sender_name": "Cheryl Corbin",
+      "timestamp_ms": 1439135788371,
+      "content": "Look what I found when cleaning today!"
+    },
+    {
+      "sender_name": "Cheryl Corbin",
+      "timestamp_ms": 1439135769363,
+      "photos": [
+        {
+          "uri": "messages/inbox/cherylcorbin_949835145076574/photos/356807958_6475249709201729_2790331741815025077_n_949440895115999.jpg",
+          "creation_timestamp": 1439135768
+        }
+      ]
+    },
+    {
+      "sender_name": "Cheryl Corbin",
+      "timestamp_ms": 1392235147619,
+      "content": "I figured it was serious enough for you to make this decision! Keep in touch! Xoxo"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1392217466618,
+      "content": "Knock their socks off!!!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1392217457861,
+      "content": "I seem to have been doomed not to participate this year....some unexpected medical stuff plus other things....was hard to make the decision..I was SO looking forward to 'playing' around with you, too!! Thank you from my heart for your message."
+    },
+    {
+      "sender_name": "Cheryl Corbin",
+      "timestamp_ms": 1392169811052,
+      "content": "A huge loss to the show Lesley! Seriously."
+    },
+    {
+      "sender_name": "Cheryl Corbin",
+      "timestamp_ms": 1392169770360,
+      "content": "Um, I wanted to contact you my friend. I heard very disappointing news today from Nancy Jay ( I teach with her at school) that you are no longer in the musical. I am very sad to hear this. :( I will miss playing beside you, you know I will!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1370003806402,
+      "content": "Oh my g.  Cheryl, I meant to let you know.....They're all in!!!!!  Most are very happy to be here and hold no grudges against you for being ripped out and moved  \n\nCan't thank you enough....still looking for more here and there (going to Stewart Munro's this weekend to dig some up with his OK although  he still is away).  Hoping to drop in and see Linda Munro as well....hard times for her.  Plus two other places to pick up more green thingies...looks like a garden weekend.\nHope all is well with you and yours.\nAgain, many THANKS!!!!!  (drop in any time)."
+    },
+    {
+      "sender_name": "Cheryl Corbin",
+      "timestamp_ms": 1369946336811,
+      "content": "How are the perrenials doing? Are they happy in their new land???? :)"
+    }
+  ],
+  "title": "Cheryl Corbin",
+  "is_still_participant": true,
+  "thread_path": "inbox/cherylcorbin_949835145076574",
+  "magic_words": [
+    
+  ]
+}

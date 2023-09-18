@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "New Glasgow Farmers Market"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "New Glasgow Farmers Market",
+      "timestamp_ms": 1634846570262,
+      "content": "Hi  Lesley,  \n\nThanks for your message, we'll get back to you shortly! \n\nWhile you're waiting, you can find a ton of info on our vendors, shop online and apply to be a vendor and you can also find a map of vendors for upcoming markets on our website at ngfarmmarket.com. \nWe're open Saturdays from 9am until 1pm.\n\nYou can also shop with us online! Find out more and sign up at ngfarmmarket.com/ngfmxpress\n\nThank you for supporting local!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1634846569768,
+      "content": "driftwood sculptures"
+    },
+    {
+      "sender_name": "New Glasgow Farmers Market",
+      "timestamp_ms": 1634846552298,
+      "content": "Hi Lesley , \n\nGreat question! You can see all of our vendors and their contact information on our website. \n\nGo to ngfarmmarket.com >2021 Vendors. From there you can search by name or alphabetically!\n\nPretty nifty, huh?!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1634846549996,
+      "content": "How do I find a specific vendor?"
+    }
+  ],
+  "title": "New Glasgow Farmers Market",
+  "is_still_participant": true,
+  "thread_path": "inbox/newglasgowfarmersmarket_1939963382843945",
+  "magic_words": [
+    
+  ]
+}

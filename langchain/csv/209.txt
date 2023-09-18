@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Carol Ann Burden"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Carol Ann Burden",
+      "timestamp_ms": 1639631399632,
+      "content": "You still there?!!"
+    },
+    {
+      "sender_name": "Carol Ann Burden",
+      "timestamp_ms": 1489260573538,
+      "content": "I live in Port Williams!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489258141887,
+      "content": "Carol Ann:  this got incredibly lost....just found it!!  Yup, that's me. Where do you live now? I am in New Glasgow, NS."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489258065334,
+      "content": "You can now message and call each other and see info like Active Status and when you've read messages."
+    },
+    {
+      "sender_name": "Carol Ann Burden",
+      "timestamp_ms": 1472342298752,
+      "content": "Are you Lesley Dunn daughter of Reg and Theo, sister of Peter and Rex?  If so then you and I used to really have a blast at Junior Choir at First Baptist in Montreal. In those days I was Carol Ann Pope and we know several people in common in Nova Scotia!"
+    }
+  ],
+  "title": "Carol Ann Burden",
+  "is_still_participant": true,
+  "thread_path": "inbox/carolannburden_10210991994262427",
+  "magic_words": [
+    
+  ]
+}

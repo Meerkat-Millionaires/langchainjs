@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Dorte M Mac Master"
+    },
+    {
+      "name": "Ay\u00c5\u009fe Y\u00c3\u00bczer"
+    },
+    {
+      "name": "Anne Gratton"
+    },
+    {
+      "name": "Peter Dunn"
+    },
+    {
+      "name": "Donna Cyr"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dorte M Mac Master",
+      "timestamp_ms": 1435923851595,
+      "content": "What a great picture Lesley. I love it."
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1435351261730,
+      "content": "A contact left the group."
+    }
+  ],
+  "title": "Dorte, Ay\u00c5\u009fe, Anne and 2 others",
+  "is_still_participant": true,
+  "thread_path": "inbox/dorteayseanneand2others_852765674807758",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Myrna LeBlanc"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1361802454344,
+      "content": "Glad to hear from you!!!  Yes, all is well here and still loving my new home and all the space inside.\nWorking on picking up some new students...slow, but sure. Nice to have a music room and I also have David Henderson's old piano which always brings back so many memories. The keys keep popping off due to all the moves it's made!!!!\nI do miss Anna as well....one of my brightest spots every week.\nWish her all the best for me in the musical and with school/guitar. You must be looking forward to Pictou Island!!!!!!\nKeep well and safe.  Always up for a visit here (59 Mackay St).!!   755-6759."
+    },
+    {
+      "sender_name": "Myrna LeBlanc",
+      "timestamp_ms": 1361735564522,
+      "content": "Hi Lesley, Anna and were talking about you just the other day.  We were wondering how you were? Anna is still taking guitar lessons from Spyder MacDonald. She is also busy with the play. She has a small role and singing part. She is very excited. Hope everything is great with you.\r\n\r\nTake care, \r\nMyrna\r\nP.S. Anna misses you and her music lessons."
+    }
+  ],
+  "title": "Myrna LeBlanc",
+  "is_still_participant": true,
+  "thread_path": "inbox/myrnaleblanc_10153814476749234",
+  "magic_words": [
+    
+  ]
+}

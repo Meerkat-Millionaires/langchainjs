@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1372784290951,
+      "content": "Hello i noticed your profile and you sparked an interest to me. If you have a chance, look at my profile and let me know if you would like to continue communicating. I am here online to look for my true love,a woman that has a big heart,ready for a serious and honest long term relationship,a woman that believes in a one man,one woman kind of relationship,a woman that has true moral,cultural and family values. i would be so glad to hear from you.\nRobert"
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/facebookuser_855348814591984",
+  "magic_words": [
+    
+  ]
+}

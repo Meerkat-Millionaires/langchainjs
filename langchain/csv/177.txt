@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1504085635212,
+      "content": "Please tell all the contacts in your messenger list not to accept anything from Fabrizio Brambilla. He has a foto with a dog. He is a hacker and has the system connected to your messanger account. If one of your contacts accepts it, you will also be hacked, so make sure that all your friends know it. Thanks. Forwarded as received.\nHold your finger down on the message. At the bottom in the middle it will say forward. Hit that then click on the names of those in your list and it will send to them"
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "inbox/facebookuser_10155456295462279",
+  "magic_words": [
+    
+  ]
+}

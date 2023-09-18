@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Rebecca Mckay"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rebecca Mckay",
+      "timestamp_ms": 1372684377578,
+      "content": "Hello."
+    },
+    {
+      "sender_name": "Rebecca Mckay",
+      "timestamp_ms": 1371405348436,
+      "content": "Hello"
+    },
+    {
+      "sender_name": "Rebecca Mckay",
+      "timestamp_ms": 1368387056160,
+      "content": "I was just woundering because you said send me anoher picture, and betty is holding the recital in pictou"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1368384092153,
+      "content": "What recital?  And I'm truly unsure about what pictures. "
+    },
+    {
+      "sender_name": "Rebecca Mckay",
+      "timestamp_ms": 1368384026813,
+      "content": "What pictures are you talking about and are you going to the recital in pictou June 6th I believe at 6:30pm"
+    },
+    {
+      "sender_name": "Rebecca Mckay",
+      "timestamp_ms": 1367971825359,
+      "content": "What picture?"
+    },
+    {
+      "sender_name": "Rebecca Mckay",
+      "timestamp_ms": 1367883333608,
+      "content": "Yeah! What picture?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1367883294926,
+      "content": "HELLO TO YOU TOO!!!!!! HI!  HI!  HI!!  Need to refresh some stuff ...send ,me another picture!!!  (Crap, I am getting old), but still full of otherwordly experiences."
+    },
+    {
+      "sender_name": "Rebecca Mckay",
+      "timestamp_ms": 1367882631905,
+      "content": "Hello"
+    },
+    {
+      "sender_name": "Rebecca Mckay",
+      "timestamp_ms": 1361222800500,
+      "content": "Hi Lesley!\n  \n                  I just wanted to tell you how I'm doing in piano, I'm learning how to play Fur Lease!"
+    },
+    {
+      "sender_name": "Rebecca Mckay",
+      "timestamp_ms": 1361192133468,
+      "content": "Hi Lesley!"
+    }
+  ],
+  "title": "Rebecca Mckay",
+  "is_still_participant": true,
+  "thread_path": "inbox/rebeccamckay_741156439345924",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "participants": [
+    {
+      "name": ""
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489093032253,
+      "content": "You shared a page.",
+      "share": {
+        "link": "https://facebook.com/nlequestrianboutique"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1468801106232,
+      "content": "Oh my...she is so sweet!"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1461080563023,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1461078083213,
+      "gifs": [
+        {
+          "uri": "messages/inbox/10153618034201858/gifs/11736838_865605896827821_1930227336_n_565638346943129.gif"
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1461077994702,
+      "content": "This is a strange house for hearing (not hearing !!) stuff....Sorry to have missed you...I check my emails/facebook in AMs so just leave a message and I'll get back to you. COFFEE, YES."
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1461027246907,
+      "content": "Thanks for the beautiful message Lesley!  Yes, I have found Mom's passing very hard.  For 2 weeks their was actually no music in my heart.  That is really weird for me (someone who wakes up every morning singing)  Singing is definitely back in my world now, and it helps.  Think of you a lot, and all our fun times.  Sang at the church on Sunday evening.  I did Myrna's song \"Between Jesus and Me\".  You and I worked on it quite a bit.  I can hear your voice in my head all the time.  (Do not breathe when their is only one word left...you know you don't have to...you just think you do)    I was up to your house with a coffee for you the other day.    Glad to hear Reggie is doing so great.   Nothing better than children!!!   I'll give you a call, and maybe we can have coffee!   Take care my Friend......."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460752138250,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_575284915890886_1746469047_n_575284912557553.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460751934113,
+      "content": "Hello !!! from 59 MacKay St.  Got your message on the phone...all is well even though life throws us challenges all the time, right? I know you are still reeling from your mom's passing...my heart goes out to you and yours. And I know that music will ease your pain and your soul. You are a terrific person. I also hope that the house is working out. We continue to \"go on going on\" here. It is wonderful to spend so much time with Reggie; a vibrant, smart as a whip, determined, physically and intellectually  advanced (even though I do say so myself and obviously am biased), funny and stubborn (where did that come from?)...lol.... I have come to finally accept the COPD prognosis and life-style needed to retard its progression as much as possible...have had to leave lots of activities that I have tremendously enjoyed over the years which caused some months of depression...gone now. Jarett and his girlfriend are currently living here after Jarett took a dive a few months ago...they are dealing well with sharing accomodations and diligently seeking new employment so that they can again live on their own. They brought 2 cats with them (thankfully, HA, found homes for 2 others), I also found a home for a sweet puppy that Tiana rescued a number of months back and that I cared for just cause; that's the way it is....still dog-sitting the Big Dog Mon to Fri (a truly lovely girl)..so this is just the tip of the iceberg...I am busy and feeling much better about things than before. On the verge of beginning to paint again and writing quite often....let me know what's up...perhaps you could drop in for coffee sometime...now, that would be fun."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1445697408636,
+      "content": "I often think about you as well...miss our times together and sincerely  hope all is going well.for you and yours..how's the house business going? We are fine, but very busy with life in general what with Reggie, a new puppy, family and other stuff. Sometimes long for peace and quiet so grab the few moments I can. Keep in touch and keep well."
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1445618941740,
+      "content": "Hi lesley...just thinking about you..\nAs I often do..hope all is well with you!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427925669337,
+      "content": "My dear,  obviously you will not be here tomorrow.....I am hoping that you are taking care of yourself and that this time will pass.....you deserve some \"down\" time.....my thoughts are with you. I have finished teaching full time and not having any lessons until April 13...will be in touch. Take care, keep well."
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1425522649129,
+      "content": "Thanks Lesley...you sure put a smile on my face!  I love our lessons and I do hate to miss them, but I have to put Elmer \"front & center\"  right now.  We may not have him much longer...the Doctor says it could be a couple weeks or maybe if we are lucky 3 or 4 months.   The tumor in his bowel is growing fast and he is on pain meds every hour or two.  A lot of gas and belly pain.   The biggest problem is his bowel blocking, which is what has been happening.   He now has 4 tumors in his liver...But they are not the problem.  I had him out for the day and he had a wonderful day.  I want to take him again tomorrow.   Take care  ... Lynda"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1425517324854,
+      "content": "Secondly....no problem if you can't make it tomorrow....I always miss your visits, but you have so many irons in the fire that making a music lesson is at the bottom of the priority list...and I completely understand....let's just keep on trying, OK? No lessons on March Break. Hope to see you  next week...take care of yourself (without you, if you encountered  ill health, the people who depend on you would be lost...)...so rest when you can and take good care of yourself."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1425517013226,
+      "content": "My dear.....first (although I'm not sure you can do so, given your responsibilities.)...have a Happy Birthday...!!!.."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1425517007930,
+      "sticker": {
+        "uri": "messages/stickers_used/48607585_1186553428160539_3322214640053649408_n_213419212140637.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1425516924396,
+      "content": "Hi Lesley...can't believe that I have to email you again!   I have been very busy this last while...I have to go up to the Hospital tomorrow to be with Papa Elmer.  His Doctor wants me to take him home for the day to see if he can handle it ok.     I'm sorry......Take care......"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1425516783217,
+      "content": "Hi Lesley....can"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1423152892534,
+      "content": "OK...never mind...got you on the phone....again sorry about such late notice."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1423152574118,
+      "content": "are you there?"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1398647226713,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398635546648,
+      "content": "Sorry about your friend and family."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398635525314,
+      "content": "Will see you whenever you can make it."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398635492786,
+      "content": "\"Reggie\" is a way of honoring her (Tiana's) grandfather (my dad) whose name was Reginald."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398635363164,
+      "content": "Her final name is: Reggie Isabella Fusco ......And I am so sorry not to see you this week (although I DO understand) ..would like an \"aren't we awesome women\" hug, but that can wait until the next week for sure..hang in there, will miss you."
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1398627604075,
+      "content": "Baby Isabell?   Hope they are doing well....  I won't be able to make it Thursday.  My friend's husband is being buried at 2 on Thursday.   This is three in a row!!!  Take care"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1398627514802,
+      "content": "Hi Lesley...How is Mama &"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390490715313,
+      "content": "Will let you know or you let me know."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390490683700,
+      "content": "No parking places yet."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390490660295,
+      "content": "If you wish to cancel, s'all right. My oh my."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390490641403,
+      "content": "We are not plowed out yet....don't know when. Great (NOT) fun uncovering car and getting it unstuck this AM for Tiana."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1386252808895,
+      "content": "La, La, La !!"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1386252797207,
+      "content": "sounds great ...will see you this aft!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1386252771834,
+      "content": "We've got three and then none until Jan 9th, I believe.  Happy December!!!  See you this aft?"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1386252693882,
+      "content": "Hey Lesley,  How many Thursday do we have together  before  xmas?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1372855358166,
+      "content": "excellent!!"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1372854679738,
+      "content": "Thx Lesley...should we perhaps say 3:40 or 3:45...That would work perfect for me!\r\nTake care \r\nLynda"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1372853310460,
+      "content": "Yes, it's 3:30 today.....maybe a few minutes later in order to let the other boy leave? Looking forward to giving this a whirl."
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1372850811527,
+      "content": "Hi Lesley,\r\nJust making sure on our time...it is 3:30 today...right?\r\nTake care \r\nLynda"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1365769795620,
+      "content": "Nice to see your post on facebook!   I am home from Halifax.  Hated to miss our time but was needed elsewhere!  Debbie got along good.  I will take her back next Monday & Tuesday.   Have a wonderful week end and will see you on Thursday!\r\nLynda"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1365512045145,
+      "content": "Got the message.....have a safe trip!!"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1365471777262,
+      "content": "Hi Lesley...I won't be able  to come on Thursday.   I am taking  my sister-in-law to Halifax for her radiation treatments  every day this week.   Hope you get this msg.   Let me know.   Take care Lynda"
+    }
+  ],
+  "title": "",
+  "is_still_participant": true,
+  "thread_path": "inbox/10153618034201858",
+  "magic_words": [
+    
+  ]
+}

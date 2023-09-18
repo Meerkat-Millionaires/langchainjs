@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Karla MacFarlane"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624808168518,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Karla MacFarlane",
+      "timestamp_ms": 1437669893480,
+      "content": "I am one of the organizers for the protest.  I have written many letters o ER my two years regarding mental illness and most recently had a column in the advocate before this unacceptable announcement - believe me I am fighting hard to keep it open!  I hope you read my column as I posted it on my FB page.   Keep the faith as we move forward to ensure this service continues.   Perhaps, I will see you on Monday if you stop by.   Hope you are well.  Hugs!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1437669189795,
+      "content": "Jarett (my son) and a lot of others have used this facility innumerable times....it has been a life-saver on so many occasions...not a lot of people talk about this due to the continuing stigma of mental illness (elephant in the living room). Please read his letter to the editor in today's paper....show of support on Mon July 27th outside the Aberdeen: 11:00 to 1:00. Thanks."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1437668963574,
+      "content": "Please support this position.",
+      "share": {
+        "link": "http://thechronicleherald.ca/letters/1300788-reader%E2%80%99s-corner-mental-health-unit-closure-orphans-patients",
+        "share_text": "I can\u00e2\u0080\u0099t believe a place as necessary for the health of our hearts, minds, families and community is shutting its doors. I am speaking of the third floor (or short-stay mental health unit) of the Aberdeen hospital in New Glasgow."
+      },
+      "ip": "24.89.222.200"
+    }
+  ],
+  "title": "Karla MacFarlane",
+  "is_still_participant": true,
+  "thread_path": "inbox/karlamacfarlane_457740981066200",
+  "magic_words": [
+    
+  ]
+}

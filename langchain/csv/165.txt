@@ -1,0 +1,272 @@
+{
+  "participants": [
+    {
+      "name": "Damion Fusco"
+    },
+    {
+      "name": "Lesley Dunn"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567275244709,
+      "content": "25***"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567275175671,
+      "content": "I'm going to send a friend 20$ for gas to drive me a laptop from the city tonight"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567275152589,
+      "content": "Noma I did the math I had 498 in and 74 in refund from Newegg, then took 240 and 280 out. Should be 50$ of my money left in there"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567272411794,
+      "content": "HN editors changed the title lol to be less suggestive"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567272383189,
+      "content": "https://hackernoon.com/mintmecom-replacing-patreon-with-crypto-revolutionary-monetization-methods-for-content-creators-ifgg344m8",
+      "share": {
+        "link": "https://hackernoon.com/mintmecom-replacing-patreon-with-crypto-revolutionary-monetization-methods-for-content-creators-ifgg344m8",
+        "share_text": "Folks,"
+      }
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567272213973,
+      "content": "I got this job writing a top ranking article on hackernoon"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567272183640,
+      "content": "https://talent.hubstaff.com/jobs/marketing-manager-e7658e",
+      "share": {
+        "link": "https://talent.hubstaff.com/jobs/marketing-manager-e7658e",
+        "share_text": "Apply for remote Marketing Managerjob. Position requires SEM (Search Engine Marketing), Marketing, Market Research. Company HQ in Belize City, Belize, Belize"
+      }
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567272000366,
+      "content": "And I didn't think the 240 to my friend was unwise I've sent him thousands in money and tech over the years. He's probably just busy minding his health."
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567271865670,
+      "content": "But I can't start mon or put it off again without a machineb"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567271846043,
+      "content": "Well it's a matter of chicken and egg. I have a new position I already put off starting until I got a computer then they shipped me a defective one  ..job pays 250$ USD a week part-time it's perfect"
+    },
+    {
+      "sender_name": "Damion Fusco",
+      "timestamp_ms": 1567271770313,
+      "content": "Dude. Wait and use your money wisely."
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567269634022,
+      "content": "If he has it do you mind driving around a minute with me. And I love u"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567269613647,
+      "content": "@Damion Fusco I may have found a 2nd potential computer. Much closer, stellarton. Geek friend describes it as 'old ass gateway'"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567267401776,
+      "content": "Kk darn"
+    },
+    {
+      "sender_name": "Damion Fusco",
+      "timestamp_ms": 1567267135458,
+      "content": "Gonna grab the bus."
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567264390329,
+      "content": "They owe me a favor lol"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567264377462,
+      "content": "She can meet me Timmy's at airport"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567264343160,
+      "content": "@Damion Fusco how ya getting there Monday"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567264334474,
+      "content": "Anyayas issue is it's in the city"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567264325216,
+      "content": "Plays wow tho"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567264321992,
+      "content": "So my friend will give me his computer if i square up when refund comes in.. he's no techy cost him 400 two years ago Acer from staples."
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567261912164,
+      "content": "Thank u for looking Damion what a useless person I am losing a laptop that could have solved all me problemw"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567261881839,
+      "content": "Food was nommy"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567260292827,
+      "content": "Going to food"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567259729176
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567259726260,
+      "content": "Soon will has refund"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567259705497,
+      "content": "Staples has 11 inch Chromebook on hand 220$. 14 inch 350"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567259676682,
+      "content": "Can we go grab a wee little Chromebook at Staples. I have a Google cloud vps from work I can do all my work and civ 5 on so all I need is the cheapest computer"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567259474948,
+      "content": "Eff me sideways"
+    },
+    {
+      "sender_name": "Damion Fusco",
+      "timestamp_ms": 1567259459872,
+      "content": "Gone through garbage and nothing there"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567259213024,
+      "content": "Any luck Mr @Damion we're going out for food soon"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567257055414,
+      "content": "Brb shower"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567256986203,
+      "content": "It's a little 11 or 13 inch Chromebook with a dumb decal"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567256929133,
+      "content": "I just know it's not here and it might be a lost cause anyways"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567256899305,
+      "content": "Or in ts car"
+    },
+    {
+      "sender_name": "Damion Fusco",
+      "timestamp_ms": 1567256893892,
+      "content": "Basement?"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567256881433,
+      "content": "Don't know if I got my bags switched up in my mind and it's in one of the trash bags"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567256854997,
+      "content": "Somewhere downstairs in a black bag I think"
+    },
+    {
+      "sender_name": "Damion Fusco",
+      "timestamp_ms": 1567256804061,
+      "content": "I'll look. Left where?"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567256180719,
+      "content": "Called mom a minute ago @Damion Fusco and she's unsure if I left a bag"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567255202015,
+      "content": "Anyways please help lol."
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567255182495,
+      "content": "Who knows maybe Paul will write back he does weird things sometimes maybe he didn't get the phone he promised me and he's embarrassed trying to find another one I don't know"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567255141994,
+      "content": "Otherwise staples has cheap laptops so I was wondering if I could buy one of the cheapest and pay you back by end of week when I get money? Of course I can wait til then but I have an awful issue not being productive"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567255073924,
+      "content": "Guys.. did I leave a little computer there's in a bag? The last one I got from Paul. Damion it has a broken charger all wrapped up in electrical tape, can you fix that?"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567255014254,
+      "content": "My laptop was sent back to Newegg shipping says they should have it by Weds. they're actually super fast at issuing interac email rebates because I got my other one within 24 48 hrs"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567254957971,
+      "content": "I'm warm and safe but sent 240 to Paul for 2 computers a phone and accessories and haven't heard back. If you believe his stories he's entrenched in getting a pacemaker. Tried messaging his family no luck"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567254899460,
+      "content": "Hey everyone"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567254890995,
+      "content": "A contact created the group."
+    }
+  ],
+  "title": "Damion and ",
+  "is_still_participant": true,
+  "thread_path": "inbox/damionand_2371050486313180",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

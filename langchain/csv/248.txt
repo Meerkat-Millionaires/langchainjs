@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Kathy Harpell Royal LePage Atlantic"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1542640744497,
+      "content": "No thanks...was just curious...good luck."
+    },
+    {
+      "sender_name": "Kathy Harpell Royal LePage Atlantic",
+      "timestamp_ms": 1542639512060,
+      "content": "Kathy Harpell Royal LePage Atlantic: 221 Ash St, Hilden NS"
+    },
+    {
+      "sender_name": "Kathy Harpell Royal LePage Atlantic",
+      "timestamp_ms": 1542639511723,
+      "content": "Hi Lesley! Thx for checking out my new listing! Can I send you more info and pictures?"
+    },
+    {
+      "sender_name": "Kathy Harpell Royal LePage Atlantic",
+      "timestamp_ms": 1542639511595,
+      "content": "You opened this conversation through an ad. When you reply, Kathy Harpell Royal LePage Atlantic will see your public info and which ad you clicked."
+    }
+  ],
+  "title": "Kathy Harpell Royal LePage Atlantic",
+  "is_still_participant": true,
+  "thread_path": "inbox/kathyharpellroyallepageatlantic_1088295738010718",
+  "magic_words": [
+    
+  ]
+}

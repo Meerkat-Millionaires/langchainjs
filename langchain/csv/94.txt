@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Kathy Gunn"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1418946666121,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126361970881933_2050936102_n_126361967548600.png"
+      },
+      "ip": "24.137.111.148"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1418946639975,
+      "content": "and"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1418946632697,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126361924215271_792446242_n_126361920881938.png"
+      },
+      "ip": "24.137.111.148"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1418946593528,
+      "content": "Kathy: I hope I have the right person now, having screwed up earlier this evening...I will retire from teaching full time at the end of March '15....a heart-rending decision, but necessitated by current and on-going responsibilities...If Molly wishes to do the RCM exam for Theory (in May, I believe), I am more than willing to enable this....not sure if she can complete the 2nd level in that time period, but perhaps the 1st?...or with a major drive-on, the 2nd. I have had a hard time making this decision...worked on it from last year. Has to be. Wishing all of you the very, very best this season and always."
+    }
+  ],
+  "title": "Kathy Gunn",
+  "is_still_participant": true,
+  "thread_path": "inbox/kathygunn_1529874273722358",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Dorte M Mac Master"
+    },
+    {
+      "name": "Anne Gratton"
+    },
+    {
+      "name": "Donna Cyr"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1425224217035,
+      "content": "yum, yum",
+      "ip": "24.137.111.148"
+    }
+  ],
+  "title": "Dorte, Anne and Donna",
+  "is_still_participant": true,
+  "thread_path": "inbox/dorteanneanddonna_867280666710291",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

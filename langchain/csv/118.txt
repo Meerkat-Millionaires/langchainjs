@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Agnes Chisholm"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1641756066981,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid02mJtwhifQeVzkZHnjitGeq4eqVo6xbs9kFfPP5VvsqaZUjHcRJESPN8ycxGXRFgtXl&id=593472751117593"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1641755357161,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid02mJtwhifQeVzkZHnjitGeq4eqVo6xbs9kFfPP5VvsqaZUjHcRJESPN8ycxGXRFgtXl&id=593472751117593"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624808110005,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Agnes Chisholm",
+      "timestamp_ms": 1499260910583,
+      "content": "Please tell all the contacts in your Messenger list, not to accept Anwar Jitou's friendship request. He is a hacker and has the system connected to your Facebook account. If one of your contacts accepts it, you will also be hacked, so make sure that all your friends know it. Thanks. Forwarded as received."
+    },
+    {
+      "sender_name": "Agnes Chisholm",
+      "timestamp_ms": 1493752040716,
+      "content": "Hi lady  can you put a \u00e2\u009d\u00a4 on your FB wall, without comment, only a heart, then send this message to your chick contacts. This is for women to remember its the week of breast cancer prevention! \u00e2\u009d\u00a4 Check your boobies!!\u00f0\u009f\u0092\u0097\u00f0\u009f\u0092\u0097\u00f0\u009f\u0092\u0097\u00f0\u009f\u0092\u0097\nHold your finger down on the message and hit forward."
+    },
+    {
+      "sender_name": "Agnes Chisholm",
+      "timestamp_ms": 1486938630385,
+      "content": "Heads-up!! Almost every account is being cloned. Your picture and your name are used to create a new face book account (they don't need your password to do this this). They want your friends to add them to their Facebook account. Your friends will think that it's you and accept your request. From that point on they can write what they want under your name. I have NO plans to open a new account. Please DO NOT accept a 2nd friend request from \"me\". please forward to all your contacts"
+    },
+    {
+      "sender_name": "Agnes Chisholm",
+      "timestamp_ms": 1483279683193,
+      "photos": [
+        {
+          "uri": "https://interncache-ncg.fbcdn.net/v/t34.18173-12/15782701_10211580112437463_1340153107_n.gif?stp=dst-gif&ccb=1-7&_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-ncg&oh=00_AfAnCV5T9zaFDGcm6Qm-nw84hx7rDWyAVv1CqE1ZuVMoYg&oe=64AE86E6",
+          "creation_timestamp": 1483279683
+        }
+      ]
+    },
+    {
+      "sender_name": "Agnes Chisholm",
+      "timestamp_ms": 1482408994755,
+      "content": "Tell all contacts from your list not to accept a video called the \"Dance of the Pope\". It is a virus that formats your mobile. Beware it is very dangerous. They announced it today on the radio. Fwd this msg  to as many as you can!"
+    },
+    {
+      "sender_name": "Agnes Chisholm",
+      "timestamp_ms": 1477787659742,
+      "content": "Hi beautiful ladies so here it is the time of year again when we try to raise awareness of breast cancer through a game. Its very easy and i would like all of you to participate. Last year we had to write the colour of our bra's on our status. Men wondered for days what was going on with random colours on status's. This year we make reference to our love life status as a flavour. Do not answer to this message just post corresponding word on your status and send this message privately to all the girls on your friends list. Blueberry is single, pineapple is its complicated, raspberry is I dont want to commit, apple is engaged, cherry is in a relationship, banana is married, avacado is I'm the better half, strawberry is can't find mr right, lemon is I want to be single and raisin is I want to get married to my partner. Last time the bra game was mentioned on t.v let's see if we can get there with this one. Please re-bc this to all your girly friends then update your status with your answer ONLY! DONT TELL ANY GUYS! Done! Check my status\u00f0\u009f\u0098\u009c"
+    }
+  ],
+  "title": "Agnes Chisholm",
+  "is_still_participant": true,
+  "thread_path": "inbox/agneschisholm_10154494397846278",
+  "magic_words": [
+    
+  ]
+}

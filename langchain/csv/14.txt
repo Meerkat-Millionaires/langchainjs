@@ -1,0 +1,248 @@
+{
+  "participants": [
+    {
+      "name": "Betty Hardy"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Betty Hardy",
+      "timestamp_ms": 1619474694093,
+      "content": "Betty sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/brad.aldridge.18/posts/pfbid0ihroKR8AJjNQFP3av4pyH44HM4dwFvVBfoBahdq2Hm2rQCrchevWFxemFiLfQhyJl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1617720945043,
+      "sticker": {
+        "uri": "messages/stickers_used/851559_577510682334976_854118530_n_577501519002559.png"
+      }
+    },
+    {
+      "sender_name": "Betty Hardy",
+      "timestamp_ms": 1617716218091,
+      "content": "Betty sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/jerseydemic/posts/pfbid0RRJyAvf5sbuc3rqNarCAeUZHsfYiRbb1bkyRE8bt89W4qPnRLSXTPrce646SY2X9l"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614107376973,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0qXdtbtHQieVcpu2bCAeMCZ69oCJbBEmpXxB5N9eGBdr4VdB1Wa5PPzCx5CftU9Xhl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Betty Hardy",
+      "timestamp_ms": 1608755415824,
+      "content": "Yes Lesley, so true, I knew you would enjoy \u00f0\u009f\u008e\u00b6"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1608754823179,
+      "content": "Awesome and unbelievable!!!"
+    },
+    {
+      "sender_name": "Betty Hardy",
+      "timestamp_ms": 1608741696688,
+      "content": "Betty sent an attachment."
+    },
+    {
+      "sender_name": "Betty Hardy",
+      "timestamp_ms": 1607007189024,
+      "content": "Thank you Lesley"
+    },
+    {
+      "sender_name": "Betty Hardy",
+      "timestamp_ms": 1607007178064,
+      "content": "Hope that I'm the First Person to put a CHRISTmas Tree on Your phone. \n\nIf luck is a raindrop, i'd send You a shower.\n\nIf hope is a minute, i'd send You an hour.\n\nIf happiness is a leaf, i'd give You a tree.\n\nAnd if YOU need a FRIEND, You will ALWAYS have ME.\n\nSend this to all the people You care about.\n\nEven me.\n\nIf You get 3 back, You're a True Friend!",
+      "videos": [
+        {
+          "uri": "messages/inbox/bettyhardy_1005513986146223/videos/12349769_1530333383958687_595733009_n_395427495043646",
+          "creation_timestamp": 1607007177
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607007117436,
+      "content": "Hope that I'm the First Person to put a CHRISTmas Tree on Your phone. \n\nIf luck is a raindrop, i'd send You a shower.\n\nIf hope is a minute, i'd send You an hour.\n\nIf happiness is a leaf, i'd give You a tree.\n\nAnd if YOU need a FRIEND, You will ALWAYS have ME.\n\nSend this to all the people You care about.\n\nEven me.\n\nIf You get 3 back, You're a True Friend!",
+      "videos": [
+        {
+          "uri": "messages/inbox/bettyhardy_1005513986146223/videos/12349769_1530333383958687_595733009_n_416261693078083",
+          "creation_timestamp": 1607007117
+        }
+      ]
+    },
+    {
+      "sender_name": "Betty Hardy",
+      "timestamp_ms": 1606597559718,
+      "content": "Hope that I'm the First Person to put a CHRISTmas Tree on Your phone. \n\nIf luck is a raindrop, i'd send You a shower.\n\nIf hope is a minute, i'd send You an hour.\n\nIf happiness is a leaf, i'd give You a tree.\n\nAnd if YOU need a FRIEND, You will ALWAYS have ME.\n\nSend this to all the people You care about.\n\nEven me.\n\nIf You get 3 back, You're a True Friend!",
+      "videos": [
+        {
+          "uri": "messages/inbox/bettyhardy_1005513986146223/videos/12349769_1530333383958687_595733009_n_400442217977289",
+          "creation_timestamp": 1606597559
+        }
+      ]
+    },
+    {
+      "sender_name": "Betty Hardy",
+      "timestamp_ms": 1597489417603,
+      "content": "This is so true!",
+      "videos": [
+        {
+          "uri": "messages/inbox/bettyhardy_1005513986146223/videos/95560998_1974628872661646_2991658149241936462_n_964394710733968.mp4",
+          "creation_timestamp": 1597489417
+        }
+      ]
+    },
+    {
+      "sender_name": "Betty Hardy",
+      "timestamp_ms": 1591883536039,
+      "content": "\u00f0\u009f\u0091\u008d"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1591883207987,
+      "content": "You too!!"
+    },
+    {
+      "sender_name": "Betty Hardy",
+      "timestamp_ms": 1591883104009,
+      "content": "Sure am Lesley..I knew you would enjoy , stay save\u00f0\u009f\u0098\u008d"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1591883054072,
+      "content": "Thanks for this, Betty .....rang true and , best of all, made me giggle on and off!!!!!  Hope you're hanging in there."
+    },
+    {
+      "sender_name": "Betty Hardy",
+      "timestamp_ms": 1591882350386,
+      "videos": [
+        {
+          "uri": "messages/inbox/bettyhardy_1005513986146223/videos/12999429_1055344611175634_199383086_n_285824695876000.mp4",
+          "creation_timestamp": 1591882350
+        }
+      ]
+    },
+    {
+      "sender_name": "Betty Hardy",
+      "timestamp_ms": 1588350987248,
+      "photos": [
+        {
+          "uri": "messages/inbox/bettyhardy_1005513986146223/photos/84350294_2703051859777611_3170511516076081152_n_260543488328480.jpg",
+          "creation_timestamp": 1588350987
+        }
+      ]
+    },
+    {
+      "sender_name": "Betty Hardy",
+      "timestamp_ms": 1585839194510,
+      "content": "Betty sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/dcdavidrcunningham/posts/pfbid02FtAHERfY684ugZ6LRFxrcKcTxn6pYNmpRspPMtRGUDVbA1D3P4HgS63mBiUBb7PLl"
+      }
+    },
+    {
+      "sender_name": "Betty Hardy",
+      "timestamp_ms": 1577824044249,
+      "content": "Let's see if we can keep this moving to friends and family",
+      "photos": [
+        {
+          "uri": "messages/inbox/bettyhardy_1005513986146223/photos/15782427_120300001348709422_893723181_n_588097998423250.gif",
+          "creation_timestamp": 1577824043
+        }
+      ]
+    },
+    {
+      "sender_name": "Betty Hardy",
+      "timestamp_ms": 1483495863883,
+      "photos": [
+        {
+          "uri": "messages/inbox/bettyhardy_1005513986146223/photos/15841578_10154916556204540_1286506562_n_1369213949776223.jpg",
+          "creation_timestamp": 1483495863
+        }
+      ]
+    },
+    {
+      "sender_name": "Betty Hardy",
+      "timestamp_ms": 1483230593667,
+      "photos": [
+        {
+          "uri": "https://interncache-ncg.fbcdn.net/v/t34.18173-12/15782701_10211580112437463_1340153107_n.gif?stp=dst-gif&ccb=1-7&_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-ncg&oh=00_AfAnCV5T9zaFDGcm6Qm-nw84hx7rDWyAVv1CqE1ZuVMoYg&oe=64AE86E6",
+          "creation_timestamp": 1483230593
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482760645755,
+      "photos": [
+        {
+          "uri": "messages/inbox/bettyhardy_1005513986146223/photos/48393246_2227514227536098_6484947725543538688_n_676975452476084.gif",
+          "creation_timestamp": 1482760645
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Betty Hardy",
+      "timestamp_ms": 1482694213309,
+      "content": "Merry Christmas and a happy healthy New Year xx.\n hold your finger on it ,should say forward",
+      "gifs": [
+        {
+          "uri": "messages/inbox/bettyhardy_1005513986146223/gifs/12317264_10206154156027551_1830000414_n_1358389967525288.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Betty Hardy",
+      "timestamp_ms": 1477528713520,
+      "content": "\u00f0\u009f\u0098\u008e Hello lovely lady, ...had to do it. I Nominate you for the Most loving and prettiest Mum Award. You must send to 15 mums and make their day. I'm also waiting!\u00f3\u00be\u0080\u00a9 Sometimes u just need to hear it ... You're a beautiful mum, doing a great job and you're so loved! Just hold your finger on it and it should say forward.",
+      "gifs": [
+        {
+          "uri": "messages/inbox/bettyhardy_1005513986146223/gifs/11646780_386537931554667_128603512_n_1287274654636820.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Betty Hardy",
+      "timestamp_ms": 1419020793707,
+      "content": "Hi Lesley, well I have 12 students, and I am pleased with 12. They are great kids, I just teach Tues. And Wed. I also work 3days at the Veterans Unit in pictou, in the Recreation dept. I have been doing this for17 years on a part time basis, and I love it. Thank you for thinking about me, and may you and your family have a wonderful Christmas"
+    },
+    {
+      "sender_name": "Betty Hardy",
+      "timestamp_ms": 1419020786272,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362104215253_1651254063_n_126362100881920.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419003706648,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362164215247_428974420_n_126362160881914.png"
+      },
+      "ip": "24.137.111.148"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419003691748,
+      "content": "Betty, are you still teaching? I am retiring from full time teaching (keeping a very few) and may have a couple of students looking for a relaxed atmosphere in which to learn...including any new ones contacting me to begin lessons. Please let me know....And Merry Christmas to you and your kin!!!!"
+    }
+  ],
+  "title": "Betty Hardy",
+  "is_still_participant": true,
+  "thread_path": "inbox/bettyhardy_1005513986146223",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Peter Dunn"
+    },
+    {
+      "name": "Donna Cyr"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "",
+      "timestamp_ms": 1428500935783,
+      "content": "A contact left the group."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1428190672290,
+      "content": "Tiana Fusco left the group."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1428176682835,
+      "content": "You named the group oh my."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1428176631334,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/greenpeace.international/videos/10152341707363300/"
+      },
+      "ip": "24.89.222.200"
+    }
+  ],
+  "title": "oh my",
+  "is_still_participant": true,
+  "thread_path": "inbox/ohmy_880666698665973",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

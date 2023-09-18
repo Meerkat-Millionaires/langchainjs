@@ -1,0 +1,93 @@
+{
+  "participants": [
+    {
+      "name": "Nature's Bounty Flower Farm"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nature's Bounty Flower Farm",
+      "timestamp_ms": 1494796784214,
+      "content": "Thanks Leslie enjoy them"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1494777977546,
+      "content": "So glad we worked out a way to pay you. Thanks so much for the roses."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1494511045002,
+      "content": "Thank you too."
+    },
+    {
+      "sender_name": "Nature's Bounty Flower Farm",
+      "timestamp_ms": 1494459510261,
+      "content": "ok I will have them here with a tag with your name on it, thanks Lesley"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1494278879891,
+      "content": "Thanks so much...will be there this weekend to pick up 2."
+    },
+    {
+      "sender_name": "Nature's Bounty Flower Farm",
+      "timestamp_ms": 1494273578717,
+      "content": "they are $27.95 each"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1494246193284,
+      "content": "I will be there on Sat or Sun. Thanks very much. Cost please?"
+    },
+    {
+      "sender_name": "Nature's Bounty Flower Farm",
+      "timestamp_ms": 1494244566747,
+      "content": "hey Leslie we are opening this weekend and wondered if you wanted your roses for then?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1493055264557,
+      "content": "That would be great, thanks...just let me know $ when you can."
+    },
+    {
+      "sender_name": "Nature's Bounty Flower Farm",
+      "timestamp_ms": 1492981963563,
+      "content": "I will get back to you on price, I can take a couple home to have here for you when you want to come and get them"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1492972281404,
+      "content": "thanks"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1492972278631,
+      "content": "If so, I would like to reserve one or two...could you let me know the cost?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1492972254185,
+      "content": "Will you have them in your original nursery?"
+    },
+    {
+      "sender_name": "Nature's Bounty Flower Farm",
+      "timestamp_ms": 1492961302679,
+      "content": "yes they are in already in Truro"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1492959742818,
+      "content": "Do you (will you) have Candy-Oh roses?"
+    }
+  ],
+  "title": "Nature's Bounty Flower Farm",
+  "is_still_participant": true,
+  "thread_path": "inbox/naturesbountyflowerfarm_739139282926367",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Ruth Lagundzija"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ruth Lagundzija",
+      "timestamp_ms": 1638296276779,
+      "content": "Thanks Lesley - Sorry, I hadn't seen this message until today;  I don't go on messenger often.  How are you and your family?  I am very lonesome for Benny but starting not to think he is still here for quick moments.  I am going to try staying in our house, as this is where I feel him - however, if and when my faith may start to fail, I'll have to make differences.  Paul has been great to come and do things to get me ready for winter.  I will look you up one day when I'm in New Glasgow - are you still off Kirk Hill. Jillian knows where you live there.  Take care   Ruth"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1629218509255,
+      "content": "My deepest condolences, Ruth."
+    }
+  ],
+  "title": "Ruth Lagundzija",
+  "is_still_participant": true,
+  "thread_path": "inbox/ruthlagundzija_1889559767884307",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1389352510115,
+      "content": "Hi, hope your day is fine? Your profile is nice and i like the smile on your face. I will like to know you more, hope you won't mind us communicating so we can know ourselves better, i wait to hear from you soon.\n\nHugs\nHoward "
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/facebookuser_546494382190859",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Tylan Cote"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tylan Cote",
+      "timestamp_ms": 1455156594289,
+      "content": "Earth."
+    },
+    {
+      "sender_name": "Tylan Cote",
+      "timestamp_ms": 1455156581668,
+      "content": "You can now message and call each other and see info like Active Status and when you've read messages."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1455154150075,
+      "content": "\"like if you know these 'niggas'.....what planet are you from?"
+    }
+  ],
+  "title": "Tylan Cote",
+  "is_still_participant": true,
+  "thread_path": "inbox/tylancote_534517680055196",
+  "magic_words": [
+    
+  ]
+}

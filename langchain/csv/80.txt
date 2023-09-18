@@ -1,0 +1,111 @@
+{
+  "participants": [
+    {
+      "name": "Mercy Burge"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1514232781094,
+      "videos": [
+        {
+          "uri": "messages/inbox/mercyburge_10214224432785627/videos/12412543_577708572383870_1018189197_n_867072646799696",
+          "creation_timestamp": 1514232780
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Mercy Burge",
+      "timestamp_ms": 1514224836288,
+      "content": "Christmas Card Delivery pass it on to all your loved ones Please Send It Back To Me Thanks",
+      "videos": [
+        {
+          "uri": "messages/inbox/mercyburge_10214224432785627/videos/12412543_577708572383870_1018189197_n_10214352668831448",
+          "creation_timestamp": 1514224835
+        }
+      ]
+    },
+    {
+      "sender_name": "Mercy Burge",
+      "timestamp_ms": 1425606644434,
+      "content": "I don't think it needs to be a particular time frame, its not for taxes, just for court to prove I pay for piano and art so anything should work that identifies the price of their lesson and indicates a weekly frequency during the school year.  He'll never pay anyway, but I need to establish my financial liabilities and responsabilities to te judge reguardless.  Thank you Lesley!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1425586375418,
+      "content": "need to know the time period involved, K?"
+    },
+    {
+      "sender_name": "Mercy Burge",
+      "timestamp_ms": 1425530048577,
+      "content": "My email is : \n\nclanghurst@gmail.com\n\nThank you!\n\n~Mercy"
+    },
+    {
+      "sender_name": "Mercy Burge",
+      "timestamp_ms": 1425530000295,
+      "content": "Hi Lesley, \n\nWould it be possible to send me an email documenting the art and piano lessons for Julia and Shane and their associated cost and (intended! Lol) frequency?  \n\nSorry to be a bother, I have been requested to submit proof of expenses for the children's activities."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419690856056,
+      "content": "Mercy, did you get my message re Festival? ALSO, many thanks for the gift dropped off  (and munched on immediately!!) a few days ago.....all my best to you and the kids."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419002888258,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362190881911_254357215_n_126362187548578.png"
+      },
+      "ip": "24.137.111.148"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419002862026,
+      "content": "Good luck!!!!!!  I sincerely hope you and the kids have as best a Christmas as possible. See you for lessons on Jan 7th."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419002798817,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362067548590_1152922410_n_126362064215257.png"
+      },
+      "ip": "24.137.111.148"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419002785732,
+      "content": "Registration and fees due by Jan 9....google;   www.newglasgowmusicfestival.org and click on Registration",
+      "share": {
+        "link": "http://newglasgowmusicfestival.org/",
+        "share_text": "New Glasgow Music Festival"
+      },
+      "ip": "24.137.111.148"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419002695606,
+      "content": "Approx dates are: Apr 27 - 30"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419002673893,
+      "content": "And: she can choose either \"Timid Little Heart\"  (1:20 minute) or \"Inter-city Stomp\" (1:00 minute) for her second piece.....Class # 6320 Contemporary Solo Elementary for either. Cost is $8.00."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419002474693,
+      "content": "OK: Festival stuff: Class # 6035 for \"The Elegant Toreador\" (test piece...all play the same piece)...11 yrs and under....cost is $10.00"
+    }
+  ],
+  "title": "Mercy Burge",
+  "is_still_participant": true,
+  "thread_path": "inbox/mercyburge_10214224432785627",
+  "magic_words": [
+    
+  ]
+}

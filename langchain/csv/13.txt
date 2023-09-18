@@ -1,0 +1,207 @@
+{
+  "participants": [
+    {
+      "name": "Ruth Morse"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ruth Morse",
+      "timestamp_ms": 1645572129971,
+      "content": "look what i found \u00e2\u0080\u00a6 \u00f0\u009f\u0098\u0082http://photo.2ox.quest/b071xv4n8"
+    },
+    {
+      "sender_name": "Ruth Morse",
+      "timestamp_ms": 1642004761579,
+      "content": "Ruth Morse sent you an invite to join Messenger."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1642001575085,
+      "content": "Yup, couldn't have put it better myself...\"really something\""
+    },
+    {
+      "sender_name": "Ruth Morse",
+      "timestamp_ms": 1641757214378,
+      "content": "Now isn\u00e2\u0080\u0099t that really something!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1641756386397,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid02mJtwhifQeVzkZHnjitGeq4eqVo6xbs9kFfPP5VvsqaZUjHcRJESPN8ycxGXRFgtXl&id=593472751117593"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1634405999442,
+      "photos": [
+        {
+          "uri": "messages/inbox/ruthmorse_10206129053718986/photos/245136664_451280332977309_1848132333377551003_n_884369502469659.jpg",
+          "creation_timestamp": 1634405999
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624807790469,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1587058576383,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/elandken/posts/pfbid0LX37AciqAhXp83fZDZ8b5YHx8noEFRbPRqD7BBBqEpABNQakA2gcSAJqd5vkYH5yl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1573321853908,
+      "content": "This book glows with the love of the Valley, Wolfville and surrounding area......also a good story line....give it a go.",
+      "share": {
+        "link": "https://www.facebook.com/KneeCurve/posts/pfbid02gdWVS69TecTKPGDDpW1ZNrM2tNo9W75S9iSgqVgGHqNoscM3oLhMBFTpcKSurANml"
+      }
+    },
+    {
+      "sender_name": "Ruth Morse",
+      "timestamp_ms": 1544977010186,
+      "content": "Merry Christmas Lesley\u00f0\u009f\u008e\u0084\u00f0\u009f\u008e\u0084"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1544974870848,
+      "videos": [
+        {
+          "uri": "messages/inbox/ruthmorse_10206129053718986/videos/12412543_577708572383870_1018189197_n_213152482908621",
+          "creation_timestamp": 1544974870
+        }
+      ]
+    },
+    {
+      "sender_name": "Ruth Morse",
+      "timestamp_ms": 1524594859521,
+      "content": "Ha! Love it!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1524578823238,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/DrRizzotto/photos/a.239543089517903/241164436022435/?type=3"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490975044071,
+      "content": "Re: the duet video of Reggie singing.....lyrics are from Kiss (a la Scoobie Do) and are (I think) \"I can't get enough of you Baby, Can you get enough of me\".....sounds like \"I can't say enough of you Baby\"  ...LOL...over and over and over again."
+    },
+    {
+      "sender_name": "Ruth Morse",
+      "timestamp_ms": 1466878804433,
+      "content": "Thanks, Les!"
+    },
+    {
+      "sender_name": "Ruth Morse",
+      "timestamp_ms": 1466878787683,
+      "content": "Must check that out!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466870687961,
+      "content": "Just looked the meaning of Holy Hannah (since I use it a lot) and was surprised to find the answer is rooted in the Bible....awesome."
+    },
+    {
+      "sender_name": "Ruth Morse",
+      "timestamp_ms": 1460679547291,
+      "content": "Thanks!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460676577363,
+      "gifs": [
+        {
+          "uri": "messages/inbox/ruthmorse_10206129053718986/gifs/11354229_10207243320509074_268409997_n_563498147157149.gif"
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460676435246,
+      "content": "Back at ya !!!!!"
+    },
+    {
+      "sender_name": "Ruth Morse",
+      "timestamp_ms": 1460667636609,
+      "content": "Oh LOL Lesley. Lesley. Not only you! This techy stuff boggles me! Besides I lovd the Big Bang guys! \nThanks for the good wishes. Bob is doing well. No new changes on his recent ct scan. So we go along the best we can. Copd is so discouraging. So sorry to hear. Hugs."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460639661601,
+      "content": "AAAAARRRRGGGGHHHH"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460639642371,
+      "content": "OMG Ruth, I have no idea how this got on your message.....can't figure out how to delete it ...crap.  Only Lesley, right?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460639478467,
+      "photos": [
+        {
+          "uri": "messages/inbox/ruthmorse_10206129053718986/photos/327276144_1832261837151728_4272386717043263947_n_563335883840042.gif",
+          "creation_timestamp": 1460639476
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460639296693,
+      "content": "Had a visit from Giselle yesterday...got caught up on lots of stuff....sending you (and Bob) all my extra strength and best wishes...think of you often. I have had to come to terms with my COPD issues and so have had to curtail or forgo lots of my activities...stick pretty close to home..Positives all the way for you both."
+    },
+    {
+      "sender_name": "Ruth Morse",
+      "timestamp_ms": 1431559674286,
+      "content": "Thanks so much. We are thinking positively. Bob says as long as he can keep singing he will be fine.\u00f3\u00be\u008c\u00b5"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1431559509570,
+      "content": "Whatever I can do......"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1431559501482,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362067548590_1152922410_n_126362064215257.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Ruth Morse",
+      "timestamp_ms": 1431559103970,
+      "content": "Miss you too, Lesley .....soooo much! Yes we are embarking on a path toward wellness, maybe a long one. Thanks for your support! We appreciate it."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1431558859528,
+      "content": "Hi...miss you....miss Bob..\n\nUnderstand you have stuff going on....hang in there...could say a lot (what a surprise!) but only want you to know that I am thinking about you both."
+    }
+  ],
+  "title": "Ruth Morse",
+  "is_still_participant": true,
+  "thread_path": "inbox/ruthmorse_10206129053718986",
+  "magic_words": [
+    
+  ]
+}

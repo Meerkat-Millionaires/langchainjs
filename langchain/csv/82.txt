@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Lorena Ziraldo"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1413847317484,
+      "content": "I have recently come into possession of \"Still Life with Glove\"...has had a interesting history, I'm sure. Would like more information re this painting. I am assuming it is from your earlier work? Thanks."
+    }
+  ],
+  "title": "Lorena Ziraldo",
+  "is_still_participant": true,
+  "thread_path": "inbox/lorenaziraldo_10154923816885701",
+  "magic_words": [
+    
+  ]
+}

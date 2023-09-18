@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Be Right There Deliveries"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Be Right There Deliveries",
+      "timestamp_ms": 1614019868873,
+      "content": "Leslie,  I am at the hospital waiting to see someone about this week long headache I've been dealing with"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614011959977,
+      "content": "OK....if I order groceries for Jare, would you deliver them and then add the delivery charge to my next order?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1612724370947,
+      "content": "K"
+    },
+    {
+      "sender_name": "Be Right There Deliveries",
+      "timestamp_ms": 1612724314320,
+      "content": "I'd say you have to call them"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1612724187733,
+      "content": "OK...what do I do to change the time with Superstore?"
+    },
+    {
+      "sender_name": "Be Right There Deliveries",
+      "timestamp_ms": 1612724157227,
+      "content": "Not planning on working the storm"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1612724087686,
+      "content": "Hi, Andrew:  I have placed an order at Super Store to be picked up from 1 - 2...(Monday)....I hope you can do this...what if there is a storm?..keep safe and warm."
+    }
+  ],
+  "title": "Be Right There Deliveries",
+  "is_still_participant": true,
+  "thread_path": "inbox/berighttheredeliveries_1744266772413608",
+  "magic_words": [
+    
+  ]
+}

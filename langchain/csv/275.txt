@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Sorenson_comm"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sorenson_comm",
+      "timestamp_ms": 1619026043608,
+      "content": "Hello"
+    }
+  ],
+  "title": "Sorenson_comm",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/sorenson_comm_1798871460286472",
+  "magic_words": [
+    
+  ]
+}

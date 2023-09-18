@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Sophie Burrill"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sophie Burrill",
+      "timestamp_ms": 1495332965723,
+      "content": "You can now message and call each other and see info like Active Status and when you've read messages."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1494777831419,
+      "content": "Happy Mother's Day, Sophie!!!!"
+    }
+  ],
+  "title": "Sophie Burrill",
+  "is_still_participant": true,
+  "thread_path": "inbox/sophieburrill_10100139352534528",
+  "magic_words": [
+    
+  ]
+}

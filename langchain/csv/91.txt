@@ -1,0 +1,2090 @@
+{
+  "participants": [
+    {
+      "name": "Peter Dunn"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1641754853201,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid02mJtwhifQeVzkZHnjitGeq4eqVo6xbs9kFfPP5VvsqaZUjHcRJESPN8ycxGXRFgtXl&id=593472751117593"
+      }
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1634407852059,
+      "content": "That's  fine-looking crew!\u00f0\u009f\u0098\u008e"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1634405901481,
+      "photos": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/photos/245136664_451280332977309_1848132333377551003_n_871624526875843.jpg",
+          "creation_timestamp": 1634405901
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1632614894600,
+      "content": "hi ya...lovely visit and I would like to meet Scott sometime.....and you really did miss an unusually expression on my face and a verbal sigh of delight when I sank my teeth into that amazing coffee bread.  I will never deprive you of this audio-video moment of pure JOY.....ever again."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1630777392194,
+      "content": "hi there....hooked up wth Paiitive Care now.....many positives, great help and will remain in the home as long as possible...new meds, for pain and breathing.....lots of  other good things....love ya"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1630775992292,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/BeethovenAndBeyond/photos/a.470186579775893/4120418048086043/?type=3"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1627652269191,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/RMworldmusic/photos/a.779371705483537/4221833077904032/?type=3"
+      }
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1624816016666,
+      "content": "OK- found it on Facebook."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1624812067178,
+      "content": "Hi - couldn't open the attachment to see the text .. try again?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624807693154,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1620061245948,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/BeethovenAndBeyond/photos/a.470186579775893/3776589089135609/?type=3"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1615905707421,
+      "content": "what a strange life he must live...hope it is also a charmed life"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1615905642840,
+      "content": ".. a wee genius ... probably doesn't even think about it ..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1615902746134,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/MusicBustedShow/posts/pfbid02nuWLKagHucwCxfrhEXownQHAgdPeHjiZT6jkfFSBj84CJVAzr78HGvrSJnBcW2bsl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1615807357066,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/wheninwolfville/posts/pfbid0ZAAVw8FuK8gjpY53J1RDdQHRynPUvKXfQmncA4jNHNmzqHTMAPPMmz6DeDaQWPfvl"
+      }
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1613760639522,
+      "content": "..... ahhhhhhh ...."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1613756327395,
+      "content": "update:  Jare has been back home (down the street didn't work out) and is now in an apartment in Thorburn with his kitties, computer and food, basics, and most of his wants/needs taken care of....more at another time....I am in a serenity bubble of calm, silence and recoup."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1612790819193,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid02pKJe3NyVFiWgTBppHLvPaLJm37X2nRTPRPbfJJy6neEZue8BETi2iQ6uazRt6W6Pl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1597066779588,
+      "content": "Jare's b'day today......fairly lowkey.....31 now......good grief.  having a good day."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1593265864952,
+      "content": "Gorgeous!!!!  lovely petunitas.  Looking fine.  Enjoy!"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1592833635819,
+      "videos": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/videos/10000000_4115659405143318_4806866784230736436_n_317765145887744.mp4",
+          "creation_timestamp": 1592833616
+        }
+      ]
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1592833590969,
+      "content": "Hi - here is the deck-garden - very short, due to restrictions for sending videos - sorry to say that the tango clip is too long ...I will see if there is some other way ..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1592487753531,
+      "content": "Thank you and thanks for today's phone call!!!!  I received the $ transfer and I certainly appreciate it.....don't forget to send pictures of deck garden and tango by the sea....when they are available....very quiet here today."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1592418059731,
+      "content": "Sounds awful ... O hope he wakes up in his right mind .. and that you wake up rested ... my number is 902 453 2076"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1592414941165,
+      "content": "Peter, can't find your new phone number....have had a rough time with Jare over the last week or so in particular.....he finally went to the hospital yesterday and then  was sent home later on the same day....I was up with him most of the night while he wept, ranted, etc.....<nothing I could effectively do to help since most of this has been escalating overr the last while....misuse of prescription drugs, losing drugs, etc.  They did not get his prescriptions renewed/filled and gave him a \"calmer\"drug after finding out that they couldn't/wouldn't give him his preferred choice.  Discussions were off-the-wall and of no real help since he is in his own mind set right now....what he tells me happened may or may not have occured (his perceptions are skewed), but they told him Thursday is possible for getting renewals from Randy...althiugh Jarett tried to contact 2 psychiatrists he has seen over the past two years.....Tiana and I both know that we do not have the answers, but I am still hanging in there, although it affects my breathing...staying as calm as possible.  No sleep really so today is low key....he has been asleep for a while now. Perhaps this will be another tempest in a teacup and we can continue with another stretch of \"sort-of-OKdom\".....trying to offset this stress with some gardening, friends, music and stuff. please send me your phone number ASAP"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1588638960323,
+      "content": "Hi - your attachment did not arrive -a  message said ' ... tt may have been ... ' and that's all ...."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1588638860877,
+      "content": "Peter sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/tiana.fusco/posts/pfbid0AsZ54MDR8UcaaGhKren67oDVyEUQ8qhBPLud6LxZRjUh5bWPwMTr4iKfTcKqo1Vel"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1588608791734,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/tiana.fusco/posts/pfbid0AsZ54MDR8UcaaGhKren67oDVyEUQ8qhBPLud6LxZRjUh5bWPwMTr4iKfTcKqo1Vel"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586452170193,
+      "content": "try rose breasted grosbeak....song sound long like you mentionned....but not as red."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1586375202442,
+      "content": "Can't say about the black wings - I remember it was all red."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1586375168972,
+      "content": "It sounded VERY MUCH like this one  https://www.youtube.com/watch?v=qowtanYv0P8",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=qowtanYv0P8",
+        "share_text": "Here's a male Scarlet Tanager singing at Merganser Lake (really Lake Waubeeka) in Danbury, Conn., summer 2016."
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586365335112,
+      "content": "scalet tanager???  whick would be a terrific sighting!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586363802606,
+      "content": "that bird could have been a scarlet tananger (sp?)......if it was of a size between a robin and a nuthatch, it was probably an Evening Grosbeak....if small....mmmmmm"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586363693014,
+      "content": "there is the original and then an updated version....the second features overuse of cell phones, but I still prefer it to the original...raises pertinent questions.....but if we didn't have tech nology at this point, we'd be even more isolated, right?"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1586363576135,
+      "content": "oh - you did send it - I just didn't recognize it ... is there an updated version I should look for?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586362332906,
+      "content": "I thought I sent it....anyway.....It's a strange, strange world we live in, Master Jack."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1586273040150,
+      "content": "what was the name of the song you told me about yesterday?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586269785530,
+      "content": "you bet."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1586269770650,
+      "content": "Going out to the front room, taker up my Last Spike book ...see y'se later on, eh?"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1586269711794,
+      "content": "Nature will carry on, in spite of us ..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586269679482,
+      "content": "Marker sticks removed from firre hydrants today...!!!!!! Spring..HELLO."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1586269620381,
+      "content": "Hat, you say. Hang on, you say. OK, will do.Almost done with my black winter hat; the white one with the peak awaits."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586269411650,
+      "content": "and is still changing...,hang on to your hat"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1586269388581,
+      "content": "Beautiful ... everything has changed ..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586269223792,
+      "content": "It's a strange, strange world we live in, Master Jack"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586269078830,
+      "photos": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/photos/92000683_2698090313653051_8046509714525126656_n_2592110084443298.jpg",
+          "creation_timestamp": 1586269078
+        }
+      ]
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1586200880056,
+      "content": "That was a lovely version ..  thanks you,"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1586200607919,
+      "content": "Yo - what was the name of that song?(I forgot)."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586193768654,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/89.9TheWave/posts/pfbid02vnSYYJrEN86bwbcKfrNYvdsr3GY32Xvj2De8L8X5yH4npx5qSwodvXUFvywUyvvYl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1585158557872,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/LegendaryVocals/posts/pfbid02MLDPdiECx9yWQH7vmu6c9YWShiGL57B3qwLfkhyiz4j9U2StHRzQaMkhXutHGJHNl",
+        "share_text": "Peter Hollens"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1583603231654,
+      "content": "Sorry about the delay...did some stuff (minimal) that wore me out......went to bed early...glad to hear that your appt went as well as possible...thanks for the phone call...relax, Peter, just relax,....go and do what you like best (walking , observing, comentating on what you see and who you talk to.......) And I am glad  that it was your phone acting the pits and not mine.....Enjoy life."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1583514432205,
+      "content": "Sent you an a mail from the waiting-room. And one from home. Didja get them ? Comfy now. Ahhhhhhhh ....."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1583509220415,
+      "content": "Peter, how'd your appt go today??????"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1578423930839,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/Tipscrafts/posts/pfbid0ndnFEPFop8fWtgt63zdDrXskKHTADSWMTcCNviZ81dcZthLXnJWGcZwt3KtHQFjMl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1576939826541,
+      "content": "yes, indeed......always the drawback!!!!"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1576804122318,
+      "content": "serenity indeed ... except maybe the sudden intrusion of SOCIETY ..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1576782009812,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/TheCronesGrove/posts/pfbid0TUnZxeLXWVERCYW1mLftELe2WbBqLZ9gJM49fDQCbxdk1yHwDznBwxZ6zni2pbYdl"
+      }
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1569540486173,
+      "content": "Thanks, dearie ..."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1569524376888,
+      "content": "Yes'm."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1569509893603,
+      "content": "just sent 50.00 (one more to go next month)..thank you for your patience. Behave yourself and get well properly!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1568645305937,
+      "content": "spoke to a nurse on the phone....you were gone for a procedure.....will call back later...or send me a message or something...ASAP...DO WHATEVER THEY SAY>>>>NO SHORTCUTS >>> Talk soom."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1568645154695,
+      "gifs": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/gifs/53830620_346215342659542_8457742555260387328_n_485832691970387.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1568315767317,
+      "content": "!!!!!!!!!!!!"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1568215371040,
+      "content": "My box-'o-books is in Mississagaua"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1568215338198,
+      "content": "... hope you perk up as the afternoon goes along ..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1568215270840,
+      "content": "Usually do!!!  tired and trying to get it together...will do so....love you and take care."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1568215206544,
+      "content": "Messaging fact here: anything that you put on FB is read by everyone on my list ... maybe use Messenger for family news?"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1568215143401,
+      "content": "Very cool, about Reggie & French immersion"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1559308187804,
+      "content": "You sent a link.",
+      "share": {
+        "link": "https://www.booksie.com/contest/Booksie+2019+First+Chapter+Novel+Contest-15",
+        "share_text": "$1,000 Cash Prize for the winning first chapter."
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1555528063753,
+      "content": "Tiana's phone number is 902-754-4632"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1553439635125,
+      "content": "34???"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1553439615606,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/TheAccountantCoach/posts/pfbid0Tkx2ce3AujZrA9ZDejLFrf6Hkw87rwSrfMtYGsCct4cYcK8ezbpjJG36XUMaBoysl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1548355939259,
+      "content": "what a great list of pieces....would LOVE to see/hear these...."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1548276667555,
+      "photos": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/photos/50463132_356671808446751_4424297063454343168_n_356671805113418.jpg",
+          "creation_timestamp": 1548276666
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Lesley Dunn"
+        }
+      ]
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1548276665183,
+      "content": "Here we are!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1547913686986,
+      "content": "these are aamazing!!!!!!"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1547734642984,
+      "content": "You like?",
+      "share": {
+        "link": "https://www.facebook.com/BoredPandaArt/videos/854115214775605/"
+      }
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1547342083738,
+      "content": "Those are wunnerful!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1547311618740,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/SuccessfulFlow/posts/pfbid0v1tFpqpM2Ad3NCokWBT6y33v6V9XKJA2pjsace9w54Y8ggJWDeFfZNzeN8kcRrucl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1546890952205,
+      "content": "lovely....."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1546614048335,
+      "content": "Peter sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/garytvcom/posts/pfbid0SLPQef6euGZKJNWkcE57YZEmkH16ZWUMsXgAQ2AermnYADAcbo3HDFh1hxqq4dsWl"
+      }
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1542996587895,
+      "content": "Harold squeaks hello ... he was running around the deck, but he's back on his post now ..."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1542996517664,
+      "content": "Mi'kmaq  Nova Scotia Acadian Nunavut Yukon - should try to make a pic when the wind is blowing ..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1542992034488,
+      "content": "Thanks for phoning...I am flag-ignorant..teach me. Love Harold!!!!!"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1542895376504,
+      "content": "Forgot to mention the amphibian in the flag picture - a very rare species, and trainable, to pose billiantly for photographs. Name is Harold the Frog."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1542895270795,
+      "content": "I am tossing around the idea of visiting on Saturday - could bring a pizza from Andre's. What do you think of that?"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1542895189780,
+      "photos": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/photos/46513633_1032758310240862_1463588145667768320_n_1032758303574196.jpg",
+          "creation_timestamp": 1542895188
+        }
+      ]
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1542895188071,
+      "content": "Hi - here are my flags, on the front balcony - do you know them all?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1542642421330,
+      "content": "Would love to go there again with you....hope for a diamond day!!!!! (I will go \"in training\" beforehand....LOL)"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1542641929731,
+      "content": "Maybe (?) you will feel well enough soon & we can go. I am looking for a day when I can come by for a visit."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1542639940196,
+      "content": "Nice picture of Andre's....looks so warm and cozy, yes?",
+      "share": {
+        "link": "https://www.facebook.com/116812408366524/photos/a.874580565923034/1963774930336920/?type=3"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1535997222602,
+      "content": "Is this the same one?",
+      "share": {
+        "link": "https://www.cbc.ca/books/literaryprizes/calling-all-writers-the-cbc-short-story-prize-is-now-open-1.4806732",
+        "share_text": "You could win $6,000 from the Canada Council for the Arts, a two-weeks writing residency at the Banff Centre for Arts and Creativity and publication of your story on CBC Books."
+      }
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1533302295364,
+      "content": "I am now working on creating 'seconds' during  which one does not age ... there appears to be a glitch in the system somewhere but ..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1533299081448,
+      "content": "crap..I forgot that ...getting older by the second!!!!"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1533230037318,
+      "content": "sure, I can fly ... wrote a short story about it ..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1533216771779,
+      "content": "What???!!!!  joking or serious?"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1532705937598,
+      "content": "Yep, I flew over there just yesterday."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1532694334539,
+      "content": "A different view"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1530381431901,
+      "content": "Here is the iris blooming...I have to move them to increase their safety!!! Happy Canada Day!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1530381370036,
+      "photos": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/photos/36404212_10160664278760078_2340331343197503488_n_978849068955386.jpg",
+          "creation_timestamp": 1530381369
+        }
+      ],
+      "ip": "24.89.210.42"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1528916315642,
+      "content": "Yes, there is such a thing as talent."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1528912957688,
+      "content": "Holy Smackers!!!!!  I had to send this to you....whozzers and wait for the end as she runs for her dad.",
+      "share": {
+        "link": "https://www.facebook.com/talentrecap/videos/10156022362374760/"
+      }
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1526429671812,
+      "content": "Yay!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1526424567445,
+      "photos": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/photos/32332191_10160479505200078_7111963477031256064_n_945589098948050.jpg",
+          "creation_timestamp": 1526424566
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1523020296281,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/bob.friedman.37/posts/pfbid02jUJn5v3NZVSvimVA1dX8o4nmXmJ4dfbJ3nLEcXdSHimPVGpiicqJFovcZyekY11Tl"
+      }
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1520883555564,
+      "content": "aw, geee ..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1520880035697,
+      "content": "Mention of your favorite Brookfield stop!!!!!",
+      "share": {
+        "link": "https://www.saltwire.com/halifax/",
+        "share_text": "News by location across Atlantic Canada."
+      },
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1517497397107,
+      "content": "Well, well .. this all sounds very healthy ... I will mostly write to you via e-mail - is that best for you? I, also, steer myself away from facebook ..  waste of time? ..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1517415380573,
+      "content": "Have instituted new habits and activities....all related to less facebook and more hands-on materials: have ordered and received first delivery of Chronicle Herald, am ordering 2 magazines, all art work supplies are now in one room, a few friends and I are beginning a letter writing campaign, all of which is good stuff. So I only check here about once a day and then do the crossword on line. Have avoided the \"cold\" (knock on wood). Feel much improved after Jare's leaving. Think he's OK."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1517415169092,
+      "content": "Hi!!!!  Hope you are all better."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1517360708425,
+      "content": "Hi - I am sorting out the Messenger function here, so I am sending this message. Please send  ... Hi!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1516026190614,
+      "content": "a wonderful way to start the day!!!!! cats rule."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1515981587537,
+      "content": "Good for them!",
+      "share": {
+        "link": "https://www.facebook.com/choirbuzz/posts/pfbid031BStpmo5wsQeKpyJmrZRNZJryGVvubueTF5p3ajM8CYdZwNfrxpjy99kVqedJCmal"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1514305681301,
+      "content": "was very, very windy here yesterday as well!! Snuggled in bed and loved the sound."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1514234440591,
+      "content": "wind is over 80 as we speak .. the sound somehow matches the Santa-effort ...he-he"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1514234338734,
+      "content": "oooooo....these are both sent by your ridiculous sister....Just reporting that all survived this christmas day of 2017. Hoping you're cozy and snug, with a good book, music and munchies....See you Thursday!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1514234224474,
+      "gifs": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/gifs/21297081_1839849979375713_2854203349572517888_n_867081350132159.gif"
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1514234195261,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1514234192891,
+      "content": "how odd! I did NOT send this to you ...it looks surpassingly silly?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1514234074240,
+      "content": "can't get the audio!!!! cute, 'though."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1514234023839,
+      "gifs": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/gifs/21125832_10213395145329792_8412038300730130432_n_867080590132235.gif"
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1508937696264,
+      "content": "... mmmm  ... that felt GOOD!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1508937635290,
+      "content": "seasonal too, right?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1508937624990,
+      "gifs": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/gifs/12502735_1762345133999485_1876461255_n_835699656603662.gif"
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1508937594907,
+      "content": "for you Peter:"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1508937585493,
+      "content": "these are adorable...really!!!  thanks...I shared this."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1508258229800,
+      "content": "Have you seen these - they're SO cute - make sure you have the sound turned up.",
+      "share": {
+        "link": "https://www.facebook.com/simonscat/videos/10155790679979523/"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1508006416060,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.cbc.ca/books/literaryprizes/cbc-short-story-prize-1.4090935",
+        "share_text": "The 2022 CBC Short Story Prize is now open for submissions! Submit your original, unpublished fiction, up to 2500 words before Oct. 31, 2021 at 11:59 p.m. ET."
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1507493991299,
+      "content": "Hi - thnanx for Thanxgiving wishes - I send the same to you ... am hosting a STUPID virus, and am in no mood to joke around ... grump, grump, grump ..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1507474277109,
+      "content": "Thanksgiving Best Wishes.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=10155812497705701&id=663235700"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1507312426583,
+      "content": "just enjoy the descriptions and often get ideas for soups or sandwiches....mmmmmgood"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1507312373999,
+      "content": "nope...I have The bakery on my facebook. They send me descriptions of their daily specials and bakery goods at Holiday times...been getting these for a long time..hooked up with them after one of our visits there."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1507302432018,
+      "content": "Did someone gift you?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1507298202453,
+      "content": "Yummies from Brookfield!!!",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid02YX2pJzkNEf4XDp1Qdyui2rthriiYfhNzSAf2z8vC2RBGwkojShgrSBbFJSY8Y9fCl&id=481150188599044"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1506595959472,
+      "content": "Peter sent an attachment."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1506595959454,
+      "content": "Peter Dunn sent you an invite to join Messenger."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1506002305045,
+      "content": "saw this a while back....awwwwww is right. Some sweet."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1505790525428,
+      "content": "... awww ...",
+      "share": {
+        "link": "https://www.facebook.com/crosbyfamily/videos/1666842419999413/"
+      }
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1504365318284,
+      "content": ".. reincarnation .. the only explanation ...",
+      "share": {
+        "link": "https://www.facebook.com/ClassicFM/videos/10155854597114260/"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1504193358292,
+      "content": "warmed my whole body!!!!!!! and my heart."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1504124024328,
+      "content": "hi - yeah - I can hardly believe that was meself - the thoughtful arrangement and the very careful singers accompanying ... and all this gushing going on, makes me warm in the ears"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1504115147210,
+      "content": "Your voice was (is?) stellar on Dancing Bear, truly awesome and the group sounds superlative....sorry I never realised how grand you all were, but especially regret not hearing you sing."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1504115061977,
+      "content": "Ha Ha.....would love to do that to a few people I know!!!!!"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1504101772640,
+      "content": "Peter sent an attachment."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1503843425975,
+      "content": "Hi - the folk group I sang with in 1970-ish, just sent this around. I think it's pretty good.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid02jmZaZwHmF7bgPnhgjsfTmMYt1DSh5amWfg7S9vQPkdWiCUhvwveCLd1dHEkPLv1ul&id=902210248"
+      }
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1503066100288,
+      "content": "why do I think that this girl is immensely talented?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1502899393060,
+      "content": "very relaxing.....love that sound of tap-swish on the wood floor."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1502410113724,
+      "content": "... for a few of the more relaxing moments ...",
+      "share": {
+        "link": "https://www.facebook.com/tom.nakielski.5/posts/pfbid0Fzc4Hc6QJ6hTwzsUNw8GKu3JdbMreYcpTFC6eHuaC5oWNjsHiPWasx2qkRS3ihEQl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1498488048105,
+      "content": "yuppers"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1498488029849,
+      "content": "ok - if  hafta ...thx - u-2"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1498488003922,
+      "content": "Have a great day, you!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1498487979097,
+      "photos": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/photos/13820628_10209645146356651_1921684905_n_771228259717469.gif",
+          "creation_timestamp": 1498487978
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1498487790322,
+      "content": "the whole thing had me in sticthes!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1498487742679,
+      "content": "Boggles the mind !!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1498487734021,
+      "photos": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/photos/17793392_10100639189466753_208357431_n_771226859717609.gif",
+          "creation_timestamp": 1498487733
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1498487638264,
+      "content": "... hmmm .. this guy has lots of time on his hands ..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1498478343522,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/cbc/videos/1564910516866144/"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1498051921764,
+      "content": "He appreciated the $ VERY MUCH!!!   Thanks, Peter."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1497964992347,
+      "content": "time to go stretch my bones ..."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1497964960770,
+      "content": "sent him some of the wedding ,money. mought's well, huh?"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1497964929227,
+      "content": "hee-hee",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Peter Dunn"
+        }
+      ]
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1497964922467,
+      "content": "And cal the news people in for a video."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1497964912513,
+      "content": "I'd put hobbles on them and leave them in a field somewhere."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1497964884904,
+      "content": "Can he turf them, somehow?"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1497964861914,
+      "content": "Grumph - who are these ne'er do well's who keep invading?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1497959931518,
+      "content": "OK...re Jare: He will be staying here until the end of the month, and I am still unsure of the end result about his living  place. He can keep the apartment he has if the others who have camped out there will move out, he will find another place with a friend who has to find some means of contributing financially, he will stay here, etc. I find it all so repetitious since this is again the same scenario as a number of times before. They were asked to leave due to noise (but Jare is not the offender here, just a patsy). In addition, he is finding it difficult to obtain work so must rely on the Disability Assistance which covers rent and a tad extra (not much to live on). Also, his laptop (an old one of Damion's) has decided to not work. So I am at the moment letting him use mine, but I cannot let him take it away if/when he moves out of here.  Oh my, will let you know how it all unfolds. I am finally feeling BETTER!!!!   Yahoo!"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1497728542612,
+      "content": "HI - it is good to hear from you - I get antsy when too many days go by, as you know - curious to know what happened to Jare's previous dwelling - and, if your breathing has improved since our last messages - here; just finished a Catholic wedding, kinda fun, if you can believe it (priest, young, told a joke in mid-prayer, good for him) -- my cellist is a very upbeat young lady, plays very well too -- anyway, it's done, and there is another one next week-end -- same cellist, no rehearsal necessary, same music -- and now it's time for a nap --zzzzzz"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1497708842721,
+      "content": "Hi ya....getting over being ill....on the mend. Jarett is still here and must make up his mind about housing in a week or so....He may stay here or do another song and dance trying to find another place We are doing well being together, better than usual. And it isn't anything new so I am adopting a laid back attitude. He did get his shot, and picked up a new form re housing from Social Assistance (Disability) and got the rest of his meds filled, so at least that is reassuring. Will let you know more as I find out. Going to start puttering in the garden today, do some cooking, freezing. Laundry is all caught up. Lawn will be mowed today (weather permitting)...not by me, alas, alack. There are two rose bushes crying out to be planted so maybe that can be done as well. I rely on the kindness of son/daughter for these tasks. Keep your fingers crossed that it doesn't rain until this evening!!!!!"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1497650165456,
+      "content": "Hey - haven't heard from you - what's up?"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1497122068896,
+      "content": "...'scool!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1497117730213,
+      "content": "Crafters new appearance.",
+      "share": {
+        "link": "https://www.facebook.com/PictouCountyChamber/posts/pfbid028MDBCKL9qvKxgqeBAU17zrEGPYSm6TZ8JbDPnvJEMARNqpLuSpUsDyhN9HV9GrN4l"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1496062758933,
+      "content": "Is Tuesday - tomorrow - a good day for me to show up?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1495548380871,
+      "content": "talk later"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1495548378108,
+      "content": "Skies are glooming today."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1495548375238,
+      "content": "be back later .. I am between exercises ..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1495548357971,
+      "content": "Oh, you poor thing. Count your blessings."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1495548342576,
+      "content": "shucks, no invite ... unless I missed it .."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1495548315179,
+      "content": "Did you receive an invite to \nColin's graduation party? Like I'm gonna go LOL"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1495548313101,
+      "content": "Yup. I will keep an eye out for flying footballs ..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1495548283141,
+      "content": "Hope all is well."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1495548263408,
+      "content": "Such is life!"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1495548245308,
+      "content": "what is the lesson to be learned here ? ..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1492440954755,
+      "photos": [
+        {
+          "uri": "https://interncache-ncg.fbcdn.net/v/t34.18173-12/17813923_10212770052346574_1418154821_n.gif?stp=dst-gif&ccb=1-7&_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-ncg&oh=00_AfCSkXRQNgGH9R9G8CcHxlFiFG19qsTYsdOvqSMv67SX5g&oe=64AE4B80",
+          "creation_timestamp": 1492440954
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1491402300455,
+      "content": "Did enlarge it....WOW!!!!! Super picture."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1491334268514,
+      "content": "Lesley - my friend Hamish took this - his neice - it's so riveting, I thought I would send it to you. Enlarge it if you can.",
+      "share": {
+        "link": "https://www.facebook.com/photo.php?fbid=10158459645805346&set=a.10158459645120346&type=3"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490704736517,
+      "content": "Lyrics stink (Kiss band), but oooooo, I think she can sing.",
+      "share": {
+        "link": "https://www.facebook.com/missjennyskindercare/videos/779456305540106/"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490704435570,
+      "content": "love this and shared!!"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1490704266275,
+      "content": "Peter sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/MeanwhileinCanada1/photos/a.251092048271167/1239327889447573/?type=3"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490533207463,
+      "content": "This is appartently an eagle."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490533177584,
+      "photos": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/photos/359444612_2423719507801661_4664139549858418655_n_723315314508764.jpg",
+          "creation_timestamp": 1490533177
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490533158538,
+      "content": "The last two attachments couldn't be loaded."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1490498640874,
+      "content": "Peter sent an attachment."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1490498566210,
+      "content": "Peter sent an attachment."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489941421001,
+      "content": "Oh yah!!!!!!  Absolutely better and still with the Peter Dunn look......Okey-Dokey.....yes, yes."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1489940562507,
+      "content": "My friend Hamish took this yesteday, kinda cool, eh?",
+      "share": {
+        "link": "https://www.facebook.com/photo.php?fbid=10158393903870346&set=a.171812960345&type=3"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489250225963,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/kinderific/posts/10154228459816712"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1488764735570,
+      "content": "such good feelings here."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1488764720346,
+      "content": "And then just scroll down the stuff until you reach a message from Amanda Hill."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1488764572225,
+      "content": "This is one.",
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1488377551847,
+      "content": "WOW!   you are right, mesmerizing....watched it twice right away."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1488329640319,
+      "content": "magic!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487449035343,
+      "content": "Laugh at the white stuff!!!!",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hKUqaFe32RpinSGXN9dYWLoV7v4zLRrN6hZMvFuH5JWTyveNw2BEXrPkd9iGEGgXl"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1487429805811,
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1486652839973,
+      "content": "Oh my....yes, eerie.  And I liked the song too."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1486651366134,
+      "content": "the guy on the left is spookily like .....",
+      "share": {
+        "link": "https://www.facebook.com/CanadianBadAss33/videos/651556561588506/"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1486054331664,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/TheAtlantic/videos/10155072425148487/"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1485874469465,
+      "content": "Oh Peter, gets a little harder to smile, given the events of our time....thanks for sending this....and, yes, he did make me smile."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1485871915837,
+      "content": "... feeling mushy  this morning ...",
+      "share": {
+        "link": "https://www.facebook.com/hamiltonsoutherofficial/videos/1679328955633502/"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482613974602,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/481150188599044/photos/a.482406225140107/1206488132731909/?type=3"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1481993730064,
+      "content": "ME WITH MY HEAD PHONES ON !!!!!  lol",
+      "share": {
+        "link": "https://www.facebook.com/photo.php?fbid=10154226450928932&set=a.10151045295733932&type=3"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1481727473492,
+      "content": "Wow. I also just signed up for emails (BBC: 6 things to read every week). Going to expand my parameters !!.",
+      "share": {
+        "link": "https://www.bbc.com/culture/article/20160817-franz-liszt-the-worlds-first-musical-superstar",
+        "share_text": "The women who screamed and swooned for the 19th Century piano virtuoso Franz Liszt set the pattern for fans in our own time \u00e2\u0080\u0093 from The Beatles to Justin Bieber."
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1481726971616,
+      "content": "Still would like to have their stools !!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1481726920287,
+      "content": "Oh, how yummy is this !!!!!!",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid02wqviVeQSsrKWmTc5zkk7kHPfdUpib8edccRG287BrsH4X91961PJYiZheQMmvG1fl&id=481150188599044"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1481057851496,
+      "content": "how to slow down the passage of time!!!",
+      "share": {
+        "link": "https://www.facebook.com/uniladmag/videos/2474533405903037/"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1480882090842,
+      "content": "yup"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1480867295989,
+      "content": "non-stop, eh?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1480864940508,
+      "content": "She's on a roll",
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1480864858635,
+      "content": "One of my xstudents....still in close contact",
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1480529928591,
+      "content": "Hi. I am in Lockport ... Will write on Friday ... Have fun!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1480515769747,
+      "content": "Yipee, Yahoo !!!!  Wonderful, incredible laptop."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1479486606313,
+      "content": "got it.....hope you are well."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1479486559381,
+      "content": "using a toothpick on that itsy bitsy button that is supposed to activate the screen light"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1479486491883,
+      "content": "damn...just fought for 20 muns to get the jscreen to say on...whoops, it's gone again...typing in the dark (sounds like a song????!!)  What is the  'cavalry' for?"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1479482579207,
+      "content": "cavalry to the rescue!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1479429486944,
+      "content": "laptop dying for the final time,,,DNR is the demand.....will call."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1476727408327,
+      "content": "I saw this a couple of months ago and liked it, but somehow the oldies always seem to be the best."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1476710656841,
+      "content": "well, now",
+      "share": {
+        "link": "https://www.facebook.com/scotthoyingmusic/videos/10154453595789883/"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1475952348407,
+      "photos": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/photos/290424177_1165882804258406_2263193971839803205_n_636200276553602.gif",
+          "creation_timestamp": 1475952348
+        }
+      ],
+      "ip": "24.89.217.125"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1475950851601,
+      "content": "I love this, have played it once in a while over the last few years..adorable/",
+      "share": {
+        "link": "http://www.edispost.com/porcupine-tastes-his-first-pumpkin/"
+      },
+      "ip": "24.89.217.125"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1475698141218,
+      "content": "Awwwww ...."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1475443429335,
+      "content": "mmmmm ....",
+      "share": {
+        "link": "https://www.facebook.com/BerlinPhil/videos/10154567519404691/"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1474464054559,
+      "content": "This is so Smile-Making......I shared."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1474384208863,
+      "content": "entertainment for you!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1474117427856,
+      "content": "Thanks for the head phones!!!!!!",
+      "share": {
+        "link": "https://www.facebook.com/ICallsItLikeISeesIt/photos/a.356383644441864/1133863880027166/?type=3"
+      },
+      "ip": "24.89.217.125"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473297362633,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/DiscoverHalifax/photos/a.209769292279/10154632257267280/?type=3"
+      },
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1472480641241,
+      "content": "Hmmm, it seems the egrets have flown - cannot locate the picture \u00e2\u0080\u00a6 must have come from another Facebook page.\nAh well, there is always another egret ...\nplease send a hello when your email starts working again?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1472313984199,
+      "content": "Love the \"Egrets....\" Could you send it to me on facebook so I can share it? Laptop not allowing me to use email today...have a safe, enjoyable trip. And I am more than interested in your getting FIT ideas, regardless of my current mess...Have made myself begin a 3 day absolute rest endeavor ...One day done, pain is better. Carol: oh my, how young we all once were."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1472154554850,
+      "content": "Peter sent an attachment."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1472154528533,
+      "content": "Peter sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/thenatureconservancy/photos/a.189919806739/10152602267871740/?type=3"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1472046016870,
+      "content": "Fabulous!!!!!!!!!"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1471958591770,
+      "content": "Peter sent an attachment."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1471132284115,
+      "content": "Sorry this is so dark.....wanted to show you the changes in the Doll House Will describe later."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1471132202456,
+      "photos": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/photos/355800535_2415009945339284_2939968261294881938_n_612236838949946.jpg",
+          "creation_timestamp": 1471132202
+        }
+      ],
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1470308226462,
+      "content": "Ya gotta laugh !",
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1468586047809,
+      "content": "he-he-he",
+      "share": {
+        "link": "https://www.facebook.com/nspcparty/videos/1289362731081559/"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1468427672068,
+      "content": "keeping my fingers crossed",
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1468421245305,
+      "content": "sent it to Jarett who loves his kitties."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1468418015155,
+      "content": "This is GREAT !!!!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1468418006016,
+      "sticker": {
+        "uri": "messages/stickers_used/851559_577510682334976_854118530_n_577501519002559.png"
+      },
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1468368775257,
+      "content": "do you dare to watch this?",
+      "share": {
+        "link": "https://www.facebook.com/HichamBennir/videos/1643789662612654/"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1468068002776,
+      "content": "Birdhouses by great grandfather, paint jobs (4 years ago) by Emily and Renee."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1468067938218,
+      "photos": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/photos/356874708_2414639322043013_6897464180028995060_n_598121773694786.jpg",
+          "creation_timestamp": 1468067938
+        }
+      ],
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466856458268,
+      "content": "You sent a link.",
+      "share": {
+        "link": "http://www.yourclassical.org/story/2016/06/24/engineering-student-creates-a-violin-prototype-made-from-spiders-silk"
+      },
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466255299229,
+      "content": "Or this one.....it just popped up.",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=KUGL5uZDSc8",
+        "share_text": "Angry Crazy Music Teacher Destroys Students Violin *MORE GR8 VIDEOS, CHECK OUT MY CHANNEL*"
+      },
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466255106843,
+      "content": "Worst nightmare?",
+      "share": {
+        "link": "https://www.yourclassical.org/story/2016/06/17/too-close-for-concert-a-violin-goes-flying",
+        "share_text": "During a spirited performance of Tchaikovsky's Concerto for Violin and Orchestra, a conductor's hand sweeps too closely to the soloist -- sending a violin spinning through the air."
+      },
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1465762697978,
+      "content": "This is fairly close to how I would feel at the 50th Celebration. lol",
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1465326177687,
+      "content": "You sent an attachment.",
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1465326158309,
+      "content": "On the opposite end of the Spectrum is the following (Major Laugh out loud)...!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1465211077778,
+      "content": "Oh my, indeed.......inspiring"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1465168804166,
+      "content": "oh my ..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1463322637323,
+      "content": "Whoops , not the one I wanted."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1463322605815,
+      "gifs": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/gifs/12807010_965458746843437_825371039_n_576357135871250.gif"
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1463322222765,
+      "content": "WOW !!!!!!!!!! So, there are so many people doing so  many fascinating, original, creative types of art work.....methods, materials I never would have imagined. Thanks for this...sorry so late getting back to you."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1463090737010,
+      "content": "Thot you would find this interesting ..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1462662640004,
+      "gifs": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/gifs/11382805_589605987809250_1194685718_n_573462969494000.gif"
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1462662588702,
+      "content": "email not working right now...take care, hope you got home safe and have a terrific week."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1462662541111,
+      "content": "Whoops..the \"quartet' placed, not the \"quarter\" lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1462662510502,
+      "content": "Hi ya....great trip !!!! I called Rex..the quarter placed fourth.....the Army quartet with the bass multitalented guy placed first. He was really glad we came. Thanks for a super time and all your sweet considerations of my well-being !!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1462396823913,
+      "content": "So, crap, I do go on, don't I?  Yes, we will stay."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1462396789687,
+      "content": "Just a little apprehensive about being away from home and creature comforts.  Cats will be taken care of (no real need) and Jare seems stable."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1462396642271,
+      "content": "For sure...My only problem is MY problem..can't foretell what my breathing will be like at any given point....have no reason to be home at any specific time on Sat and would very much like to give some of my time to him...as he as given to me with his visiting over the last few years.  I do have all my puffers/inhalers ready...as long as you can put up with a one (or maybe two) time to wait while we are walking  or whatever.....hopefully, none of this will apply."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1462384331351,
+      "content": "Rex called - I think he REALLY  would like us to hear the competition on Saturday. says it should be over by 2:00. D'y think we can manage it?"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1462384259092,
+      "content": "Friday, noon ... have yer horse saddled!!!"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1462360161150,
+      "content": "yuppers!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1462360062623,
+      "gifs": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/gifs/11808730_991393497546548_1245487117_n_572025386304425.gif"
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1462359978815,
+      "content": "Hi ya:  are we set for Friday? Barbershoppers, here we come?"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1461588403235,
+      "content": "todays 'aww, gee ...",
+      "share": {
+        "link": "https://www.facebook.com/gdemotyvacija/videos/590924811060295/"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458996710849,
+      "content": "Happy Easter...hope all is well."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458996700236,
+      "gifs": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/gifs/11738591_10206531912244009_582451067_n_553726464800984.gif"
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458996661610,
+      "content": "Hi...(email's not working correctly)...So far living arrangements are working out pretty well....all concerned are giving it their best efforts and I have my private space (bedroom back in dining room) with TV, laptop, couch, bed etc. Mel is especially good with helping out and Jare is much more positive about pitching in. Don't know how long this will have to be the situation, but it's OK."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458650582711,
+      "content": "well, now indeed !!!"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1458582700679,
+      "content": "well, now ...",
+      "share": {
+        "link": "https://www.facebook.com/DancefloorGeneva/videos/1727358357498590/"
+      }
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1458135749692,
+      "content": "why, shore!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458135735615,
+      "content": "for sharing these"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458135728267,
+      "gifs": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/gifs/12035156_172785676400689_1281539441_n_547726702067627.gif"
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458135611812,
+      "content": "And the elephants....Oh My....this is wonderful."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458135592888,
+      "content": "I have saved the bird one a couple of years ago......makes me laugh every time !!!!"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1458135337457,
+      "content": "this is one of the more extraordinary things one could see ...",
+      "share": {
+        "link": "https://www.facebook.com/elephantfamily/videos/10153359113532321/"
+      }
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1457625698241,
+      "content": "seen this yet?/hee-hee-hee-he-ee-hee-",
+      "share": {
+        "link": "https://www.facebook.com/harry.beck.10/videos/634635049957962/"
+      }
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1456254406841,
+      "content": "daily cat chuckle"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1456234328988,
+      "content": "Now, this is interesting !!",
+      "share": {
+        "link": "https://www.facebook.com/andygrahamproductions/videos/10207618567084418/"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1455990099491,
+      "content": "Now, we're talkin' weird.....or maybe not.",
+      "share": {
+        "link": "https://www.facebook.com/MelissaFosterAuthor/photos/a.240828595952231/984098708291879/?type=3"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1455986242772,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/22Minutes/photos/a.271740508338/10153409632498339/?type=3"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1455807988592,
+      "content": "loved this."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1455807982528,
+      "sticker": {
+        "uri": "messages/stickers_used/851559_577510682334976_854118530_n_577501519002559.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1455802161271,
+      "content": "A morning chuckle for you ..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1455459602026,
+      "content": "hilarious.....I use the small 'g' and'h' all the time.....and I love the blues.mmmm"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1455417194826,
+      "content": "hee-hee-hee-hee-hee- ...."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1454718303780,
+      "content": "doing , not \"ding\"/.....funny, sort of."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1454718263556,
+      "content": "no, not at all,.....just a whoopsie...a \"could-have-been\"...I remember back to the first November here when I flew off the front stairs and wrecked my leg...do  you remember that?...I was careful, but still slipped and saved myself by grabbing the railing today....why do we forget stuff like this...?? to remain aware....thank goodness all is well. How are you ding?"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1454714851072,
+      "content": "oh no! did you slip and fall and break something important?      \nhope not ... about the weather .. check out the mail, ok?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1454711468827,
+      "content": "icy."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1454711458247,
+      "sticker": {
+        "uri": "messages/stickers_used/11057194_359532607578747_1437683731_n_359532594245415.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1454711446322,
+      "content": "Careful out there......"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1454549657771,
+      "content": "Hey - a friend took this today, while i waited for the bus - whaddya think?",
+      "share": {
+        "link": "https://www.facebook.com/photo.php?fbid=10156512556310346&set=p.10156512556310346&type=3"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1451584567145,
+      "content": "You may be interested,",
+      "share": {
+        "link": "http://www.lenore4leader.com/",
+        "share_text": "\u00e5\u00bc\u0080\u00e5\u00bf\u0083\u00e7\u0082\u00b8\u00e9\u0087\u0091\u00e8\u008a\u00b1app\u00e4\u00b8\u008b\u00e8\u00bd\u00bd\u00e6\u0098\u00af\u00e4\u00b8\u0080\u00e5\u00ae\u00b6\u00e7\u009f\u00a5\u00e5\u0090\u008d\u00e7\u009a\u0084\u00e6\u00a3\u008b\u00e5\u009c\u00a8\u00e7\u00ba\u00bf\u00e6\u00b8\u00b8\u00e6\u0088\u008f\u00e7\u00bd\u0091\u00e7\u00ab\u0099,\u00e5\u00bc\u0080\u00e5\u00bf\u0083\u00e7\u0082\u00b8\u00e9\u0087\u0091\u00e8\u008a\u00b1\u00e5\u00ae\u0098\u00e6\u0096\u00b9\u00e7\u00bd\u0091\u00e7\u00ab\u0099\u00e5\u00a8\u00b1\u00e4\u00b9\u0090\u00e7\u00a7\u0089\u00e6\u0089\u00bf,\u00e8\u00af\u009a\u00e4\u00bf\u00a1\u00e4\u00b8\u00ba\u00e6\u009c\u00ac\u00e3\u0080\u0081\u00e5\u00ae\u0089\u00e5\u0085\u00a8\u00e4\u00bf\u00a1\u00e8\u00aa\u0089\u00e3\u0080\u0081\u00e5\u00ae\u00a2\u00e6\u0088\u00b7\u00e8\u0087\u00b3\u00e4\u00b8\u008a\u00e7\u009a\u0084\u00e7\u0090\u0086\u00e5\u00bf\u00b5,\u00e4\u00bb\u00a5\u00e9\u00ab\u0098\u00e8\u00b4\u00a8\u00e9\u0087\u008f\u00e6\u008a\u0080\u00e6\u009c\u00af\u00e4\u00b8\u00ba\u00e5\u00b9\u00bf\u00e5\u00a4\u00a7\u00e5\u00ae\u00a2\u00e6\u0088\u00b7\u00e7\u009a\u0084\u00e6\u009c\u008d\u00e5\u008a\u00a1\u00e3\u0080\u0082\u00e5\u00bc\u0080\u00e5\u00bf\u0083\u00e7\u0082\u00b8\u00e9\u0087\u0091\u00e8\u008a\u00b1\u00e6\u008b\u00a5\u00e6\u009c\u0089\u00e5\u0085\u00a8\u00e7\u0090\u0083\u00e6\u009c\u0080\u00e7\u0081\u00ab\u00e7\u0088\u0086\u00e9\u00bd\u0090\u00e5\u0085\u00a8\u00e7\u009a\u0084\u00e6\u00b8\u00b8\u00e6\u0088\u008f\u00e9\u00a1\u00b9\u00e7\u009b\u00ae,\u00e5\u00bc\u0080\u00e5\u00bf\u0083\u00e7\u0082\u00b8\u00e9\u0087\u0091\u00e8\u008a\u00b1app\u00e4\u00b8\u008b\u00e8\u00bd\u00bd\u00e5\u00b9\u00b3\u00e5\u008f\u00b0\u00e6\u009b\u00b4\u00e5\u008f\u0097\u00e5\u00a4\u00a7....."
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1450960427917,
+      "content": "Holy Smokes.....!!!!!!! This is awesome."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1450878779932,
+      "content": "something about this lady ......",
+      "share": {
+        "link": "https://www.facebook.com/metamadman/videos/10153758232804522/"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1450793500864,
+      "content": "Sweeeet."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1450713272094,
+      "content": "aw, gee ..."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1449016732528,
+      "content": "sheesh!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1448996525616,
+      "content": "Just in case it doesn't make it on facebook post.",
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1448307145927,
+      "content": "That's what I figure   !!"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1448291165778,
+      "content": "cucumbers = snakes?",
+      "share": {
+        "link": "https://www.facebook.com/HuffPostLife/videos/10153291047191314/"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1447870083029,
+      "content": "Oh my...this really taxed my memory and surprised me with what teeny bits of info are hidden in my brain....Haven't finished the levels (did to 3).",
+      "share": {
+        "link": "https://www.loveaquiz.com/the-big-literature-quiz/",
+        "share_text": "Answer ALL the questions to see how knowledgeable you are! Questions get progressively harder the higher up the levels you go. You will find your results page at the end\u00e2\u0080\u00a6"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1440679212279,
+      "content": "Where I was born!!!!",
+      "share": {
+        "link": "https://www.facebook.com/photo.php?fbid=446700092181809&set=a.446293532222465&type=3"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1440677810485,
+      "content": "hee-hee is right...great ad"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1440598241280,
+      "content": "he-he"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1440415711831,
+      "content": "Hard to believe this....uncanny"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1440260816820,
+      "content": "reincarnation, anyone?",
+      "share": {
+        "link": "https://www.facebook.com/ann.fleming.50/videos/10206256663209268/"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1440247732844,
+      "content": "loved both...have seen the elephant play and dance before, but the cat/ducklings video is fantastic...liked and shared."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1440247079350
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1438197709406
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433167967763,
+      "content": "Hi ya...This is: Pretty Kitty on left and Perfect Kitty on right."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433167297067,
+      "photos": [
+        {
+          "uri": "messages/inbox/peterdunn_868198046602174/photos/345296602_2400126220160990_6718501699764183174_n_431327857040846.jpg",
+          "creation_timestamp": 1433167296
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1414241542537,
+      "content": "Not every box is empty ...\n",
+      "share": {
+        "link": "https://www.facebook.com/franspublic/photos/a.138830229699/10152825900529700/?type=3"
+      }
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1413729155657
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1398343444760,
+      "content": "New little girl born this AM!! All is well!! Managed to stay for the whole thing..amazing. More info later."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1390588780419,
+      "content": "AAAARRRRGGGHH!!!!    is right ..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1390584995041,
+      "content": "hope you weathered the storm all right..got Feb and March still to go...AAAARRRRGGGHH!!!!"
+    }
+  ],
+  "title": "Peter Dunn",
+  "is_still_participant": true,
+  "thread_path": "inbox/peterdunn_868198046602174",
+  "magic_words": [
+    
+  ]
+}

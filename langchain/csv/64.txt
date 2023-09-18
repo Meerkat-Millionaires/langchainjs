@@ -1,0 +1,145 @@
+{
+  "participants": [
+    {
+      "name": "Suzie Taylor"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Suzie Taylor",
+      "timestamp_ms": 1577056491998,
+      "content": "Suzie removed the item from Marketplace."
+    },
+    {
+      "sender_name": "Suzie Taylor",
+      "timestamp_ms": 1576939044534,
+      "content": "\u00f0\u009f\u0098\u008a\u00f0\u009f\u008d\u00aa"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1576938645360,
+      "content": "Yahoo!!!!!"
+    },
+    {
+      "sender_name": "Suzie Taylor",
+      "timestamp_ms": 1576938594548,
+      "content": "Oh no it's no worries at all I'm just about to leave now with all the sweets I have 10 baskets to deliver I'm not quite sure how fast I will get to your house but I will be there shortly"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1576938519739,
+      "content": "59 MacKay St New  Glasgow.....large yellow house with wooden screen porch on the corner of George and MacKay St....straight up George, go through Temperance and house is on the first right hand corner...sorry about being late with this infor."
+    },
+    {
+      "sender_name": "Suzie Taylor",
+      "timestamp_ms": 1576934878968,
+      "content": "Hey I'm just running a little late this morning but I'm still looking for your address to deliver your sweets"
+    },
+    {
+      "sender_name": "Suzie Taylor",
+      "timestamp_ms": 1576900726507,
+      "content": "Can I get your address for delivery for tomorrow"
+    },
+    {
+      "sender_name": "Suzie Taylor",
+      "timestamp_ms": 1576779283865,
+      "content": "Perfect :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1576779023103,
+      "content": "code name is Jane"
+    },
+    {
+      "sender_name": "Suzie Taylor",
+      "timestamp_ms": 1576778092331,
+      "content": "\u00f0\u009f\u0098\u008a"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1576778074132,
+      "gifs": [
+        {
+          "uri": "messages/inbox/lesleyhomemadesweets_2906920972675984/gifs/57488671_493174644760884_5479085703583236096_n_565366197632353.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Suzie Taylor",
+      "timestamp_ms": 1576778037473,
+      "content": "No charge for delivery :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1576778016843,
+      "content": "Okey dokey...sending money now. delivery charge?"
+    },
+    {
+      "sender_name": "Suzie Taylor",
+      "timestamp_ms": 1576777928465,
+      "content": "Sat works best for me :) my email is suzie_lynds@hotmail.com \n\nFor 2 baskets the cost will be $70"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1576777879489,
+      "content": "Oh good/......please give me your email and the total I would owe...will reimburse now. How about Sat AM? for delivery, if not Monday at any time.  Just have a friend coming on \\Sat so that would be great, if not OK."
+    },
+    {
+      "sender_name": "Suzie Taylor",
+      "timestamp_ms": 1576777678818,
+      "content": "I can accept email transfers :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1576777652033,
+      "content": "Can you accept a cheque or interact, or do I need to have someone go to the bak?"
+    },
+    {
+      "sender_name": "Suzie Taylor",
+      "timestamp_ms": 1576777356125,
+      "content": "I dont mind delivering to you I am always over town so can drop them off anytime this weekend or Monday/Tuesday eve as I work till 5 each of those days"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1576777257202,
+      "content": "OK...can I make arrangements with you to have 2 baskets delivered on Mon or Tues AM...leave the choice up to you...and what about delivery and total cost so I can have the money here. I really do not go out."
+    },
+    {
+      "sender_name": "Suzie Taylor",
+      "timestamp_ms": 1576776999865,
+      "content": "There is a variety of sweets, they will consist of peanut butter balls, Oreo balls, Cherry balls, sugar cookies, skor bar squares, cookies and cream Rice Krispies, Jersey milk squares, Mars Bar squares, ginger cookies, Scotch cookies, pecan cake pops, coconut balls, Haystacks, eatmore bars, and date balls. You will have a total of 10 sweets in each basket, six (half doz) of each one for a total of 60 sweets for $35 but unfortunately I can not do custom orders as we have nearly 100 baskets to make"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1576776202647,
+      "content": "I'd like 2 baskets...live in New Glasgow....can pay by cheque or interact...funds guaranteed...can you deliver (will pay charge) on Saturday, Sunday or Monday....if cash preferred, can do if advance notice (am housebound due to health issues). Do not want squares that have icing on top, prefer nanaimo bars, miniature marshmallowchocolate or peanut butter squares, lemon tarts or squares, sugar cookies, ginger cookies, chocolate chip anything (lol), but no coconut . What do you think.??"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1576776201306,
+      "content": "You changed the group photo."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1576776200756,
+      "content": "You named the group Lesley \u00c2\u00b7 Homemade Sweets."
+    }
+  ],
+  "title": "Lesley \u00c2\u00b7 Homemade Sweets",
+  "is_still_participant": true,
+  "thread_path": "inbox/lesleyhomemadesweets_2906920972675984",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "messages/photos/76171526_10162508234555613_349366516895973376_n_593001408119933.jpg",
+    "creation_timestamp": 1576776200
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

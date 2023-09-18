@@ -1,0 +1,181 @@
+{
+  "participants": [
+    {
+      "name": "Carolyn Price-Weiland"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1641755212400,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid02mJtwhifQeVzkZHnjitGeq4eqVo6xbs9kFfPP5VvsqaZUjHcRJESPN8ycxGXRFgtXl&id=593472751117593"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624807800189,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Carolyn Price-Weiland",
+      "timestamp_ms": 1607203744299,
+      "content": "Hope that I'm the First Person to put a CHRISTmas Tree on Your phone. \n\nIf luck is a raindrop, i'd send You a shower.\n\nIf hope is a minute, i'd send You an hour.\n\nIf happiness is a leaf, i'd give You a tree.\n\nAnd if YOU need a FRIEND, You will ALWAYS have ME.\n\nSend this to all the people You care about.\n\nEven me.\n\nIf You get 3 back, You're a True Friend!",
+      "videos": [
+        {
+          "uri": "messages/inbox/carolynpriceweiland_10204638920593058/videos/12349769_1530333383958687_595733009_n_1035202080289303",
+          "creation_timestamp": 1607203744
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607007336717,
+      "content": "Hope that I'm the First Person to put a CHRISTmas Tree on Your phone. \n\nIf luck is a raindrop, i'd send You a shower.\n\nIf hope is a minute, i'd send You an hour.\n\nIf happiness is a leaf, i'd give You a tree.\n\nAnd if YOU need a FRIEND, You will ALWAYS have ME.\n\nSend this to all the people You care about.\n\nEven me.\n\nIf You get 3 back, You're a True Friend!",
+      "videos": [
+        {
+          "uri": "messages/inbox/carolynpriceweiland_10204638920593058/videos/12349769_1530333383958687_595733009_n_714801189475040",
+          "creation_timestamp": 1607007336
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1588608836021,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/tiana.fusco/posts/pfbid0AsZ54MDR8UcaaGhKren67oDVyEUQ8qhBPLud6LxZRjUh5bWPwMTr4iKfTcKqo1Vel"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1587058586531,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/elandken/posts/pfbid0LX37AciqAhXp83fZDZ8b5YHx8noEFRbPRqD7BBBqEpABNQakA2gcSAJqd5vkYH5yl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1573321452667,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/KneeCurve/posts/pfbid02gdWVS69TecTKPGDDpW1ZNrM2tNo9W75S9iSgqVgGHqNoscM3oLhMBFTpcKSurANml"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1572464311951,
+      "gifs": [
+        {
+          "uri": "messages/inbox/carolynpriceweiland_10204638920593058/gifs/21125935_10214461258194799_7237120958635442176_n_2936656316349400.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Carolyn Price-Weiland",
+      "timestamp_ms": 1572312006513,
+      "content": "Absolutely! Surely we can end up in the same place at some point in time."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1572289936773,
+      "content": "or a glass of wine!!!"
+    },
+    {
+      "sender_name": "Carolyn Price-Weiland",
+      "timestamp_ms": 1572033743564,
+      "content": "Thanks Lesley! I\u00e2\u0080\u0099ll check it out- I had no idea Peter wrote, then again it\u00e2\u0080\u0099s been 4 or 5 decades. \nStill hope we can connect for a cup tea someday \u00f0\u009f\u0098\u008a"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1571946993352,
+      "content": "Carolyn, my brother Peter wrote this book (10 years in the making).....I thought that you would like to read the it since it features Acadia, Wolfville and surrounding areas....his descriptions of these spots is awesome and will cause reverberations of warmth and nostalgia....a good read with a background of a person's love affair with the valley and mountain.  Just sayin'."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1571946753618,
+      "content": "You sent a link.",
+      "share": {
+        "link": "https://www.amazon.ca/amazon-books-knee-curve/s?k=amazon+books+knee+of+the+curve",
+        "share_text": "Amazon.ca: amazon books knee of the curve"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1428150048801,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126361877548609_1351776047_n_126361874215276.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1428149989024,
+      "content": "Oh how  I wish.....right now, pretty locked in with grandaughter and always an eye out for my youngest son (mental health issues but pretty fine right now),  Thanks so much."
+    },
+    {
+      "sender_name": "Carolyn Price-Weiland",
+      "timestamp_ms": 1428104008066,
+      "content": "if you are able to get to the valley for WOW, let me know and I'll get you a ticket and we have a spare room :)"
+    },
+    {
+      "sender_name": "Carolyn Price-Weiland",
+      "timestamp_ms": 1416418081082,
+      "content": "take care"
+    },
+    {
+      "sender_name": "Carolyn Price-Weiland",
+      "timestamp_ms": 1416418067942,
+      "content": "i clearly don't know how to work these things :)"
+    },
+    {
+      "sender_name": "Carolyn Price-Weiland",
+      "timestamp_ms": 1416418039181,
+      "content": "I go to Cape Breton a couple of times a year so we could arrange something"
+    },
+    {
+      "sender_name": "Carolyn Price-Weiland",
+      "timestamp_ms": 1416418029632,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126361877548609_1351776047_n_126361874215276.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1416235215987,
+      "content": "WHOOPS!!!! hit the wrong tab here. LOL"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1416235187073,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362104215253_1651254063_n_126362100881920.png"
+      },
+      "ip": "156.57.14.163"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1416235176643,
+      "content": "Can't remember either!!  It certainly has been a very long time. Would love to see you too. Don't get to the valley. Do you ever appear anywhere around New Glasgow? Keep well."
+    },
+    {
+      "sender_name": "Carolyn Price-Weiland",
+      "timestamp_ms": 1416099818406,
+      "content": "I did read your wall - and couldn't remember if we met at the CNE or at a family visit prior.  It's been a long time and I hope we can get together sometime.  Do you ever get to the valley?"
+    }
+  ],
+  "title": "Carolyn Price-Weiland",
+  "is_still_participant": true,
+  "thread_path": "inbox/carolynpriceweiland_10204638920593058",
+  "magic_words": [
+    
+  ]
+}

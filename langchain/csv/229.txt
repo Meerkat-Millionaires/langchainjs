@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490632668002,
+      "photos": [
+        {
+          "uri": "https://interncache-ncg.fbcdn.net/v/t34.18173-12/13664608_10153943303204495_1178888305_n.gif?stp=dst-gif&ccb=1-7&_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-ncg&oh=00_AfBSoUkxfvcLZABP7AH8l9Vo07fl-JbxyxxjWkG__iPyhQ&oe=64AE4B9A",
+          "creation_timestamp": 1490632667
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490632578515,
+      "content": "Hi Art: yup, it's me, Lesley. I haven't been around much due to progressive COPD and compression fractures of the vertebrae (ongoing).....I hope that this message finds you and Gwen as well as possible. At this time of year, I think back on the years of Rotary Musicals I was involved in and want to thank you for the opportunity zi was given to be part of them.  I have been gathering 'play bills' (ad posters) and am wondering if you have any idea of where I could find \"Arsenic and Old Lace\", \"A Funny Thing Happened on the Way to the Forum\", .....I would really like to find these two....let me know if you have them somewhere or know who I can contact about them.  Thanks."
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "inbox/facebookuser_10212943218403740",
+  "magic_words": [
+    
+  ]
+}

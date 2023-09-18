@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1484920898557,
+      "content": "You will need to contact the admin of the contest."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1484326165065,
+      "content": "Hi there.....Has Peter Young's portrait of Leonard Cohen been removed from the Black/White competition?"
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "inbox/facebookuser_10154910269764500",
+  "magic_words": [
+    
+  ]
+}

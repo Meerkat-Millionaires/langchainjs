@@ -1,0 +1,196 @@
+{
+  "participants": [
+    {
+      "name": "Vikki Freeman"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vikki Freeman",
+      "timestamp_ms": 1644244365137,
+      "content": "Zip top cans? The ones in the metal cans or the little plastic ones?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1644235551052,
+      "content": "hi ya Viki!!!   Your dad rocks!!!! what a job he had to do and youguys as well.... Could you pick me up some milk (2%/2 liters), cat food gravy (in zip top cans.....lots and Kitty Litter?  OH and a spray bottle of cleaner for kitchen/bathroom?  and I guess  I really need these things today.  Have a good day, I hope.  love from Me"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1641756841577,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid02mJtwhifQeVzkZHnjitGeq4eqVo6xbs9kFfPP5VvsqaZUjHcRJESPN8ycxGXRFgtXl&id=593472751117593"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1641756189649,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid02mJtwhifQeVzkZHnjitGeq4eqVo6xbs9kFfPP5VvsqaZUjHcRJESPN8ycxGXRFgtXl&id=593472751117593"
+      }
+    },
+    {
+      "sender_name": "Vikki Freeman",
+      "timestamp_ms": 1641754838939,
+      "content": "Omg those are BEAUTIFUL"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1641754628811,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid02mJtwhifQeVzkZHnjitGeq4eqVo6xbs9kFfPP5VvsqaZUjHcRJESPN8ycxGXRFgtXl&id=593472751117593"
+      }
+    },
+    {
+      "sender_name": "Vikki Freeman",
+      "timestamp_ms": 1641474902588,
+      "content": "Just doing some work with t"
+    },
+    {
+      "sender_name": "Vikki Freeman",
+      "timestamp_ms": 1641474898102,
+      "content": "Lol I got it, confused by the message lol I'll be down in a little bit to straighten it out haha"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1641474849257,
+      "content": "oooo....there you are."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1641474818021,
+      "content": "\u00f0\u009f\u0098\u0083\u00f0\u009f\u0098\u009c\u00f0\u009f\u0099\u0083"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1641474783220,
+      "content": "please let me know if you receive the transfer"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1639248574631,
+      "content": "hi ya!!!!   have just sent you money....THANKS for everything!!!!\u00f0\u009f\u00a5\u00b0"
+    },
+    {
+      "sender_name": "Vikki Freeman",
+      "timestamp_ms": 1636912144334,
+      "content": "Reacted \u00e2\u009d\u00a4 to your message "
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1636838036268,
+      "content": "hi....I want to take a moment to express my happiness that you live upstairs. You are a sweetie and have helped me (and Tiana) so much lately.  It isn't always as busy (jbut close). I truly enjoy our outings even if is to see the dentist and am sorry we missed the leaves on Green Hill...I make a promise to see them with you next year, so I'll continue to work hard at maintaining as even a level of progress as possible. Never did plant those damn daffodils, so will HAVE to be around next fall!! Sending a message to Tiana that fI have \"foggy\" times almost everyday, not desperate but please ask me if I have written dates/times on my calendar when there is an upcoming appointment....becoming much more careful about depending on memory. thanks.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Vikki Freeman"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1635898658937,
+      "content": "hi ya..hope the massage was great. just sent Tiana a reminder about the garden hose and a couple of other things to bring in to porch or to basement....freezing night  coming this week."
+    },
+    {
+      "sender_name": "Vikki Freeman",
+      "timestamp_ms": 1633454900447,
+      "content": "Snot funny hahaha"
+    },
+    {
+      "sender_name": "Vikki Freeman",
+      "timestamp_ms": 1633454896648,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1633454141266,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0whC3Leve3JGBLjRHS16B2yojEVDr84aFJKSn3i2h9nQ9u2FumJB19VSxt4bhL6Qtl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Vikki Freeman",
+      "timestamp_ms": 1633453221971,
+      "content": "Will do!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1633452951416,
+      "content": "and drugs at Westside Sobey's (plus I asked them to include a new plastic breathing tube for the ventalin.....probably a cost for that.;..)...and when you get a chance 4 overdue books.  Hope you are enjoying The Nic"
+    },
+    {
+      "sender_name": "Vikki Freeman",
+      "timestamp_ms": 1633383990897,
+      "content": "3 big jugs vinegar \nOriginal Dawn dish soap"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1633205246230,
+      "content": "thanks"
+    },
+    {
+      "sender_name": "Vikki Freeman",
+      "timestamp_ms": 1633205238438,
+      "content": "Will do!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1633205161638,
+      "content": "also 4 (0r so) plastic containers (cheap, clear with blue lids?) not small (squarish could hold, say, soup for two, rice dinner for two, etc.  and  2 /4  larger ones rectangular/flatter same make if possible.mmm"
+    },
+    {
+      "sender_name": "Vikki Freeman",
+      "timestamp_ms": 1633204417481,
+      "content": "Sure can! :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1633203343028,
+      "content": "hey ya!  could you pick up chocolatey icecream.(any kind with  any else in with it),  small bag of mixed salad, seafood salad (biggest container , large bag of original Lays regular potato chips, muffins with fruit/choco. chips/NOT bran muffins."
+    },
+    {
+      "sender_name": "Vikki Freeman",
+      "timestamp_ms": 1632841451043,
+      "content": "\u00f0\u009f\u0098\u008a"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1632841287866,
+      "content": "thanks"
+    },
+    {
+      "sender_name": "Vikki Freeman",
+      "timestamp_ms": 1632765931592,
+      "content": "Hi mamu :) I called the dentist this morning and they're going to poke at the other dentist and get them moving, along with discussing if you'll need another round of antibiotics"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1632765308650,
+      "content": "sending 30.00 for past help"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1632765256948,
+      "content": "hi there....want to come do the dental call?"
+    },
+    {
+      "sender_name": "Vikki Freeman",
+      "timestamp_ms": 1631120952716,
+      "content": "Vfreem92@gmail.com"
+    }
+  ],
+  "title": "Vikki Freeman",
+  "is_still_participant": true,
+  "thread_path": "inbox/vikkifreeman_10159798677237425",
+  "magic_words": [
+    
+  ]
+}

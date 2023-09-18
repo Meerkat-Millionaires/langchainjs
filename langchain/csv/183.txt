@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Rei Kjellberg"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1462397439115,
+      "content": "Justin Trudeau: move the forces to support Fort MacMurray"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1462397405486,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid02GanbdpRhSgd38GeBxpb7yj6XhZWfyt97uP69Dew8eA3To6eudQPzdt9a6HMieQ7dl"
+      },
+      "ip": "24.89.222.200"
+    }
+  ],
+  "title": "Rei Kjellberg",
+  "is_still_participant": true,
+  "thread_path": "inbox/reikjellberg_572212086285755",
+  "magic_words": [
+    
+  ]
+}

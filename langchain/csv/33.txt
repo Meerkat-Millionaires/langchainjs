@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399479336469,
+      "content": "Hi ya Dave...Are you still looking for BBQ for parts? Have one here we are going to throw out....let me know. thanks."
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "inbox/facebookuser_10153204347270894",
+  "magic_words": [
+    
+  ]
+}

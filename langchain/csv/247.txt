@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Sparkies Electrical"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1633116793502,
+      "content": "hi Frank...Lesley Dunn here...59 MacKay New Glasgow.....I fnally found the lighting fixture and it has finally been delivered....please let me know when you can come and check it out....ALSO haven't forgotten that my daughter (same house, separate unit) would like you to do her front porch light and inside her front door....Sent a phone messsage but not sure it went to the right person....902-755-6759...thank you."
+    }
+  ],
+  "title": "Sparkies Electrical",
+  "is_still_participant": true,
+  "thread_path": "inbox/sparkieselectrical_1924657957707821",
+  "magic_words": [
+    
+  ]
+}

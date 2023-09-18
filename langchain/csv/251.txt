@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Stephen McNeil"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stephen McNeil",
+      "timestamp_ms": 1438282140547,
+      "content": "Good afternoon Ms. Dunn,\n\nAnytime we have a disruption in service - even if it is temporary - we know that it can be very frustrating for patients and their families.  At the Aberdeen hospital, we have an unfortunate situation where there has been an unexpected staffing shortage which has meant that the Nova Scotia Health Authority (NSHA) is unable to safely support patients in this unit. The NSHA is working to recruit new practitioners to the area and we are supporting them in doing that.  \n\nLet me be clear that this is not a funding issue or the government removing a service.  First, the province has provided funding to the NSHA to support these services and second, it is a temporary closure.  We have made it clear to the NSHA that we expect them to deliver strong mental health services in this province.  We know that the NSHA is working hard on all options available for Aberdeen and hope that there is a solution soon.\n\nOur newly unified health care system, presents an important opportunity to improve access and consistency of care.  One of the major areas we know needs work is mental health. We know that nurses specializing in mental health are in short supply.  As such, in our new and improved Nursing Strategy we are targeting significant resources for co-op placements in the mental health area in geographic areas where there is the most need.  This will make a big difference in closing some of the gaps that exist in our system.    \n\nI appreciate the concerns that have been raised and sympathize with patients and families.  I am as frustrated as you with this unexpected staffing issue and I expect the NSHA to work hard to recruit the proper practitioners so that the services can be delivered safely. \n\nRegards,\nStephen"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1438259418181,
+      "content": "Please try to keep the Mental Health Unit at the Aberdeen Hospital in New Glasgow open and active.....so very many people depend on it!!!!!"
+    }
+  ],
+  "title": "Stephen McNeil",
+  "is_still_participant": true,
+  "thread_path": "inbox/stephenmcneil_10153566156902486",
+  "magic_words": [
+    
+  ]
+}

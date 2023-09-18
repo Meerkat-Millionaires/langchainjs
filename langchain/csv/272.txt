@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1376447756901,
+      "content": "Hi, I saw your profile and picked interest in you, My name is Richard. I wish to be in good relationship with you, for us to know each other more better, i will be delighted to read from you soon."
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/facebookuser_923879317724582",
+  "magic_words": [
+    
+  ]
+}

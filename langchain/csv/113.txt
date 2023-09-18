@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Giovanna Ferrara"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Giovanna Ferrara",
+      "timestamp_ms": 1405906451276,
+      "content": "Awesome!!! Thanks"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1405905559834,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362190881911_254357215_n_126362187548578.png"
+      },
+      "ip": "24.222.102.84"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1405905553241,
+      "content": "Many, many Happy Returns!!!!!...I love my new home more than I can say....thanks."
+    }
+  ],
+  "title": "Giovanna Ferrara",
+  "is_still_participant": true,
+  "thread_path": "inbox/giovannaferrara_10153493639153006",
+  "magic_words": [
+    
+  ]
+}

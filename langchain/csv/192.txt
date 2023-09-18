@@ -1,0 +1,122 @@
+{
+  "participants": [
+    {
+      "name": "Amanda Hill"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614107579367,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0qXdtbtHQieVcpu2bCAeMCZ69oCJbBEmpXxB5N9eGBdr4VdB1Wa5PPzCx5CftU9Xhl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Amanda Hill",
+      "timestamp_ms": 1607011282549,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607007506613,
+      "content": "Hope that I'm the First Person to put a CHRISTmas Tree on Your phone. \n\nIf luck is a raindrop, i'd send You a shower.\n\nIf hope is a minute, i'd send You an hour.\n\nIf happiness is a leaf, i'd give You a tree.\n\nAnd if YOU need a FRIEND, You will ALWAYS have ME.\n\nSend this to all the people You care about.\n\nEven me.\n\nIf You get 3 back, You're a True Friend!",
+      "videos": [
+        {
+          "uri": "messages/inbox/amandahill_10153393525199482/videos/12349769_1530333383958687_595733009_n_2824528684460523",
+          "creation_timestamp": 1607007506
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1491131187358,
+      "photos": [
+        {
+          "uri": "messages/inbox/amandahill_10153393525199482/photos/276301439_120332001236450507_4567517633536434676_n_727192547454374.gif",
+          "creation_timestamp": 1491131185
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Amanda Hill",
+      "timestamp_ms": 1491084054787,
+      "content": "Les... tonight is the night you are in the audience (aka the video camera) -- so tonight's show is going out to YOU! \nGotta leave it all on the stage tonight! \nYou've been in my mind and you've helped me bring Velma to a level I didn't know I had in me. So THANKS for that!!!! \nAlmost curtain time! \nxox \u00e2\u009d\u00a4"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489522963573,
+      "photos": [
+        {
+          "uri": "https://interncache-ncg.fbcdn.net/v/t34.18173-12/13705168_10204864896382026_2059668696_n.gif?stp=dst-gif&ccb=1-7&_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-ncg&oh=00_AfDfutPjqGeSN3Bmu-plV3PZchEnu2KJttngzjq04W9nHA&oe=64AE6975",
+          "creation_timestamp": 1489522963
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489522836747,
+      "content": "Again, thanks for the moving comments on my birthday.....love ya. I was sure I could get to the performance of \"Chicago\", but have just been informed that I have my second compression fracture in spine...just healing up the first one and now ..WHAMOO...Roger assures me he will make sure that there is a good video done. So I send my best wishes, hopes for broken legs, and confidence in a fabulous performance."
+    },
+    {
+      "sender_name": "Amanda Hill",
+      "timestamp_ms": 1443187466788,
+      "content": "Thank you so much, Les! Hope all is well with you! xo"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1443098824247,
+      "content": "Congratulations, Amanda...an awesome award for an awesome person.!!!"
+    },
+    {
+      "sender_name": "Amanda Hill",
+      "timestamp_ms": 1427565364224,
+      "content": "Oh, Lesley, thank you so much!! :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427553066419,
+      "sticker": {
+        "uri": "messages/stickers_used/48607585_1186553428160539_3322214640053649408_n_213419212140637.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427553059493,
+      "content": "Congratulations once again....you rock!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1389023114666,
+      "content": "I was glad to be back too!!!!! Looking forward to this and THANK YOU for your message......Big Hug next time, k? All the best in this new year of ours."
+    },
+    {
+      "sender_name": "Amanda Hill",
+      "timestamp_ms": 1388974873978,
+      "content": "I was SO GLAD to see you in that room tonight! Made my day! So happy you're back this year! :) \n(I wanted to tell you that afterward and give you a big hug but our paths didn't cross)\nSee you next week! :) "
+    },
+    {
+      "sender_name": "Amanda Hill",
+      "timestamp_ms": 1365102138221,
+      "content": "That is so thoughtful of you, Lesley! Thanks for thinking of me! I am getting excited!\nYou are missed though... by me, the cast, and definitely the audience!\nHope all is well! xox"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1365079544941,
+      "content": "All my very best to you in this new show!!!!! I hear the singing is \"to die for\"....break many legs."
+    }
+  ],
+  "title": "Amanda Hill",
+  "is_still_participant": true,
+  "thread_path": "inbox/amandahill_10153393525199482",
+  "magic_words": [
+    
+  ]
+}

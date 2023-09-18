@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Harvey Bate"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Harvey Bate",
+      "timestamp_ms": 1543583558802,
+      "content": "You are now connected on Messenger"
+    }
+  ],
+  "title": "Harvey Bate",
+  "is_still_participant": true,
+  "thread_path": "inbox/harveybate_10156807047319161",
+  "magic_words": [
+    
+  ]
+}

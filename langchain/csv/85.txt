@@ -1,0 +1,219 @@
+{
+  "participants": [
+    {
+      "name": "Jessica MacIsaac"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624808026394,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1570223002911,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/whiskyandsarcasm/photos/a.275298256372259/538622250039857/?type=3"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1418653181614,
+      "content": "I am calling a halt to teaching in March.....finally!!!! So perhaps, you'd want to find someone who will provide on-going lessons? Jess, you are so busy, but YES, do find something for yourself...feed your inner child!"
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1418567856285,
+      "content": "Infact, it is my 2015 resolution to do something I want to do for myself for MYSELF!"
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1418567838842,
+      "content": "I'm interested in both for myself, possibly tag teaming me and Ava together for piano."
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1418567748286,
+      "content": "Are you still doing piano and voice?"
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1418567735788,
+      "content": "And PS."
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1418567732992,
+      "content": "I'm pretty sure I have it here somewhere!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1418567565776,
+      "content": "Jess, just double checking...did you ever get the cheque for the photo?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1408806079178,
+      "content": "Dear Jess: I am very sorry for your loss.....we will be thinking of you, Natalie and Archie plus the rest of the family . Please let us know if there is anything at all we can do."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1407165616414,
+      "content": "Hi...thanks....will get that to you by the end of the month"
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1407159144525,
+      "content": "Hi Les! Sorry for the delay! The cost of the print came to 24.50!"
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1406480016240,
+      "content": "I will verify cost for u asap! At work til 5!"
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1406479996292,
+      "content": "So glad you love it! xoxo"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1406477028327,
+      "content": "Jess, the photo is outstanding...have it in a temporary frame (will eventually pay out bucks for the correct one!!!!)...how much do I owe you?"
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1404048647475,
+      "content": "I can find you easily enough I'm sure! Thank you, really looking forward to it!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1404048581371,
+      "content": "You deserve it."
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1404048568949,
+      "content": "I'm really looking forward to some serious down time, it's been wide open the past few months!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1404048562583,
+      "content": "See you later...if no one answers the door (I may be babysitting elsewhere)...just put it on one of the chairs on the screen deck.....59 Mackay s"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1404048511251,
+      "content": "WOWZER!!!"
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1404048490626,
+      "content": "That's totally fine! ;) A boy I've been seeing for about two weeks, we have two solid days off in a row together, no kid, no agenda, and nothing but nice weather in our way! :)))))"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1404048448538,
+      "content": "I'll have to pay you after July 4th...Is tht OK?  What BOY?"
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1404048398279,
+      "content": "I have your picture and it looks AWESOME! I'll figure out your total! I have to come to NG tonight to pick up my boy so I can drop it off to you!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1401710476193,
+      "content": "OK.....may not be home during the AM, since Tiana and I usually take the babe for a drive (soothing) in the mornings, but I am having Donna to visit around 10:00/10:30."
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1401710331767,
+      "content": "Alright, I'm taking off to New Glasgow and mom is watching a sick miss Ava for me! I'll touch base with you ASAP!!!!"
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1401710269526,
+      "content": "Yea, you'd lose details in that for sure!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1401710252927,
+      "content": "And the canvas prints wouldn't suit this , don't think."
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1401710232937,
+      "content": "16x20? Uploading now!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1401710211446,
+      "content": "Might be wise to do the smaller one? Though I'd like the 20 x 24."
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1401710173511,
+      "content": "Shouldn't lose a whole lot, I can upload the file and let you know"
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1401710157398,
+      "content": "10x14 is 30+ tax and 16x20 is 45 + tax"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1401710142004,
+      "content": "How much definition would be lost in the large one?"
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1401710068421,
+      "content": "I also have friends who own Sketch it in New Glasgow and they do canvas prints!"
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1401710025282,
+      "content": "16x20 is 14.97 + tax or 20x30 is 25.97 + tax"
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1401709998927,
+      "content": "(Hi from Mom!! She is sitting beside me holding Daisy getting some morning love! )"
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1401709978300,
+      "content": "20x24 is 20.97+tax"
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1401709956781,
+      "content": "Mom and I are looking at prices on Walmart right now!"
+    },
+    {
+      "sender_name": "Jessica MacIsaac",
+      "timestamp_ms": 1401709947482,
+      "content": "Hi Les!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1401656887712,
+      "content": "Jess, my phone # is 755-6759 and email is lesleydunn49@gmail.com (I think!!!!).....whatever, let me know...thanks."
+    }
+  ],
+  "title": "Jessica MacIsaac",
+  "is_still_participant": true,
+  "thread_path": "inbox/jessicamacisaac_10158133797596337",
+  "magic_words": [
+    
+  ]
+}

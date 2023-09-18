@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Jim Proudfoot"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jim Proudfoot",
+      "timestamp_ms": 1427566087467,
+      "content": "Thanks! Haha"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427565225033,
+      "content": "Lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427565221580,
+      "content": "Gym, break another leg tonight....\"Jim\" ooops."
+    },
+    {
+      "sender_name": "Jim Proudfoot",
+      "timestamp_ms": 1427554239657,
+      "content": "*Lesley* oops!"
+    },
+    {
+      "sender_name": "Jim Proudfoot",
+      "timestamp_ms": 1427554209165,
+      "content": "Thanks Leslie!  Glad you liked it!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1427553109619,
+      "content": "An amazing job, well done...Congratulations."
+    }
+  ],
+  "title": "Jim Proudfoot",
+  "is_still_participant": true,
+  "thread_path": "inbox/jimproudfoot_928533790008",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Kathy Gunn"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419691000092,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362164215247_428974420_n_126362160881914.png"
+      },
+      "ip": "24.137.111.148"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419690993410,
+      "content": "Did you get my message re RCM theory and my retirement? All my best to you and your kin this season and for the upcoming year."
+    }
+  ],
+  "title": "Kathy Gunn",
+  "is_still_participant": true,
+  "thread_path": "inbox/kathygunn_10154745851312216",
+  "magic_words": [
+    
+  ]
+}

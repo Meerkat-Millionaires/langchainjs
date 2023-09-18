@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": ""
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "",
+      "timestamp_ms": 1531929320033,
+      "content": "You are now connected on Messenger"
+    }
+  ],
+  "title": "",
+  "is_still_participant": true,
+  "thread_path": "inbox/997172340456392",
+  "magic_words": [
+    
+  ]
+}

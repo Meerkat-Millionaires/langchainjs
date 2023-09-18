@@ -1,0 +1,239 @@
+{
+  "participants": [
+    {
+      "name": "Lara Scholey"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624808082980,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Lara Scholey",
+      "timestamp_ms": 1549893713080,
+      "content": "Lara sent a link.",
+      "share": {
+        "link": "https://www.upworthy.com/pixar-s-new-short-film-makes-a-bold-statement-about-toxic-masculinity-in-the-workplace",
+        "share_text": "Stories that connect us and sometimes even change the world."
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1545670347163,
+      "content": "Merry Christmas!!!  email is lesleydunn49@gmail.com...thanks!"
+    },
+    {
+      "sender_name": "Lara Scholey",
+      "timestamp_ms": 1545620561159,
+      "content": "Merry Christmas Lesley! Hope you are well. Charlotte sang Rise up shepherds at church in Montreal this morning. If you want the dropbox link to the video, send me your email. Have a great Christmas!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1544974844989,
+      "videos": [
+        {
+          "uri": "messages/inbox/larascholey_10153524777868320/videos/12412543_577708572383870_1018189197_n_215005462751459",
+          "creation_timestamp": 1544974844
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1525095975901,
+      "gifs": [
+        {
+          "uri": "messages/inbox/larascholey_10153524777868320/gifs/21126083_10154977009735677_373499555880108032_n_937118606461766.gif"
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Lara Scholey",
+      "timestamp_ms": 1525095739387,
+      "content": "Thanks Lesley, I showed her! (she's home sick with strep throat, glad that waited until Monday!). That means a lot. You started her on the journey, and inspired her, and we are grateful."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1525095651375,
+      "gifs": [
+        {
+          "uri": "messages/inbox/larascholey_10153524777868320/gifs/20859834_323609948087369_8224833230486896640_n_937116353128658.gif"
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1525095638135,
+      "content": "Oh, I am SO, SO IMPRESSED!!!!!  Bravo, made me cry and brought back so many memories of you all. Please tell her how much I admire her singing. Love to all."
+    },
+    {
+      "sender_name": "Lara Scholey",
+      "timestamp_ms": 1525023471507,
+      "audio_files": [
+        {
+          "uri": "messages/inbox/larascholey_10153524777868320/audio/audioclip1525023459000226560_10156275081413320.mp4",
+          "creation_timestamp": 1525023471
+        }
+      ]
+    },
+    {
+      "sender_name": "Lara Scholey",
+      "timestamp_ms": 1462044266260,
+      "content": "I'm making use of their musical skills at church. We started an evening worship once a month, which is easy to add extra music in. Isaac accompanied on piano for first time, Jesus loves me, he said it was really hard to play while people sing! And sometimes I get him to play random songs he likes before and after.             Charlotte will be singing various festival songs at both my churches over the next month.  Hope Jarrett is doing better soon. Reggie must be so much fun. Take care of yourself!"
+    },
+    {
+      "sender_name": "Lara Scholey",
+      "timestamp_ms": 1462044021831,
+      "content": "Thanks for asking. I will tell the kids you were thinking of them. Isaac is really doing well in piano. Shelley said he's through the equivalent of Grade 2, I think, starting grade 3. He loves playing peppy ones like Rockin' Robin, Ding dong merrily on high, Heart and Soul. Also plays Sleeping Dragon.           We miss you, you gave them all such a great start. Charlotte sang 2nd soprano/alto in CCNS, and it really helped that she knew how to read music."
+    },
+    {
+      "sender_name": "Lara Scholey",
+      "timestamp_ms": 1462043855271,
+      "content": "Good to hear from you. Sorry you've been sick, hope you are feeling better. Isaac did an excellent drum solo, received an 87, played Caribbean Gumbo, 2nd out of two, as he said the other was a grade 8! Isaac's ensemble played French national march and their band played Childhood hymn and Newfoundland Folk song(with Matthew in band on bass) and got a silver.            Charlotte's music festival, God help outcasts, was 83. Her folk I was away for, Cherry Tree carol, 90, tied for 3rd in group of 9. Sacred, All through the Night, 88, 3rd place in group of 9. Lastly, Vocal - If you become the moon (the best I ever heard her sing it with her big voice!), 89, tied for 3rd in group of 5.    Adjudacator for the last 2 was really good.   There, you asked for it!  A good experience. Made for a whirlwind April with Children's chorus of NS at the middle of the month.  And Charlotte's choir Sinneadair got a silver, and singing with Trinitarians a gold. The joint choirs are singing at Festival of Stars tomorrow, and just heard that Charlotte is one of the kids getting a prize - guess we will stay for the whole thing!"
+    },
+    {
+      "sender_name": "Lara Scholey",
+      "timestamp_ms": 1462043422735,
+      "content": "Hi Lesley,"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1461972816386,
+      "content": "PS...you are a superlative mom."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1461972770569,
+      "content": "Congrats to Charlotte re Musical Festival...and to Isaac re Band Instrumental...Let me know more..since I can only get results re internet and The News (New Glasgow) which is not very forthcoming......This week, I have spent some time ruminating on my past involvement with the Festival...can only say that I had been very ill during the pre-Festival preparations time and that it has proven well that I stopped when I did. Miss the rush/the happiness that each of my students brought me, whether the outcome was win, place or participated with valor.  Give my best to the kids."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460292723932,
+      "content": "So good to hear from you...All is well here with busy, busy  days. Had a rescue puppy for a few months while trying to find it a good home (sweet, but active !), still dog sitting the Big Dog 5 days a week  and Reggie two days plus overnights, times when Tiana does Consults in what was the Music room. I have Jarett and his girlfriend staying with me for a while, another glitch in the Mental Health progress but again on the road to better times...they will stay until jobs are sorted out and finances improved. They also brought 2 cats (count my blessings that they found homes for 2 others !!!) and so there are 4 cats now. Before the rescue pup left for her new home, it was Bedlam...lol. Reggie is great, active, bright and fun (cept  for the TWOS issue). Tell me about the boys and give my love (in form of a big hug, to them all). How did the Festival work out? for the Musical Theatre. What else is she doing? And how's the piano progressing for Isaac?"
+    },
+    {
+      "sender_name": "Lara Scholey",
+      "timestamp_ms": 1459351602800,
+      "content": "Hi Lesley, How are you doing? Your granddaughter must be growing and changing every day. Was thinking of you this week as Charlotte prepares to sing Friday night in the festival - musical theatre. Singing God bless the outcasts as Esmerelda from Hunchback of Notre Dame. She helped me out last month by singing All through the night at the end of our evening worship service. All the best, Lara"
+    },
+    {
+      "sender_name": "Lara Scholey",
+      "timestamp_ms": 1450200274686,
+      "content": "Thanks, I'll tell them. Matthew is doing very well on electric bass in the school band. Hoping to convince him to take lessons outside of school on that or guitar in the new year."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1450193600957,
+      "sticker": {
+        "uri": "messages/stickers_used/64289945_1420707024739030_3019371758663761920_n_324210757722001.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1450193584927,
+      "content": "So good to hear from you. Tell Isaac that Rockin Robin is one of my favorites! Good for him and Charlotte..my best to Matthew and hope he's involved in activities he really enjoys. Keep safe over the icy months and travel time. Wishing peace and joy back to you people !"
+    },
+    {
+      "sender_name": "Lara Scholey",
+      "timestamp_ms": 1450098857002,
+      "content": "Enjoy the time off facebooki! We think of you often, Lesley. Charlotte sang 'Gospel Train' at church on Sunday, and Isaac played Angels we have heard on high, Ding dong merrily on high, and Deck the halls during the offering. After the benediction amen,, he yelled, 1, 2, 3, and launched into Rockin robin. People didn't know what to think! It truly added to our theme of joy! I think I'll ask them to repeat it at my little church next Sunday. Take care of yourself. Wishing you peace and joy this Christmas to you, Tiana and Reggie, Lara"
+    },
+    {
+      "sender_name": "Lara Scholey",
+      "timestamp_ms": 1444414372516,
+      "content": "My friend in Ottawa shared this who has two girls who love to be in plays.",
+      "share": {
+        "link": "https://www.facebook.com/theatrefolk/photos/a.10150127552981289/10152505165671289/?type=3"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1442407087770,
+      "content": "Good stuff!!  Have a great fall."
+    },
+    {
+      "sender_name": "Lara Scholey",
+      "timestamp_ms": 1442407048179,
+      "content": "Oh, yes, he wouldn't miss it. Started again with Shelley last week. He played the songs he liked during the summer!    Right now, he's working on Rockin' Robin, and of course likes the rhythm and sound!    And he took one organ lesson with organist at Gravenhurst United."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1442406966604,
+      "content": "Thanks, Laura, for the news. Did Isaac go back to piano lessons?"
+    },
+    {
+      "sender_name": "Lara Scholey",
+      "timestamp_ms": 1442406898650,
+      "content": "Glad to hear your family news, that Jarrett is doing well, and Tiana has found someone. Very exciting! Will pray that good things continue. Sorry to hear about your breathing. Will write more another time.     Kids are well, though Charlotte had orthodontist yesterday, braces next spring and 2 years later jaw surgery, she is still not impressed. Matthew has gum surgery next week, then braces.               They are healthy and well and we had an amazing time during the summer.   Charlotte is already pushing Isaac to audition for the school musical, he says he will. Band has begun and both boys are enjoying it.   Isaac had fun playing in another parade on labour day with Heatherbells. Hang in there, Reggie must be growing and fun to spend time with!    I'm keeping you in my prayers.  Will keep you posted, Lara"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1442406805332,
+      "content": "No, she can keep the songbook...all my best with her new teacher, she's one of the very best!!!! She will correct that breathing right away, I'm sure. Have a good year all of you.....keep me posted once in a while"
+    },
+    {
+      "sender_name": "Lara Scholey",
+      "timestamp_ms": 1442406636894,
+      "content": "I somehow missed this in the summer. Thanks for looking. Organist figured it out and she sang well. Do you want me to drop off the folk song book sometime?   She had her first voice lesson with Monica, it went pretty well."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1437830748305,
+      "content": "I have searched, searched for the music (have donated most of my stuff to others) and can't find a copy....thinking it was C or G. We are all well and very busy with summer occupations plus Tiana has finally settled back into work (a tough one!). Jarett is doing extremely well at the moment (knock on wood) and so is his partner, Melanie. He loves his apartment (an industrial loft in New Glasgow) and has lots of computer contracts...Phew. Tiana has a wonderful man in her life now and looks long term, he loves her and Reggie. He's a kind, intelligent fellow and I am hoping that she has found her companion. Not able to visit with my two little (not so little ) ones in Ottawa..some breathing issues for me, but manageable if I take it easy..some days diamonds, some stones. Loving the time with Reggie. Thanks for keeping me updated. am always interested. What great kids you have.!!! Keep safe, keep well."
+    },
+    {
+      "sender_name": "Lara Scholey",
+      "timestamp_ms": 1437163573975,
+      "content": "Hi Lesley, Hope you are enjoying your summer. How is Tiana managing back at work? Summer is hard to be working all the time. We are well at the cottage in Gravenhurst. Matthew had his first in water scuba diving lesson today, is driving the motor boat, and waterskiing! Isaac is swimming, tubing and building/programming lego robots (maybe organ lessons for fun in August), and Charlotte is swimming, tubing, playing dolls, and looking forward to camp in August (and enjoying the 'bunky' Carl made 6 meters away where she can sleep and get away from her brothers! I am loving not working.   My parents and their church/organist would like Charlotte to sing Song for the Mira on Sun August 2. I will practice with her, we have song on iPod, but I didn't bring the book with music. Organist is pretty capable, may be able to find it. I know to look for the proper ending 'princes and kings', but what key does she sing it in?   She'll practice with the organist ahead of time.   Thanks for your help, all the best, Lara"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426264770423,
+      "content": "So very good to hear!!!!!!  Well done, Charlotte."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426264768950,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126361970881933_2050936102_n_126361967548600.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lara Scholey",
+      "timestamp_ms": 1426264619697,
+      "content": "Hi Lesley, Last night of Annie was fantastic, every time Charlotte opened her mouth to sing, people were surprised, in a good way! She is getting a video of the play after March break. If it works on my laptop, I'll bring it sometime to show you her NYC solo when she breaks onto the stage singing as an up and coming star. The best part was when that part of song was repeated after everyone took a bow, so she almost got the last word/note! You would have been proud. See you next week, Lara"
+    },
+    {
+      "sender_name": "Lara Scholey",
+      "timestamp_ms": 1419729854625,
+      "content": "Hi  Lesley.  She didn't tell me. Meant to email.  She sang so well at both churches. A few  commented on how much she has improved.  Enjoying  an excellent  break. Have a great  Christmas  season!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1419690935300,
+      "content": "All my best for the upcoming New Year.....spoke to Charlotte and think her singing went well? Peace be with you all."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1395069673448,
+      "content": "Please check emails. Definitely ill and getting worse quickly...must cancel..feel rotten about doing so...telll Charlotte not to worry about hands on hips (maybe cross arms??)"
+    }
+  ],
+  "title": "Lara Scholey",
+  "is_still_participant": true,
+  "thread_path": "inbox/larascholey_10153524777868320",
+  "magic_words": [
+    
+  ]
+}

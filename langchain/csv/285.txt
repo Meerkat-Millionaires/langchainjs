@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Tara Carruthers"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tara Carruthers",
+      "timestamp_ms": 1576104074055,
+      "content": "Hi Leslie!  Just saw your comment on our TLC Facebook page.  We are having a contest this month.  Our Facebook friends are going to choose one charity for our office to donate $100.  We had 3 patients post photos of their pups dressed in Christmas gear or by the tree.  Then we heard about the dogs that were rescued from the puppy mill and are in the care of the SPCA. We decided that the SPCA would be the recipient of one of our $100 donations from our office.  We provided the link for patients in case they were interested in donating on their own.  Is that what you were wondering?"
+    }
+  ],
+  "title": "Tara Carruthers",
+  "is_still_participant": true,
+  "thread_path": "message_requests/taracarruthers_10162489096675570",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

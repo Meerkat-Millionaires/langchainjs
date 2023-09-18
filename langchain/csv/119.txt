@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Luke Davidson"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luke Davidson",
+      "timestamp_ms": 1638923744592,
+      "content": "https://www.facebook.com/groups/1333502833345108/permalink/5181495281879158/",
+      "share": {
+        "link": "https://www.facebook.com/groups/1333502833345108/"
+      }
+    },
+    {
+      "sender_name": "Luke Davidson",
+      "timestamp_ms": 1638809083341,
+      "content": "https://m.facebook.com/groups/1333502833345108/permalink/5176772752351411/",
+      "share": {
+        "link": "https://www.facebook.com/groups/1333502833345108/"
+      }
+    }
+  ],
+  "title": "Luke Davidson",
+  "is_still_participant": true,
+  "thread_path": "inbox/lukedavidson_4433035623492325",
+  "magic_words": [
+    
+  ]
+}

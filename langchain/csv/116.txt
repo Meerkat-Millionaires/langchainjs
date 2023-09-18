@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Marie Bonaparte"
+    },
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marie Bonaparte",
+      "timestamp_ms": 1357419600567,
+      "content": "Marie sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/explosm/photos/a.427422470475/10152000858315476/?type=3"
+      }
+    }
+  ],
+  "title": "Marie and Tiana",
+  "is_still_participant": true,
+  "thread_path": "inbox/marieandtiana_142073049284000",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

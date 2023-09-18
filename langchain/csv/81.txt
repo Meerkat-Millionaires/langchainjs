@@ -1,0 +1,114 @@
+{
+  "participants": [
+    {
+      "name": "Cait Oh"
+    },
+    {
+      "name": "Chris Lane"
+    },
+    {
+      "name": "Brendan Lane"
+    },
+    {
+      "name": "Ciaran Lane"
+    },
+    {
+      "name": "Meghan Fusco"
+    },
+    {
+      "name": "Jarett Dunn"
+    },
+    {
+      "name": "Julia Dunn"
+    },
+    {
+      "name": "Brian Lane"
+    },
+    {
+      "name": "Alexandra Ready"
+    },
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Peter Dunn"
+    },
+    {
+      "name": "Damion Fusco"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cait Oh",
+      "timestamp_ms": 1454809862841,
+      "content": "cait.owens@hotmail.com"
+    },
+    {
+      "sender_name": "Alexandra Ready",
+      "timestamp_ms": 1454807209603,
+      "content": "alexandraowens_12@hotmail.com"
+    },
+    {
+      "sender_name": "Brendan Lane",
+      "timestamp_ms": 1454800957264,
+      "content": "br878432@dal.ca for me"
+    },
+    {
+      "sender_name": "Ciaran Lane",
+      "timestamp_ms": 1454799473040,
+      "content": "And doc."
+    },
+    {
+      "sender_name": "Ciaran Lane",
+      "timestamp_ms": 1454799413025,
+      "content": "I'm dopey"
+    },
+    {
+      "sender_name": "Chris Lane",
+      "timestamp_ms": 1454799379520,
+      "content": "Whos email is that?"
+    },
+    {
+      "sender_name": "Ciaran Lane",
+      "timestamp_ms": 1454799333155,
+      "gifs": [
+        {
+          "uri": "messages/inbox/caitchrisbrendanand9others_1049153321794352/gifs/12384519_490429607748677_1217909052_n_10153690659108889.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Ciaran Lane",
+      "timestamp_ms": 1454799332858,
+      "content": "Ciaran.lane@dal.ca"
+    },
+    {
+      "sender_name": "Julia Dunn",
+      "timestamp_ms": 1454798599539,
+      "content": "Awesome \n\nChez Dunn is always open for visitors\n\n25931 Celtic Terr dr, Katy, TX 77494\n281-725-2682 or house is 832-437-0408\nthedunnclan@yahoo.ca"
+    },
+    {
+      "sender_name": "Chris Lane",
+      "timestamp_ms": 1454798497347,
+      "content": "Chris ch816772@gmail.com - please also send some dunn contact info, might be in the lonestar state sometime."
+    },
+    {
+      "sender_name": "Julia Dunn",
+      "timestamp_ms": 1454798168081,
+      "content": "Hey everyone\n\nWe need a current email address for y'all. If you could please respond asap that would be most helpful. \n\nI have one for Shelley, Jill, and Cathy already.\n\nThanks so much\n\nPlease feel free to answer for anyone who doesn't normally check their fb too"
+    }
+  ],
+  "title": "Cait, Chris, Brendan and 9 others",
+  "is_still_participant": true,
+  "thread_path": "inbox/caitchrisbrendanand9others_1049153321794352",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

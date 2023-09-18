@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Patsy Murray Chapman"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Patsy Murray Chapman",
+      "timestamp_ms": 1624029803985,
+      "content": "\u00f0\u009f\u0098\u008a"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624029797229,
+      "content": "loverly!!!!!  my best to you in this endeavor...can't go wrong with coffee,!!"
+    },
+    {
+      "sender_name": "Patsy Murray Chapman",
+      "timestamp_ms": 1624029698334,
+      "content": "Kinda lol but not really, a friend and I are opening a coffee shop in River John"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624029409456,
+      "content": "will be sending you pics of Candy-Oh when in bloom.....awesome.  Hope you are well...still doing the plant thing?"
+    },
+    {
+      "sender_name": "Patsy Murray Chapman",
+      "timestamp_ms": 1431167236220,
+      "content": "Good Morning Leslie, to get to my place come out towards Scotsburn, keep going past the churches for about 10 minutes or so to West Branch, I'm on the left just pass the West Branch Cemetary , greenhouse is in the yard can't miss it"
+    }
+  ],
+  "title": "Patsy Murray Chapman",
+  "is_still_participant": true,
+  "thread_path": "inbox/patsymurraychapman_10153587083430775",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Carolyn Vienneau"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Carolyn Vienneau",
+      "timestamp_ms": 1466948875865,
+      "content": "No problem sorry to hear of your situation"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466947442592,
+      "content": "Unfortunately, I've just received word of a death in the family....so will have to put this on hold for a while...thanks for the info and all your time involved."
+    },
+    {
+      "sender_name": "Carolyn Vienneau",
+      "timestamp_ms": 1466942263083,
+      "content": "I am home this morning until 1030. The price for the 16 x 20 is $450.00 and the other two are $600.00 and 700.00 I used the email you gave me yesterday."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466937716379,
+      "content": "Sorry, but I don't have an email from you. Perhaps I should just say \"Thanks for the effort and maybe next time\". My fault for having to do this in such a hurry. I appreciate the trying."
+    },
+    {
+      "sender_name": "Carolyn Vienneau",
+      "timestamp_ms": 1466897939525,
+      "content": "I emailed you the pics and prices. Sorry about the delay.Out in the garden"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466812312646,
+      "sticker": {
+        "uri": "messages/stickers_used/66115176_1467117226760690_2587797677936738304_n_481567675315655.png"
+      },
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466812301682,
+      "content": "Could you send a pic of the 2 large ones ? And the cost?"
+    },
+    {
+      "sender_name": "Carolyn Vienneau",
+      "timestamp_ms": 1466804733077,
+      "content": "how large.  I have two very large ones but I am assuming that you want one smaller than 18 x 24\""
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1466778947509,
+      "content": "Sent  a message on your home page..but will also add this one....looking for a painting with Sail Boat theme....rush job to acquire unfortunately. Would you be able to send me pics?  Thanks."
+    }
+  ],
+  "title": "Carolyn Vienneau",
+  "is_still_participant": true,
+  "thread_path": "inbox/carolynvienneau_10153537986600443",
+  "magic_words": [
+    
+  ]
+}

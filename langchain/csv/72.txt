@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Ruby Mackenzie"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624807842444,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    }
+  ],
+  "title": "Ruby Mackenzie",
+  "is_still_participant": true,
+  "thread_path": "inbox/rubymackenzie_10155878529451151",
+  "magic_words": [
+    
+  ]
+}

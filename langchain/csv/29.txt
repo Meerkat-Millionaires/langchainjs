@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Carlton Howard"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Carlton Howard",
+      "timestamp_ms": 1466274595635,
+      "content": "You are now connected on Messenger"
+    }
+  ],
+  "title": "Carlton Howard",
+  "is_still_participant": true,
+  "thread_path": "inbox/carltonhoward_10157041991260383",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "AJ Dunn"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607007386593,
+      "content": "Hope that I'm the First Person to put a CHRISTmas Tree on Your phone. \n\nIf luck is a raindrop, i'd send You a shower.\n\nIf hope is a minute, i'd send You an hour.\n\nIf happiness is a leaf, i'd give You a tree.\n\nAnd if YOU need a FRIEND, You will ALWAYS have ME.\n\nSend this to all the people You care about.\n\nEven me.\n\nIf You get 3 back, You're a True Friend!",
+      "videos": [
+        {
+          "uri": "messages/inbox/ajdunn_10164477497720335/videos/12349769_1530333383958687_595733009_n_294007891990839",
+          "creation_timestamp": 1607007386
+        }
+      ]
+    }
+  ],
+  "title": "AJ Dunn",
+  "is_still_participant": true,
+  "thread_path": "inbox/ajdunn_10164477497720335",
+  "magic_words": [
+    
+  ]
+}

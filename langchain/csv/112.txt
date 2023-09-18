@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Jarett Dunn"
+    },
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Donna Cyr"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Donna Cyr",
+      "timestamp_ms": 1506722858997,
+      "content": "Hey lesley  make sure you bring warm jammies!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426855138000,
+      "content": "yup!!!!!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1426855121077,
+      "content": "Lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426854994528,
+      "content": "wow"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426854971207,
+      "content": "You named the group I can Relate."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1426854915041,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/tinamaddigan1/videos/10155156396385858/"
+      },
+      "ip": "24.89.222.200"
+    }
+  ],
+  "title": "I can Relate",
+  "is_still_participant": true,
+  "thread_path": "inbox/icanrelate_242878559215990",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

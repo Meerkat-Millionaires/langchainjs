@@ -1,0 +1,100 @@
+{
+  "participants": [
+    {
+      "name": "Melanie Greening"
+    },
+    {
+      "name": "Lesley Dunn"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "",
+      "timestamp_ms": 1440074706435,
+      "content": "will do"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1440074702143,
+      "content": "let me know how it goes"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1440074698828,
+      "content": "Seeya"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1440074695196,
+      "content": "later"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1440074685924,
+      "content": "Lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1440074677184,
+      "content": "kicks in the arse"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1440074654768,
+      "content": "for kicks"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1440074651736,
+      "content": "we were thinking about driving bad"
+    },
+    {
+      "sender_name": "Melanie Greening",
+      "timestamp_ms": 1440074649812,
+      "content": "i will :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1440074648667,
+      "content": "bye-eee"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1440074646832,
+      "content": "of course!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1440074642123,
+      "content": "drive safe"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1440074641112,
+      "content": "hello mom"
+    },
+    {
+      "sender_name": "Melanie Greening",
+      "timestamp_ms": 1440074635697,
+      "content": "hello"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1440074614370,
+      "content": "hi Mel"
+    }
+  ],
+  "title": "Melanie and ",
+  "is_still_participant": true,
+  "thread_path": "inbox/melanieand_589916517813289",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

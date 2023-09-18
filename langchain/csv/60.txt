@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Jennifer Crossman"
+    },
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1434371284931,
+      "content": "Good enough!!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1434371276693,
+      "content": "So, I've rescheduled the car oil change for Thursday July 2 at 2:00 pm mom."
+    },
+    {
+      "sender_name": "Jennifer Crossman",
+      "timestamp_ms": 1434371267550,
+      "content": "Lol I have to go to memebertou now ::("
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1434371220518,
+      "content": "Hi!  I'm an arsehole!  I booked too many things for thursday, lol."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1433960054437,
+      "content": "Hello mom and Jen!  Made an appointment for the car next Thursday the 18 at 2:00 pm.  Jen will be picking me up for work (I'll drop off the baby early) and taking me home after work (and then I'll go get the baby).  This means that mom-you don't have to take me to or from work and I've got all baby transport covered.  You just need to get the car in for 2 pm.  And Jen-don't forget me ;)"
+    }
+  ],
+  "title": "Jennifer and Tiana",
+  "is_still_participant": true,
+  "thread_path": "inbox/jenniferandtiana_728527307273723",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

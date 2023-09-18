@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "June Littler Hill"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "June Littler Hill",
+      "timestamp_ms": 1433368829776,
+      "content": "Thank you Lesley. It was a hard day but a wonderful funeral service.  We will miss Linda dearly. \nJune and Don"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1433366547382,
+      "content": "My condolences and thoughts go out to you and Don."
+    }
+  ],
+  "title": "June Littler Hill",
+  "is_still_participant": true,
+  "thread_path": "inbox/junelittlerhill_10153442502311013",
+  "magic_words": [
+    
+  ]
+}

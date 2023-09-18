@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1393797235500,
+      "content": "Hi how are you doing?? U seems really lovely and sweet, I love your profile would you CHAT,Please send me a smoke signal, I look forward hearing from you I am Alliens"
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/facebookuser_546494378857526",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,1750 @@
+{
+  "participants": [
+    {
+      "name": "Roger Plamondon"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1634406065910,
+      "photos": [
+        {
+          "uri": "messages/inbox/rogerplamondon_10153572144736147/photos/245136664_451280332977309_1848132333377551003_n_2715320758769567.jpg",
+          "creation_timestamp": 1634406065
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624807870027,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614107292453,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0qXdtbtHQieVcpu2bCAeMCZ69oCJbBEmpXxB5N9eGBdr4VdB1Wa5PPzCx5CftU9Xhl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1607007215504,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607007189055,
+      "content": "Hope that I'm the First Person to put a CHRISTmas Tree on Your phone. \n\nIf luck is a raindrop, i'd send You a shower.\n\nIf hope is a minute, i'd send You an hour.\n\nIf happiness is a leaf, i'd give You a tree.\n\nAnd if YOU need a FRIEND, You will ALWAYS have ME.\n\nSend this to all the people You care about.\n\nEven me.\n\nIf You get 3 back, You're a True Friend!",
+      "videos": [
+        {
+          "uri": "messages/inbox/rogerplamondon_10153572144736147/videos/12349769_1530333383958687_595733009_n_385914042736969",
+          "creation_timestamp": 1607007188
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1605897502689,
+      "content": "thank you"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1605896184994,
+      "content": "No problem Lesley. I'll pop over tomorrow when I get a chance. It shouldn't take to long."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1605894508640,
+      "content": "hi ya..it is just to install a new automatic door closer on the door in front of the big inner door.....I have the item needed....screwdrivers are disappearing around here. I would appreciate it so much and I hope it won't be difficult///any time is fine."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1605831100549,
+      "content": "Hi Lesley, my apologies in not getting back to you right away. It was a busy week with a large project deadline looming. What was it you needed help with? I should be able to squeeze in a visit this weekend."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1594131832960,
+      "content": "Great Stuff!!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1593883716100,
+      "photos": [
+        {
+          "uri": "messages/inbox/rogerplamondon_10153572144736147/photos/106712285_594371828145641_780041435161218123_n_594371764812314.jpg",
+          "creation_timestamp": 1593883715
+        }
+      ]
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1593883704463,
+      "content": "Lol... I hear you. Building a deck at the cottage today."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1593872879469,
+      "content": "too much cabin fever!!!!!!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1593740171325,
+      "content": "This is our new challenge girls ...\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1592683025285,
+      "content": "that's fine....good luck with projects and love to see you some time!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1592490702584,
+      "content": "Hi Lesley, not sure when I'd get a chance.  I have taken on a few projects that are eating up my time.  I do want to come over for a visit though.\u00f0\u009f\u0099\u0082"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1592489553265,
+      "content": "and besides, I'd get to see you!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1592489537826,
+      "content": "Roger, will you be able to find some time to assist garden/lawn/major pruning of forsythia?  If not, don't be reluctant to say 'no'/.......??"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1588612857511,
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1588608800471,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/tiana.fusco/posts/pfbid0AsZ54MDR8UcaaGhKren67oDVyEUQ8qhBPLud6LxZRjUh5bWPwMTr4iKfTcKqo1Vel"
+      }
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1586625808724,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586625427187,
+      "gifs": [
+        {
+          "uri": "messages/inbox/rogerplamondon_10153572144736147/gifs/61927280_2535669336452346_5850580549118197760_n_1117795858553958.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586625286584,
+      "content": "sent 60.00...thank you so much"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586618490653,
+      "content": "bless you, you are De Man!!!....just put them in the porch....no need to come in...stay safe wherever you go!!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1586618422151,
+      "content": "No problem Lesley.  I get those for you later today."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586616988476,
+      "content": "I know yu are busy and I don't know if you are still making trips to stores....if you can, I'd like to get a loaf of bread, 2 large jugs of milk, and a box of wine (Reserve) Vivo (from Chili) red wine....will include 20.00 in payment for your service.  Hope all is well.....just let me know is Yes or No.    thanking you."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1586270272005,
+      "content": "Lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1586270221819,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/sheilawalshconnects/photos/a.369514228254/10158439574308255/?type=3"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1585423972036,
+      "content": "252.75 (groceries and delivery).....thank  you so much, Roger....sending now"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1585412817572,
+      "content": "Will do. I'll leave it a little bit."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1585411241985,
+      "content": "will reimburse you immediately after delivery and will include 30.00 for your trouble."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1585411185303,
+      "content": "whoops....paper towels (cheap), squeezy lemon, potatoes, lg bag baby carrots, 2 bags romaine, container fresh mushrooms, 2 yellow bell peppers, peanut butter (smooth), cans of ham/chicken for sandwiches, large bags (2) of Tex-Mex shredded cheese,oneynut Cheerios and Miniwheats and a jar of mixed sweet pickles (or bread-and-butter).........Thanking you in advance."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1585410803213,
+      "content": "groceries: 2 lg jugs 2% milk, 2 loaves bread (fiber and sour dough), 2cheap pork chops, 2 hamburger /////////frozen:: big bag of chicken fingers, 3 bags of no-name fries (crispy with skin on), large meat lasagna, 4 Stouffer's meat lasagna (small ones), large pkg of Italian meatballs, 4 Hungryman entrees, rocky road ice cream, large bag frozen California Blend veggies)......     \n         Continuing with other stuff: 2 cans diced tomatoes, 2 bottles Spaghetti sauce, 2 cans tomato sauce,, 1 sm can of tomato paste, egg noodles, reg spaghetti,"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1585317563334,
+      "gifs": [
+        {
+          "uri": "messages/inbox/rogerplamondon_10153572144736147/gifs/54258854_2315980741977813_8943842289487183872_n_499161640753405.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1585317511841,
+      "content": "Thank you....I will send you a list of items required..and also send you 20. for your service. You rock.!!!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1585317366675,
+      "content": "No worries Lesley. I should be fine to go tomorrow for you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1585316685593,
+      "gifs": [
+        {
+          "uri": "messages/inbox/rogerplamondon_10153572144736147/gifs/30658086_931001130412600_826300631999315968_n_211307103458082.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1585316501609,
+      "content": "Absolutely NO RUSH...just wanted to find out if you were still willing, since it means going into the store (since online is a week or more in advance)  and I DO NOT WANT YOU TO GO ANYWHERE THAT MAY COMPROMISE YOU!!!  You are precious and need to take care of yourself (and your \"others\") so be careful, honest and unafraid of saying \"no\"."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1585316105155,
+      "content": "Possibly. Just not today. I have a online meeting this afternoon and I'm snowed in waiting for the plow."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1585315940216,
+      "content": "havesent 20.00 for the grocery delivery....is it possible for you to do this again, given the overwhelmed on-line delivery at Superstore?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1584898881728,
+      "content": "You too!!!!!!!!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1584898868946,
+      "content": "No worries. Money received. Stay safe."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1584898509766,
+      "content": "Hi....money sent.....thank you MEGA!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1583603670322,
+      "content": "You devil, you......actually, I can at least see you physically as a butler...mmm...good luck."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1583603621355,
+      "content": "I am Franz the butler... Nazi sympathizer."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1583603295845,
+      "content": "what part do you have ?  Nazi, villager, friend or foe of the family....????"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1583512023352,
+      "content": "deep breathing and pacing!!!!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1583511662544,
+      "content": "Hey Lesley,  the show is coming along fine. A little nervous about being on stage again but should be fine by showtime. Loved Drowsey Chaperone... that was so much fun to do. Loved the set too. Doreen and I are well. I hope you a doing OK."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1583509452984,
+      "content": "How is the musical coming....??  Hope all is great and I am sure that it will be spectacular!!!  Let me know...haven't seen much on face book yet...wish I could be there...watched Chaperone last night (again) and loved it....thanks so much for this video. Also hope all is well and super with Doreen."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1575733292631,
+      "content": "I will be over shortly. I have to run into Canadian Tire anyway."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1575730132508,
+      "content": "ok....thanks"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1575669237991,
+      "content": "Hi Lesley,  just landed. Getting back.from. Tampa. Let me check.with Doreen and see what I can do."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1575667291181,
+      "content": "I would give you my card for the tree before you go."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1575666713332,
+      "content": "Can you give me one or two hours ASAP? Part of that is to take my card and get a 4 foot, pre-lighted fake tree from Canadian Tire. The rest is a hodgepod of stuff. It would be so appreciated. And if you don't have a Gretta for the musical, I have one here."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1571951405163,
+      "content": "nope...sending 20.00 and many thanks!!!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1571949509027,
+      "content": "Actually that was only half an hour... so $10."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1571946078526,
+      "content": "any time!!!  Keep safe."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1571761924763,
+      "content": "Hi Lesley,  just got your voicemail. No problem. I'll make some time this week. Possibly Thursday after work."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1570266954783,
+      "content": "Off to Victoria today. Hope you have a great weekend."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1570266911173,
+      "content": "Lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1570222919228,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/whiskyandsarcasm/photos/a.275298256372259/538622250039857/?type=3"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1569516371408,
+      "content": "sounds AOK...."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1569512383161,
+      "content": "I can do that... maybe this weekend."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1569511362560,
+      "content": "oooooo...good stuff!!  Want to clean up the front porch?"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1569511333534,
+      "content": "I have a second interview next week."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1569510175271,
+      "content": "Okey-Dokey.....what happrened re job in Chester?"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1569509950988,
+      "content": "Thanks Lesley.  No worries. I think you are a caught up.\u00f0\u009f\u0099\u0082"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1569509759112,
+      "content": "sent another 50.00, with more to come in a couple of weeks.  thanks for your patience."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1568156591076,
+      "gifs": [
+        {
+          "uri": "messages/inbox/rogerplamondon_10153572144736147/gifs/24294508_10212592271215010_6079313872894820352_n_467128817476706.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1568156522324,
+      "content": "Thanks Roger and , no, you did NOT see me smoking....major big secret (not from the immediate family)."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1568146574072,
+      "content": "Hey Lesley, they only sell the red in a box... $40. You can oy get the white in a bottle ... $18.50. Is there something else you prefer or do you want the box?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1568132517069,
+      "content": "thanks"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1568132500511,
+      "content": "Lol... no worries Lesley,  glad to stop at the store for you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1568132009380,
+      "content": "Would you make a stop for me at the liquor store? Tiana picked up the groceries yesterday and I forgot to put it on the list,,,don't want to bother her again today...she is winding up her previous job and getting ready to start the new one in the Schools this month....I like Domaine D'Or (large bottle of red wine)...will send you money for one hours work, the wine (about 22.00) and 5.00 for the extra stop....if I owe more, will send that after I see you today.....thank you so much....sending 50.00...keep the change  \\hoot, \\hoot \\; last of the big time spenders here!!!!!  lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1568046246024,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1568046209561,
+      "content": "No problem. See you then."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1568046190825,
+      "content": "Oh my, yes...that would be great."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1568046154249,
+      "content": "About the same.but Doreen still doesn't have power. I'll swing by after work tomorrow and clean up the yard / cut the grass if you need me to."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1568046057708,
+      "content": "not bad at all!!!!  a few small branches and no elecgtr. for about 24 hours...pretty minor, how about you?"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1567951381086,
+      "content": "Hey Lesley,  any damage to the property? My phone is almost dead nut wanted to check in."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1567027989514,
+      "content": "Will do."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1567026761012,
+      "content": "reggie's middle name is isabella...thanks for the help this summer....keep my grass in mind until winter....please and thank you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1565972476375,
+      "content": "ASAP...and thanks"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1565812792073,
+      "content": "Hi Lesley,  be there shortly.  No, I am still owed $75... includes the stuff I bought at Sobeys garden center."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1565792727785,
+      "content": "anytime you are available, grass could be cut. Did I pay for the last time?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1564597553009,
+      "content": "Beautiful idea....thanks"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1564589562070,
+      "content": "Hey Lesley,  I'm available to cut the grass after work if you want."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1564500779260,
+      "content": "that's fine...hope your trip was great!!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1564227044536,
+      "content": "Hey Lesley,  sorry to take so long getting back to you. I have been traveling lately and I'm in Sherbrooke this weekend. I'll try and get over early next week."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1564064048248,
+      "gifs": [
+        {
+          "uri": "messages/inbox/rogerplamondon_10153572144736147/gifs/56423374_2337653036255021_564766406759940096_n_2400137316900091.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1564063913466,
+      "content": "Hi ya....could you come sometime to clean up the mess along the fence and mow? Can't pay until next Wed., but sure would like it cleared up before then. ...thanks, just let me know if you can/can't."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562963956469,
+      "content": "sent (color:teal)"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1562963139828,
+      "content": "No hurry."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1562963124257,
+      "content": "Roger.plamondon@gmail.com"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562963104062,
+      "content": "I can still get Tiana to do it, but I need your email to do it myself."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1562962879429,
+      "content": "No worries."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562962866986,
+      "content": "KKKKK....many thanks"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1562962846190,
+      "content": "$36.73 + 2 hours work... so $76.73 or just $75 total."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562962332364,
+      "content": "60.00 plus the last day's work???? let me know total."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562962265778,
+      "content": "Please send me your email address (mine is lasleydunn49@gmail.com), so I can send you the $ directly.....thank you....it looks great and I do think the rose bush will make it!!! The bees love this bush."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562694141668,
+      "content": "thanks, big guy!!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1562694123692,
+      "content": "Sounds good. I'll see you after work tomorrow."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562693600446,
+      "content": "tomorrow would be great!!!!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1562684353791,
+      "content": "I can come buy after work today or tomorrow if you like."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562678200652,
+      "content": "roger...would you be able to tell me what day you could come so I can tell Tiana re booking clients?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562604904462,
+      "content": "OK...will send $ ASAP.....and many thanks... don't think Tiana has a client this week....I will check."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1562519069810,
+      "content": "So I cut all the grass, including the side yard, and I hooked up the new hose, tested it to ensure it didnt leak, and ran it to the front yard. I'll turn it off when I leave. I went back in to double check on the plants you wanted move but you were asleep and I didnt want to wake you. I can come back an evening this week to move the rose bush and get rid of the other plants. I stacked the soil.and mulch next to Tiana's deck.Total for the soil and mulch was $36.73. An hour to cut the grass install the hose."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1562513372862,
+      "content": "Hi Lesley. I'll be over shortly.  Just going to Sobeys now."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562421854253,
+      "content": "Thanks, Babe!!!!!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1562421835552,
+      "content": "I'll pick them.up. no problem."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562421308257,
+      "content": "Will need 3 bags of mega-soil (in front of Sobey's store and 3 black mulch, if they have it)....if you need my debit card, let me know and I will leave it on the kitchen table...if you can't make it Sunday, jjust let me know....no prob."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1562354362545,
+      "content": "Hi Lesley, I should have some time on Sunday, weather pending. I'll text Sunday morning. Yes I did get money from Tiana, no worries. Hope you are feeling better. \u00f0\u009f\u0099\u0082"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562352857836,
+      "gifs": [
+        {
+          "uri": "messages/inbox/rogerplamondon_10153572144736147/gifs/21125881_1504269149609352_5099859908325539840_n_425053558101959.gif"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562352801435,
+      "content": "roger: did you get payment?   I would like one more 2 hour garden activity ....3 holes dug, 3 or 4 plants moved from side yard.....dirt ad stuff already spread....I will not be using the side yard as a garden,,,,,need all stuff in front so let me know, K?...your did a great job!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562261525352,
+      "content": "sorry...have been ill again...pleasecomevisit"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1561812635404,
+      "content": "Hey Lesley,  am I ok to drop by this morning to start on your garden? Do you need me to pick up anything?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1561571572483,
+      "content": "thanks"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1561571532152,
+      "content": "Yes, of course. I'll try and get over in the next few days."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1561571275934,
+      "content": "can we get another time for front garden work?....at your convenience."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1561486846918,
+      "content": "That's the good stuff. \u00f0\u009f\u0099\u0082"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1561485480811,
+      "content": "better...have home oxygen now..YES!!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1561482689008,
+      "content": "She did. How are you feeling?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1561481050902,
+      "content": "Did Tiana pay you?  And thanks"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1560960411679,
+      "content": "Hi Lesley, I picked up the pruners and loppers for you. I have the tools for the faucet so I'll look at it tonight after work."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1560876962214,
+      "content": "I'll try and get over after work tomorrow. I have a few hours."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1560778779696,
+      "content": "No problem Lesley,  hope you are feeling better."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1560778285721,
+      "content": "hi...back from hospital....will need you to pick up new hand pruners, long loppers, adjustable wrench ....and outside faucet may need help.... can give you my debit card for these...whenever you are able"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1560550364607,
+      "content": "Planning on doing some yard work for you tomorrow, If that is OK..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1554054421593,
+      "content": "Almost any time is great!!  Look forward to seeing you."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1554054397278,
+      "content": "Lol sorry."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1554054391577,
+      "content": "*Lesley"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1554054381128,
+      "content": "Thanks Leslie.  I have a play poster for you that a bunch of the cast signed. Hoping I could stop in sometime this week. Let me know what works best for you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1554054310635,
+      "content": "Congratulations, Roger!!!!!!!!!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1545675138344,
+      "content": "So glad.you liked it Lesley. Merry Christmas. \u00f0\u009f\u0098\u0081"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1545673861376,
+      "content": "So sorry I was under-the-weather when you were visiting. ABSOLUTELY LOVE THE CAROL BURNETT show and it will help me pass the time when the back and breathing demand some more bed rest.....laughing all the way!!!  And yumm ..that bread of yours is always delicious.  Again thanks and All the Best to you during this season and through the <new <year!!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1544974795667,
+      "videos": [
+        {
+          "uri": "messages/inbox/rogerplamondon_10153572144736147/videos/12412543_577708572383870_1018189197_n_359962731419916",
+          "creation_timestamp": 1544974795
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1542721019948,
+      "content": "You and your bread are welcome ANYTIME. Spent 6 days in ICU last week...better now. Keep well, keep safe."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1542719964378,
+      "content": "Hey Lesley, I am doing Ok. Busier than I'd like to be but OK. Had a rough allergy season... I think it was the pollen levels. Getting ready for Christmas. Already have most of my gifts bought and wrapped...lol. It is looking like we may have a new show next year after all. Don is trying to get Mamma Mia. We are waiting for confirmation from New York. Sally has agreed to be the new vocal director. Hope you are well and getting lots of love from Reggie. Talk to you soon... I'll bring bread. :-)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1542719636311,
+      "content": "Roger, just wondering how you are doing? Think of you often (even when I don't need something fixed!!! lol)"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1535200555132,
+      "content": "Hi Lesley, I have to run into Pictou this morning so I'll swing by your place early this afternoon."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1535038598587,
+      "content": "Lol..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1535037227362,
+      "gifs": [
+        {
+          "uri": "messages/inbox/rogerplamondon_10153572144736147/gifs/20859785_10101521234685629_7450360157826973696_n_313384829421107.gif"
+        }
+      ],
+      "ip": "24.89.210.42"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1534883709300,
+      "content": "Hi Lesley. No problem. I'll drop by this week or this weekend to get the grass done and look at the wall. I may bake some bread this weekend too.\u00f0\u009f\u0098\u0081"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1534883223347,
+      "content": "So glad you had a great time in Nlfd...and so glad you didn't get gored by an amorous moose...when you get a chance, like the lawn mowed and for you to take a look at the wall going down to the basement in order to repair the wall (any way to protect it from dampness)?...Also, can I buy a couple loaves of bread next time you make it?  And do you ever make rolls? or any other good stuff that I would be more than happy to pay for?Feel weird asking this, but you sure do make good stuff!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1532694673348,
+      "content": "That is cool!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1532694516188,
+      "content": "AMAZING",
+      "share": {
+        "link": "https://www.facebook.com/insiderpresents/videos/1021559304662709/"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1531855790337,
+      "content": "Oh good!!!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1531847434899,
+      "content": "Hi Lesley,  I have the wood for the step and will come over after work to replace it."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1531414242737,
+      "content": "thanking you. Enjoy!!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1531414227290,
+      "content": "No problem. Lol. I hope to get to the step either this weekend (if we don't go camping) or early next week after work on Monday or Tuesday. I'll keep you posted."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1531414216673,
+      "content": "ora new bladder....too much information, yes? I will shut up now"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1531414185954,
+      "content": "tripped over the dog in the dark the other night....whacko....need a night light...LOL"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1531414127486,
+      "content": "I say I will do it, but need a diamond-day to get it done....oh my"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1531414088199,
+      "content": "yup....If I can get to Canadian Tire to buy more stain....have lost the last can!!!!  ggrrrrrrr. I need to do Tiana's porch, steps, my steps and some touchups here and there."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1531413485775,
+      "content": "Not sure yet. Just a couple of boards to replace the bottom step. Were you looking at staining it all after I repair it?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1531413090636,
+      "content": "Roger, how much are the supplies for stairs?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1531317103339,
+      "content": "OK...thanks!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1531241215280,
+      "content": "Hi Lesley, I haven't forgot about you... I have just been crazy busy with the lobster carnival and work. Hope to get over there soon to fix your step."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1529773427815,
+      "content": "Hi Lesley.  Sorry. I have James wedding reception tonight and I was running around getting some things done. I drop in shortly."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1529772182397,
+      "content": "Roger, I think you mentioned coming on Sat (today)...not sure if this is right, if not, fine...just let me know....thanks"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1529161930574,
+      "content": "OK...I've got the \"cold\" but stay away from you!!!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1529161901512,
+      "content": "Hi Lesley, just finished at the B&B. Be there shortly."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1528913200759,
+      "content": "sounds excellent...hope you are well."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1528913180760,
+      "content": "No problem Lesley.  I have some time on Saturday."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1528912433032,
+      "gifs": [
+        {
+          "uri": "messages/inbox/rogerplamondon_10153572144736147/gifs/31894419_10160443080320603_9030230428455272448_n_961866127320347.gif"
+        }
+      ],
+      "ip": "24.89.210.42"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1528912414492,
+      "content": "Oh, and half of the sliding mirror door in big closet  (in Jare's room) is completely off its hinges ,as am I most of the time.!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1528912343682,
+      "content": "Roger, up for more? First, the lawn needs a proper mowing....it's pretty ragged although I am sure Jare has done his best...lol. Also, the inner front storm door is hanging on by one screw (the pneumatic thingy), the front step needs a serious look (maybe can use boards downstairs?? and there is a big bookcase (inherited) that needs to be slammed together. What say you?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1527101557183,
+      "content": "Sounds great"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1527101157257,
+      "content": "Hi Lesley, I'll drop by after work tomorrow to look at the mower and will plan on Saturday to clean up the porch."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1527100837548,
+      "content": "Still so pleased about basement and all the stuff was picked up. Can you come to get our mower started and to clean up front porch? Let me know when it is convenient. Thanks."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1525963371532,
+      "content": "Yes, oh Yes.....see you then."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1525892749482,
+      "content": "Hi Lesley,\n\nI'll drop by tomorrow after work and have a look. I'll plan to get started on Saturday after I finish the yard at the B&B. Glad to help."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1525892095165,
+      "content": "oH YES!!  Bog job is stairsto basement/wall/getting rid of all empty cardboard boxes, etc. This is the biggest chore. Inside wall on screen porch needs cleaning, the gate to back yard needs to be placed higher (it is off right now), some stuff needs moving.....Priority is porch, basement. When do you think you could do some of this? It would make more sense to show you what needs doing. I am at your convenience.  This is awesome."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1525890755707,
+      "content": "Hey Lesley, Tiana said you wanted someone to help you out with a few jobs around the house. What do you need done?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1523545471828,
+      "content": "Me too"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1523543681650,
+      "content": "Thanks Lesley! Wish you were with us."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1523543571324,
+      "gifs": [
+        {
+          "uri": "messages/inbox/rogerplamondon_10153572144736147/gifs/20272579_1416585478419690_1435533032743239680_n_927435427430084.gif"
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1523543454766,
+      "content": "ALL THE BEST OVER THE NEXT FEW DAYS!!!!!!!!!!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1522075807056,
+      "content": "You're welcome.  And nice to see you too. Hope you are well. \u00f0\u009f\u0098\u008a"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1522075761223,
+      "content": "Lovely to see you!!! and thanks for the poster (well done, you)!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1514661233121,
+      "gifs": [
+        {
+          "uri": "messages/inbox/rogerplamondon_10153572144736147/gifs/11413086_1642926979253615_1564915049_n_869714383202189.gif"
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1512836187524,
+      "content": "Been a crazy year but I am enjoying the ride. \u00f0\u009f\u0098\u0081"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1512835787967,
+      "content": "pretty good overall....getting proficient at keeping my head while all around are losing theirs!!!  lol....you?"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1512834611055,
+      "content": "How are you doing?"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1512834599601,
+      "content": "65 A Townsend Ave, New Glasgow, B2H 4A7"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1512833894409,
+      "content": "Roger, what's your mailing address?"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1509751485524,
+      "content": "That's amazing!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1509750921512,
+      "content": "You sent an attachment.",
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1494758149245,
+      "content": "nice one!!!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1494716410077,
+      "content": "Cool. I have the originals from.the 70s. :-)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1494714502221,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.cbc.ca/radio/day6/episode-336-sidney-crosby-s-concussion-awesome-mix-vol-2-marine-le-pen-captain-canuck-and-more-1.4099052/captain-canuck-gets-a-reboot-a-new-origin-story-and-a-whole-new-universe-1.4099074",
+        "share_text": "Saturday is Free Comic Book Day and Chapterhouse Comics, the publisher of the legendary Canadian superhero Captain Canuck, is building an entire Canadian comic universe around him. But history isn't on their side. Can Tom Evans come back from war and be the hero Canada deserves?"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1492975057202,
+      "content": "Roger, if you get a minute, could you pop downstairs and maybe figure out why the TV isn't working?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490972803317,
+      "content": "YAHOOOOOOO!!!!!!!!!!!!!!  Good news."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1490923430766,
+      "content": "A great opening night.  Everything went smooth. Good crowd. Yay!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490911085091,
+      "content": "The roar of the crowd, the smell of the greasepaint....ENJOY!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1490910939370,
+      "content": "Thanks Leslie! 5 minutes to house in!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490910768854,
+      "content": "BREAK A LEG !!!!!!!!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490817704992,
+      "content": "yes"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1490817535365,
+      "content": "Yeah!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490817487611,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.visiontv.ca/2017/03/27/doc-martin-two-seasons/",
+        "share_text": "Doc Martin is Coming Back for Two More Seasons!"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490817284342,
+      "content": "YUMMY!!!!!!!! thanks"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1490719511969,
+      "content": "Will do."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490719476063,
+      "content": "Having a few bad days with the unfortunate back (Rex says my mother had bones like egg shells!!!).....If you bring it down, don't let the Big Dog know you are here....she loves you and will wish to go home. I will close the living room door and if you would put it in the kitchen, much appreciated.....drool, drool, drool."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1490719351934,
+      "content": "That awesome.  Thanks Lesley.  There is roast beef dinner in the slow cooker if you want some. I can bring some down later or just help yourself."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490718663693,
+      "content": "Since I know your time is precious right now...I will take care of the Big Dog until Tiana gets home....May the Force be with you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490705016051,
+      "photos": [
+        {
+          "uri": "messages/inbox/rogerplamondon_10153572144736147/photos/50775247_230661347867562_2891141240844189696_n_724608801046082.gif",
+          "creation_timestamp": 1490705015
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1490704971596,
+      "content": "Awesome! I was made for loving you! Rockin out the KISS tunes."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490704853648,
+      "content": "Please reserve a role in the Rotary Musical (circa 2030). Thanks.lol",
+      "share": {
+        "link": "https://www.facebook.com/missjennyskindercare/videos/779456305540106/"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1489509959495,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489509920313,
+      "content": "thanks"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489509914951,
+      "photos": [
+        {
+          "uri": "https://interncache-ncg.fbcdn.net/v/t34.18173-12/13734835_1194501097257621_1808812624_n.gif?stp=dst-gif&ccb=1-7&_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-ncg&oh=00_AfCZmQGqhp8QJEWDxjVTwbYFmcNvh0ABst3NEXrzqduEyw&oe=64AEB75E",
+          "creation_timestamp": 1489509914
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1489507759456,
+      "content": "Hi Lesley,  sorry to hear that. I'll make sure you get a copy of the video if you want to see it."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489507163174,
+      "content": "Hope everything is going well with the musical!!!!  Make sure you eat your Wheaties and take extra vitamins for the duration..lol. I will not be able to attend, which is distressing since it is the ONE thing I wanted to do. I have another compression fracture (different vertebrae) which is going to curtail activities once again. All my best wishes re musical!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489268517713,
+      "content": "giggle",
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1488838798815,
+      "content": "LOVE"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1488838790661,
+      "content": "No problem Leslie. I'll put out all the garbage tomorrow night after practice \n Just leave it in the porch."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1488838751479,
+      "content": "No...no...chuck it out on Tuesday...I sincere.y think that i am losing my mind."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1488838700754,
+      "content": "If I leave my garbage on my porch will you chuck it out for Wed AM?  If I find the energy to do it, you will see that it is done."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1488838566054,
+      "content": "I want to say\" thanks\" for everything that you have contributed to this home/house...I don't say it enough...but \nTHANKS\"/////I wish you the best of luck with the musical and I know how hard you are working with it...Really I do know.  I know that it will be a success (am attending on Thurs.). No one other than those who have been involved with a musical know the time and effort involved."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1488838338728,
+      "content": "First:  I know that this time of the year is jammed pack with commitments....heebie-jeebies re Musical and how do you find the time for all of it?  Job, personal relationships, commitments to friends, Xpartners, (and in your case, loverly dogs) and also keeping somewhat ahead of your roomate and her daughter.....I hope that I haven't asked too much from you while you have been here.....and I truly have appreciated you being here."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1488290749902,
+      "content": "loverly"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1488237372670,
+      "content": "You're welcome. Hope you had a nice birthday. \u00e2\u0098\u00ba"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1488236871172,
+      "content": "Gorgeous!!!!  Mega heavy cake. Please feel free to come get some at any time!!!! Yummy. Thank you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1486160017709,
+      "content": "thanks!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1486160006690,
+      "content": "I'll be right down."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1486159863687,
+      "content": "Hi....Are you taking the dog today? No one mentioned anything...and I have no food...??"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1485898179371,
+      "content": "Will do. I have rehearsal tonight. Will drop food and cleaner off shortly."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1485896342486,
+      "content": "Roger, just put a bag of dog food through the kitty door on the porch and (cleaning lady coming tomorrow) a bottle of Mr Clean or equivalent please. thanks...left a message on your cell too. I will keep the dog overnight also if you wish."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1482639806867,
+      "content": "No problem Lesley... another time when we are both up for it. :-)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482613111493,
+      "photos": [
+        {
+          "uri": "messages/inbox/rogerplamondon_10153572144736147/photos/276193466_120332001154309609_2155038412026201387_n_676090122564617.gif",
+          "creation_timestamp": 1482613110
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482613032785,
+      "content": "Roger: I have gift wrapped for 2 and a half hours....I am sincerely in retrograde (not in a good way)....love the season, hate the sad stuff.....can we postpone the game \"Who's Who\" until another time.??  Just a postponement..not a cancellation. I think that given the Yahoo Excitement tomorrow AM and the yummies you are going to make (right?), I would be more than grateful to just curl up this evening *(after feeding Jare who is home safely and securely) ...would that be all right?  given the circumstances I would ask if we could figure out the game on New Years , but you may have p;ans then...let me know."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482427683604,
+      "content": "lol",
+      "share": {
+        "link": "https://www.facebook.com/merrychristmasgreetingsmessages/photos/a.632491476854002/658026550967161/?type=3"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482418827625,
+      "content": "Don't forget the french press coffee maker, please."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1481732096806,
+      "content": "No problem"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1481725539901,
+      "content": "Thanks for clearing the front stairs....Jarett went out to do it and (Magic of the Season), it was already done!!! What an elf you are."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1481659642423,
+      "content": "I am going to wait to put garbage out tomorrow AM...I have your can opener down here if you need it. Keep safe"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1481292387836,
+      "content": "You sent an attachment.",
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1480776484891,
+      "content": "Jarett did it. Good for him. Donna unable to make it tonight....but would like the video today anyway....she's coming next weekend. Thanks."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1480763670572,
+      "content": "Thanks. Went to put it out this morning and saw it at the road already."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1480723817328,
+      "content": "Garbage pickup (rescheduled) is tomorrow. Jare put yours and mine up on the porches...I'll get up early to put mine out."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1480613196550,
+      "content": "Looks like Sat is Movie night (weather permitting), starting with The Drowsy Chaperone please.....thanks so much and I will pay you for the 'stick'."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1478792164286,
+      "content": "Hope your cold is better....and thanks again for moving the table, especially since you weren't feeling well."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1478289641998,
+      "content": "Keep safe!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1478221324577,
+      "content": "Will do... though away in Halifax most of the weekend"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1478214269721,
+      "content": "Roger: if I can co-ordinate it (Jare's awake hours are supernatural wierd)....could you two move the seasonal tables back into winter mode?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1478214007001,
+      "content": "Are you out of your mind? ...gimme a taste if you try this"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1478184686535,
+      "content": "That looks yummy... and low carb. :-)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1478181026551,
+      "content": "Pumpkin pasta?",
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1477398720362,
+      "content": "Thanks for all your help lately...feeling frustrated with my inability to kick in. Ah well. Could you leave the dog upstairs tomorrow? I have VON in to do Light Housekeeping and will get Jare to bring her down after that is finished. Thanks. Hope you are not sick too."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1476476101304,
+      "content": "And , again, drive safe and keep well."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1475951397023,
+      "content": "Drive safe and have a marvellous time!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1475951380505,
+      "photos": [
+        {
+          "uri": "messages/inbox/rogerplamondon_10153572144736147/photos/290424177_1165882804258406_2263193971839803205_n_636195273220769.gif",
+          "creation_timestamp": 1475951379
+        }
+      ],
+      "ip": "24.89.217.125"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1475198216918,
+      "content": "Cool!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1475190414887,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/designinsider/videos/353252518349717/"
+      },
+      "ip": "24.89.217.125"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1474029041317,
+      "content": "OK....just let me know at any time,"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1473967404533,
+      "content": "Thanks Leslie.  I need to duck out Saturday afternoon to help move a bed. Reggie should be down for a nap by then."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473951280844,
+      "content": "I don't know what the plan is for Reggie this weekend, but I am feeling better and Jarett is here....so USE us at any time. (Maybe not overnight)?"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1473372290539,
+      "content": "Thanks Leslie. :-)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473365438537,
+      "photos": [
+        {
+          "uri": "https://interncache-ncg.fbcdn.net/v/t34.18173-12/13884563_1154217824634668_993108739_n.gif?stp=dst-gif&ccb=1-7&_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-ncg&oh=00_AfA6V_Q09ikLsc5dLDHRAQPEa_zi7bTD9_O4gsl7h4Bx3g&oe=64AE74F3",
+          "creation_timestamp": 1473365437
+        }
+      ],
+      "ip": "24.89.217.125"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473365417333,
+      "content": "HAPPY BIRTHDAY TO YOU !!!!!  AND MANY MORE!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1472589841786,
+      "content": "I don't have any dog food."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1472589832359,
+      "content": "Hi ya....I am going to take the dog out and then put her inside your place, ?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1469956557417,
+      "content": "again, thanks"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1469898082066,
+      "sticker": {
+        "uri": "messages/stickers_used/10540973_320785068115639_1351238297_n_320785064782306.png"
+      },
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1469897964289,
+      "content": "thanks....water needed desperately for containers on the front of my screen porch (rain doesn't get to them or to the planters on your front porch)...also 2 plants on window ledge of George street and the red plant stand there as well.  I planted all these when very challenged pain/breathing wise....really don't want them to die.....If this heat doesn't break, the plants in the gardens themselves will need a thorough/intense watering. It makes me happy to see the flowers/folige......thank you again."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1469843895826,
+      "content": "Did that last night and will do it again tomorrow. :-)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1469815789567,
+      "content": "OK...just thought now (morphine fog), that if you could water the planters on fence, your front porch and mine.....plus on fireplace and anywhere else you see them, .....would be appreciated. thanks"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1468688211151,
+      "content": "No worries. :-)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1468684889398,
+      "content": "Thanks, Roger, for taking care of Reggie today....it is very much appreciated."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1465916742322,
+      "content": "Have a safe and rewarding trip, Roger."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1465761852817,
+      "sticker": {
+        "uri": "messages/stickers_used/66115176_1467117226760690_2587797677936738304_n_481567675315655.png"
+      },
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1465761775404,
+      "content": "Thanks for all the help re outside and a HUGE thank you for leveling the Franklin."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1461088588292,
+      "content": "No problem!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1461077805674,
+      "gifs": [
+        {
+          "uri": "https://interncache-ncg.fbsbx.com/v/t59.2708-21/11274849_1029361603748261_1257749364_n.gif?ccb=1-7&_nc_sid=041f46&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9lbnRpdHkvbWVzc2FnZV9hbmltYXRlZF9pbWFnZSJ9&_nc_ht=interncache-ncg.fbsbx.com&oh=03_AdQXsOUjPoZYua9syvyvtBKdcNIMJ6YlNcc715uGRHUypg&oe=64AE9180"
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1461077730596,
+      "content": "Thanks for branch cutting !!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460488130591,
+      "content": "cancelled"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460473094198,
+      "content": "Hope you don't mind...instead of coming up to mind Reggie, I'd like to go to the library...if you had plans during that time...just let me know., K?"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1459094462847,
+      "content": "Thanks. :-) You too. Hope you feel better soon."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1459093197912,
+      "gifs": [
+        {
+          "uri": "messages/inbox/rogerplamondon_10153572144736147/gifs/11712574_669091556559645_333225950_n_554506131389684.gif"
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1459093146928,
+      "content": "Well, I am so sick...spending most of my time in bed....but wanted to say :::::::"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458748085442,
+      "content": "Sorry you are sick. You have a huge weekend/week coming up...perhaps we will do dinner another time...one less thing to think about !  Onward and Upward."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1458515585515,
+      "content": "you there ?"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1457786198219,
+      "content": "Sounds good Leslie."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1457734576254,
+      "content": "Sometime over the Easter Weekend: rethought it...I will do Stuffed Pork Tenderloin and desert, You do veggies (I will leave that up to you)....since Jare has social anxieties, best to stay home and he may not even be there, to boot !!! I then I can stay in my comfy clothes, but hey I will be so presentable..Hang in there Roger,,,,,,all will be well."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1457447275234,
+      "content": "Gotta send yu this",
+      "share": {
+        "link": "https://www.facebook.com/RollingStone/videos/10153214058385779/"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1457213186332,
+      "content": "min wax- Bombay Mahogany"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1455636600471,
+      "content": "No worries Leslie. I posted it in response to an old friend of mine."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1455632689637,
+      "sticker": {
+        "uri": "messages/stickers_used/64700499_1306879586127313_2104930464945930240_n_229801597168456.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1455632640951,
+      "content": "Glad to see you posting this....I am computer illiterate as you know, so even though the instructions seem clear I can't do the pasting thingy....please keep me !!!!"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1454638226908,
+      "content": "No problem."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1454635523816,
+      "content": "If you see this before tomorrow AM....could use a couple more cloth diapers (have disposables as back up if this is not seen)..thanks."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1453319918752,
+      "content": "That's great !!!!! Thanks."
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1453313250609,
+      "content": "Will do. I can bring it down after work tomorrow ax I am at Rotary meeting then play practice tonight."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1453310914872,
+      "content": "Hi ya.....have been washing Reggie's 2 year clothes...is it possible to get the dresser down here this week sometime?  Would appreciate it muchly."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1451584140043,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.independent.co.uk/arts-entertainment/films/reviews/star-wars-the-force-awakens-review-this-is-the-sequel-you-re-looking-for-a6774876.html",
+        "share_text": "It's the texture. It just feels like Star Wars."
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1451222839532,
+      "content": "You're welcome!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1451142117420,
+      "content": "Thanks for a great day yesterday. take care."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1450960390300,
+      "content": "WOW !!!!!!!!!",
+      "share": {
+        "link": "https://www.facebook.com/metamadman/videos/10153758232804522/"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1450016035192,
+      "content": "Thanks Leslie!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1450015961130,
+      "content": "Here it is, Roger!!!!",
+      "share": {
+        "link": "http://thechronicleherald.ca/artslife/1326910-widescreen-doc-martin-soul-of-gruff-greatness",
+        "share_text": "When it comes to footwear, thick-soled Doc Martens are sturdily resistant to the whims of fashion. Perhaps it\u00e2\u0080\u0099s no coincidence the same can be said of Doc Martin, the TV show. The last fresh take on the quirky goings-on in postcard-perfect Cornwall was in 2013, but season 7 of Doc Martin finally p..."
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1448739650706,
+      "content": "Roger, you Rock !!!    78"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1448739641449,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1447869696916,
+      "content": "and garbage and dog etc. Excellent."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1447869676460,
+      "content": "care-giver!!!!  (plus fix that rocking chair..lol)"
+    },
+    {
+      "sender_name": "Roger Plamondon",
+      "timestamp_ms": 1447868305908,
+      "content": "What did I do?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1447866809460,
+      "content": "Yahoo for you Roger!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1447866805497,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1442760059272,
+      "content": "Thanks so much for doing Dorte's copy of \"How to...\". Much appreciated."
+    }
+  ],
+  "title": "Roger Plamondon",
+  "is_still_participant": true,
+  "thread_path": "inbox/rogerplamondon_10153572144736147",
+  "magic_words": [
+    
+  ]
+}

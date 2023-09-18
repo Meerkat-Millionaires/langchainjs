@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Emmy T-c"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Emmy T-c",
+      "timestamp_ms": 1392951138484,
+      "content": "Glad to hear you're okay! We miss you but that's totally understandable. Tiana looks awesome!!! She's going to be a great mommy."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1392937799600,
+      "content": "Hi...understand that you ran into Tiana today and enquired about my health...thanks for your concern...I did tell Don (for his information only)..that I have a health issue...Because Tiana has so much on her plate right now,I have not spoken to her about the major reason I resigned from the musical...We are very close and I honestly don't want her to worry about anything other than keeping herself healthy and happy, despite the irritating drawbacks of being pregnant...My personal current concern is related to blood pressure levels (along with the usual \"old folk\" problems) which have caused dizzy spells and attendant problems. So, bless you for inquiring...but enough said. I know that the musical will be awesome as always (despite rehearsal interruptions due to weather) and that you will persevere and triumph....all my best."
+    }
+  ],
+  "title": "Emmy T-c",
+  "is_still_participant": true,
+  "thread_path": "inbox/emmytc_10155497004199429",
+  "magic_words": [
+    
+  ]
+}

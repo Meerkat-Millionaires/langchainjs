@@ -1,0 +1,187 @@
+{
+  "participants": [
+    {
+      "name": "Chelsea Sutherland"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614107507986,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0qXdtbtHQieVcpu2bCAeMCZ69oCJbBEmpXxB5N9eGBdr4VdB1Wa5PPzCx5CftU9Xhl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1474313685910,
+      "content": "What a sweetums you are!!!!!"
+    },
+    {
+      "sender_name": "Chelsea Sutherland",
+      "timestamp_ms": 1474299558031,
+      "content": "https://www.facebook.com/David-Parsons-Therapeutic-Massage-229401370549448/\n\nFor you, first haircut is on the house! It was just so nice seeing you and Jarrett! For next time, a gloss is $35 and a haircut is $45 so we will start fresh next month! \n\nI'm so hopeful that you have the same experience with David that I had!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1474298719609,
+      "content": "Oh, what was that Osteo guy's name?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1474298703088,
+      "content": "So many thanks for the new \"do\"....was great to see you....forgot to inquire re the cost of haircut. Have a good week."
+    },
+    {
+      "sender_name": "Chelsea Sutherland",
+      "timestamp_ms": 1474209895151,
+      "content": "We will see what we end up doing. We will try to keep the maintenance as low as possible! See you in an hour! Can I bring you anything?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473951322803,
+      "content": "I don't own a hairdryer....should I find one to keep the cut in shape?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473947102179,
+      "content": "yes"
+    },
+    {
+      "sender_name": "Chelsea Sutherland",
+      "timestamp_ms": 1473947096445,
+      "content": "Excellent!! See you soon \u00f0\u009f\u0098\u0081"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473947080288,
+      "photos": [
+        {
+          "uri": "messages/inbox/chelseasutherland_10157222238645582/photos/273785635_1362302480858224_9053118260584738909_n_625939054246391.gif",
+          "creation_timestamp": 1473947078
+        }
+      ],
+      "ip": "24.89.217.125"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473947021693,
+      "content": "Excellent...59 Mackay St. (the end of Mackay ST at George St.) Yellow house with brown screen porch. Wowzers, fun."
+    },
+    {
+      "sender_name": "Chelsea Sutherland",
+      "timestamp_ms": 1473946963964,
+      "content": "Okay sounds good! How about Sunday at 1pm?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473946821267,
+      "content": "you choose day and time"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473946790667,
+      "content": "Yes, either would work and can pay at the end of the month. You rock."
+    },
+    {
+      "sender_name": "Chelsea Sutherland",
+      "timestamp_ms": 1473946748388,
+      "content": "Well if you're physically able, I would be happy to come over and at least give you a haircut. Payment can happen whenever you're able, I'm not concerned about that. Let me know if this Sunday/Monday would work for you!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473946650560,
+      "content": "Well, damn...as usual things haven't worked out the way I  planned....still healing and now my youngest son is home (mental health issues) so $ is tight.....will contact you when situation gels. Thanks for the attention given."
+    },
+    {
+      "sender_name": "Chelsea Sutherland",
+      "timestamp_ms": 1470618475305,
+      "content": "Awwe no! Poor thing! I'm in Toronto this weekend for training but I will look at the end of August as soon as I'm back. Take care of yourself! xo"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1470607334140,
+      "content": "i am going to have to wait until the end of August.....doctor's recommendation. Damn"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1470236619724,
+      "content": "Maybe start with just a haircut (better for my back at the moment...less time involved, yes?) Have a great day"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1470172807806,
+      "content": "a pleasure for me too....take care."
+    },
+    {
+      "sender_name": "Chelsea Sutherland",
+      "timestamp_ms": 1470172785329,
+      "content": "All my pleasure! Can't wait to see you!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1470172770106,
+      "content": "woman"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1470172766007,
+      "content": "ooooo, thank you, my child."
+    },
+    {
+      "sender_name": "Chelsea Sutherland",
+      "timestamp_ms": 1470172750294,
+      "content": "Haha okay I'll let you know when I'm in tomorrow \u00f0\u009f\u0098\u008a"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1470172740894,
+      "content": "any time of day..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1470172727357,
+      "content": "Years of neglect....can wait."
+    },
+    {
+      "sender_name": "Chelsea Sutherland",
+      "timestamp_ms": 1470172689812,
+      "content": "No worries! I'm going to check my schedule for when I will get a chance. I work 8am-8pm pretty much every day and I'm in Toronto this weekend for training. I will see if I can find a moment this week, if not then next week. Maybe a Thursday morning. Do you think you can stand it for another week or two?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1470172572367,
+      "content": "A word to the wise, haair is getting thin in front"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1470172519764,
+      "content": "I haven't got the cash at home, but can give you a cheque or use debit. This whole situation is highly unacceptable (the back I mean)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1470172445221,
+      "content": "Oh yahoo!!! Cut for sure and also coloring (on your advisement) ....Haven't washed the stupid stuff since coming home from hospital last Friday...just sopping up the oil with baby powder !!!!!!  Probably can use the sprayer in tub area...want me to try this beforehand? Mobility is crap, but if timed correctly, the morphine will help control pain and also a buzz (lol)"
+    },
+    {
+      "sender_name": "Chelsea Sutherland",
+      "timestamp_ms": 1470172036383,
+      "content": "Absolutely!! I think it will provide a mild to moderate uplifting effect as well!! Are you thinking cut or colour as well? How are you managing to wash your hair? What's your mobility like?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1470171842764,
+      "content": "Chelsea, hi there. Yup, it's me ! I have a question for you....a bit of background (the incredibly short version): have had a run of lousy health issues since Easter...now beginning the lengthy process of healing a compression fracture of the spine. In serious need of some uplifting experiences....do you do in-house consultations re hair renovations? I cannot go to an appt (mobility curtailed), but am willing to pay for a visit here plus for whatever  improvements that can possibly be done in the home. I am located one block up from Temperance St on George St/Mackay St. corner. 755-6759 or message me here if yea or nay. This is a situation of severe neglect ...lol"
+    }
+  ],
+  "title": "Chelsea Sutherland",
+  "is_still_participant": true,
+  "thread_path": "inbox/chelseasutherland_10157222238645582",
+  "magic_words": [
+    
+  ]
+}

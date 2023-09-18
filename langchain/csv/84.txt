@@ -1,0 +1,149 @@
+{
+  "participants": [
+    {
+      "name": "Ken Kovalske"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ken Kovalske",
+      "timestamp_ms": 1589143514961,
+      "content": "And Happy Mother\u00e2\u0080\u0099s Day to you too.  \u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1589143380188,
+      "videos": [
+        {
+          "uri": "messages/inbox/kenkovalske_670312463142383/videos/18502470_1671629569813148_6831430661526519808_n_584643855768219.mp4",
+          "creation_timestamp": 1589143379
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1588608869226,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/tiana.fusco/posts/pfbid0AsZ54MDR8UcaaGhKren67oDVyEUQ8qhBPLud6LxZRjUh5bWPwMTr4iKfTcKqo1Vel"
+      }
+    },
+    {
+      "sender_name": "Ken Kovalske",
+      "timestamp_ms": 1544985703918,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1544984054630,
+      "content": "And  think of you often....yes, let's make a date for the spring....I know we'll make it!!!"
+    },
+    {
+      "sender_name": "Ken Kovalske",
+      "timestamp_ms": 1544978150422,
+      "content": "And a very Merry Christmas to you too.  I\u00e2\u0080\u0099m in Halifax for the next six weeks or so for radiation but they\u00e2\u0080\u0099re still saying \u00e2\u0080\u009cCURE\u00e2\u0080\u009d so we just do what comes next.  I know you\u00e2\u0080\u0099re not having the best of health either, so I hope by spring we\u00e2\u0080\u0099ll both be somewhat better (can\u00e2\u0080\u0099t ask for really good at our age).  If that happens I will definitely see you. Think of you often. \u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1544974833127,
+      "videos": [
+        {
+          "uri": "messages/inbox/kenkovalske_670312463142383/videos/12412543_577708572383870_1018189197_n_268212963860624",
+          "creation_timestamp": 1544974832
+        }
+      ]
+    },
+    {
+      "sender_name": "Ken Kovalske",
+      "timestamp_ms": 1525095256403,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1525095210566,
+      "content": "Take care and treat yourself to as many good things as possible....will be thinking of you."
+    },
+    {
+      "sender_name": "Ken Kovalske",
+      "timestamp_ms": 1525020250313,
+      "content": "Well of course nothing goes exactly as planned, but overall objective achieved.  Just a very common complication of some small air leaks.  Old bodies get leaky.  They can\u00e2\u0080\u0099t take the chest tube out until everything seals up inside.  We expect to get home tomorrow.  \u00f0\u009f\u0098\u0098"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1525004327411,
+      "gifs": [
+        {
+          "uri": "messages/inbox/kenkovalske_670312463142383/gifs/19371024_10155401221676113_8596671372757827584_n_936576109849349.gif"
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1525004295971,
+      "content": "I hope all is going according to plan!!!! Take good care of yourself."
+    },
+    {
+      "sender_name": "Ken Kovalske",
+      "timestamp_ms": 1524155285722,
+      "content": "Oh Lesley I really meant to call you myself this week but things are just really crazy.  No, I will call."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1524147157153,
+      "content": "Carol, my deepest sympathies regarding Chris' passing. I admired her zest for life and determination.   I will miss our phone calls very much. My health is dicey, so unsure of attendance at funeral on Sat. Will be thinking of you all during this week."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1508246356367,
+      "content": "female clones running deep here!!!!! LOL"
+    },
+    {
+      "sender_name": "Ken Kovalske",
+      "timestamp_ms": 1508194137115,
+      "content": "Easy to pick her out. LOL"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1508193346164,
+      "content": "my favorite...",
+      "share": {
+        "link": "https://www.facebook.com/missjennyskindercare/photos/a.369458549873219/884862234999512/?type=3"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1481657580082,
+      "content": "Always in my thoughts !!!!"
+    },
+    {
+      "sender_name": "Ken Kovalske",
+      "timestamp_ms": 1481652655008,
+      "content": "HI Lesley - things are going really well. Get home for Christmas on the 23rd and only go back on the 3rd for four days. Address is P.O. BOx 651. Needless to say I haven't sent cads this year. Have a great Christmas and thanks for your prayers and concern. \u00f0\u009f\u0092\u0097"
+    },
+    {
+      "sender_name": "Ken Kovalske",
+      "timestamp_ms": 1481652450167,
+      "content": "You missed a video call with Ken.",
+      "call_duration": 0,
+      "missed": true
+    },
+    {
+      "sender_name": "Ken Kovalske",
+      "timestamp_ms": 1481652433171,
+      "content": "Ken sent an attachment."
+    }
+  ],
+  "title": "Ken Kovalske",
+  "is_still_participant": true,
+  "thread_path": "inbox/kenkovalske_670312463142383",
+  "magic_words": [
+    
+  ]
+}

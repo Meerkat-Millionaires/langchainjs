@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Kathy Macleod"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1418946274433,
+      "content": "OK, thanks....and Merry Christmas"
+    },
+    {
+      "sender_name": "Kathy Macleod",
+      "timestamp_ms": 1418939068659,
+      "content": "I don't think you have the right Kathy...none of this sounds familiar \u00f3\u00be\u00b0\u0080"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1418936261048,
+      "content": "Kathy, first: I will be retiring from teaching at the end of March...If Molly wants to do the Theory Exam (May, I believe) let me know, K? Don't know if we have time to finish the 2nd level."
+    }
+  ],
+  "title": "Kathy Macleod",
+  "is_still_participant": true,
+  "thread_path": "inbox/kathymacleod_1753168554717875",
+  "magic_words": [
+    
+  ]
+}

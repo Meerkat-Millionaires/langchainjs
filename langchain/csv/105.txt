@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Linda Murray"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Linda Murray",
+      "timestamp_ms": 1586018859589,
+      "photos": [
+        {
+          "uri": "messages/inbox/lindamurray_2130031957059236/photos/91814545_2653342684893742_8535365692474523648_n_231923314589015.jpg",
+          "creation_timestamp": 1586018859
+        }
+      ]
+    }
+  ],
+  "title": "Linda Murray",
+  "is_still_participant": true,
+  "thread_path": "inbox/lindamurray_2130031957059236",
+  "magic_words": [
+    
+  ]
+}

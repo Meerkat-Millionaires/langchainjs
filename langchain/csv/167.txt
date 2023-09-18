@@ -1,0 +1,914 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1496173631020,
+      "content": "Hahaha love you too xoxox"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1496173433948,
+      "content": "Not mobile generally......use T's car in the evenings, but that is usually when I am done, toast!!!!  Love ya"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1496173387009,
+      "content": "I have a new apartment !"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1496173380470,
+      "content": "Not that I'm aware of! Craziness.\nHey, are you mobile?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1496173276078,
+      "content": "weird!!!!!!  Is there an unaddressed problem there?"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1496173201553,
+      "content": "So mad !!!"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1496173196638,
+      "content": "I was so upset when I realized Rebecca Pitts,  my own cousin, didn't include me in carni this year"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1495023331880,
+      "content": "Sounds good! You too \u00e2\u009d\u00a4\u00e2\u009d\u00a4"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1495023298807,
+      "photos": [
+        {
+          "uri": "messages/inbox/facebookuser_10155897598450114/photos/13734741_10209176977280082_1280891784_n_750635055110123.gif",
+          "creation_timestamp": 1495023298
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1495023278221,
+      "content": "great...just let me know on Sat if it's still on or not. Have a super, dooper, day!!!!"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1495023037465,
+      "content": "Okie dokie. Let's say 1:00 or 2?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1495022495032,
+      "content": "nope....not at all."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1495022426557,
+      "content": "Is there a certain time that works best?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1495022405166,
+      "content": "should be fine!"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1495022362744,
+      "content": "Oh really?! Thanks for letting me know :)\nAre you available to get together Saturday day for a Java?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1495022173315,
+      "content": "Niki, the last two adverts for your gigs don't have a share on them (just Like and Comment)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1494850731456,
+      "content": "no rush, no pressure"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1494850723224,
+      "content": "only commitments are re Reggie (on the occasional evening)...rest of the time is open. So just call 902-755-6759 or message here a bit in advance......pretty much a stay-at-home person."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1494850177906,
+      "content": "Thanks Lesley ! I'll be on my own....poor as anything lol :p but yes that sounds great. Is there a certain day this week that would work for you?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1494849871024,
+      "content": "Super....hope it works out really well....are you on your own or sharing? Howsabout dropping in for a quick coffee some day?"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1494849759599,
+      "content": "Trenton :) on high street !"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1494849713119,
+      "content": "Where's the new apartment?"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1490718736152,
+      "content": "Looking forward to it though !"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1490718731094,
+      "content": "Ouu I'll have to watch after work!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490718714447,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/missjennyskindercare/videos/779456305540106/"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1488571294772,
+      "content": "\u00f0\u009f\u0098\u008a\u00f0\u009f\u0098\u008a"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1488571284464,
+      "photos": [
+        {
+          "uri": "messages/inbox/facebookuser_10155897598450114/photos/48396807_230381364526578_4866352513651048448_n_710782725762023.gif",
+          "creation_timestamp": 1488571283
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1488570763232,
+      "content": "Minus the \"!\" At the end lol. Woops"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1488570754661,
+      "content": "Hehe sorry for the confusion! I wrote that status a few years ago after the benefit we had for my uncle Lenny. Mom was flying out west to go be with him at the time so I wrote a reflection on the benefit and life and uncle Lenny being sick !"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1488570609065,
+      "content": "confused about the facebook re your mom....please clarify the issues."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1486742033194,
+      "content": "Awww sorry! Took advantage of the opportunity to sleep in lol!!! Love yah xoxox"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1486737549880,
+      "content": "hope you are better"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1486737541631,
+      "content": "never mind....gonna cancel...thanks anyway..love ya"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1486735178184,
+      "content": "I know this is an imposition, but could you let me know when the causeway's open? I have a Dr's appt after lunch there and don't know whether to cancel or not?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1484870750560,
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1484665441841,
+      "content": "Thank you!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1484665045855,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/kristineskitchenblog/photos/a.225351221000580/582063971995968/?type=3"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1484401125471,
+      "content": "Awwwww \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f I love you!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1484401039254,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/BetteMidlerFansite/videos/633441213419002/"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1480864724244,
+      "content": "Cute!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1480864682246,
+      "photos": [
+        {
+          "uri": "https://interncache-ncg.fbcdn.net/v/t34.18173-12/14483644_994059400739876_1781268296_n.gif?stp=dst-gif&ccb=1-7&_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-ncg&oh=00_AfBTJ2phd6Xhv2FTgdb5NxnP_5lFwF-6weKKnwCTuexxEg&oe=64AE4DDD",
+          "creation_timestamp": 1480864682
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1480864588716
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1480864572414,
+      "content": "Lol!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1480864558688,
+      "content": "Bear with me /........lol"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1480864548571,
+      "photos": [
+        {
+          "uri": "https://interncache-ncg.fbcdn.net/v/t34.18173-12/13672050_10153989919533171_540128469_n.gif?stp=dst-gif&ccb=1-7&_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-ncg&oh=00_AfAv5Hkb2de0VVjNS3fBPJNjhy4yD1O5luF6WCQuhcK9mw&oe=64AE7018",
+          "creation_timestamp": 1480864548
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1480864440044,
+      "content": "Hahaha I trust your opinion most\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1480864420557,
+      "content": "good choice.....and I know that you have others who would love to help you decide...but ME, ME, ME...let me be involved, Sweetums."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1480864084513,
+      "content": "I will as soon as I record them! :) Mary Beth is letting me record a couple songs in the church! I asked if I could because of the acoustics"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1480862329591,
+      "content": "Send a few (couple) of songs to me on messenger (here)....would love to help you decide by hearing them. They don't have to be polished when you send them to me."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1473099877842,
+      "content": "Running late as usual..I'll be there shortly!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473092382295,
+      "content": "see ya"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1473092112477,
+      "content": "Haha I can handle that!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473092072664,
+      "content": "coffee (no sugar, 2 milk)....that's it. Simple woman, simple pleasures."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1473092032814,
+      "content": "What would you like?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473091840167,
+      "content": "sure thing"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1473091829269,
+      "content": "Haha no no, don't be sorry, I understand :) want some timmies?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473091776236,
+      "photos": [
+        {
+          "uri": "https://interncache-ncg.fbcdn.net/v/t34.18173-12/13652609_1476356969044538_1714731157_n.gif?stp=dst-gif&ccb=1-7&_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-ncg&oh=00_AfD4EYd3F7g75H8JfDcop4yEhbtHEENDcf3nFUXi7qnZzw&oe=64AE9F4E",
+          "creation_timestamp": 1473091775
+        }
+      ],
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473091679152,
+      "content": "sure and if not convenient, just let me know. And i really am sorry about being so bitchy the other day."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1473091641212,
+      "content": "Is 3:00, 3:30 okay?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473091268448,
+      "content": "OK"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1473013529027,
+      "content": "Sorry I fell asleep hahaha! I meant Monday :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473006581042,
+      "photos": [
+        {
+          "uri": "messages/inbox/facebookuser_10155897598450114/photos/275501238_1541707169633599_150816725272450447_n_621365794703717.gif",
+          "creation_timestamp": 1473006580
+        }
+      ],
+      "ip": "71.7.168.243"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473006496330,
+      "content": "Can't quite figure the right day out....do you mean Sun or Mon?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1473006350740,
+      "content": "Sure thing!!!!.....anything welcome, but don't worry about it."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1472998452958,
+      "content": "Hey Lesley!\nSorry it's been a hectic few weeks for me..but thankfully I don't work tomorrow so I was thinking of swinging by in the afternoon. Does that work for you? I can bring some goodies or whatever you like. :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1471446907433,
+      "content": "OK....love you too."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1471446878909,
+      "content": "Hey, I love you as if you were my own mother. I am forever grateful for everything you have done for me in my life, I truly wouldn't be who I am without you. And I brag about you all the time. I love you more than you know, I will be over within the next week k? Promise. Hang in there xox you're one of the strongest women I know."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1471446753361,
+      "content": "Oh, so good Niki, to hear that there was a reason...felt forlorn and bereft...having a tough time with this injury and can be a bitch at times. Keep safe."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1471394955626,
+      "content": "I don't want to begin a big conversation explaining myself or defending myself, I recently babysat for Tiana so she could visit you but shortly after I also got sick and even left work. I'm very sorry I haven't been in to see you yet. And I will make a point to do so"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1471388763228,
+      "content": "Have posted all your  gigs over the past many months....Really can't tell you how disappointed/hurt that you haven't come for even a brief visit......I remember so much about the past, how I bent over backward to support you, how I went out of my way...all because I thought you had the most amazing talent and because you needed support at so many times during our relationship.  I am fine, dealing with health issues and will triumph over the adversity......I must say that you often post stuff about \" Say what you mean, and mean what you say\"....Well, here it is, sweetums, : Do unto others as you would have them do unto you."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1471134105066,
+      "content": "Hmmmmmmmm"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1471133604205,
+      "content": "mmmmmmmmmm.........."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1470061077043,
+      "content": "OK....have a great week."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1470051363522,
+      "content": "Holy smokes.  I'll be in to see you sometime this week. Chin up! :) gigs are going great!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1470010625454,
+      "content": "home since Fri...after a week in Aberdeen. No rush about visit..I will be getting lots of bed rest, not leaving house for some time (2 to 3 months recovery in all). Hope all the \"gigs\" are going well."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1469986069826,
+      "content": "Or hospital?"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1469986065222,
+      "content": "Omg! I will for sure. Are you home?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1469983885542,
+      "content": "hi ya......down and out for a couple of months (compression fracture of spine)......WANT YOU TO DROP IN ANYTIME FOR A FEW MINUTES, JUST TO SAY HELLO.....NO NEED TO MAKE ARRANGEMENTS....I WILL MOST DEFINITELY BE HERE....JUST KNOCK AND WALK IN CALLING OUT \"HELLO, LESLEY DUNN, i AM HERE.\"....(Obviously pain medication, yes? lol)/"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1452621114309,
+      "content": "Love yah too!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1452620030118,
+      "content": "so sorry.....going to \"puff up\" and go to bed...love ya"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1452619998760,
+      "content": "Aww its okay rest up xoxo just message me anytime!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1452619609277,
+      "sticker": {
+        "uri": "messages/stickers_used/851559_575286799224031_143157842_n_575284892557555.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1452619519456,
+      "content": "Hi....not unusual...having some breathing issues today....which is why I seldom make definite plans with anyone on any given day. Did manage to meet with a friend today accompanied by my puffers/inhalers.  Am home and should call a halt for the rest of the day....rest and meds...have to cancel (hope it is just \"reschedule\" instead of complete cancel...just have to accept that I can only do ONE xtra activity per day.  My apologies.... truly, truly sorry."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1452380857808,
+      "content": "!!*"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1452380855931,
+      "content": "Night!?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1452380756159,
+      "content": "Night"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1452380741838,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_575284915890886_1746469047_n_575284912557553.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1452380556203,
+      "content": ":) can't wait xox"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1452380550863,
+      "content": "Sounds delicious!! You little chef you"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1452380543035,
+      "content": "Ouuuu yes"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1452380484564,
+      "content": "hope this is OK....going to read now and won't check face book until tomorrow."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1452379439767,
+      "sticker": {
+        "uri": "messages/stickers_used/851559_577510682334976_854118530_n_577501519002559.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1452379425314,
+      "content": "I am drooling....please forgive, I'm old."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1452379382794,
+      "content": "and a small side salad"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1452379372726,
+      "content": "OK...can provide another light fare. How about maple ham with scalloped, mushroom potatoes?"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1452379310474,
+      "content": "No pressure on the supper. But I'm not looking for a short visit! You're stuck with me for a bit!"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1452379291676,
+      "content": "I'm so down for a light supper!! I do not like fish sadly..only shell fish :("
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1452379226785,
+      "content": "Or better yet,  forget the coffees and have a light supper with me (but only if you wish)....do you like salmon ? I make a mean salmon salad ! If you prefer a quick visit...then that's OK.  Love ya and admire all that you are doing."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1452010346997,
+      "content": "So cool!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1452008020808,
+      "content": "WOW",
+      "share": {
+        "link": "https://www.facebook.com/9gag/photos/a.109041001839/10151795208651840/?type=3"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1417302688353,
+      "content": "No problem lesley hope youre feeling better asap xoxox"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1417275913173,
+      "content": "Missed the Thistle..down with cold, bronchitis, sciatica and rotator cuff pain......major sorry to miss it , and major sorry for myself!!!!  Hope all went well."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1416673741503,
+      "content": "His newest is \"On the House\"...can just imagine if he had band backup."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1416673682297,
+      "content": "Noo but ill listen to it!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1416673210642,
+      "content": "Did you ever think of singing some of Mark Weatherbee's stuff?  Nice one: In the Dark\"."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1416419806873,
+      "content": "Aww not until 8,if thats too late i understand!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1416417711670,
+      "content": "What time do you start playing/singing at the Thistle on the 28th?   It's Tiana's birthday, we are coming to eat and listen for a while. Looking forward to it!"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1412890317497,
+      "content": "Hey Lesley, I'm leaving in a couple of mins, want a timmies ?!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1412867441757,
+      "content": "see ya"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1412867359641,
+      "content": "Hahahah okay deal!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1412867323989,
+      "content": "Bring a sweater and whatever's left of your sense of humor."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1412867296292,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362164215247_428974420_n_126362160881914.png"
+      },
+      "ip": "156.57.14.163"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1412867280766,
+      "content": "SURE!!! I'll be sittin' back, chillin' after my last lesson of the week.....watchin' the world go by on my front porch...would love to share."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1412867197797,
+      "content": "How about this evening?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1412866692556,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362190881911_254357215_n_126362187548578.png"
+      },
+      "ip": "156.57.14.163"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1412866675750,
+      "content": "Am sending this 2X once on email...free after 6:30 this evening, all Fri, Sat afternoon...advance notice helpful (am so socially active (HA)..busy with Jare, Tiana and baby and never know what's coming up next.!!!!"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1412859857308,
+      "content": "Hey! I need to get together with you asap! Let me know when youre freee"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1403956345314,
+      "content": "Sorry I can't....babysitting!!!!!  Let me know how it goes, please."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1403912545814,
+      "content": "Id love for you to come.maybe you can get to know daniel a bit also.if youre freee:)"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1403912521919,
+      "content": "You should come to the talent show at the church tomorrow :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1402535945977,
+      "content": "Love ya!  You rock."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1402535921034,
+      "content": "All gooood! And ill be moving the first of july and its about 4 mins past trenton. Really nice little place\n $480 a month everything included..im gonnna be brokeee but i need it"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1402535257408,
+      "content": "Also, glad to figure out that you are moving (have moved)....where and when.....hope all is well."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1402535224504,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362190881911_254357215_n_126362187548578.png"
+      },
+      "ip": "24.222.136.45"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1402535194594,
+      "content": "Dear One: hope the \"gig\" went well (I was teaching and money is important right now).!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399995380490,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362190881911_254357215_n_126362187548578.png"
+      },
+      "ip": "24.222.136.45"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399995358759,
+      "content": "So did you follow the mic down as it slid until you were bent double and singing upside down?"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1399993708889,
+      "content": "Goood but th mic slowly fell down as i was playing :( the choir isnt very good without you"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399985073128,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126362104215253_1651254063_n_126362100881920.png"
+      },
+      "ip": "24.222.136.45"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399984984312,
+      "content": "How'd Blackbird go?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399744064617,
+      "content": "GOOD   see ya"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1399744056916,
+      "content": "Nope thats great:)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399744035400,
+      "content": "too late?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399744028082,
+      "content": "3:40?"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1399743980704,
+      "content": "Yep what time?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399743969319,
+      "content": "Could you make it a little later?"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1399743933149,
+      "content": "Im in westville but leaving in 5 so ill be there shortly"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1399743930538,
+      "content": "Sorrryyy!! Im coming :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399743903878,
+      "content": "hi"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399743161657,
+      "content": "I  am sorry I need to \"make appointments\" for visits....things have changed."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399743104577,
+      "content": "Niki, just making sure that you are able to come today.....if not, I will go with Tiana and baby to Sobey's. Hope all went well with the busking!!!! Good picture on facebook."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399588055417,
+      "content": "YAHOO!!!!! See you then."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399588050768,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362140881916_1086262136_n_126362137548583.png"
+      },
+      "ip": "24.222.136.45"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1399588023462,
+      "content": "Woooo we have lots to talk about!! Sounds good to me"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399587940310,
+      "content": "Let's say Sat at 3:00 and I will mark it down if OK with you...ages and stages, yes? Also have a new puppy for you to meet (plus I am still taking care of T's big dog, Autumn)...plus teaching, Jare, etc."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399587819027,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126361970881933_2050936102_n_126361967548600.png"
+      },
+      "ip": "24.222.136.45"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399587810093,
+      "content": "OK!!!!!"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1399587791129,
+      "content": "I do have a gig i need to practice for friday evening.. but im free saturday anytime after 2 :)!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399587737232,
+      "content": "Hi ya...tomorrow (Fri) I am home all day unless I have to do a quick trip to Food store...Sat I am also home except for unexpected trips here and there....What are you doing after work on Fri?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399509308813,
+      "content": "Sat any time after noon would be good too.....just let me know...commit yourself...we will be here. Love"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399509269788,
+      "content": "What time are you finished work on Fri?"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1399508918709,
+      "content": "Hahahah!! Id love to come saturday day maybe or friday after work:) or whenever..i dont care hehe i cant wait though!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399508820361,
+      "content": "But whatever....would love to see you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399508803535,
+      "content": "\"ANYTIME\""
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1399508789458,
+      "content": "teach tomorrow while you are at work...finished at 6:00...fairly open on Fri/Sat this week (as far as I know) and Sun is Mother's Day..also have Monday evening after you finish work open. Grief...wish I was independently wealthy so I could just say"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1395938362357,
+      "content": "hi you...I keep up with your life on face book....Sad to say that I had to have Misha put to sleep a couple of weeks ago. Am still getting used to it. Weird. All three of us (Jare, me and T) have had the cold with Tiana still suffering. ENOUGH I say. Keep well, safe and know your precious."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1374074669080,
+      "content": "Lesley !!!!!!!!! What are you doing on saturday !!!??"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1369848906232,
+      "content": "hahaha uhg, i say, my boss is very last minute. so i have no idea what i even work tomorrow..let alone the weekend :( but i'll get her to write some of it up tonight so i have an idea... and then i'll let you know ! haha <3"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1369842588496,
+      "content": "I'm free Friday, some of Sat and some of Sun.....\nWhen do you  work?\nI don't have the car today or tomorrow (plus teaching and doctor's appt).\nUsing the car this weekend at some point to pick up plants.\nWhat say you?"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1369832516607,
+      "content": "I got a list of songs !! looks like it might be a bigger project than i thought lol...but you might know the songs :) let me know when you're free and i can come out or we can meet up <3 xo"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1369308159484,
+      "content": "okay :D thanks so much ! love love love :D"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1369226867433,
+      "content": "Sure, anytime (except if teaching)....\nTiana is away this weekend, so I am car-less but definitely here!!!!!Get as many titles of preferred songs and email me so I can unearth them from my stash."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1369221712025,
+      "content": "Soooooo the project is, and i don't know why i said yes to this, but i have a 50th wedding anniversary i have to play at in truro in july i think..and i don't really know many \"oldies\"...I will try to get specific requests but care to help me learn some old tunes in your spare time? haha its okay if not, but figured it'd be just like old times! hahaha :) <3"
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "inbox/facebookuser_10155897598450114",
+  "magic_words": [
+    
+  ]
+}

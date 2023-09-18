@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Heather Dunn"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1429916945565,
+      "content": "Hope the wedding went well and you survived unscathed. We are all OK here and looking forward to Ms. Reggie's Birthday tomorrow. Thinking of you often (Rex too) and send my very best wishes for all the stuff you are probably up to."
+    }
+  ],
+  "title": "Heather Dunn",
+  "is_still_participant": true,
+  "thread_path": "inbox/heatherdunn_858474357659525",
+  "magic_words": [
+    
+  ]
+}

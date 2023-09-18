@@ -1,0 +1,241 @@
+{
+  "participants": [
+    {
+      "name": "Cecely Gilby"
+    },
+    {
+      "name": "Lynn Rockwell Gray"
+    },
+    {
+      "name": "Joel Pratt"
+    },
+    {
+      "name": "Paul Barrett"
+    },
+    {
+      "name": "Clare Mason-Grieves"
+    },
+    {
+      "name": "Mary-Beth Moriarity"
+    },
+    {
+      "name": "Karen Laundon"
+    },
+    {
+      "name": "Sharon Rose Macdonald"
+    },
+    {
+      "name": "Margaret Weir"
+    },
+    {
+      "name": "Michael Freeman"
+    },
+    {
+      "name": "Richard Skidmore"
+    },
+    {
+      "name": "Lloyd MacLean"
+    },
+    {
+      "name": "Bonnie Fraser"
+    },
+    {
+      "name": "Maureen Bond"
+    },
+    {
+      "name": "Paul Tupper"
+    },
+    {
+      "name": "Patty MacIsaac"
+    },
+    {
+      "name": "Marjorie Henderson-Macdonald"
+    },
+    {
+      "name": "Margaret Anne Dodson"
+    },
+    {
+      "name": "Janet Goguen Proudfoot"
+    },
+    {
+      "name": "Guy Aucoin Jillian Kay"
+    },
+    {
+      "name": "Karen Mclean"
+    },
+    {
+      "name": "Gwen MacLean"
+    },
+    {
+      "name": "Ray Stewart"
+    },
+    {
+      "name": "Vicki Choisnet"
+    },
+    {
+      "name": "Stephen MacKenzie"
+    },
+    {
+      "name": "Shelley Pos"
+    },
+    {
+      "name": "Sandy Mackay"
+    },
+    {
+      "name": "Ian Purdy"
+    },
+    {
+      "name": "Ross Macvicar"
+    },
+    {
+      "name": "Jakki Rogue"
+    },
+    {
+      "name": "Brent Bannerman"
+    },
+    {
+      "name": "Lesley Dunn"
+    },
+    {
+      "name": "Karla MacFarlane"
+    },
+    {
+      "name": "Jim MacLeod"
+    },
+    {
+      "name": "Vivi Chediac"
+    },
+    {
+      "name": "Jane Jones"
+    },
+    {
+      "name": "Brody Wynn"
+    },
+    {
+      "name": "John Macdonald"
+    },
+    {
+      "name": "Margaret Wilsack-Renouf"
+    },
+    {
+      "name": "Clarice Campbell"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Susan Fraser",
+      "timestamp_ms": 1548612275940,
+      "content": "Susan Fraser left the group."
+    },
+    {
+      "sender_name": "Monica George",
+      "timestamp_ms": 1548611513806,
+      "content": "Monica George left the group."
+    },
+    {
+      "sender_name": "Monica George",
+      "timestamp_ms": 1548611460840,
+      "content": "So sorry to be missing this. We also have a church function this evening. Hope all goes wonderfully well!"
+    },
+    {
+      "sender_name": "Susan Parker",
+      "timestamp_ms": 1548597036820,
+      "content": "Susan Parker left the group."
+    },
+    {
+      "sender_name": "Margaret Weir",
+      "timestamp_ms": 1548592778133,
+      "content": "Sorry, I also have Church gigs. It should be a wonderful concert!"
+    },
+    {
+      "sender_name": "Nancy Levo",
+      "timestamp_ms": 1548542023056,
+      "content": "Nancy Levo left the group."
+    },
+    {
+      "sender_name": "Jakki Rogue",
+      "timestamp_ms": 1548541916472,
+      "content": "I have church gigs too! Sorry."
+    },
+    {
+      "sender_name": "Gwen MacLean",
+      "timestamp_ms": 1548541841934,
+      "content": "I'm sorry we can't he there..\nChurch gigs!"
+    },
+    {
+      "sender_name": "Jaime Smith",
+      "timestamp_ms": 1548540973063,
+      "content": "Jaime Smith left the group."
+    },
+    {
+      "sender_name": "Sharon Cheverie",
+      "timestamp_ms": 1548530309306,
+      "content": "Sharon Cheverie left the group."
+    },
+    {
+      "sender_name": "Nick Fisher",
+      "timestamp_ms": 1548530232552,
+      "content": "Nick Fisher left the group."
+    },
+    {
+      "sender_name": "Nancy Levo",
+      "timestamp_ms": 1548527988880,
+      "content": "Between church & other events, I don't think I can make it. Should be a lovely concert & a good cause."
+    },
+    {
+      "sender_name": "John MacLeod",
+      "timestamp_ms": 1548522726062,
+      "content": "John MacLeod left the group."
+    },
+    {
+      "sender_name": "Melanie Rasmussen",
+      "timestamp_ms": 1548521413452,
+      "content": "Melanie Rasmussen left the group."
+    },
+    {
+      "sender_name": "Bob Wong",
+      "timestamp_ms": 1548520206795,
+      "content": "Bob Wong left the group."
+    },
+    {
+      "sender_name": "Guy Aucoin Jillian Kay",
+      "timestamp_ms": 1548519990514,
+      "content": "We have our tickets :)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Janet Goguen Proudfoot"
+        }
+      ]
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1548519911723,
+      "content": "Hope to see you at the Stadacona Band Concert tomorrow (Jan. 27) at the deCoste Centre at 2 PM. All proceeds go to help three middle school band programs purchase new band instruments.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Janet Goguen Proudfoot"
+        }
+      ],
+      "share": {
+        "link": "https://www.facebook.com/events/263000251044356/"
+      }
+    },
+    {
+      "sender_name": "Shelley Pos",
+      "timestamp_ms": 1548519911249,
+      "content": "Shelley named the group Stadacona Band Plays In Support Of Local Band Programs."
+    }
+  ],
+  "title": "Stadacona Band Plays In Support Of Local Band Programs",
+  "is_still_participant": true,
+  "thread_path": "inbox/stadaconabandplaysinsupportoflocalbandprograms_2096731263751153",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

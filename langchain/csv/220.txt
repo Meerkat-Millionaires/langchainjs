@@ -1,0 +1,198 @@
+{
+  "participants": [
+    {
+      "name": "Paul Crawford"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562064370258,
+      "content": "ok I jumped it and something in the corner lit on fire for a sec. No POST"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562062896457,
+      "content": "plz help"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562062894850,
+      "content": "ok I tried jumpstarting the board with the thingers and a fork no dice"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562062487162,
+      "content": "duder"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562062130895,
+      "content": "???"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562061959392,
+      "content": "the light's on on the motherboard but no action on the on button"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1562061945247,
+      "content": "yo how do you turn the computer on"
+    },
+    {
+      "sender_name": "Paul Crawford",
+      "timestamp_ms": 1560870945819,
+      "content": "OMG TY"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1560870901956,
+      "content": "isabella"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1560870894131,
+      "content": "Interac e-Transfer Completed\nYour Interac e-Transfer has been sent. \n\nConfirmation Number: 8878\nDate and Time:18 Jun 2019 at 11:14:29 EDT\nExpires:2019-07-18 11:14:26\nTo:paul\nEmail Address:p.dcs.02@gmail.com\nNotify By:Email\nAmount:$ 50.00\nFrom:Chequing 05503-5026398\nNew Balance:490.44\nSecurity Question:what's reg's middle name\nSecurity Answer:********"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1557518935014,
+      "content": "Status :\tPayment sent - 3\nSent :\t10 May 2019\nExpires :\t9 Jun 2019\n \t \nTo :\tPaul\nEmail Address :\tp.dcs.02@gmail.com"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1557518921531,
+      "content": "did that screenshot send?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1557518900766,
+      "photos": [
+        {
+          "uri": "messages/inbox/paulcrawford_916703438503283/photos/59919709_373647719914054_3635811531142201344_n_373647713247388.png",
+          "creation_timestamp": 1557518899
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1544974824466,
+      "videos": [
+        {
+          "uri": "messages/inbox/paulcrawford_916703438503283/videos/12412543_577708572383870_1018189197_n_374597406446657",
+          "creation_timestamp": 1544974823
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1532435310985,
+      "gifs": [
+        {
+          "uri": "messages/inbox/paulcrawford_916703438503283/gifs/20687600_1000570643419125_5987921457076764672_n_1003756979797928.gif"
+        }
+      ],
+      "ip": "24.89.210.42"
+    },
+    {
+      "sender_name": "Paul Crawford",
+      "timestamp_ms": 1532435277712,
+      "content": "TY very much, it means alot"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1532435188045,
+      "content": "Paul, am so sorry to hear of your trials of late...so much for you to handle....I will speak to the Powers-that-Be and hope that there will be some respite in your near future..my best to you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1522361187390,
+      "content": "Okey Dokey!!"
+    },
+    {
+      "sender_name": "Paul Crawford",
+      "timestamp_ms": 1522311478980,
+      "content": "Hey mom yeah I fell asleep lol. Finally had a good night sleep. I will pop over this evening after work"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1522274047593,
+      "content": "Jare says you are coming for the laptop after work.....I have to go out for a bit....in case I miss you, I will put the laptop in  a bag on front porch....I hope that is only this item you're looking for."
+    },
+    {
+      "sender_name": "Paul Crawford",
+      "timestamp_ms": 1521908656542,
+      "content": "you are very welcome"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1521908650433,
+      "gifs": [
+        {
+          "uri": "messages/inbox/paulcrawford_916703438503283/gifs/20037062_681980452002419_22555587690627072_n_916716161835344.gif"
+        }
+      ],
+      "ip": "24.89.211.36"
+    },
+    {
+      "sender_name": "Paul Crawford",
+      "timestamp_ms": 1521908629701,
+      "content": "I will do some digging and find out what I can"
+    },
+    {
+      "sender_name": "Paul Crawford",
+      "timestamp_ms": 1521908619436,
+      "content": "yes I don't blame you hun, and no you are deff not responsible for it at all."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1521908585468,
+      "content": "have a good day"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1521908576749,
+      "content": "I am not responsible for these items, it will be Jare's (another debt to face at some point)."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1521908463215,
+      "content": "The fella from Easy Home came here to see if I knew where stuff was....specifically a mouse, a stereo and a keyboard (he later sent me pictures and descriptions by email)...he also filled me in on the damage done to the beds. I am in contact with him. Jare says that he doesn't have the Easy Home mouse with him (I am not sure this is true cause it sure looks like the one I brought to the hospital with his laptop...but at this point I give up/)..He also says he has no idea about the stereo or keyboard."
+    },
+    {
+      "sender_name": "Paul Crawford",
+      "timestamp_ms": 1521908235345,
+      "content": "does Jarett know. to my understanding Easyhome went and picked the stuff up at the house other than the stuff Jarett asked them to buy. I can confirm with them and will pop over to the house tomorrow afternoon"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1521908116302,
+      "content": "okey dokey."
+    },
+    {
+      "sender_name": "Paul Crawford",
+      "timestamp_ms": 1521908046503,
+      "content": "hey hun, no I was told not to worry about getting his stuff. I think he has the keyboard and mouse but no clue where the stereo is."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1521907988846,
+      "content": "do you have any idea where the stereo, keyboard and mouse are that Jarett rented from Easy Home? Also, did you remove the rest of Jare's clothes, bits and pieces?? I have been told it is all gone, not that it matters in the long (or even short) run. Sorry to bother you with this. Loose ends. He's in Truro hospital at last contact (yesterday)...I have no idea what he will accept or demand as his next steps, but he cannot come home....I am ill and unable to ride this roller coaster...been 10 years of it and finally have accepted that I personally cannot change anything, hope the system can , but you know that he's always got \"another plan\".  thanks for all your help."
+    },
+    {
+      "sender_name": "Paul Crawford",
+      "timestamp_ms": 1521907630880,
+      "content": "You are now connected on Messenger"
+    }
+  ],
+  "title": "Paul Crawford",
+  "is_still_participant": true,
+  "thread_path": "inbox/paulcrawford_916703438503283",
+  "magic_words": [
+    
+  ]
+}

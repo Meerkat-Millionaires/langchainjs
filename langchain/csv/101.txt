@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Luke Fusco"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1550940532751,
+      "content": "Luke, was so very sorry about Nonna....all my sympathies and regrets that ill health has made communications dicey at best for the last while...if you are still in Toronto, please extend my best wishes to Sal and family as well....and to Nonno....I have very fond memories of both. Again, my true sympathies."
+    }
+  ],
+  "title": "Luke Fusco",
+  "is_still_participant": true,
+  "thread_path": "inbox/lukefusco_10157506237670083",
+  "magic_words": [
+    
+  ]
+}

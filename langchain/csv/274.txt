@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1374788284097,
+      "content": "Hello Dear,,\nHow are you doing i hope you are fine,,my name is elivis I read and heard about love!!\nBut I cam to know the true love\nFrom you. You are so lovable by dear!!  please can we be friends"
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/facebookuser_1041824695889754",
+  "magic_words": [
+    
+  ]
+}

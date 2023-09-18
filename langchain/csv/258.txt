@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Atlantic Superstore"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Atlantic Superstore",
+      "timestamp_ms": 1572800736466,
+      "content": "Ok... yes! Give them a call if you need some help!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1572800666008,
+      "content": "I waited and it came back on line, but the order was off and away in limbo....so redid it and it was OK until the last item!! Looked like some kind of server glitch.. will keep the number you sent in case it happens again.....thank you..."
+    },
+    {
+      "sender_name": "Atlantic Superstore",
+      "timestamp_ms": 1572799000625,
+      "content": "Give them a call at the store to see if they received your order. They may be able to walk you through what to do next. 902-928-0066 ext 325"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1572797525397,
+      "content": "My online shopping stopped abruptly part way through and I can't get it back....everything else is working but not your info. What to do?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1572797456546,
+      "content": "I have a question. Can you help?"
+    }
+  ],
+  "title": "Atlantic Superstore",
+  "is_still_participant": true,
+  "thread_path": "inbox/atlanticsuperstore_1338750336298589",
+  "magic_words": [
+    
+  ]
+}

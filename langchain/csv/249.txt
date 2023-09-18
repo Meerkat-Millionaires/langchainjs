@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Rebecca Whiffen"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1447861417482,
+      "content": "HI...Grace, I'm sorry to say that I retired last May and am not teaching any longer....thanks for thinking of me and I hope all is well with you and your kin!!!!"
+    },
+    {
+      "sender_name": "Rebecca Whiffen",
+      "timestamp_ms": 1447806793648,
+      "content": "Leslie, do you have any piano spaces left?  Grace wants to take piano again!  I know it's late so no worries if you don't."
+    }
+  ],
+  "title": "Rebecca Whiffen",
+  "is_still_participant": true,
+  "thread_path": "inbox/rebeccawhiffen_10153676061890549",
+  "magic_words": [
+    
+  ]
+}

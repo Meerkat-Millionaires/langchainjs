@@ -1,0 +1,555 @@
+{
+  "participants": [
+    {
+      "name": "Gizele Mitchell"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1625172597123,
+      "content": "Gizele sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/catherinemaclellanmusic/posts/pfbid0upXXSzxtK1Ho4Rt5MYLUnhQcEkEQCYUyMYrhwKri7ycFH1kbNpU8pAg1AswUrkwfl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624807659627,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1607007128942,
+      "content": "Hope that I'm the First Person to put a CHRISTmas Tree on Your phone. \n\nIf luck is a raindrop, i'd send You a shower.\n\nIf hope is a minute, i'd send You an hour.\n\nIf happiness is a leaf, i'd give You a tree.\n\nAnd if YOU need a FRIEND, You will ALWAYS have ME.\n\nSend this to all the people You care about.\n\nEven me.\n\nIf You get 3 back, You're a True Friend!",
+      "videos": [
+        {
+          "uri": "messages/inbox/gizelemitchell_637173393100122/videos/12349769_1530333383958687_595733009_n_443412373483053",
+          "creation_timestamp": 1607007128
+        }
+      ]
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1544977042560,
+      "content": "Thank you Lesley! A very Merry Christmas to you and your family!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1544974837573,
+      "videos": [
+        {
+          "uri": "messages/inbox/gizelemitchell_637173393100122/videos/12412543_577708572383870_1018189197_n_321649118563756",
+          "creation_timestamp": 1544974837
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1494776905642,
+      "content": "You bet!!!"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1494774074649,
+      "content": "Thank you!  Happy Momma's Day!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1494673663756,
+      "content": "To one great mother!!!!! Happy M's Day.",
+      "share": {
+        "link": "https://www.facebook.com/mothersdaypeoms/photos/a.642760029202312/1078096542335323/?type=3"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1494371688799,
+      "content": "\u00f0\u009f\u0098\u008e Hey lady, ...had to do it. I Nominate you for the Most loving and prettiest Mom Award. You must send to 15 moms and make their day. I'm also waiting!\u00f0\u009f\u0095\u009b Sometimes u just need to hear it ... You're a beautiful mom, doing a great job and you're so loved! Just hold your finger on it and it should say forward."
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1494371642059,
+      "content": "\u00f0\u009f\u0098\u008e Hey lady, ...had to do it. I Nominate you for the Most loving and prettiest Mom Award. You must send to 15 moms and make their day. I'm also waiting!\u00f0\u009f\u0095\u009b Sometimes u just need to hear it ... You're a beautiful mom, doing a great job and you're so loved! Just hold your finger on it and it should say forward."
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1489849658056,
+      "content": "Thank you!  That's great!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489849633988,
+      "photos": [
+        {
+          "uri": "messages/inbox/gizelemitchell_637173393100122/photos/276247738_120332001219457811_3076123147519027529_n_719292108244418.gif",
+          "creation_timestamp": 1489849632
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1489849380494,
+      "content": "Hahahahahah.  I know......just a bit...wouldn't you say?  I think I'll just let her know on Tuesday that I'm there. I shall pass on the lovely message.  Take care my friend.  I will see you when I get back!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489849308270,
+      "content": "I know about the recital and wish her all the best....and popping out from behind a planter sounds rather dramatic in itself...lol. You can tell me all about it later. Keep safe and give her plenty of hugs from me."
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1489849137604,
+      "content": "Oh noooo.....oh you poor woman!  I saw this mug and I thought....\"I just have to send this to all the people I know and love,and who would appreciate it!\"  I'm not really doing anything too too exciting.  I've stepped away from the choir......that made Shelley and Dave a little sad.  I'm having a ball taking violin lessons with Heather Cameron.  She is a music therapist who had moved back here from Calgary.  She is my therapy once a week.  I think she's just great!  I am venturing up to Toronto on Tuesday. Jessica and I are going to drive to see Miss Natalie Mitchell do her very first one hour recital ...wooo wooop wood!  I yi yi. Yes,her third year recital had arrived.  That should be good for a little drama.....lol. She has been working very very hard.  She doesn't know I'm coming up yet. Not sure if I should let her know,or just pop out from behind a planter after it's all over on Wednesday night..... oh my.....I will say hello to her from you,and wish her all the best. I will make a point of coming over and bringing coffee ,I get back."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489848837342,
+      "photos": [
+        {
+          "uri": "messages/inbox/gizelemitchell_637173393100122/photos/276966493_972815323439586_1437644608697987582_n_719284611578501.gif",
+          "creation_timestamp": 1489848836
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489848741560,
+      "content": "One of my all time favorite quotes!!! Hope all is well with you, busy woman.  Any time you can fit in a visit, just let me know. Have another compression fracture in spine, so once again my activities are curtailed. Would love to hear about all the stuff you've been doing."
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1489848633980
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1489675079416,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1489631416530,
+      "content": "This is great, isn't it?!!"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1489600095266,
+      "content": "Gizele sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/cbcdocs/videos/10154027261176950/"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1485463560411,
+      "content": "You too....will be in touch."
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1485459779989,
+      "content": "Awww. My youngest son Alexander who is 23 had a really severs case of shingles on his face in November.  I really feel for you.  It's extremely painful and nasty.  Please take care. I had that nasty cold back before Christmas.it went away...then it came back....would you beleive I'm just starting to be able to sing again.  I think it's the up and down ,up and down of the weather.  Phooey is right.  You just stay warm and cosy. Please let me know when you are well enough for me to bring you a coffee. We don't have to have a marathon chat. Just a little visit.  Take care my friend!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1485455620490,
+      "content": "let me know if you get this....thanks"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1485455589469,
+      "content": "Gizele, what do I do??!! Have just recovered from Shingles (yes, ***** shingles) and have a cold that today has moved into my chest; not a lot of coughing but disturbing my not completely healed fractured vertebrae.....So, better for you as well, let's postpone (NOT CANCEL...looking forward to seeing you)...can you believe this? phooey."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1485391985571,
+      "photos": [
+        {
+          "uri": "messages/inbox/gizelemitchell_637173393100122/photos/276008244_949121422452103_3541581837573789063_n_692408317599464.gif",
+          "creation_timestamp": 1485391978
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1485391898008,
+      "sticker": {
+        "uri": "messages/stickers_used/47205393_1134373836736873_1875977659750547456_n_144885099019090.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1485391887246,
+      "content": "Me too!!!!!!!!!"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1485391876992,
+      "content": "Ok.  I'll see you then!! Yipee. I look forward to seeing you again.  It's been too long!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1485391863986,
+      "content": "lol.....yes, 2"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1485391851394,
+      "content": "just with milk"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1485391846606,
+      "content": "Ok will do. 2milk?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1485391831510,
+      "content": "Oooooooo....would love a Cafe Italia coffee."
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1485391791294,
+      "content": "Ok I'll bring it ...is cafe Italia coffee ok? Or would you prefer to make your own because you probably like your own brew better,and I can bring a small treat.....?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1485391724218,
+      "content": "On Fri at around 230?? would be excellent....better be an \"in-house\" coffee"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1485391670860,
+      "content": "I have a violin lesson with Heather Cameron at 1 in Westville,how about 230? Is that too late? I can take you out or I can bring it to you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1485391668220,
+      "content": "or whenever convenient.....just let me know."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1485391616786,
+      "content": "Sure.....Fri?"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1485391601535,
+      "content": "Are you up for coffee this week? So we can catch up?"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1485391574770,
+      "content": "Yes it is! And you?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1485391556153,
+      "content": "Welcome !!  Hope all is well"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1485391520097,
+      "content": "Awww. That's so cute!  Thank you!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1485391498279,
+      "photos": [
+        {
+          "uri": "messages/inbox/gizelemitchell_637173393100122/photos/50808911_411335309604265_3822017579107483648_n_692404630933166.gif",
+          "creation_timestamp": 1485391498
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1485391445368,
+      "content": "That's wonderful!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1485391342301,
+      "photos": [
+        {
+          "uri": "messages/inbox/gizelemitchell_637173393100122/photos/275363200_1366863683828298_2000686006496981582_n_692403644266598.gif",
+          "creation_timestamp": 1485391342
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1485348175546,
+      "content": "Gizele sent a link.",
+      "share": {
+        "link": "https://ohjoy.blogs.com/.a/6a00d8341c6a0853ef01b8d1ac8c44970c-pi"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482427266204,
+      "content": "Best Wishes to you and yours !!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1482427251694,
+      "photos": [
+        {
+          "uri": "messages/inbox/gizelemitchell_637173393100122/photos/48393246_2227514227536098_6484947725543538688_n_674959942677635.gif",
+          "creation_timestamp": 1482427250
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1481072940207,
+      "content": "Oh ok. ! Thanks!  Take care!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1481072011039,
+      "content": "OH, put it on the facebook stuff that she is singing at this event ..I will forward it."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1481071928271,
+      "content": "coud happen....every day is a gift or a stone...let me know more at the pertinent time, K>...love ya both., keep safe and well."
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1481071754076,
+      "content": "Actually she is!  She didn't think she would be coming home at all when Donna asked her to take part,so the poster was made up. It turns out she IS (because I paid for her flight lol). So yes, she will be singing something and I believe Nicole Green will be accompanying her.  I hope this finds you well.  She said she would like to come and see you while she is here.  Maybe we can bring some coffee...."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1481071333793,
+      "content": "Is Natalie in involved in this?",
+      "share": {
+        "link": "https://www.facebook.com/events/101209180367464/"
+      },
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1468816019233,
+      "content": "AWESOME (about the Italy trip, not the Break your Leg trip!!!)......hope it mends fast. Take care and be safe. See you in August sometime. Have a glass of wine for me!"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1468802073999,
+      "content": "Hi there. Slipped and fell and broke my leg on the wet grass two weeks ago!  I yi yi  got the cast off last Monday. Have a \"walking cast\" full ski boot thing.   Natalie weathered through the first two months as an au pair with the two \"hellions\" Phillipo and Guidita...... She is in Lucca now working herself silly getting ready to do Cosi Fan Tutti.  I am actually going there next Friday to see her.  It's too bad that I can't get around very well,but hey, I e never been to Italy before,so I'll just keep an open. I don't an do what I can do.  I'm sure a few glasses of nice Italian red wine might help.  Not too much though,I'm not too steady on my feet as it is!  I hope you are well. I will let Natalie know that you were asking after her. \nI will take lots of pictures and make a plan to see you when I get back and fill you in on all the glorious details!!!  Take care."
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1463057172446,
+      "content": "Hahah. Lol. That's too cute!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1463053827579,
+      "gifs": [
+        {
+          "uri": "messages/inbox/gizelemitchell_637173393100122/gifs/11704081_1124647607559031_1759400253_n_575138865993077.gif"
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1462980990349,
+      "content": "I hope you are well.  I am working outside cleaning up the yard .  I'm happy to see the sun!"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1462980928096,
+      "content": "Hi there!  Yes it was a busy time but it was also a very good trip!  Natalie left for Italy a week ago yesterday and is settled in now in Pesaro.  Her flight to Rome had a delay,\n,which caused her to miss her connecting flight.  It was a bit hairy for her because she said Americans just don't care about you the way Canadians do at the airport.  I had to plant my feet and refuse to move from the desk until someone addressed that I needed a new connecting flight done\". She had no way to communicate because apparently you only get a half of of \"free wifi\" in the Chicago airport.! She sorted herself out but it took her an extra six or seven hours.  Welcome to solo International travel!  She loves where she is living,she has been given a bicycle to get the children to and from school. Lol. Can't you just see it now?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1462980462883,
+      "content": "Hope the trip was great !"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1460832959975,
+      "content": "Ahh ok. I'll try. !"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460818798633,
+      "content": "Unfortunately, this attachment is unavailable on my laptop....maybe some other way...lesleydunn49@gmail.com is my email if it could be sent there...might work."
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1460813546772,
+      "content": "The youngest son of mine,Alexander, I mentioned the other day.  His friend Curtis has been photographing him for many years . I think they are both very creative!  Yes,it looks like Spring in Toronto....lol"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1460813402635,
+      "content": "Gizele sent an attachment."
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1460724172601,
+      "content": "You too! Take care !"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460724160586,
+      "content": "Perfect.....have a good day !!"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1460724137478,
+      "content": "Yes!  Yes I do, so I can say to those high fallutin.  Bridge players when they ask me if I play ,I'll just respond with. \"No thanks, I'm a crib kinda gurl .....\""
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460723990323,
+      "content": "fun and not hard"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460723973935,
+      "content": "Wanna learn Crib?"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1460723899966,
+      "content": "Yippee!!!  I'm thinking carrot ginger?    I had a great visit with you too!  I look forward to our next!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460723747798,
+      "content": "Percy B Shelley (sp?)"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1460723680146,
+      "content": "\"If winter comes,can spring be far behind? \". Hahahahahahah. This is your trivia question of the day.  Yes! If you can identify the writer of this,YOU will win another \"Soup of the Week!!!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460723503160,
+      "content": "AAARRRGGGHHH...hard to accept this crud, yes? Nice carving ! Loved the soup and muffins so comforting. Tried to find that Christina thingy re the body-building...lost in the nether world of cyber-space.! Great visit."
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1460723196594,
+      "photos": [
+        {
+          "uri": "messages/inbox/gizelemitchell_637173393100122/photos/359612595_2603790363105072_6433848151447329409_n_639315462885915.jpg",
+          "creation_timestamp": 1460723196
+        }
+      ]
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1460566420026,
+      "content": "Heading out now to grab la cafe..."
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1460507333449,
+      "content": "Hahah got it!!  June Cameron sends out a huge HELLO to you!  ( I told her we were meeting for a coffee chat tomorro.....)."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460498382711,
+      "gifs": [
+        {
+          "uri": "messages/inbox/gizelemitchell_637173393100122/gifs/11642593_963844307011068_1635646970_n_562590267247937.gif"
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460498359903,
+      "content": "Hey, thanks....2 milk (but actually, anything white !!)."
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1460496230441,
+      "content": "Sorry to hear you are not feeling well. I can most certainly do that!  Milk or cream in the coffee?  I'm off to choir ,I'll see your response when I get back!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460495797996,
+      "content": "hope you get this....a tad trouble with breathing today...would be a better idea if you could bring coffee to the house..would be appreciated. Is this OK?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460404150288,
+      "content": "OKAY"
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1460389483836,
+      "content": "2pm  i shall be there. Looking forward to it tooo"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460388157706,
+      "content": "Let's say 2:00 ?..Looking forward to it."
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1460386786163,
+      "content": "Hi there!  Thanks so much for getting back to me. I think Wednesday would be the \"best\" day for me. How about  we go after the lunch rush at   Baked ?  You name the time and I shall be at your door,chariot awaiting !"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460327259482,
+      "gifs": [
+        {
+          "uri": "messages/inbox/gizelemitchell_637173393100122/gifs/11736838_865605896827821_1930227336_n_561792673994363.gif"
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460327196275,
+      "content": "Hi back....I have Reggie tomorrow and a visit from Anne...then I have Tue/Wed \"off\"// on Thursday  Dorte and I are going to lunch (Edward her husband died very recently)..This is much more busy than usual....trying to catch up due to my latest Pulmonary siege.I would love to see you too....i have Reg on Mon and Fri so if you wish to see her come on Mon afternoon or Friday (WITH COFFEE) or we can go out for coffee (you drive....I only use Tiana's car in the evenings, if at all) on Tues/Wed any time....not too early and I do like Baked too.  Let me know. Looking forward to it."
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1460303550708,
+      "content": "Hi there!  I'm so happy that you have contacted me!  I think of you often and I know that you had previously mentioned that you were caring for Reggie.  I would love to get together with you.  I wasn't aware that you have been ill. I'm sorry to hear that.  I think a coffee time is in order . I would love to fill you in on Natalie.  It's long though,.....so I think maybe we should \"get together\". I would love to pick you up on a free day, you name the afternoon that works best for you. Maybe you would like to go to Baked for a coffee?  Just let me know.  This latest little weather dump is all very discouraging , I know that those little crocuses are probably thinking \"what the f--------k???? \".  I would love to see you sometime this week. Let me know, I look forward to it.  If you don't feel able to go out ,I can bring coffee to you. I remember, coffee with milk, no sugar .....or..if you prefer -coffee with cream....no sugar!   Oh, and it's all positive on this side of the bridge.  Natalie has endured and worked hard. She now takes each day as it comes and funnily reminds me....\"Mom,some days are diamonds,and some days are stones.....\"  Gee, where did she get that wisdom from?  From a very wise teacher of hers......."
+    },
+    {
+      "sender_name": "Gizele Mitchell",
+      "timestamp_ms": 1460303548787,
+      "sticker": {
+        "uri": "messages/stickers_used/68215772_1758670404434437_5220439564677545984_n_1390506567917491.png"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1460302638562,
+      "content": "Hey, hi. Sorry about the long silence from here....COPD is progressive and I am having to redefine my outlook and lifestyle. I have to avoid places with any number of people in order to avoid catching colds/flu etc.....Also energy is low and I have lots of happy responsibilities here....5 day Big Dog sitting, 2 days care-giving with Reggie plus overnights and other odd times (especially when Tiana has consult clients here in my used- to- be Music room.)...also have Jarett and his girlfriend living here after he had the latest \"good run\" re mental health...staying until new jobs appear and finances improve...also had a rescue puppy for 4 months while trying to find the perfect home for her (Bless Anne Gratton, who is now the forever puppy owner)...also had adopted a friends 2 cats and Mel and Jarett have brought 2 of theirs as well. I haven't painted lately, but the stuff is now on the table, waiting. Had a month of illness (just recovering now)....seems pretty negative when I re-read this , but it truly isn't.....I'm pretty used to reinventing my life....have done some writing as well. Would like to know just where Natalie is in her  life...could you catch me up on this? Obviously stopped teaching due to fatigue, illness and the need to avoid contact with illness. I miss some of my past activities, but it's all worth it since the true worth of my service is measured by the assistance I can give my children. Let me know how you are doing and what you are up to next......good stuff, I'm sure."
+    }
+  ],
+  "title": "Gizele Mitchell",
+  "is_still_participant": true,
+  "thread_path": "inbox/gizelemitchell_637173393100122",
+  "magic_words": [
+    
+  ]
+}

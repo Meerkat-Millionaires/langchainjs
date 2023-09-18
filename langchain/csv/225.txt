@@ -1,0 +1,151 @@
+{
+  "participants": [
+    {
+      "name": "Peter Young"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1624807997440,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/lesley.dunn.1447/posts/pfbid0hEEoCXQrTp5Z7o3J7ubBegmd1v1rPfruWjT5orcFKqReJKQ4qE5YejakqUZkGaeLl"
+      }
+    },
+    {
+      "sender_name": "Peter Young",
+      "timestamp_ms": 1537973261149,
+      "content": "Very cool!! Thanks so much for sharing!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1537972321908,
+      "content": "Thought you might like to see this, if you haven't already...still loving my print.",
+      "share": {
+        "link": "https://www.facebook.com/LaszloMontreal/posts/pfbid02338Tjps2kfkLriVumpg1jrREvVnswmBnsFUiUXdeAXJQNQ5pArp2jWWh7JQ969J4l"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490559911998,
+      "photos": [
+        {
+          "uri": "messages/inbox/peteryoung_10155715813357571/photos/276312297_120332001177801455_6449944250328886422_n_723590251147937.gif",
+          "creation_timestamp": 1490559909
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Peter Young",
+      "timestamp_ms": 1490559895524,
+      "content": "Thanks! Maybe not in the near near future... but he is definitely somebody who is on my list to do. :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490559849820,
+      "content": "You can repay with a portrait of the \"Dylon\"...a copy since I can't (lol) afford an original.....not holding my breath for it....Good luck to you..."
+    },
+    {
+      "sender_name": "Peter Young",
+      "timestamp_ms": 1490559743241,
+      "content": "Okay. Thanks, Lesley! :) I really appreciate your faith in me!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490559698552,
+      "content": "Oh, just let it go....I am too hopeful and too  forgiving to pursue any one for anything....I just want you to take care in the future...you have so many talents and a HUGE  future in front of you...Be wary and stay true to the course..  Wishing you all the best."
+    },
+    {
+      "sender_name": "Peter Young",
+      "timestamp_ms": 1490559447307,
+      "content": "An in person discussion or just a discussion in general? I am free now. Just waiting for the dryer to finish so I can put in the load from the washer. :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490559395269,
+      "photos": [
+        {
+          "uri": "https://interncache-ncg.fbcdn.net/v/t34.18173-12/17197691_10155027444748468_477069099_n.gif?stp=dst-gif&ccb=1-7&_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-ncg&oh=00_AfAp71bONDRfcRih5a18wLWvAWK-_17wxtLIDYvFmoYjYg&oe=64AE416F",
+          "creation_timestamp": 1490559394
+        }
+      ],
+      "ip": "24.89.215.232"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490559371396,
+      "content": "let me know when you are free and available for discussion.,,"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490559324210,
+      "content": "good on you....best of luck in the accomodation area....just looking at Humphrey Bogurt  stuff of the black /white time period....love that stuff."
+    },
+    {
+      "sender_name": "Peter Young",
+      "timestamp_ms": 1490558621334,
+      "content": "Thanks! I will definitely put him on my list. I haven't found a lot of time lately to do any drawing. Job is going great - living arrangements could be better. I am looking for a better place without much luck. I am renting space in a house that is occupied by the owner.  And I don't like him. Haha. So it is not conducive to creativity. :("
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490558509145,
+      "content": "Hope stuff is going well with you where you are."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490558471438,
+      "content": "And the time is ripe to garner enthusiasm re Dylon.....for many reasons."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490558411076,
+      "content": "With the frenzied hair?  I truly love the picture  I have of Leonard Cohen (who looks incredibly like one of the old film stars)...if you do decide to do a drawing of Bob Dylon...I cannot afford the original, but would love a copy.But would love to have a print.....lots of people would.. You are gifted."
+    },
+    {
+      "sender_name": "Peter Young",
+      "timestamp_ms": 1490558145595,
+      "content": "Hi Lesley! I could.  :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1490558122916,
+      "content": "Would you do a portrait of Bob Dylon?"
+    },
+    {
+      "sender_name": "Peter Young",
+      "timestamp_ms": 1484327572790,
+      "content": "Interesting. I will now. Thanks!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1484326458812,
+      "content": "have a look....not there. I joined the group and have messaged them about this"
+    },
+    {
+      "sender_name": "Peter Young",
+      "timestamp_ms": 1484326222964,
+      "content": "I believe it is image 460 of 492... it is on one of those pages under images..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1484325958020,
+      "content": "I can't find your portrait in the overview of contestant pieces?  Has it been removed?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1484263662769,
+      "content": "You are now connected on Messenger"
+    }
+  ],
+  "title": "Peter Young",
+  "is_still_participant": true,
+  "thread_path": "inbox/peteryoung_10155715813357571",
+  "magic_words": [
+    
+  ]
+}

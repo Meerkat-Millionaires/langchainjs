@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Missy Dawn"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1362533908060,
+      "content": "Will call in AM."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1362533884809,
+      "content": "Thanks....we really miss yu and need yu."
+    },
+    {
+      "sender_name": "Missy Dawn",
+      "timestamp_ms": 1362533775677,
+      "content": "Call me in the am.  I don't think I have anything available this Thursday but I will check.  Didn't know you were living in New Glasgow.  I miss you guys too!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1362533711510,
+      "content": "Major help needed with Misha....bad hair, no hair, etc....I only have a car on occasion (sharing with my daughter) and wonder if you can take us on this Thursday in the morning...need to have ALL  her hair shaved and start from scratch with me actually brushing on a regular basis...she looks like an unloved, abused dog!! Plus her hot spots don't help. If this is impossible, I will try to find another day that I can get the car. Plus, Misha misses you....we live in New Glasgow now and I don't trust her to anyone else."
+    }
+  ],
+  "title": "Missy Dawn",
+  "is_still_participant": true,
+  "thread_path": "inbox/missydawn_10154145405116014",
+  "magic_words": [
+    
+  ]
+}

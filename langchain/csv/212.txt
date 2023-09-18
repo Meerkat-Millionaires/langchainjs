@@ -1,0 +1,611 @@
+{
+  "participants": [
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Lesley Dunn"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1562611323766,
+      "content": "K"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1562611323544,
+      "content": "or later when I come back inside."
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1562611317509,
+      "content": "I'll try to text it to ya in a few mins when my google play services updates on newtome phone"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1562611304707,
+      "content": "No connection out front.."
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1562611299888,
+      "content": "Yup will do"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1562611295352,
+      "content": "K. Send me his # and I\u00e2\u0080\u0099ll call him when I can"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1562611273441,
+      "content": "ya prob miss him."
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1562611266846,
+      "content": "goin back outside to chill with Sal, Margarita? Donna and Mom"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1562611260979,
+      "content": "Yeah. I won\u00e2\u0080\u0099t be there until around 5 \u00f0\u009f\u0098\u0095\u00f0\u009f\u0098\u0095"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1562611227223,
+      "content": "just wants ya to know he's in Anti atm"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1562611221711,
+      "content": "he can't stay long, has to pick up dog in Anti"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1562611214250,
+      "content": "@Tiana Sal's here lookin for u and kid"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1562257811453
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1562257810051,
+      "content": "missed appt,in our defense I didn't receive reminder call they usually do, which will happen again now"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1562020493115,
+      "content": "Chronologically"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1562020489193,
+      "content": "This is the 1st chronology"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1562020488924,
+      "content": "https://www.amazon.com/Moaning-Life-Worldly-Wisdom-Pilkington/dp/1782111549/ref=mp_s_a_1_12?keywords=karl+pilkington&qid=1562020373&s=gateway&sr=8-12",
+      "share": {
+        "link": "https://www.amazon.com/dp/1782111549/ref=tsm_1_fb_lk",
+        "share_text": "'\"Why are we here?\" The only time I ever asked meself that was on a surprise holiday to Lanzarote.' Left to his own devices, Karl Pilkington would be happy with his life just as it is. But now he's hit forty, everyone keeps asking him why he's so reluctant to marry his girlfriend and why he doesn..."
+      }
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1562020431988,
+      "content": "Bday soon"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1562020429375,
+      "content": "Check out the paperbacks"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1562020428982,
+      "content": "https://www.amazon.com/s?k=karl+pilkington&ref=is_s",
+      "share": {
+        "link": "https://www.amazon.com/karl-pilkington/s?k=karl+pilkington",
+        "share_text": "Amazon.com: karl pilkington"
+      }
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1561411102714,
+      "content": "Oh and Paul and wife got their pay like they expected but their new bank put a 4 business day hold on the funds so he'll have that other chunk of change in the neartime once it clears"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1561410917285,
+      "content": "Hey Nomamammoo I hope you're home soon I kept your beer safe from my friends trying to buy it off us :) :) I love u much, I still don't have a bank account so you have an email (password is cashit again) waiting for you for $239.57 and I used your card # to take $200 of that out (and there might be some confusion there because I cancelled one etransfer in there somewhere but your total balance should reflect $200). The change is yours cuz I still owe u some $. Love love"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1561387263186,
+      "content": "Lol she asked if I was noma's husband :) :)"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1561387228413,
+      "content": "I gave them your #"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1561387226032,
+      "content": "they got part of a referral but not funding approval I guess?"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1561387218699,
+      "content": "Private company for home oxygen just called"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1561386776950,
+      "content": "Seems to be. I\u00e2\u0080\u0099ve never been a \u00e2\u0080\u009cclient\u00e2\u0080\u009d so I don\u00e2\u0080\u0099t really have that perspective  but it sounds like it will be a good fit"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1561386365924,
+      "content": "I wasn't aware they had 1:1 for smoking, + funding"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1561386339089,
+      "content": "he a good guy???"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1561386329682,
+      "content": "Excellent"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1561386163604,
+      "content": "Thursday 2pm David Demetree mental health cliinic, be there quarter to 2 then do 8 weekly sessions for stop smoking"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1560366266474,
+      "content": "K"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1560366235581,
+      "content": "Down"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1560366199738,
+      "content": "Is Reg up or down?"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1560364168610,
+      "content": "hey.. @Tiana Fusco.. love u!! keep up good fite!!!"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1560364103785,
+      "content": "Wednesday July 3rd at 5pm with Terri in her office on 3rd floor"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1560180902477,
+      "content": "He done"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1560168165109,
+      "content": "@Jarett Dunn dog at lunch please?"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1559584878304
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1558551365100,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1558551354943,
+      "content": "Home. Going to have a smoke. Feel free to come down"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1558550862051,
+      "content": "\u00e2\u0080\u0094*pissing"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1558550843525,
+      "content": "And if he\u00e2\u0080\u0099s allowed to keep pudding and shitting in the house he\u00e2\u0080\u0099ll never learn"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1558550811431,
+      "content": "Out"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1558550811090,
+      "content": "It"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1558550808646,
+      "content": "We're going or now"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1558550804991,
+      "content": "And he\u00e2\u0080\u0099s a baby. He doesn\u00e2\u0080\u0099t ask yet"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1558550793554,
+      "content": "Yes"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1558550789736,
+      "content": "It just is"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1558550783035,
+      "content": "It\u00e2\u0080\u0099s like I need to pee every time I get up."
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1558550770673,
+      "content": "Yes"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1558550762506,
+      "content": "Dude. He has to go out AS SOON AS you go in. Every time"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1558550739588,
+      "content": "He was at noon didn't think to now he didn't ask"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1558550727150,
+      "content": "Sorry t"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1558550715836,
+      "content": "And wasn\u00e2\u0080\u0099t he taken out to pee and poop when you went up?"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1558550714655,
+      "content": "Let him out when we went up there"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1558550686444,
+      "content": "Why was he by himself in my room?"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1558550662596,
+      "content": "We found it after awhile"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1558550652378,
+      "content": "He pooped in your bedroom"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1558550560897,
+      "content": "Ish. I think"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1558550543168,
+      "content": "???**"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1558550536796,
+      "content": "??!"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1558550534298,
+      "content": "And ok like 20 mins"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1558550532672,
+      "content": "K"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1558550527498,
+      "content": "We're upstairs"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1558550522351,
+      "content": "By 4"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1558550514287,
+      "content": "Early today"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1558550270702,
+      "content": "Hey what eta t"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1558546554355,
+      "content": "Called blood clinic and they can't tell me results"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1558546526104,
+      "content": "He's closed today"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1558546521632,
+      "content": "Hey... Can someone remind me to follow up with Dr Burrill tomorrow"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1552570897145,
+      "content": "Hey folks. Back between 4-5. Have a security clearance meeting at the jail at 5."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1552313528070,
+      "content": "welcome"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1552313515983,
+      "content": "My boyfriend (\u00e2\u0080\u009cMasterCard\u00e2\u0080\u009d) thanks you"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1552313394065,
+      "content": "Okie dokie"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1552313390431,
+      "content": "Lmao"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1552313339678,
+      "content": "Tiana: check email for 2 deposits"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1552313224145,
+      "content": "A contact named the group Mammoo & Mininoma."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1552313197888,
+      "content": "OK"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1552313157448,
+      "content": "Also, do t forget the smokes I picked up on Friday"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1552313132707,
+      "content": "Excellent"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1552312966464,
+      "content": "@Tiana is here mammoo"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1552312948282,
+      "content": "sending money."
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1552312948042,
+      "content": ":) :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1552312939877,
+      "content": "also 40.00 cash and 4 beer. 2 bags of bagels, greedy @Jarett Dunn"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1552312892507,
+      "content": "3x thank you"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1552312886091,
+      "content": "2x bagels"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1552312869556,
+      "content": "here I am....list:  3 jugs milk, hamburger, 2 tins of diced tomatoes, 1 large tin spaghetti sauce, small shell pasta, bagels, container of vanilla yogurt, frozen salmon, chicken fingers....thank you"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1552312555738,
+      "content": "K"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1552311494656,
+      "content": "working on it"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1552311491051,
+      "content": "ok"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1552311473350,
+      "content": "Can I get a grocery list today?  I leave in the morning until Thursday"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1551838615363,
+      "content": "So tomorrow is my first late Wednesday. I\u00e2\u0080\u0099ll be home around 630 or so"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1551786112893,
+      "content": "is today one of those days you need to be out early? I didn't get a wink of sleep"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1551786088225,
+      "content": "ok sounds good"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1551785295109,
+      "content": "Allison will be here between 4-5 for Reg and keep her upstairs"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1551784122225,
+      "content": "Hey. Super messed up week:\nTonight: Sydney \nWednesday: first late group night (630 ish home)\nThursday: clients/taxes (Jare upstairs)"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1531161044529,
+      "content": "I\u00e2\u0080\u0099m dropping it at mom\u00e2\u0080\u0099s on the way to Keely\u00e2\u0080\u0099s for dinner"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1531161031690,
+      "content": "(A good comp)"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1531161019646,
+      "content": "Paul has a comp for me but no way to get it to me"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1531161008824,
+      "content": "Can u drive Alma if you're doing favors or is that too far out"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1531161002526,
+      "content": "I\u00e2\u0080\u0099m happy for you"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1531160993382,
+      "content": "No worries!"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1531160991221,
+      "content": "went super well"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1531160987659,
+      "content": "Yup. Beer"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1531160987262,
+      "content": "Sorry was having an interview"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1531160978888,
+      "content": "Did mom get ahold of you?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1531153107636,
+      "content": "Hey!  Tried calling a bunch but it\u00e2\u0080\u0099s busy. Going to have supper with Keely and the girls after work. Message me if you guys need anything picked up"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1518990901242,
+      "content": "New Netflix password ReggieIsabe11a"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1512568775988,
+      "content": "Thanks man"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1512568509711,
+      "content": "yup can-do"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1512559491695,
+      "content": "Can someone feed autumn?  Her bag of food was in the car so she didn\u00e2\u0080\u0099t have breakfast"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1503495844610,
+      "content": "Jare appt dr natarajan august 28 at 3 pm"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1500577982481,
+      "content": "thanks!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1500555891028,
+      "content": "EKG July 24 815-central registry"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1463941331670,
+      "content": "You sent an attachment."
+    }
+  ],
+  "title": "Mammoo & Mininoma",
+  "is_still_participant": true,
+  "thread_path": "inbox/mammoomininoma_976394772481076",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

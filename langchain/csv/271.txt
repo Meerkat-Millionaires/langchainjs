@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Timiner Fmin"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Timiner Fmin",
+      "timestamp_ms": 1598359723794,
+      "content": "Hi Ms Dunn, this is TiMiner.com which is an online platform for listings and booking. We would like to invite you to visit our website and post your music lesson or performance listing to share your expertise with more customers. Wish to see you there soon!",
+      "share": {
+        "link": "https://timiner.com/",
+        "share_text": "Listing free - Post your skills or expertise with schedule and location information here, exposure your service to more customers."
+      }
+    }
+  ],
+  "title": "Timiner Fmin",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/timinerfmin_1602901483216805",
+  "magic_words": [
+    
+  ]
+}

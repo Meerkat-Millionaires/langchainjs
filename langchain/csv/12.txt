@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Heather Lynne"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1573321504428,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/KneeCurve/posts/pfbid02gdWVS69TecTKPGDDpW1ZNrM2tNo9W75S9iSgqVgGHqNoscM3oLhMBFTpcKSurANml"
+      }
+    },
+    {
+      "sender_name": "Heather Lynne",
+      "timestamp_ms": 1474057319641,
+      "content": "Hi Stranger! Thrilled you want to be in the book exchange! \u00f0\u009f\u0099\u0082 Here's how...\nHere's how: Copy my status and post it to yours. Then you have to send a book to Linda Shaffelburg 1764 Kidston Ave, PO Box 446, Port Williams , NS B0P 1T0 . The book may be used or new . The people who like your status,  you give them my address and the same instructions. And then you put your address where mine is now, and the chain continues.That way I get from people who like your status , a book. And then you give them your address on, so you will have books. \n\nMy address is Heather Rushton, 456 Parkland Drive Unit 205. Halifax NS B3S 1P8. \nThanks! Hope you are well- think of you often and hope to see you next time I am up!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1449858995592,
+      "sticker": {
+        "uri": "messages/stickers_used/64423177_1420705174739215_2731305695075893248_n_324210694388674.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1449858829795,
+      "sticker": {
+        "uri": "messages/stickers_used/64423177_1420705174739215_2731305695075893248_n_324210694388674.png"
+      },
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1449858820001,
+      "content": "Would be great...keep safe."
+    },
+    {
+      "sender_name": "Heather Lynne",
+      "timestamp_ms": 1449858716868,
+      "content": "Merry Christmas to you!!! Hope to see you perhaps as I'll be in New Glasgow around the holidays!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1449675413537,
+      "content": "Beautiful Heather !!!!!!!!! Merry Christmas etc."
+    }
+  ],
+  "title": "Heather Lynne",
+  "is_still_participant": true,
+  "thread_path": "inbox/heatherlynne_509228925917405",
+  "magic_words": [
+    
+  ]
+}

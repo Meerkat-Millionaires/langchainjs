@@ -1,0 +1,102 @@
+{
+  "participants": [
+    {
+      "name": "Jane Roach-Delaney"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1614107453918,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid0qXdtbtHQieVcpu2bCAeMCZ69oCJbBEmpXxB5N9eGBdr4VdB1Wa5PPzCx5CftU9Xhl&id=393663227901061"
+      }
+    },
+    {
+      "sender_name": "Jane Roach-Delaney",
+      "timestamp_ms": 1480885088508,
+      "content": "It was a very scary situation, all turned out for the best though, so very thankful."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1480884871550,
+      "content": "So very, very glad that the med crisis with your grandchild turned out just fine....scary and has happened to so many of us!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1440807723823,
+      "videos": [
+        {
+          "uri": "messages/inbox/janeroachdelaney_10153154413912887/videos/11968036_10156036260580078_1003625803_n_469012716605693",
+          "creation_timestamp": 1440807722
+        }
+      ],
+      "ip": "24.89.222.200"
+    },
+    {
+      "sender_name": "Jane Roach-Delaney",
+      "timestamp_ms": 1429133813779,
+      "content": "Hi Lesley....have this bad chest infection that just won't leave.  This is th3 third one this winter.  Can't wait for summer.  Think of you often,  funny lady!!"
+    },
+    {
+      "sender_name": "Jane Roach-Delaney",
+      "timestamp_ms": 1407714961485,
+      "content": "I will likely be moved by 22 Aug. or 23. Also have family home from Seattle with more coming Tuesday. How Mom and baby are doing well, say hello from me. :)"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1407713719081,
+      "content": "Miss you too.....is the move imminent?  Yes, packing is the pits!!"
+    },
+    {
+      "sender_name": "Jane Roach-Delaney",
+      "timestamp_ms": 1407687106875,
+      "content": "It was me,  just thought I'd touch base with you,  seems the summer is going way to fast!! I'm in the process of packing,  terrible job.  Just think of you and all the laughs we had last winter,  your a card Ms. Lesley.  Miss u"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1407685143303,
+      "content": "Hi ya!!!  I was told by Jarett that \"Jane\" dropped by while I was snoozing. I cannot think that it was anyone but you!!   Hope you are well.....let me know if this was you."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1404746254457,
+      "content": "Hope all is well with you and yours!! Good trip?"
+    },
+    {
+      "sender_name": "Jane Roach-Delaney",
+      "timestamp_ms": 1361833689955,
+      "content": "See you then."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1361803586114,
+      "content": "Amazing re the chording!!!!!\nWe certainly had trouble connecting this weekend (I was away Sunday)....will call again today, but if no luck, will see you tomorrow night anyway."
+    },
+    {
+      "sender_name": "Jane Roach-Delaney",
+      "timestamp_ms": 1361349324497,
+      "content": "The site I was telling you about is on you tube, called PGN Piano. Check it out.  See you Tuesday.  J\n\n"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1360423781620,
+      "content": "Hi Jane.....good to hear from you. Yes, I certainly do take adult students.  Are you inquiring about piano or vocal? I am located at 59 Mackay St (NG) and my phone is 755-6759. I teach both one hour or  half hour sessions per week. The cost is 15.00 for a half hour and 29.00 for an hour. Fees are payable on the first lesson of the month for the entire month with credits given on the first lesson of the next month if I have to cancel.....rescheduling is a possibility if you can't make a lesson.  How far did you reach when you did take lessons and (if piano) what program were you using (if you can recall)? My email is      lesleydunn@live.com\n     \nHoping to hear from you and thanks for your interest.\n\n(Sorry about the delay in  responding...internet problems)\n"
+    },
+    {
+      "sender_name": "Jane Roach-Delaney",
+      "timestamp_ms": 1360235676595,
+      "content": "I am wondering if you take adult students? When I was a young girl I took lessons,  would love to get started again.  If you are interested please call me or send a facebook message,  which ever is best for you.  485 6450/7546450 (c)"
+    }
+  ],
+  "title": "Jane Roach-Delaney",
+  "is_still_participant": true,
+  "thread_path": "inbox/janeroachdelaney_10153154413912887",
+  "magic_words": [
+    
+  ]
+}

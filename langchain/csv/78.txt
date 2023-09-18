@@ -1,0 +1,83 @@
+{
+  "participants": [
+    {
+      "name": "Shannon Hallett"
+    },
+    {
+      "name": "Jillian Grant"
+    },
+    {
+      "name": "Allison Hallett"
+    },
+    {
+      "name": "Sally Pettipas"
+    },
+    {
+      "name": "Lorrie Durling-Horne"
+    },
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Pamela Pettipas"
+    },
+    {
+      "name": "Heather Lingley"
+    },
+    {
+      "name": "Joe Olson"
+    },
+    {
+      "name": "Shelby Richardson"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nicolette Pettipas",
+      "timestamp_ms": 1468273154158,
+      "content": "Nicolette Pettipas left the group."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1468273067289,
+      "content": "A contact left the group."
+    },
+    {
+      "sender_name": "Jodi Heighton",
+      "timestamp_ms": 1468272340523,
+      "content": "Jodi Heighton left the group."
+    },
+    {
+      "sender_name": "Chelsea Benj",
+      "timestamp_ms": 1468272332711,
+      "content": "Chelsea Benj left the group."
+    },
+    {
+      "sender_name": "Angela Smeltzer",
+      "timestamp_ms": 1468271934141,
+      "content": "Angela Smeltzer left the group."
+    },
+    {
+      "sender_name": "Allison Hallett",
+      "timestamp_ms": 1468271921592,
+      "content": "Allison sent a link.",
+      "share": {
+        "link": "http://www.markersin.com/?Ra4zdT1",
+        "share_text": "Hurry up! Only 825 sets available! Claim one now!"
+      }
+    }
+  ],
+  "title": "Shannon, Jillian, Allison and 7 others",
+  "is_still_participant": true,
+  "thread_path": "inbox/shannonjillianallisonand7others_1112264428845696",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

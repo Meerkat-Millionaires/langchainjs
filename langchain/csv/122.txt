@@ -1,0 +1,365 @@
+{
+  "participants": [
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Lesley Dunn"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564930904375,
+      "content": "A contact left the group."
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564923687122,
+      "content": "Go reggie!!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1564923653921,
+      "videos": [
+        {
+          "uri": "messages/inbox/tianaand_2140935716018663/videos/68884692_2864936113580787_8403181624222070894_n_2091925994253188.mp4",
+          "creation_timestamp": 1564923645
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": ""
+        }
+      ]
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564826628513,
+      "content": "The doc this am gave me a script for two antibiotics because I was thinking ahead and recommended I try Dal dentistry"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564826455651,
+      "content": "On my way home"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1564791626252,
+      "content": "Ok. Well I hope you get some sleep"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564790298845,
+      "content": "Shot was saline"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564790284870,
+      "content": "Also I thought we were 9am this whole time was looking forward to breakfast"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564790259922,
+      "content": "Newp smoking privileges revoked even with form signed"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564789965818,
+      "content": "They say they want to monitor me awhile. Nurse just gave me iv shot of some unknown substance"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564789965629,
+      "content": "Have to sign a liability form"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564789965424,
+      "content": "On my own"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564789964962,
+      "content": "They're letting me out for smokes now"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1564782587364,
+      "content": "How are things going?  Any word?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1564763019142,
+      "content": "Lol. Sounds great"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564761853188,
+      "content": ":)"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564761794921,
+      "content": "We will do a talent show and karaoke"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564761785073,
+      "content": "I'm free until 530 tomorrow and free after 10pm tomorrow. I am off Sunday. I'll be available to sit with Reggie any of those times T"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564755849722,
+      "content": "Love you"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1564755593412,
+      "content": "love you both.....I still care deeply, but I am old and somewhat ill, unable to take the knocks. Keep me posted."
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564755475794,
+      "content": "Thank u"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1564755461692,
+      "content": "well,obviously you come home for now but serious talks are in the near future, after you have settled and recovered,"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564755371666,
+      "content": "= idk"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564755359744,
+      "content": "I don't know"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1564755353508,
+      "content": "Idk ???"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564755333683,
+      "content": "Idk breathing is priority concern"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1564755312233,
+      "content": "So you are still looking at moving in Sept?"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564755290422,
+      "content": "Sept was goal"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564755277222,
+      "content": "Need a laptop before I can make money and no laptop til check comes in mail"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1564755260090,
+      "content": "So, it's a bit of a mess then?"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564755237570,
+      "content": "Yes"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1564755216296,
+      "content": "Jare: I am gob-smacked about this...settling down now, but do you reememberf that you agreed that if you used drugs in an abusive manner that you could not stay here. Do you remember?"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564755120101,
+      "content": "There wasn't anything really wrong they can't know more til pee and blood come back. Probably anxiety from the situation feeding panic"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1564755094139,
+      "content": "Mom holding the meds monthly would be a decent solution. Not like she doesn\u00e2\u0080\u0099t already have to sort hers out daily \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1564755005808,
+      "content": "do you mean until a doctor OK/s it?  Or is there stilll something wrong?"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564754919868,
+      "content": "Here till I pass medical"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1564754915249,
+      "content": "hi"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1564754911497,
+      "content": "is there a real possibility of this \\\\/"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564754907818,
+      "content": "Hi momma"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564754893417,
+      "content": "I mean psych floor"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564754884252,
+      "content": "He is wanting to go to antigonish psych hospital"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1564754795118,
+      "content": "And you  will have enough walking to do"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1564754688500,
+      "content": "Is he staying in for the night?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1564754647662,
+      "content": "and she haas enough on her shoulders..."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1564754620458,
+      "content": "Tiana isn''t always home every day"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1564754534006,
+      "content": "not too realisic about someone picking them up each day?  Is it possible for me to hold them?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1564754521982,
+      "content": "Then it wouldn\u00e2\u0080\u0099t require walking daily but he wouldn\u00e2\u0080\u0099t be able to abuse them"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1564754484566,
+      "content": "There is also the possibility of someone giving them to him daily and holding them in between."
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564754440097,
+      "content": "To get them"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564754436760,
+      "content": "I will walk each day"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564754425159,
+      "content": "Gonna need to get medication per day instead of per month. I think that's the problem"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564754405346,
+      "content": "Jares okay"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1564753179300,
+      "content": "I sent you info on y our other message thing."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1564752945199,
+      "content": "When did he go to hospital and why?"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564752338492,
+      "content": "Anytime."
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564752335145,
+      "content": "I can baby sit for reggie if she doesnt mind"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1564752323700,
+      "content": "Tiana jare is in hospital"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1564752259620,
+      "content": "Ok so, because of the crisis stuff going on in both communities, I will be working all weekend. Plus I have to go to the jail. I will be able to take Reg to work with me but need to arrange the jail for either early ish morning on sat or sun, or evening Saturday. Any preferences for when?"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1563542587915,
+      "content": "Sadly it reminds me of my sis. Go-go-go used to be admirable but repressing stuff must be dangerous"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1563542543948,
+      "content": "Yrs absolutely I identify with this"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1563542521703,
+      "content": "Is this true T? What do you guys think"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1563542502985
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1563452945845,
+      "content": "I love <3 u"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1563452267794,
+      "content": "I have secured the laptop! Be back soon!"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1563451895798,
+      "content": "(new group chat cuz Mel is a regular villain here now :) )"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1563451879828,
+      "content": "next injection and new nurse:\n\nSandra will be taking Brenda\u00e2\u0080\u0099s position and will be your new nurse. For your next injection, she would like to offer you an appointment on Tuesday, July 30th at 1:30pm, here, at the clinic."
+    }
+  ],
+  "title": "Tiana and ",
+  "is_still_participant": true,
+  "thread_path": "inbox/tianaand_2140935716018663",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

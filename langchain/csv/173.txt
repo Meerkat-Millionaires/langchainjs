@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Animal Cruelty in Pictou County Nova Scotia"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1576090817596,
+      "content": "I want to confirm that the request for financial support re the rescue of puppies and adults from a puppy mill posted today on my facebook page is legitimate. Thanks you."
+    }
+  ],
+  "title": "Animal Cruelty in Pictou County Nova Scotia",
+  "is_still_participant": true,
+  "thread_path": "inbox/animalcrueltyinpictoucountynovascotia_1376255845881371",
+  "magic_words": [
+    
+  ]
+}

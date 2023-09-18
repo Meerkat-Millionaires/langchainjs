@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1576949074232,
+      "content": "well, shoot....nice try anyhow....maybe next year!! Have a Merry."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1576948457719,
+      "content": "Lesley I apologize but when I didn\u00e2\u0080\u0099t hear back from you I put it back out on the floor and the last one sold this morning!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1576938621960,
+      "content": "yes, I am still interested..sorry about the delay here. Could someone drop it off in New Glasgow (housebound) and I can pay by cheque or etransfer."
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1576859339744,
+      "content": "Lesley, \nAre you still interested in the crib board?\nPlease let me know... one way or the other"
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1576859339385
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "inbox/facebookuser_1385079391665683",
+  "magic_words": [
+    
+  ]
+}

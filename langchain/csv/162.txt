@@ -1,0 +1,134 @@
+{
+  "participants": [
+    {
+      "name": "Jillian Boone"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1627653190109,
+      "content": "I think I'll say no thanks since I don't trust my own judgement at the moment...thanks anyway"
+    },
+    {
+      "sender_name": "Jillian Boone",
+      "timestamp_ms": 1627653142667,
+      "content": "Because the program will soon be closed and I want you to benefit from it also"
+    },
+    {
+      "sender_name": "Jillian Boone",
+      "timestamp_ms": 1627653067128,
+      "content": "Okay Just message him so we can include your name"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1627652966298,
+      "content": "I'm not ready to do this at the mment...getting all my morning stuff done in order to take on the rest of the day....Stage 4 COPD and other ailments....later though"
+    },
+    {
+      "sender_name": "Jillian Boone",
+      "timestamp_ms": 1627652896585,
+      "content": "Any progress yet with the agent now ?"
+    },
+    {
+      "sender_name": "Jillian Boone",
+      "timestamp_ms": 1627652357176,
+      "content": "Just send him direct message that you want to apply to for the grant support too."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1627652343380,
+      "content": "OK"
+    },
+    {
+      "sender_name": "Jillian Boone",
+      "timestamp_ms": 1627652325963,
+      "content": "Click on the link it will direct you to he page just send him a message that you would like to apply for the Grant offer"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1627652301868,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      }
+    },
+    {
+      "sender_name": "Jillian Boone",
+      "timestamp_ms": 1627652287568,
+      "content": "https://m.me/agentmarkjames20",
+      "share": {
+        "link": "https://m.me/agentmarkjames20",
+        "share_text": "https://m.me/agentmarkjames20"
+      }
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1627652216808,
+      "content": "no....would like to see more about this....thanks, Jillian"
+    },
+    {
+      "sender_name": "Jillian Boone",
+      "timestamp_ms": 1627651898263,
+      "content": "Have you heard about (Agent Mark James) before?"
+    },
+    {
+      "sender_name": "Jillian Boone",
+      "timestamp_ms": 1627651870856,
+      "content": "It is a special program for those who needs help paying bills ,buying home and even starting a business. I received 90 000 when i applied and you don't have to pay it back, you can also apply too"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1627651787217,
+      "content": "nope"
+    },
+    {
+      "sender_name": "Jillian Boone",
+      "timestamp_ms": 1627651775268,
+      "content": "I just wondering if you have heard about the health and government grant offer.?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1627651745763,
+      "content": "tell, tell.....!!!"
+    },
+    {
+      "sender_name": "Jillian Boone",
+      "timestamp_ms": 1627561099020,
+      "content": "Nice to hear from you... I'm also doing pretty good right here,i have an exciting news to share with you"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1627407920704,
+      "content": "well, blah..storm cancelled"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1627405251670,
+      "content": "You can now message and call each other and see info like Active Status and when you've read messages."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1627405251403,
+      "content": "it is a \"diamond\" day for my poor old body...lol . Hope you are enjoying as much of it as you can....Hail on its way.??"
+    },
+    {
+      "sender_name": "Jillian Boone",
+      "timestamp_ms": 1626942934632,
+      "content": "How are you doing today"
+    },
+    {
+      "sender_name": "Jillian Boone",
+      "timestamp_ms": 1626942931711,
+      "content": "Hello"
+    }
+  ],
+  "title": "Jillian Boone",
+  "is_still_participant": true,
+  "thread_path": "inbox/jillianboone_1868017066705244",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Heather Burns"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Heather Burns",
+      "timestamp_ms": 1561244074921,
+      "content": "Thank you"
+    },
+    {
+      "sender_name": "Heather Burns",
+      "timestamp_ms": 1561244068820,
+      "content": "Hi Lesley. \nI got your name from Shelley Jones. I have a 12 year old daughter and we were looking for voice lessons for her for next September. Would you be able to give me any information on possible availability and rates?"
+    }
+  ],
+  "title": "Heather Burns",
+  "is_still_participant": true,
+  "thread_path": "message_requests/heatherburns_10157293012005747",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

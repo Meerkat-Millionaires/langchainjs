@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Ana Maria Capotosto"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1572911232749,
+      "content": "I love you...hang in there!!!"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1556655603811,
+      "content": "Ana, I think of you often, very often....Tiana was quite late giving me your present and message after her last visit to Toronto...then I became sicker and less able to correspond and then, sicker again....certainly not as ill as you have been and \\i feel guilty and humble about not being in contact.  I hope that this message finds you in a better place and recovering from all you r personal trials and Nona's death.  Please contact me and let me know how everything is going. I am home again from the hospital and once more recouping from various physical problems. Love you and keep you in my thoughts."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1544975064669,
+      "content": "My heart is with you."
+    },
+    {
+      "sender_name": "Ana Maria Capotosto",
+      "timestamp_ms": 1541268538643,
+      "content": "You are now connected on Messenger"
+    }
+  ],
+  "title": "Ana Maria Capotosto",
+  "is_still_participant": true,
+  "thread_path": "inbox/anamariacapotosto_10214663698678781",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Peter MacKay"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1538938439080,
+      "content": "Thanks for the info!!!!"
+    },
+    {
+      "sender_name": "Peter MacKay",
+      "timestamp_ms": 1538933676977,
+      "content": "Hi....I actually got another friend request from you yesterday...which I ignored so you may want to check your account.    Hold your finger on the message until the forward button appears...then hit forward and all the people you want to forward too....I had to do the people individually.   Good Luck! PLEASE DO NOT ACCEPT A NEW ONE FROM ME AT THIS TIME."
+    },
+    {
+      "sender_name": "Peter MacKay",
+      "timestamp_ms": 1524186290989,
+      "content": "You can now message and call each other and see info like Active Status and when you've read messages."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1524147558616,
+      "content": "Peter, all my sympathy to you and family during this week. I will miss Chris very much. Such determination and love of life she showed."
+    }
+  ],
+  "title": "Peter MacKay",
+  "is_still_participant": true,
+  "thread_path": "inbox/petermackay_931216107052016",
+  "magic_words": [
+    
+  ]
+}

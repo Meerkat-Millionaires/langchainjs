@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Brandon Gammell"
+    },
+    {
+      "name": "Lesley Dunn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brandon Gammell",
+      "timestamp_ms": 1640717098370,
+      "content": "Haha sounds good"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1640716646145,
+      "content": "Brandon, would you ask Jare to contact me, please,,,,,thank you....Lesley (the mom)"
+    },
+    {
+      "sender_name": "Brandon Gammell",
+      "timestamp_ms": 1636290293922,
+      "content": "Hey I hope jare is okay. Haven't heard from him since yesterday afternoon.  I'm heading to work at 4pm so if he needs to get a hold of me if he finds his cell he'll know where I'll be at."
+    },
+    {
+      "sender_name": "Brandon Gammell",
+      "timestamp_ms": 1636211656841,
+      "content": "You can now message and call each other and see info like Active Status and when you've read messages."
+    },
+    {
+      "sender_name": "Brandon Gammell",
+      "timestamp_ms": 1636211656296,
+      "content": "Yeah sounds good. I assume this is jare! Let me know what's up man! I'm a phone call away"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1636210840858,
+      "content": "hey dude I'm gonna take off to the hospital today, shit's weird in my head. dunno where my phone is tho so I'll be in tcouh on hospital computer. if they take me that is"
+    }
+  ],
+  "title": "Brandon Gammell",
+  "is_still_participant": true,
+  "thread_path": "inbox/brandongammell_10226642578392301",
+  "magic_words": [
+    
+  ]
+}

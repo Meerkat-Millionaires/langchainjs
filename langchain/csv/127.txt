@@ -1,0 +1,180 @@
+{
+  "participants": [
+    {
+      "name": "Rex Dunn"
+    },
+    {
+      "name": "Tiana Fusco"
+    },
+    {
+      "name": "Peter Dunn"
+    },
+    {
+      "name": "Damion Fusco"
+    },
+    {
+      "name": "Lesley Dunn"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1569095071686,
+      "content": "Excellent. Phone call coming up."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1569090272124,
+      "content": "I now have and am wearing my alert button...feel much more secure/safe."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1568151786579,
+      "content": "If T works out how the payments are made, let me know. Possibly: I cover it for awhile ...and someone else can step up? Just an idea."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1568151670065,
+      "content": "I expect that the 'team' will take your advice."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1568151494955,
+      "content": "Mom will be wearing the device regardless and has never lost consciousness so I think the base model is fine"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1568151441283,
+      "content": "Both the 36 and 50 are monitored."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1568151425301,
+      "content": "I think the $36/mo will suit just fine."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1568151418181,
+      "content": "Oh. I see - so the $50 option is monitored?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1568151387884,
+      "content": "I\u00e2\u0080\u0099m not a huge fan of that option to be honest"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1568151371637,
+      "content": "It just calls the numbers listed on the contact list and then 911."
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1568151325551,
+      "is_unsent": true
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1568141115675,
+      "content": "And no fall option"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1568141095157,
+      "content": "It will call the identified numbers and then 911. No actual person contacts mom to check in"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1568141031408,
+      "content": "Nobody to monitor it."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1568141009583,
+      "content": "Not as good an option though"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1568140996176,
+      "content": "319."
+    },
+    {
+      "sender_name": "Damion Fusco",
+      "timestamp_ms": 1568139800713,
+      "content": "And how much just to buy it?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1568139612035,
+      "content": "36/push button 50/fall alert & push button per month"
+    },
+    {
+      "sender_name": "Peter Dunn",
+      "timestamp_ms": 1568129227113,
+      "content": "About the alert - either monthly fee or flat purchase seems fine - as long as the features are what is best. If you do the monthly, I offer to make the monthly payments.\nDefinitely the scroll-y bed ... if L likes it better."
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1568046782047,
+      "content": "going to order for around 4:30?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1568046632858,
+      "content": "ok now.  What time would you be able to pick up groceries?"
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1568046599303,
+      "content": "message not sending"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1568046532765,
+      "content": "And honestly, this is about increasing comfort, not decreasing!!"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1568046508233,
+      "content": "Noooooo. Big no, lol. You\u00e2\u0080\u0099ve slept way better with the ability to have incline.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Lesley Dunn"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lesley Dunn",
+      "timestamp_ms": 1568046239813,
+      "content": "I can always go back to my spool bed or  another single or whatever....not a problem."
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1567965589016,
+      "content": "Also, the hospital bed mom is using was lent to me by a community member and I\u00e2\u0080\u0099m changing positions. I\u00e2\u0080\u0099m going to contact her to see if she would be willing to either sell me the bed or rent it to me with a monthly fee"
+    },
+    {
+      "sender_name": "",
+      "timestamp_ms": 1567965509236,
+      "content": "Sure, if they'r'e around the same feature-wise it might be best to do the flat option. \n\nAre there some bonuses to the subscription, like a dedicated pre-emergency line maybe?"
+    },
+    {
+      "sender_name": "Tiana Fusco",
+      "timestamp_ms": 1567965439377,
+      "content": "Hey everyone. Wanted to get some feedback. There are two main options for the alert buttons. One which can be purchased flat out with no monthly fees after (I think it was around $300) or getting one that is paid for monthly ($30-40 a month). I\u00e2\u0080\u0099m going to look more closely at the features of both kinds and make sure either option would suit us."
+    }
+  ],
+  "title": "Rex, Tiana, Peter and 2 others",
+  "is_still_participant": true,
+  "thread_path": "inbox/rextianapeterand2others_2391672364249746",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}
