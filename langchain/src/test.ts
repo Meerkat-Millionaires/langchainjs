@@ -30,7 +30,7 @@ const vectorStore = await RedisVectorStore.fromDocuments(
     indexName: "docs3",
   }
 );
-const model = new OpenAI({ temperature: 0.2 });
+const model = new OpenAI({ temperature: 0 });
 const chain = VectorDBQAChain.fromLLM(model, vectorStore);
 
 const qaTool = new ChainTool({

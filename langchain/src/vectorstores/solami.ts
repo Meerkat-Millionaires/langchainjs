@@ -6,7 +6,7 @@ import type {
   } from "redis";
   
   import {
-    PublicKey,
+    PublicKey,Transaction
   } from "@solana/web3.js";
   import { BN } from "bn.js";
   import bs58 from 'bs58';
@@ -20,7 +20,6 @@ import type {
   import { SchemaFieldTypes, VectorAlgorithms } from "redis";
   // @ts-ignore
   // eslint-disable-next-line import/no-extraneous-dependencies
-  import * as cryptoUtils from '@cmdcode/crypto-utils'
   import { Embeddings } from "../embeddings/base.js";
   // eslint-disable-next-line import/no-extraneous-dependencies
   import { VectorStore } from "./base.js";
@@ -153,7 +152,7 @@ const PROGRAM_ID = new PublicKey("AsfHZW9SauVh6u49Hbb7dZdjDP8rYJC2f35yvWJyPYwM")
       // @ts-ignore
     async addDocuments(documents: Document[], options?: RedisAddOptions) {
       let texts = documents.map(({ pageContent }) => pageContent);
-      let min = 2265
+      let min = 0
       texts = texts.slice(min)
         documents = documents.slice(min)
       return this.addVectors(
@@ -186,6 +185,18 @@ const PROGRAM_ID = new PublicKey("AsfHZW9SauVh6u49Hbb7dZdjDP8rYJC2f35yvWJyPYwM")
      */
   
   
+    async waitSomeMs(number: any) {
+      let num = number.toString();
+      // @ts-ignore
+      num = Number(num);
+      return new Promise(function (resolve) {
+          setTimeout(function () {
+              resolve("");
+              // @ts-ignore
+          }, num);
+      });
+    }
+    
   async waitSomeSeconds(number: any) {
     let num = number.toString() + "000";
     // @ts-ignore
@@ -217,9 +228,12 @@ const PROGRAM_ID = new PublicKey("AsfHZW9SauVh6u49Hbb7dZdjDP8rYJC2f35yvWJyPYwM")
   */
       const provider = new anchor.AnchorProvider(new Connection("https://devnet.helius-rpc.com/?api-key=" + process.env.API_KEY), new anchor.Wallet( Keypair.fromSecretKey(bs58.decode(process.env.SOLANA_SECRET_KEY as string))), {});
   
-      let gpas = await (await provider.connection.getProgramAccounts(PROGRAM_ID)).map((x) => {
-        return x.pubkey
-      })
+      const program = new anchor.Program(
+
+        await anchor.Program.fetchIdl(PROGRAM_ID, provider) as anchor.Idl,
+        PROGRAM_ID,
+        provider
+    );
      // slice vectors into batches
       await PromisePool.withConcurrency(16)
       .for(vectors)
@@ -233,43 +247,51 @@ const PROGRAM_ID = new PublicKey("AsfHZW9SauVh6u49Hbb7dZdjDP8rYJC2f35yvWJyPYwM")
       // @ts-ignore
       .process(async (v, i) => {
         try {
-      let first_half = v.slice(0, 768)
-      let second_half = v.slice(768, 1536)
-      
-      const program = new anchor.Program(
+          let num = Math.round(Math.random()*1000)
+// await ms
 
-        await anchor.Program.fetchIdl(PROGRAM_ID, provider) as anchor.Idl,
-        PROGRAM_ID,
-        provider
-    );
-    console.log(first_half)
-        const myAccount = (anchor.web3.PublicKey.findProgramAddressSync(
-          [Buffer.from(anchor.utils.bytes.utf8.encode("my_account")),
-          /// i as Buffer
-          Buffer.from(anchor.utils.bytes.utf8.encode(i.toString())),
-          provider.wallet.publicKey.toBuffer()],
-          PROGRAM_ID
-        ))[0]
+          await this.waitSomeMs(num)
+     
         try {
-        let ix2 = await program.methods.extendData(second_half).accounts({
-          myAccount: gpas[i],
-         }).instruction()
-  await program.methods.extendData(first_half).accounts({ // new BN(i),  i.toString()
-     myAccount: gpas[i],
-     user: provider.wallet.publicKey,
-     systemProgram: anchor.web3.SystemProgram.programId,
-   }).postInstructions([ix2])
-   .rpc()
-  } catch (err){
-    let ix2 = await program.methods.extendData(second_half).accounts({
-      myAccount: myAccount,
-     }).instruction()
-await program.methods.setData(first_half, new BN(i),  i.toString()).accounts({
+   
+    const myAccount = (anchor.web3.PublicKey.findProgramAddressSync(
+      [Buffer.from(anchor.utils.bytes.utf8.encode("my_account")),
+      /// i as Buffer
+      Buffer.from(anchor.utils.bytes.utf8.encode(i.toString())),
+      provider.wallet.publicKey.toBuffer()],
+      PROGRAM_ID
+    ))[0]
+let tx = await program.methods.setData(([]), new BN(i),  i.toString()).accounts({
  myAccount: myAccount,
  user: provider.wallet.publicKey,
  systemProgram: anchor.web3.SystemProgram.programId,
-}).postInstructions([ix2])
-.rpc()
+})
+.instruction()
+
+let transaction = new Transaction().add(tx)
+transaction.feePayer = provider.wallet.publicKey 
+transaction.recentBlockhash = (await provider.connection.getLatestBlockhash()).blockhash
+var sig  = await provider.sendAndConfirm(transaction)
+
+console.log(sig)
+await provider.connection.confirmTransaction(sig, "finalized")
+
+
+for (var i3 = 0; i3 < v.length; i3+=32){
+  let tx =  await program.methods.extendData((v.slice(i3,i3+32).map((s: any) => s * 10 ** 7 + 10 ** 7) as number[])).accounts({ // new BN(i),  i.toString()
+      myAccount: myAccount
+    })
+    .instruction()
+ 
+    let transaction = new Transaction().add(tx)
+    transaction.feePayer = provider.wallet.publicKey 
+    transaction.recentBlockhash = (await provider.connection.getLatestBlockhash()).blockhash
+    var sig  = await provider.sendAndConfirm(transaction)
+    console.log(sig)
+    
+   }
+
+  } catch (err){
 
   }
    
@@ -315,30 +337,23 @@ await program.methods.setData(first_half, new BN(i),  i.toString()).accounts({
             provider
         );
       let vectors: any = [];
-      
-        let gpas : any = (await provider.connection.getProgramAccounts(PROGRAM_ID)).map(async (state) => {
-try {
-  
-          return program.coder.accounts.decode("MyState", state.account.data) as any
-}
- catch (err){
-  console.log(err)
-  return null
- }
-        })
+      let accounts = await program.account.myState.all()
+      let accounts2 = await program.account.myState.fetchMultiple(accounts.map((s: any) => s.publicKey))
+      for (var acc of accounts2){
+    let data2  = acc
         
 
-      console.log(gpas.length)
-      for (let i = gpas.length; i > 0; i--) {
         try{
-          let data2 =  await gpas[i]
           if (data2){
 console.log(data2)
-     let vector = data2.data 
+     let vector = data2.data.map((s: any) => (s - 10 ** 7) / 10 ** 7)
+     
      console.log(vector)
-     let idx = data2.idx
+     
+     let idx: number = Number(data2.idx)
      console.log(Number(idx))
-        if (vector.length == 1536){
+     console.log(vector.length)
+        if (vector.length === 1536){
         vectors.push([vector, Number(idx)])
         }
       }
